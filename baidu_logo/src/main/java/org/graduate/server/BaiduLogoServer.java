@@ -1,9 +1,15 @@
 package org.graduate.server;
 
+import lombok.Data;
 import okhttp3.*;
 import org.json.JSONObject;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.context.annotation.ComponentScan;
+import org.springframework.context.annotation.Configuration;
 import org.springframework.core.io.Resource;
 import org.springframework.core.io.ResourceLoader;
+import org.springframework.stereotype.Component;
 
 import java.util.concurrent.TimeUnit;
 
@@ -25,13 +31,19 @@ import java.net.URLEncoder;
  * </dependency>
  */
 
+@Configuration
+@Data
 public class BaiduLogoServer{
-    public static final String API_KEY = "p824bbFqXp4pEKTAPap3bIt4";
-    public static final String SECRET_KEY = "ftsDDIdhAzVPGC63yWuN6iWZh5ktXqOV";
+    @Value("${baidu.logo.appkey}")
+    public String appkey;
+
+    @Value("${baidu.logo..secret_key}")
+    public String secret_key;
 
     public static final OkHttpClient HTTP_CLIENT = new OkHttpClient().newBuilder().readTimeout(300, TimeUnit.SECONDS).build();
 
-    public void logo(String filePath) throws IOException {
+    public String getLogoOwner(String filePath) throws IOException {
+        System.out.println("getLogoOwner");
         MediaType mediaType = MediaType.parse("application/x-www-form-urlencoded");
         // image 可以通过 getFileContentAsBase64("C:\fakepath\pic3.png") 方法获取,如果Content-Type是application/x-www-form-urlencoded时,第二个参数传true
         // 尝试直接作为文件路径
@@ -46,8 +58,7 @@ public class BaiduLogoServer{
                 .addHeader("Accept", "application/json")
                 .build();
         Response response = HTTP_CLIENT.newCall(request).execute();
-        System.out.println(response.body().string());
-
+        return  response.body().string();
     }
 
     /**
@@ -76,8 +87,8 @@ public class BaiduLogoServer{
      */
     private String getAccessToken() throws IOException {
         MediaType mediaType = MediaType.parse("application/x-www-form-urlencoded");
-        RequestBody body = RequestBody.create(mediaType, "grant_type=client_credentials&client_id=" + API_KEY
-                + "&client_secret=" + SECRET_KEY);
+        RequestBody body = RequestBody.create(mediaType, "grant_type=client_credentials&client_id=" + appkey
+                + "&client_secret=" + secret_key);
         Request request = new Request.Builder()
                 .url("https://aip.baidubce.com/oauth/2.0/token")
                 .method("POST", body)

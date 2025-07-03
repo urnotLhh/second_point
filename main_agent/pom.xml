@@ -12,6 +12,14 @@
     <groupId>org.graduate</groupId>
     <artifactId>main_agent</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>org.graduate</groupId>
+            <artifactId>baidu_logo</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
+
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
         <maven.compiler.target>21</maven.compiler.target>
