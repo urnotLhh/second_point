@@ -2,6 +2,7 @@ package org.graduate.server;
 
 import lombok.Data;
 import okhttp3.*;
+import org.graduate.configuration.BaiduLogoConfiguration;
 import org.json.JSONObject;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
@@ -31,14 +32,14 @@ import java.net.URLEncoder;
  * </dependency>
  */
 
-@Configuration
+@Component
 @Data
 public class BaiduLogoServer{
-    @Value("${baidu.logo.appkey}")
-    public String appkey;
+    private BaiduLogoConfiguration baiduLogoConfiguration = new BaiduLogoConfiguration();
 
-    @Value("${baidu.logo..secret_key}")
-    public String secret_key;
+    public String appkey = baiduLogoConfiguration.getAppkey();
+
+    public String secret_key =  baiduLogoConfiguration.getSecret_key();
 
     public static final OkHttpClient HTTP_CLIENT = new OkHttpClient().newBuilder().readTimeout(300, TimeUnit.SECONDS).build();
 
