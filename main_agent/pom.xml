@@ -22,6 +22,10 @@
             <groupId>org.graduate</groupId>
             <artifactId>baidu_RAG_Agent</artifactId>
             <version>1.0-SNAPSHOT</version>
+            <scope>compile</scope>
+            <optional>false</optional>
+            <!-- 确保包含所有传递依赖 -->
+            <type>jar</type>
         </dependency>
     </dependencies>
 

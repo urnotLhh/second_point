@@ -9,15 +9,15 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
+        <module>common</module>
         <module>cuckoo_filter</module>
         <module>baidu_logo</module>
         <module>baidu_ocr</module>
         <module>baidu_rag</module>
+        <module>baidu_RAG_Agent</module>
         <module>local_picture</module>
         <module>local_text</module>
         <module>main_agent</module>
-        <module>common</module>
-        <module>baidu_RAG_Agent</module>
     </modules>
 
     <parent>
