@@ -1,0 +1,20 @@
+{
+  "41.223.65.180": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://41.223.65.180:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://41.223.65.180:443",
+      "success": false
+    }
+  }
+}

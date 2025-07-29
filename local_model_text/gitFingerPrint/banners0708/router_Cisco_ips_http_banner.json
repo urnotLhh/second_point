@@ -1,0 +1,3016 @@
+{
+  "97.68.32.222": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://97.68.32.222:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='97.68.32.222', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://97.68.32.222:443",
+      "success": false
+    }
+  },
+  "38.60.221.224": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://38.60.221.224:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='38.60.221.224', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://38.60.221.224:443",
+      "success": false
+    }
+  },
+  "139.162.189.251": {
+    "port_80": {
+      "status_code": 301,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "169",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 04:54:49 GMT",
+        "Location": "https://139.162.189.251/",
+        "Server": "nginx/1.24.0"
+      },
+      "content": "<html>\r\n<head><title>301 Moved Permanently</title></head>\r\n<body>\r\n<center><h1>301 Moved Permanently</h1></center>\r\n<hr><center>nginx/1.24.0</center>\r\n</body>\r\n</html>\r\n",
+      "url": "http://139.162.189.251:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Server": "nginx/1.24.0",
+        "Date": "Sat, 12 Jul 2025 04:54:51 GMT",
+        "Content-Type": "text/html",
+        "Transfer-Encoding": "chunked",
+        "Connection": "close",
+        "Last-Modified": "Fri, 04 Apr 2025 16:06:29 GMT",
+        "ETag": "W/\"1dba57b8648e4c4\"",
+        "Request-Context": "appId=cid-v1:3824c8d2-c2c0-4999-b886-8fd527feb0b0",
+        "Content-Encoding": "gzip"
+      },
+      "content": "<!DOCTYPE html>\n<html lang=\"en-US\">\n   <head>\n      <meta charset=\"utf-8\">\n      <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n      <meta name=\"mobile-web-app-capable\" content=\"yes\">\n      <meta name=\"apple-mobile-web-app-capable\" content=\"yes\">\n      <link href=\"/css/app.css\" rel=\"stylesheet\">\n      <link href=\"/css/app2.css\" rel=\"stylesheet\">\n      <link rel=\"icon\" href=\"favicon.ico\" type=\"image/x-icon\" sizes=\"any\">\n      <link rel=\"icon\" href=\"favicon.svg\" type=\"image/svg+xml\">\n      <link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"favicon.png\">\n      <link rel=\"icon\" type=\"image/png\" sizes=\"32x32\" href=\"favicon.png\">\n      <link rel=\"icon\" type=\"image/png\" sizes=\"16x16\" href=\"favicon.png\">\n      <meta name=\"theme-color\" content=\"#fffffe\"/>\n      <link rel=\"preload\" as=\"font\" href=\"/fonts/Inter/Regular.woff2\" crossorigin=\"anonymous\" type=\"font/woff2\">\n      <link rel=\"preload\" as=\"font\" href=\"/fonts/Inter/Medium.woff2\" crossorigin=\"anonymous\" type=\"font/woff2\">\n      <link rel=\"preload\" as=\"font\" href=\"/fonts/Inter/SemiBold.woff2\" crossorigin=\"anonymous\" type=\"font/woff2\">\n      <link rel=\"preload\" as=\"font\" href=\"/fonts/Inter/Bold.woff2\" crossorigin=\"anonymous\" type=\"font/woff2\">\n      <title>Best Daily Fantasy Sports Apps in 2025</title>\n      <meta name=\"description\" content=\"Explore the best daily fantasy sports platforms in 2025. Compare options and find the one that best suits your playing style. Perfect for sports enthusiasts.\">\n      <meta property=\"og:type\" content=\"article\"/>\n      <meta property=\"og:title\" content=\"Best Daily Fantasy Sports Apps in 2025\"/>\n      <meta property=\"og:description\" content=\"Explore the best daily fantasy sports platforms in 2025. Compare options and find the one that best suits your playing style. Perfect for sports enthusiasts.\"/>\n      <meta property=\"og:site_name\" content=\"AllStarFantasySports\"/>\n   </head>\n   <body data-type=\"article\" class=\"relative\">\n      <div id=\"menu\" class=\"w-100 bg-white",
+      "url": "https://139.162.189.251:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "120.28.58.110": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://120.28.58.110:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='120.28.58.110', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://120.28.58.110:443",
+      "success": false
+    }
+  },
+  "124.74.146.174": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://124.74.146.174:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "读取超时",
+      "url": "https://124.74.146.174:443",
+      "success": false
+    }
+  },
+  "196.13.223.241": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://196.13.223.241:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='196.13.223.241', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://196.13.223.241:443",
+      "success": false
+    }
+  },
+  "139.162.71.27": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://139.162.71.27:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "读取超时",
+      "url": "https://139.162.71.27:443",
+      "success": false
+    }
+  },
+  "154.205.152.96": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://154.205.152.96:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "读取超时",
+      "url": "https://154.205.152.96:443",
+      "success": false
+    }
+  },
+  "144.126.241.218": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://144.126.241.218:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='144.126.241.218', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1028)')))",
+      "url": "https://144.126.241.218:443",
+      "success": false
+    }
+  },
+  "38.60.252.38": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://38.60.252.38:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='38.60.252.38', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://38.60.252.38:443",
+      "success": false
+    }
+  },
+  "190.171.129.158": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://190.171.129.158:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='190.171.129.158', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://190.171.129.158:443",
+      "success": false
+    }
+  },
+  "58.246.104.214": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://58.246.104.214:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "读取超时",
+      "url": "https://58.246.104.214:443",
+      "success": false
+    }
+  },
+  "96.126.118.190": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "120801",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 04:49:24 GMT",
+        "Server": "lighttpd/1.4.37"
+      },
+      "content": "<!DOCTYPE html>\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n<meta http-equiv=\"Pragma\" content=\"no-cache\" />\n<meta charset=\"utf-8\">\n<meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\">\n<meta content=\"object\" property=\"og:type\">\n<meta content=\"GitLab\" property=\"og:site_name\">\n<meta content=\"Help\" property=\"og:title\">\n<meta content=\"GitLab Community Edition\" property=\"og:description\">\n<meta content=\"summary\" property=\"twitter:card\">\n<meta content=\"Help\" property=\"twitter:title\">\n<meta content=\"GitLab Community Edition\" property=\"twitter:description\">\n<meta content=\"GitLab Community Edition\" name=\"description\">\n<meta content=\"#484D57\" name=\"theme-color\">\n<meta content=\"#38353E\" name=\"msapplication-TileColor\">\n<meta name=\"csrf-param\" content=\"authenticity_token\" />\n<meta name=\"csrf-token\" content=\"8dcb74a64dc984fb9abe3e7c201f810d9ec90ed8e4ca73c63bba87f8ffd439112101e5==\" />\n<title>Shock&Innovation!! netis setup</title>\n</head>\n<body>\n<div style=\"display: none;\">\n<script>SC.util.mergeIntoContext({\"focusedControlID\":null,\"userName\":\"\",\"userDisplayName\":\"\",\"isUserAuthenticated\":false,\"antiForgeryToken\":\"THtoAUxH4sS9\",\"isUserAdministrator\":false,\"canManageSharedToolbox\":false,\"pageBaseFileName\":\"Guest\",\"notifyActivityFrequencyMilliseconds\":600000,\"loginAfterInactivityMilliseconds\":36000000,\"canChangePassword\":false,\"controlPanelUrl\":null,\"pageType\":\"GuestPage\",\"processType\":2,\"userAgentOverride\":null,\"sessionTypeInfos\":[]});</script>\n<SessionInfo><SID>a29d421feecf680a</SID><Challenge>680a</Challenge><BlockTime>0</BlockTime><Rights></Rights><Users><User last=\"1\">fritzr</User></Users></SessionInfo>\n<Account>\n<Entry0 Active=\"Yes\" username=\"CMCCAdmin\" web_passwd=\"CmcC4dm1n5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<Entry1 Active=\"Yes\" username=\"useradmin\" web_passwd=\"Gu4ngx1pd5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192",
+      "url": "http://96.126.118.190:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "读取超时",
+      "url": "https://96.126.118.190:443",
+      "success": false
+    }
+  },
+  "96.126.127.100": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "120796",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 04:49:40 GMT",
+        "Server": "NVR Webserver"
+      },
+      "content": "<!DOCTYPE html>\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n<meta http-equiv=\"Pragma\" content=\"no-cache\" />\n<meta charset=\"utf-8\">\n<meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\">\n<meta content=\"object\" property=\"og:type\">\n<meta content=\"GitLab\" property=\"og:site_name\">\n<meta content=\"Help\" property=\"og:title\">\n<meta content=\"GitLab Community Edition\" property=\"og:description\">\n<meta content=\"summary\" property=\"twitter:card\">\n<meta content=\"Help\" property=\"twitter:title\">\n<meta content=\"GitLab Community Edition\" property=\"twitter:description\">\n<meta content=\"GitLab Community Edition\" name=\"description\">\n<meta content=\"#484D57\" name=\"theme-color\">\n<meta content=\"#38353E\" name=\"msapplication-TileColor\">\n<meta name=\"csrf-param\" content=\"authenticity_token\" />\n<meta name=\"csrf-token\" content=\"8dcb74a64dc984fb9abe3e7c201f810d9ec90ed8e4ca73c63bba87f8ffd439112101e5==\" />\n<title>Vinchin Backup & Recovery</title>\n</head>\n<body>\n<div style=\"display: none;\">\n<script>SC.util.mergeIntoContext({\"focusedControlID\":null,\"userName\":\"\",\"userDisplayName\":\"\",\"isUserAuthenticated\":false,\"antiForgeryToken\":\"THtoAUxH4sS9\",\"isUserAdministrator\":false,\"canManageSharedToolbox\":false,\"pageBaseFileName\":\"Guest\",\"notifyActivityFrequencyMilliseconds\":600000,\"loginAfterInactivityMilliseconds\":36000000,\"canChangePassword\":false,\"controlPanelUrl\":null,\"pageType\":\"GuestPage\",\"processType\":2,\"userAgentOverride\":null,\"sessionTypeInfos\":[]});</script>\n<SessionInfo><SID>a29d421feecf680a</SID><Challenge>680a</Challenge><BlockTime>0</BlockTime><Rights></Rights><Users><User last=\"1\">fritzr</User></Users></SessionInfo>\n<Account>\n<Entry0 Active=\"Yes\" username=\"CMCCAdmin\" web_passwd=\"CmcC4dm1n5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<Entry1 Active=\"Yes\" username=\"useradmin\" web_passwd=\"Gu4ngx1pd5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.",
+      "url": "http://96.126.127.100:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Content-Length": "120782",
+        "Content-Type": "text/html",
+        "Server": "Linux,WEBACCESS/1.0,DIR-860LVer1.07",
+        "Date": "Sat, 12 Jul 2025 04:49:47 GMT",
+        "Connection": "close"
+      },
+      "content": "<!DOCTYPE html>\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n<meta http-equiv=\"Pragma\" content=\"no-cache\" />\n<meta charset=\"utf-8\">\n<meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\">\n<meta content=\"object\" property=\"og:type\">\n<meta content=\"GitLab\" property=\"og:site_name\">\n<meta content=\"Help\" property=\"og:title\">\n<meta content=\"GitLab Community Edition\" property=\"og:description\">\n<meta content=\"summary\" property=\"twitter:card\">\n<meta content=\"Help\" property=\"twitter:title\">\n<meta content=\"GitLab Community Edition\" property=\"twitter:description\">\n<meta content=\"GitLab Community Edition\" name=\"description\">\n<meta content=\"#484D57\" name=\"theme-color\">\n<meta content=\"#38353E\" name=\"msapplication-TileColor\">\n<meta name=\"csrf-param\" content=\"authenticity_token\" />\n<meta name=\"csrf-token\" content=\"8dcb74a64dc984fb9abe3e7c201f810d9ec90ed8e4ca73c63bba87f8ffd439112101e5==\" />\n<title>Open eClass</title>\n</head>\n<body>\n<div style=\"display: none;\">\n<script>SC.util.mergeIntoContext({\"focusedControlID\":null,\"userName\":\"\",\"userDisplayName\":\"\",\"isUserAuthenticated\":false,\"antiForgeryToken\":\"THtoAUxH4sS9\",\"isUserAdministrator\":false,\"canManageSharedToolbox\":false,\"pageBaseFileName\":\"Guest\",\"notifyActivityFrequencyMilliseconds\":600000,\"loginAfterInactivityMilliseconds\":36000000,\"canChangePassword\":false,\"controlPanelUrl\":null,\"pageType\":\"GuestPage\",\"processType\":2,\"userAgentOverride\":null,\"sessionTypeInfos\":[]});</script>\n<SessionInfo><SID>a29d421feecf680a</SID><Challenge>680a</Challenge><BlockTime>0</BlockTime><Rights></Rights><Users><User last=\"1\">fritzr</User></Users></SessionInfo>\n<Account>\n<Entry0 Active=\"Yes\" username=\"CMCCAdmin\" web_passwd=\"CmcC4dm1n5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<Entry1 Active=\"Yes\" username=\"useradmin\" web_passwd=\"Gu4ngx1pd5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<Entry",
+      "url": "https://96.126.127.100:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "139.162.225.92": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://139.162.225.92:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='139.162.225.92', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1028)')))",
+      "url": "https://139.162.225.92:443",
+      "success": false
+    }
+  },
+  "212.71.247.134": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://212.71.247.134:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='212.71.247.134', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://212.71.247.134:443",
+      "success": false
+    }
+  },
+  "203.186.231.86": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://203.186.231.86:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='203.186.231.86', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://203.186.231.86:443",
+      "success": false
+    }
+  },
+  "189.206.65.42": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://189.206.65.42:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='189.206.65.42', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://189.206.65.42:443",
+      "success": false
+    }
+  },
+  "172.104.118.207": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://172.104.118.207:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "读取超时",
+      "url": "https://172.104.118.207:443",
+      "success": false
+    }
+  },
+  "172.105.9.237": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://172.105.9.237:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='172.105.9.237', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1028)')))",
+      "url": "https://172.105.9.237:443",
+      "success": false
+    }
+  },
+  "181.212.1.161": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://181.212.1.161:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='181.212.1.161', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://181.212.1.161:443",
+      "success": false
+    }
+  },
+  "172.104.65.251": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://172.104.65.251:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "读取超时",
+      "url": "https://172.104.65.251:443",
+      "success": false
+    }
+  },
+  "60.190.65.30": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://60.190.65.30:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "读取超时",
+      "url": "https://60.190.65.30:443",
+      "success": false
+    }
+  },
+  "93.179.252.217": {
+    "port_80": {
+      "status_code": 401,
+      "headers": {
+        "Connection": "close",
+        "Accept-Ranges": "none",
+        "Date": "Sat, 12 Jul 2025 04:55:07 GMT",
+        "Server": "cisco-IOS",
+        "Www-Authenticate": "Basic realm=\"level_15 or view_access\""
+      },
+      "content": "401 Unauthorized\r\n",
+      "url": "http://93.179.252.217:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='93.179.252.217', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1028)')))",
+      "url": "https://93.179.252.217:443",
+      "success": false
+    }
+  },
+  "12.147.3.3": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://12.147.3.3:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='12.147.3.3', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://12.147.3.3:443",
+      "success": false
+    }
+  },
+  "104.248.191.18": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://104.248.191.18:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='104.248.191.18', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1028)')))",
+      "url": "https://104.248.191.18:443",
+      "success": false
+    }
+  },
+  "195.229.220.145": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://195.229.220.145:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='195.229.220.145', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://195.229.220.145:443",
+      "success": false
+    }
+  },
+  "181.177.237.145": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://181.177.237.145:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='181.177.237.145', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://181.177.237.145:443",
+      "success": false
+    }
+  },
+  "200.146.253.218": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://200.146.253.218:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='200.146.253.218', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://200.146.253.218:443",
+      "success": false
+    }
+  },
+  "149.154.158.140": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://149.154.158.140:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='149.154.158.140', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1028)')))",
+      "url": "https://149.154.158.140:443",
+      "success": false
+    }
+  },
+  "190.171.130.2": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://190.171.130.2:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "读取超时",
+      "url": "https://190.171.130.2:443",
+      "success": false
+    }
+  },
+  "178.79.141.197": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://178.79.141.197:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='178.79.141.197', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://178.79.141.197:443",
+      "success": false
+    }
+  },
+  "176.105.195.183": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://176.105.195.183:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "读取超时",
+      "url": "https://176.105.195.183:443",
+      "success": false
+    }
+  },
+  "212.71.250.250": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://212.71.250.250:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='212.71.250.250', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://212.71.250.250:443",
+      "success": false
+    }
+  },
+  "45.79.199.206": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "120777",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 05:00:21 GMT",
+        "Server": "WSTL CPE 1.0"
+      },
+      "content": "<!DOCTYPE html>\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n<meta http-equiv=\"Pragma\" content=\"no-cache\" />\n<meta charset=\"utf-8\">\n<meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\">\n<meta content=\"object\" property=\"og:type\">\n<meta content=\"GitLab\" property=\"og:site_name\">\n<meta content=\"Help\" property=\"og:title\">\n<meta content=\"GitLab Community Edition\" property=\"og:description\">\n<meta content=\"summary\" property=\"twitter:card\">\n<meta content=\"Help\" property=\"twitter:title\">\n<meta content=\"GitLab Community Edition\" property=\"twitter:description\">\n<meta content=\"GitLab Community Edition\" name=\"description\">\n<meta content=\"#484D57\" name=\"theme-color\">\n<meta content=\"#38353E\" name=\"msapplication-TileColor\">\n<meta name=\"csrf-param\" content=\"authenticity_token\" />\n<meta name=\"csrf-token\" content=\"8dcb74a64dc984fb9abe3e7c201f810d9ec90ed8e4ca73c63bba87f8ffd439112101e5==\" />\n<title>IPTV+572659</title>\n</head>\n<body>\n<div style=\"display: none;\">\n<script>SC.util.mergeIntoContext({\"focusedControlID\":null,\"userName\":\"\",\"userDisplayName\":\"\",\"isUserAuthenticated\":false,\"antiForgeryToken\":\"THtoAUxH4sS9\",\"isUserAdministrator\":false,\"canManageSharedToolbox\":false,\"pageBaseFileName\":\"Guest\",\"notifyActivityFrequencyMilliseconds\":600000,\"loginAfterInactivityMilliseconds\":36000000,\"canChangePassword\":false,\"controlPanelUrl\":null,\"pageType\":\"GuestPage\",\"processType\":2,\"userAgentOverride\":null,\"sessionTypeInfos\":[]});</script>\n<SessionInfo><SID>a29d421feecf680a</SID><Challenge>680a</Challenge><BlockTime>0</BlockTime><Rights></Rights><Users><User last=\"1\">fritzr</User></Users></SessionInfo>\n<Account>\n<Entry0 Active=\"Yes\" username=\"CMCCAdmin\" web_passwd=\"CmcC4dm1n5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<Entry1 Active=\"Yes\" username=\"useradmin\" web_passwd=\"Gu4ngx1pd5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<Entry",
+      "url": "http://45.79.199.206:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Content-Length": "120774",
+        "Content-Type": "text/html",
+        "Server": "envoy",
+        "Date": "Sat, 12 Jul 2025 05:00:28 GMT",
+        "Connection": "close"
+      },
+      "content": "<!DOCTYPE html>\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n<meta http-equiv=\"Pragma\" content=\"no-cache\" />\n<meta charset=\"utf-8\">\n<meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\">\n<meta content=\"object\" property=\"og:type\">\n<meta content=\"GitLab\" property=\"og:site_name\">\n<meta content=\"Help\" property=\"og:title\">\n<meta content=\"GitLab Community Edition\" property=\"og:description\">\n<meta content=\"summary\" property=\"twitter:card\">\n<meta content=\"Help\" property=\"twitter:title\">\n<meta content=\"GitLab Community Edition\" property=\"twitter:description\">\n<meta content=\"GitLab Community Edition\" name=\"description\">\n<meta content=\"#484D57\" name=\"theme-color\">\n<meta content=\"#38353E\" name=\"msapplication-TileColor\">\n<meta name=\"csrf-param\" content=\"authenticity_token\" />\n<meta name=\"csrf-token\" content=\"8dcb74a64dc984fb9abe3e7c201f810d9ec90ed8e4ca73c63bba87f8ffd439112101e5==\" />\n<title>TOTOLINK</title>\n</head>\n<body>\n<div style=\"display: none;\">\n<script>SC.util.mergeIntoContext({\"focusedControlID\":null,\"userName\":\"\",\"userDisplayName\":\"\",\"isUserAuthenticated\":false,\"antiForgeryToken\":\"THtoAUxH4sS9\",\"isUserAdministrator\":false,\"canManageSharedToolbox\":false,\"pageBaseFileName\":\"Guest\",\"notifyActivityFrequencyMilliseconds\":600000,\"loginAfterInactivityMilliseconds\":36000000,\"canChangePassword\":false,\"controlPanelUrl\":null,\"pageType\":\"GuestPage\",\"processType\":2,\"userAgentOverride\":null,\"sessionTypeInfos\":[]});</script>\n<SessionInfo><SID>a29d421feecf680a</SID><Challenge>680a</Challenge><BlockTime>0</BlockTime><Rights></Rights><Users><User last=\"1\">fritzr</User></Users></SessionInfo>\n<Account>\n<Entry0 Active=\"Yes\" username=\"CMCCAdmin\" web_passwd=\"CmcC4dm1n5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<Entry1 Active=\"Yes\" username=\"useradmin\" web_passwd=\"Gu4ngx1pd5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<Entry2 A",
+      "url": "https://45.79.199.206:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "139.162.118.148": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://139.162.118.148:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='139.162.118.148', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1028)')))",
+      "url": "https://139.162.118.148:443",
+      "success": false
+    }
+  },
+  "212.52.159.178": {
+    "port_80": {
+      "status_code": 401,
+      "headers": {
+        "Connection": "close",
+        "Accept-Ranges": "none",
+        "Date": "Sat, 12 Jul 2025 04:03:35 GMT",
+        "Server": "cisco-IOS",
+        "Www-Authenticate": "Basic realm=\"level_15 or view_access\""
+      },
+      "content": "401 Unauthorized\r\n",
+      "url": "http://212.52.159.178:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='212.52.159.178', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1028)')))",
+      "url": "https://212.52.159.178:443",
+      "success": false
+    }
+  },
+  "74.207.235.11": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "120812",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 05:18:49 GMT",
+        "Server": "B&R Web Server  Ver. {2-250416-25}"
+      },
+      "content": "<!DOCTYPE html>\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n<meta http-equiv=\"Pragma\" content=\"no-cache\" />\n<meta charset=\"utf-8\">\n<meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\">\n<meta content=\"object\" property=\"og:type\">\n<meta content=\"GitLab\" property=\"og:site_name\">\n<meta content=\"Help\" property=\"og:title\">\n<meta content=\"GitLab Community Edition\" property=\"og:description\">\n<meta content=\"summary\" property=\"twitter:card\">\n<meta content=\"Help\" property=\"twitter:title\">\n<meta content=\"GitLab Community Edition\" property=\"twitter:description\">\n<meta content=\"GitLab Community Edition\" name=\"description\">\n<meta content=\"#484D57\" name=\"theme-color\">\n<meta content=\"#38353E\" name=\"msapplication-TileColor\">\n<meta name=\"csrf-param\" content=\"authenticity_token\" />\n<meta name=\"csrf-token\" content=\"8dcb74a64dc984fb9abe3e7c201f810d9ec90ed8e4ca73c63bba87f8ffd439112101e5==\" />\n<title>HIKVISION DS-2CD2420F-IW - C17064308,IP Camera</title>\n</head>\n<body>\n<div style=\"display: none;\">\n<script>SC.util.mergeIntoContext({\"focusedControlID\":null,\"userName\":\"\",\"userDisplayName\":\"\",\"isUserAuthenticated\":false,\"antiForgeryToken\":\"THtoAUxH4sS9\",\"isUserAdministrator\":false,\"canManageSharedToolbox\":false,\"pageBaseFileName\":\"Guest\",\"notifyActivityFrequencyMilliseconds\":600000,\"loginAfterInactivityMilliseconds\":36000000,\"canChangePassword\":false,\"controlPanelUrl\":null,\"pageType\":\"GuestPage\",\"processType\":2,\"userAgentOverride\":null,\"sessionTypeInfos\":[]});</script>\n<SessionInfo><SID>a29d421feecf680a</SID><Challenge>680a</Challenge><BlockTime>0</BlockTime><Rights></Rights><Users><User last=\"1\">fritzr</User></Users></SessionInfo>\n<Account>\n<Entry0 Active=\"Yes\" username=\"CMCCAdmin\" web_passwd=\"CmcC4dm1n5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<Entry1 Active=\"Yes\" username=\"useradmin\" web_passwd=\"Gu4ngx1pd5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=",
+      "url": "http://74.207.235.11:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Content-Length": "120800",
+        "Content-Type": "text/html",
+        "Server": "mhttpd",
+        "Date": "Sat, 12 Jul 2025 05:18:57 GMT",
+        "Connection": "close"
+      },
+      "content": "<!DOCTYPE html>\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n<meta http-equiv=\"Pragma\" content=\"no-cache\" />\n<meta charset=\"utf-8\">\n<meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\">\n<meta content=\"object\" property=\"og:type\">\n<meta content=\"GitLab\" property=\"og:site_name\">\n<meta content=\"Help\" property=\"og:title\">\n<meta content=\"GitLab Community Edition\" property=\"og:description\">\n<meta content=\"summary\" property=\"twitter:card\">\n<meta content=\"Help\" property=\"twitter:title\">\n<meta content=\"GitLab Community Edition\" property=\"twitter:description\">\n<meta content=\"GitLab Community Edition\" name=\"description\">\n<meta content=\"#484D57\" name=\"theme-color\">\n<meta content=\"#38353E\" name=\"msapplication-TileColor\">\n<meta name=\"csrf-param\" content=\"authenticity_token\" />\n<meta name=\"csrf-token\" content=\"8dcb74a64dc984fb9abe3e7c201f810d9ec90ed8e4ca73c63bba87f8ffd439112101e5==\" />\n<title>Ivanti Connect Secure - PleaseWait</title>\n</head>\n<body>\n<div style=\"display: none;\">\n<script>SC.util.mergeIntoContext({\"focusedControlID\":null,\"userName\":\"\",\"userDisplayName\":\"\",\"isUserAuthenticated\":false,\"antiForgeryToken\":\"THtoAUxH4sS9\",\"isUserAdministrator\":false,\"canManageSharedToolbox\":false,\"pageBaseFileName\":\"Guest\",\"notifyActivityFrequencyMilliseconds\":600000,\"loginAfterInactivityMilliseconds\":36000000,\"canChangePassword\":false,\"controlPanelUrl\":null,\"pageType\":\"GuestPage\",\"processType\":2,\"userAgentOverride\":null,\"sessionTypeInfos\":[]});</script>\n<SessionInfo><SID>a29d421feecf680a</SID><Challenge>680a</Challenge><BlockTime>0</BlockTime><Rights></Rights><Users><User last=\"1\">fritzr</User></Users></SessionInfo>\n<Account>\n<Entry0 Active=\"Yes\" username=\"CMCCAdmin\" web_passwd=\"CmcC4dm1n5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<Entry1 Active=\"Yes\" username=\"useradmin\" web_passwd=\"Gu4ngx1pd5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=",
+      "url": "https://74.207.235.11:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "114.251.168.52": {
+    "port_80": {
+      "status_code": 401,
+      "headers": {
+        "Connection": "close",
+        "Accept-Ranges": "none",
+        "Date": "Sat, 12 Jul 2025 04:58:13 GMT",
+        "Server": "cisco-IOS",
+        "Www-Authenticate": "Basic realm=\"level_15 or view_access\""
+      },
+      "content": "401 Unauthorized\r\n",
+      "url": "http://114.251.168.52:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='114.251.168.52', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1028)')))",
+      "url": "https://114.251.168.52:443",
+      "success": false
+    }
+  },
+  "118.189.88.166": {
+    "port_80": {
+      "status_code": 401,
+      "headers": {
+        "Connection": "close",
+        "Accept-Ranges": "none",
+        "Date": "Sat, 12 Jul 2025 04:13:22 GMT",
+        "Server": "cisco-IOS",
+        "Www-Authenticate": "Basic realm=\"level_15 or view_access\""
+      },
+      "content": "401 Unauthorized\r\n",
+      "url": "http://118.189.88.166:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='118.189.88.166', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1028)')))",
+      "url": "https://118.189.88.166:443",
+      "success": false
+    }
+  },
+  "118.189.3.50": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://118.189.3.50:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='118.189.3.50', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://118.189.3.50:443",
+      "success": false
+    }
+  },
+  "190.58.169.70": {
+    "port_80": {
+      "status_code": 401,
+      "headers": {
+        "Connection": "close",
+        "Accept-Ranges": "none",
+        "Date": "Sat, 12 Jul 2025 02:58:03 GMT",
+        "Server": "cisco-IOS",
+        "Www-Authenticate": "Basic realm=\"level_15 or view_access\""
+      },
+      "content": "401 Unauthorized\r\n",
+      "url": "http://190.58.169.70:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='190.58.169.70', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1028)')))",
+      "url": "https://190.58.169.70:443",
+      "success": false
+    }
+  },
+  "183.255.31.64": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://183.255.31.64:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "读取超时",
+      "url": "https://183.255.31.64:443",
+      "success": false
+    }
+  },
+  "139.162.71.192": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://139.162.71.192:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='139.162.71.192', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1028)')))",
+      "url": "https://139.162.71.192:443",
+      "success": false
+    }
+  },
+  "139.162.97.90": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://139.162.97.90:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='139.162.97.90', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1028)')))",
+      "url": "https://139.162.97.90:443",
+      "success": false
+    }
+  },
+  "92.86.81.154": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://92.86.81.154:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "读取超时",
+      "url": "https://92.86.81.154:443",
+      "success": false
+    }
+  },
+  "212.60.85.34": {
+    "port_80": {
+      "status_code": 401,
+      "headers": {
+        "Connection": "close",
+        "Accept-Ranges": "none",
+        "Date": "Sat, 12 Jul 2025 03:24:14 GMT",
+        "Server": "cisco-IOS",
+        "Www-Authenticate": "Basic realm=\"level_15_access\""
+      },
+      "content": "401 Unauthorized\r\n",
+      "url": "http://212.60.85.34:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='212.60.85.34', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1028)')))",
+      "url": "https://212.60.85.34:443",
+      "success": false
+    }
+  },
+  "172.233.185.72": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "120778",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 05:07:58 GMT",
+        "Server": "uc-httpd1.0.0"
+      },
+      "content": "<!DOCTYPE html>\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n<meta http-equiv=\"Pragma\" content=\"no-cache\" />\n<meta charset=\"utf-8\">\n<meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\">\n<meta content=\"object\" property=\"og:type\">\n<meta content=\"GitLab\" property=\"og:site_name\">\n<meta content=\"Help\" property=\"og:title\">\n<meta content=\"GitLab Community Edition\" property=\"og:description\">\n<meta content=\"summary\" property=\"twitter:card\">\n<meta content=\"Help\" property=\"twitter:title\">\n<meta content=\"GitLab Community Edition\" property=\"twitter:description\">\n<meta content=\"GitLab Community Edition\" name=\"description\">\n<meta content=\"#484D57\" name=\"theme-color\">\n<meta content=\"#38353E\" name=\"msapplication-TileColor\">\n<meta name=\"csrf-param\" content=\"authenticity_token\" />\n<meta name=\"csrf-token\" content=\"8dcb74a64dc984fb9abe3e7c201f810d9ec90ed8e4ca73c63bba87f8ffd439112101e5==\" />\n<title>RT-GM-3</title>\n</head>\n<body>\n<div style=\"display: none;\">\n<script>SC.util.mergeIntoContext({\"focusedControlID\":null,\"userName\":\"\",\"userDisplayName\":\"\",\"isUserAuthenticated\":false,\"antiForgeryToken\":\"THtoAUxH4sS9\",\"isUserAdministrator\":false,\"canManageSharedToolbox\":false,\"pageBaseFileName\":\"Guest\",\"notifyActivityFrequencyMilliseconds\":600000,\"loginAfterInactivityMilliseconds\":36000000,\"canChangePassword\":false,\"controlPanelUrl\":null,\"pageType\":\"GuestPage\",\"processType\":2,\"userAgentOverride\":null,\"sessionTypeInfos\":[]});</script>\n<SessionInfo><SID>a29d421feecf680a</SID><Challenge>680a</Challenge><BlockTime>0</BlockTime><Rights></Rights><Users><User last=\"1\">fritzr</User></Users></SessionInfo>\n<Account>\n<Entry0 Active=\"Yes\" username=\"CMCCAdmin\" web_passwd=\"CmcC4dm1n5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<Entry1 Active=\"Yes\" username=\"useradmin\" web_passwd=\"Gu4ngx1pd5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<Entry2 Ac",
+      "url": "http://172.233.185.72:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "读取超时",
+      "url": "https://172.233.185.72:443",
+      "success": false
+    }
+  },
+  "96.126.122.34": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://96.126.122.34:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "读取超时",
+      "url": "https://96.126.122.34:443",
+      "success": false
+    }
+  },
+  "82.129.207.73": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://82.129.207.73:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='82.129.207.73', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://82.129.207.73:443",
+      "success": false
+    }
+  },
+  "213.183.57.164": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://213.183.57.164:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='213.183.57.164', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1028)')))",
+      "url": "https://213.183.57.164:443",
+      "success": false
+    }
+  },
+  "190.151.39.237": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://190.151.39.237:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='190.151.39.237', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://190.151.39.237:443",
+      "success": false
+    }
+  },
+  "114.131.64.62": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://114.131.64.62:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='114.131.64.62', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://114.131.64.62:443",
+      "success": false
+    }
+  },
+  "23.239.30.87": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://23.239.30.87:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "读取超时",
+      "url": "https://23.239.30.87:443",
+      "success": false
+    }
+  },
+  "192.121.171.89": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://192.121.171.89:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='192.121.171.89', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1028)')))",
+      "url": "https://192.121.171.89:443",
+      "success": false
+    }
+  },
+  "139.162.108.97": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://139.162.108.97:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='139.162.108.97', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1028)')))",
+      "url": "https://139.162.108.97:443",
+      "success": false
+    }
+  },
+  "122.154.121.114": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://122.154.121.114:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='122.154.121.114', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://122.154.121.114:443",
+      "success": false
+    }
+  },
+  "50.201.114.226": {
+    "port_80": {
+      "status_code": 401,
+      "headers": {
+        "Connection": "close",
+        "Accept-Ranges": "none",
+        "Date": "Sat, 12 Jul 2025 02:50:43 GMT",
+        "Server": "cisco-IOS",
+        "Www-Authenticate": "Basic realm=\"level_15 or view_access\""
+      },
+      "content": "401 Unauthorized\r\n",
+      "url": "http://50.201.114.226:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "读取超时",
+      "url": "https://50.201.114.226:443",
+      "success": false
+    }
+  },
+  "50.122.52.22": {
+    "port_80": {
+      "status_code": 401,
+      "headers": {
+        "Connection": "close",
+        "Accept-Ranges": "none",
+        "Date": "Sat, 12 Jul 2025 04:19:34 GMT",
+        "Server": "cisco-IOS",
+        "Www-Authenticate": "Basic realm=\"level_15 or view_access\""
+      },
+      "content": "401 Unauthorized\r\n",
+      "url": "http://50.122.52.22:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "读取超时",
+      "url": "https://50.122.52.22:443",
+      "success": false
+    }
+  },
+  "50.116.47.49": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://50.116.47.49:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 404,
+      "headers": {
+        "Content-Type": "text/plain; charset=utf-8",
+        "X-Content-Type-Options": "nosniff",
+        "Date": "Sat, 12 Jul 2025 05:07:11 GMT",
+        "Content-Length": "19",
+        "Connection": "close"
+      },
+      "content": "404 page not found\n",
+      "url": "https://50.116.47.49:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "117.239.209.161": {
+    "port_80": {
+      "status_code": 401,
+      "headers": {
+        "Connection": "close",
+        "Accept-Ranges": "none",
+        "Date": "Sat, 12 Jul 2025 05:22:33 GMT",
+        "Server": "cisco-IOS",
+        "Www-Authenticate": "Basic realm=\"level_15 or view_access\""
+      },
+      "content": "401 Unauthorized\r\n",
+      "url": "http://117.239.209.161:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='117.239.209.161', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://117.239.209.161:443",
+      "success": false
+    }
+  },
+  "74.207.228.158": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "120778",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 05:02:57 GMT",
+        "Server": "NCSA"
+      },
+      "content": "<!DOCTYPE html>\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n<meta http-equiv=\"Pragma\" content=\"no-cache\" />\n<meta charset=\"utf-8\">\n<meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\">\n<meta content=\"object\" property=\"og:type\">\n<meta content=\"GitLab\" property=\"og:site_name\">\n<meta content=\"Help\" property=\"og:title\">\n<meta content=\"GitLab Community Edition\" property=\"og:description\">\n<meta content=\"summary\" property=\"twitter:card\">\n<meta content=\"Help\" property=\"twitter:title\">\n<meta content=\"GitLab Community Edition\" property=\"twitter:description\">\n<meta content=\"GitLab Community Edition\" name=\"description\">\n<meta content=\"#484D57\" name=\"theme-color\">\n<meta content=\"#38353E\" name=\"msapplication-TileColor\">\n<meta name=\"csrf-param\" content=\"authenticity_token\" />\n<meta name=\"csrf-token\" content=\"8dcb74a64dc984fb9abe3e7c201f810d9ec90ed8e4ca73c63bba87f8ffd439112101e5==\" />\n<title>Compact</title>\n</head>\n<body>\n<div style=\"display: none;\">\n<script>SC.util.mergeIntoContext({\"focusedControlID\":null,\"userName\":\"\",\"userDisplayName\":\"\",\"isUserAuthenticated\":false,\"antiForgeryToken\":\"THtoAUxH4sS9\",\"isUserAdministrator\":false,\"canManageSharedToolbox\":false,\"pageBaseFileName\":\"Guest\",\"notifyActivityFrequencyMilliseconds\":600000,\"loginAfterInactivityMilliseconds\":36000000,\"canChangePassword\":false,\"controlPanelUrl\":null,\"pageType\":\"GuestPage\",\"processType\":2,\"userAgentOverride\":null,\"sessionTypeInfos\":[]});</script>\n<SessionInfo><SID>a29d421feecf680a</SID><Challenge>680a</Challenge><BlockTime>0</BlockTime><Rights></Rights><Users><User last=\"1\">fritzr</User></Users></SessionInfo>\n<Account>\n<Entry0 Active=\"Yes\" username=\"CMCCAdmin\" web_passwd=\"CmcC4dm1n5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<Entry1 Active=\"Yes\" username=\"useradmin\" web_passwd=\"Gu4ngx1pd5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<Entry2 Ac",
+      "url": "http://74.207.228.158:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "读取超时",
+      "url": "https://74.207.228.158:443",
+      "success": false
+    }
+  },
+  "38.54.118.113": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://38.54.118.113:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='38.54.118.113', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://38.54.118.113:443",
+      "success": false
+    }
+  },
+  "172.105.9.163": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://172.105.9.163:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='172.105.9.163', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1028)')))",
+      "url": "https://172.105.9.163:443",
+      "success": false
+    }
+  },
+  "72.14.189.68": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "120783",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 05:03:36 GMT",
+        "Server": "RGOS HTTP-Server/1.1"
+      },
+      "content": "<!DOCTYPE html>\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n<meta http-equiv=\"Pragma\" content=\"no-cache\" />\n<meta charset=\"utf-8\">\n<meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\">\n<meta content=\"object\" property=\"og:type\">\n<meta content=\"GitLab\" property=\"og:site_name\">\n<meta content=\"Help\" property=\"og:title\">\n<meta content=\"GitLab Community Edition\" property=\"og:description\">\n<meta content=\"summary\" property=\"twitter:card\">\n<meta content=\"Help\" property=\"twitter:title\">\n<meta content=\"GitLab Community Edition\" property=\"twitter:description\">\n<meta content=\"GitLab Community Edition\" name=\"description\">\n<meta content=\"#484D57\" name=\"theme-color\">\n<meta content=\"#38353E\" name=\"msapplication-TileColor\">\n<meta name=\"csrf-param\" content=\"authenticity_token\" />\n<meta name=\"csrf-token\" content=\"8dcb74a64dc984fb9abe3e7c201f810d9ec90ed8e4ca73c63bba87f8ffd439112101e5==\" />\n<title>Wireless-AC Web Server</title>\n</head>\n<body>\n<div style=\"display: none;\">\n<script>SC.util.mergeIntoContext({\"focusedControlID\":null,\"userName\":\"\",\"userDisplayName\":\"\",\"isUserAuthenticated\":false,\"antiForgeryToken\":\"THtoAUxH4sS9\",\"isUserAdministrator\":false,\"canManageSharedToolbox\":false,\"pageBaseFileName\":\"Guest\",\"notifyActivityFrequencyMilliseconds\":600000,\"loginAfterInactivityMilliseconds\":36000000,\"canChangePassword\":false,\"controlPanelUrl\":null,\"pageType\":\"GuestPage\",\"processType\":2,\"userAgentOverride\":null,\"sessionTypeInfos\":[]});</script>\n<SessionInfo><SID>a29d421feecf680a</SID><Challenge>680a</Challenge><BlockTime>0</BlockTime><Rights></Rights><Users><User last=\"1\">fritzr</User></Users></SessionInfo>\n<Account>\n<Entry0 Active=\"Yes\" username=\"CMCCAdmin\" web_passwd=\"CmcC4dm1n5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<Entry1 Active=\"Yes\" username=\"useradmin\" web_passwd=\"Gu4ngx1pd5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.1",
+      "url": "http://72.14.189.68:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Content-Length": "120774",
+        "Content-Type": "text/html",
+        "Server": "httpd 1.1",
+        "Date": "Sat, 12 Jul 2025 05:03:43 GMT",
+        "Connection": "close"
+      },
+      "content": "<!DOCTYPE html>\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n<meta http-equiv=\"Pragma\" content=\"no-cache\" />\n<meta charset=\"utf-8\">\n<meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\">\n<meta content=\"object\" property=\"og:type\">\n<meta content=\"GitLab\" property=\"og:site_name\">\n<meta content=\"Help\" property=\"og:title\">\n<meta content=\"GitLab Community Edition\" property=\"og:description\">\n<meta content=\"summary\" property=\"twitter:card\">\n<meta content=\"Help\" property=\"twitter:title\">\n<meta content=\"GitLab Community Edition\" property=\"twitter:description\">\n<meta content=\"GitLab Community Edition\" name=\"description\">\n<meta content=\"#484D57\" name=\"theme-color\">\n<meta content=\"#38353E\" name=\"msapplication-TileColor\">\n<meta name=\"csrf-param\" content=\"authenticity_token\" />\n<meta name=\"csrf-token\" content=\"8dcb74a64dc984fb9abe3e7c201f810d9ec90ed8e4ca73c63bba87f8ffd439112101e5==\" />\n<title>Apache  Druid</title>\n</head>\n<body>\n<div style=\"display: none;\">\n<script>SC.util.mergeIntoContext({\"focusedControlID\":null,\"userName\":\"\",\"userDisplayName\":\"\",\"isUserAuthenticated\":false,\"antiForgeryToken\":\"THtoAUxH4sS9\",\"isUserAdministrator\":false,\"canManageSharedToolbox\":false,\"pageBaseFileName\":\"Guest\",\"notifyActivityFrequencyMilliseconds\":600000,\"loginAfterInactivityMilliseconds\":36000000,\"canChangePassword\":false,\"controlPanelUrl\":null,\"pageType\":\"GuestPage\",\"processType\":2,\"userAgentOverride\":null,\"sessionTypeInfos\":[]});</script>\n<SessionInfo><SID>a29d421feecf680a</SID><Challenge>680a</Challenge><BlockTime>0</BlockTime><Rights></Rights><Users><User last=\"1\">fritzr</User></Users></SessionInfo>\n<Account>\n<Entry0 Active=\"Yes\" username=\"CMCCAdmin\" web_passwd=\"CmcC4dm1n5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<Entry1 Active=\"Yes\" username=\"useradmin\" web_passwd=\"Gu4ngx1pd5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<Ent",
+      "url": "https://72.14.189.68:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "210.8.240.74": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://210.8.240.74:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='210.8.240.74', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://210.8.240.74:443",
+      "success": false
+    }
+  },
+  "192.121.162.136": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://192.121.162.136:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='192.121.162.136', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1028)')))",
+      "url": "https://192.121.162.136:443",
+      "success": false
+    }
+  },
+  "45.79.90.54": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "120794",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 05:13:42 GMT",
+        "Server": "Tengine/2.3.2"
+      },
+      "content": "<!DOCTYPE html>\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n<meta http-equiv=\"Pragma\" content=\"no-cache\" />\n<meta charset=\"utf-8\">\n<meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\">\n<meta content=\"object\" property=\"og:type\">\n<meta content=\"GitLab\" property=\"og:site_name\">\n<meta content=\"Help\" property=\"og:title\">\n<meta content=\"GitLab Community Edition\" property=\"og:description\">\n<meta content=\"summary\" property=\"twitter:card\">\n<meta content=\"Help\" property=\"twitter:title\">\n<meta content=\"GitLab Community Edition\" property=\"twitter:description\">\n<meta content=\"GitLab Community Edition\" name=\"description\">\n<meta content=\"#484D57\" name=\"theme-color\">\n<meta content=\"#38353E\" name=\"msapplication-TileColor\">\n<meta name=\"csrf-param\" content=\"authenticity_token\" />\n<meta name=\"csrf-token\" content=\"8dcb74a64dc984fb9abe3e7c201f810d9ec90ed8e4ca73c63bba87f8ffd439112101e5==\" />\n<title>HD-Network Real-time Monitoring System</title>\n</head>\n<body>\n<div style=\"display: none;\">\n<script>SC.util.mergeIntoContext({\"focusedControlID\":null,\"userName\":\"\",\"userDisplayName\":\"\",\"isUserAuthenticated\":false,\"antiForgeryToken\":\"THtoAUxH4sS9\",\"isUserAdministrator\":false,\"canManageSharedToolbox\":false,\"pageBaseFileName\":\"Guest\",\"notifyActivityFrequencyMilliseconds\":600000,\"loginAfterInactivityMilliseconds\":36000000,\"canChangePassword\":false,\"controlPanelUrl\":null,\"pageType\":\"GuestPage\",\"processType\":2,\"userAgentOverride\":null,\"sessionTypeInfos\":[]});</script>\n<SessionInfo><SID>a29d421feecf680a</SID><Challenge>680a</Challenge><BlockTime>0</BlockTime><Rights></Rights><Users><User last=\"1\">fritzr</User></Users></SessionInfo>\n<Account>\n<Entry0 Active=\"Yes\" username=\"CMCCAdmin\" web_passwd=\"CmcC4dm1n5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<Entry1 Active=\"Yes\" username=\"useradmin\" web_passwd=\"Gu4ngx1pd5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" Logi",
+      "url": "http://45.79.90.54:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Content-Length": "120761",
+        "Content-Type": "text/html",
+        "Server": "Mojolicious",
+        "Date": "Sat, 12 Jul 2025 05:13:49 GMT",
+        "Connection": "close"
+      },
+      "content": "<!DOCTYPE html>\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n<meta http-equiv=\"Pragma\" content=\"no-cache\" />\n<meta charset=\"utf-8\">\n<meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\">\n<meta content=\"object\" property=\"og:type\">\n<meta content=\"GitLab\" property=\"og:site_name\">\n<meta content=\"Help\" property=\"og:title\">\n<meta content=\"GitLab Community Edition\" property=\"og:description\">\n<meta content=\"summary\" property=\"twitter:card\">\n<meta content=\"Help\" property=\"twitter:title\">\n<meta content=\"GitLab Community Edition\" property=\"twitter:description\">\n<meta content=\"GitLab Community Edition\" name=\"description\">\n<meta content=\"#484D57\" name=\"theme-color\">\n<meta content=\"#38353E\" name=\"msapplication-TileColor\">\n<meta name=\"csrf-param\" content=\"authenticity_token\" />\n<meta name=\"csrf-token\" content=\"8dcb74a64dc984fb9abe3e7c201f810d9ec90ed8e4ca73c63bba87f8ffd439112101e5==\" />\n<title>LT400</title>\n</head>\n<body>\n<div style=\"display: none;\">\n<script>SC.util.mergeIntoContext({\"focusedControlID\":null,\"userName\":\"\",\"userDisplayName\":\"\",\"isUserAuthenticated\":false,\"antiForgeryToken\":\"THtoAUxH4sS9\",\"isUserAdministrator\":false,\"canManageSharedToolbox\":false,\"pageBaseFileName\":\"Guest\",\"notifyActivityFrequencyMilliseconds\":600000,\"loginAfterInactivityMilliseconds\":36000000,\"canChangePassword\":false,\"controlPanelUrl\":null,\"pageType\":\"GuestPage\",\"processType\":2,\"userAgentOverride\":null,\"sessionTypeInfos\":[]});</script>\n<SessionInfo><SID>a29d421feecf680a</SID><Challenge>680a</Challenge><BlockTime>0</BlockTime><Rights></Rights><Users><User last=\"1\">fritzr</User></Users></SessionInfo>\n<Account>\n<Entry0 Active=\"Yes\" username=\"CMCCAdmin\" web_passwd=\"CmcC4dm1n5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<Entry1 Active=\"Yes\" username=\"useradmin\" web_passwd=\"Gu4ngx1pd5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<Entry2 Acti",
+      "url": "https://45.79.90.54:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "139.144.18.139": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "120780",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 05:05:22 GMT",
+        "Server": "gSOAP/2.7"
+      },
+      "content": "<!DOCTYPE html>\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n<meta http-equiv=\"Pragma\" content=\"no-cache\" />\n<meta charset=\"utf-8\">\n<meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\">\n<meta content=\"object\" property=\"og:type\">\n<meta content=\"GitLab\" property=\"og:site_name\">\n<meta content=\"Help\" property=\"og:title\">\n<meta content=\"GitLab Community Edition\" property=\"og:description\">\n<meta content=\"summary\" property=\"twitter:card\">\n<meta content=\"Help\" property=\"twitter:title\">\n<meta content=\"GitLab Community Edition\" property=\"twitter:description\">\n<meta content=\"GitLab Community Edition\" name=\"description\">\n<meta content=\"#484D57\" name=\"theme-color\">\n<meta content=\"#38353E\" name=\"msapplication-TileColor\">\n<meta name=\"csrf-param\" content=\"authenticity_token\" />\n<meta name=\"csrf-token\" content=\"8dcb74a64dc984fb9abe3e7c201f810d9ec90ed8e4ca73c63bba87f8ffd439112101e5==\" />\n<title>Archer C2</title>\n</head>\n<body>\n<div style=\"display: none;\">\n<script>SC.util.mergeIntoContext({\"focusedControlID\":null,\"userName\":\"\",\"userDisplayName\":\"\",\"isUserAuthenticated\":false,\"antiForgeryToken\":\"THtoAUxH4sS9\",\"isUserAdministrator\":false,\"canManageSharedToolbox\":false,\"pageBaseFileName\":\"Guest\",\"notifyActivityFrequencyMilliseconds\":600000,\"loginAfterInactivityMilliseconds\":36000000,\"canChangePassword\":false,\"controlPanelUrl\":null,\"pageType\":\"GuestPage\",\"processType\":2,\"userAgentOverride\":null,\"sessionTypeInfos\":[]});</script>\n<SessionInfo><SID>a29d421feecf680a</SID><Challenge>680a</Challenge><BlockTime>0</BlockTime><Rights></Rights><Users><User last=\"1\">fritzr</User></Users></SessionInfo>\n<Account>\n<Entry0 Active=\"Yes\" username=\"CMCCAdmin\" web_passwd=\"CmcC4dm1n5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<Entry1 Active=\"Yes\" username=\"useradmin\" web_passwd=\"Gu4ngx1pd5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<Entry2 ",
+      "url": "http://139.144.18.139:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Content-Length": "120784",
+        "Content-Type": "text/html",
+        "Server": "58f5b853-36b6-597e-16c6-4610e7fd83a4",
+        "Date": "Sat, 12 Jul 2025 05:05:29 GMT",
+        "Connection": "close"
+      },
+      "content": "<!DOCTYPE html>\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n<meta http-equiv=\"Pragma\" content=\"no-cache\" />\n<meta charset=\"utf-8\">\n<meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\">\n<meta content=\"object\" property=\"og:type\">\n<meta content=\"GitLab\" property=\"og:site_name\">\n<meta content=\"Help\" property=\"og:title\">\n<meta content=\"GitLab Community Edition\" property=\"og:description\">\n<meta content=\"summary\" property=\"twitter:card\">\n<meta content=\"Help\" property=\"twitter:title\">\n<meta content=\"GitLab Community Edition\" property=\"twitter:description\">\n<meta content=\"GitLab Community Edition\" name=\"description\">\n<meta content=\"#484D57\" name=\"theme-color\">\n<meta content=\"#38353E\" name=\"msapplication-TileColor\">\n<meta name=\"csrf-param\" content=\"authenticity_token\" />\n<meta name=\"csrf-token\" content=\"8dcb74a64dc984fb9abe3e7c201f810d9ec90ed8e4ca73c63bba87f8ffd439112101e5==\" />\n<title>NVR302-08E-P8</title>\n</head>\n<body>\n<div style=\"display: none;\">\n<script>SC.util.mergeIntoContext({\"focusedControlID\":null,\"userName\":\"\",\"userDisplayName\":\"\",\"isUserAuthenticated\":false,\"antiForgeryToken\":\"THtoAUxH4sS9\",\"isUserAdministrator\":false,\"canManageSharedToolbox\":false,\"pageBaseFileName\":\"Guest\",\"notifyActivityFrequencyMilliseconds\":600000,\"loginAfterInactivityMilliseconds\":36000000,\"canChangePassword\":false,\"controlPanelUrl\":null,\"pageType\":\"GuestPage\",\"processType\":2,\"userAgentOverride\":null,\"sessionTypeInfos\":[]});</script>\n<SessionInfo><SID>a29d421feecf680a</SID><Challenge>680a</Challenge><BlockTime>0</BlockTime><Rights></Rights><Users><User last=\"1\">fritzr</User></Users></SessionInfo>\n<Account>\n<Entry0 Active=\"Yes\" username=\"CMCCAdmin\" web_passwd=\"CmcC4dm1n5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<Entry1 Active=\"Yes\" username=\"useradmin\" web_passwd=\"Gu4ngx1pd5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<Ent",
+      "url": "https://139.144.18.139:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "181.212.168.25": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Transfer-Encoding": "chunked",
+        "Accept-Ranges": "none",
+        "Cache-Control": "no-store, no-cache, must-revalidate",
+        "Content-Type": "text/html; charset=utf-8",
+        "Date": "Sat, 12 Jul 2025 04:52:02 GMT",
+        "Expires": "Sat, 12 Jul 2025 04:52:02 GMT",
+        "Last-Modified": "Sat, 12 Jul 2025 04:52:02 GMT",
+        "Server": "openresty",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "SAMEORIGIN",
+        "X-Xss-Protection": "1; mode=block"
+      },
+      "content": "<script>window.onload=function(){ url ='/webui';window.location.href=url;}</script>",
+      "url": "http://181.212.168.25:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Server": "openresty",
+        "Date": "Sat, 12 Jul 2025 04:52:05 GMT",
+        "Content-Type": "text/html; charset=utf-8",
+        "Transfer-Encoding": "chunked",
+        "Connection": "close",
+        "Expires": "Sat, 12 Jul 2025 04:52:05 GMT",
+        "Last-Modified": "Sat, 12 Jul 2025 04:52:05 GMT",
+        "Cache-Control": "no-store, no-cache, must-revalidate",
+        "Accept-Ranges": "none",
+        "X-XSS-Protection": "1; mode=block",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "SAMEORIGIN",
+        "Strict-Transport-Security": "max-age=7884000"
+      },
+      "content": "<script>window.onload=function(){ url ='/webui';window.location.href=url;}</script>",
+      "url": "https://181.212.168.25:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "139.180.206.8": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://139.180.206.8:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='139.180.206.8', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1028)')))",
+      "url": "https://139.180.206.8:443",
+      "success": false
+    }
+  },
+  "80.248.7.97": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://80.248.7.97:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='80.248.7.97', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://80.248.7.97:443",
+      "success": false
+    }
+  },
+  "172.232.206.53": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://172.232.206.53:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='172.232.206.53', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1028)')))",
+      "url": "https://172.232.206.53:443",
+      "success": false
+    }
+  },
+  "117.242.189.66": {
+    "port_80": {
+      "status_code": 401,
+      "headers": {
+        "Connection": "close",
+        "Accept-Ranges": "none",
+        "Date": "Sat, 12 Jul 2025 05:02:43 GMT",
+        "Server": "cisco-IOS",
+        "Www-Authenticate": "Basic realm=\"level_15 or view_access\""
+      },
+      "content": "401 Unauthorized\r\n",
+      "url": "http://117.242.189.66:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='117.242.189.66', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1028)')))",
+      "url": "https://117.242.189.66:443",
+      "success": false
+    }
+  },
+  "96.75.66.114": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://96.75.66.114:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='96.75.66.114', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://96.75.66.114:443",
+      "success": false
+    }
+  },
+  "197.149.231.233": {
+    "port_80": {
+      "status_code": 401,
+      "headers": {
+        "Connection": "close",
+        "Accept-Ranges": "none",
+        "Date": "Sat, 12 Jul 2025 05:02:38 GMT",
+        "Server": "cisco-IOS",
+        "Www-Authenticate": "Basic realm=\"level_15_access\""
+      },
+      "content": "401 Unauthorized\r\n",
+      "url": "http://197.149.231.233:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='197.149.231.233', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://197.149.231.233:443",
+      "success": false
+    }
+  },
+  "216.238.99.75": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://216.238.99.75:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='216.238.99.75', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1028)')))",
+      "url": "https://216.238.99.75:443",
+      "success": false
+    }
+  },
+  "172.105.192.126": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://172.105.192.126:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "读取超时",
+      "url": "https://172.105.192.126:443",
+      "success": false
+    }
+  },
+  "200.25.45.110": {
+    "port_80": {
+      "status_code": 301,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "59",
+        "Content-Type": "text/html; charset=utf-8",
+        "Date": "Sat, 12 Jul 2025 05:09:33 GMT",
+        "Location": "https://ipinfo.io/census"
+      },
+      "content": "<a href=\"https://ipinfo.io/census\">Moved Permanently</a>.\n\n",
+      "url": "http://200.25.45.110:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='200.25.45.110', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://200.25.45.110:443",
+      "success": false
+    }
+  },
+  "64.176.35.172": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://64.176.35.172:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='64.176.35.172', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1028)')))",
+      "url": "https://64.176.35.172:443",
+      "success": false
+    }
+  },
+  "117.6.161.234": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://117.6.161.234:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='117.6.161.234', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://117.6.161.234:443",
+      "success": false
+    }
+  },
+  "41.159.138.49": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Transfer-Encoding": "chunked",
+        "Accept-Ranges": "none",
+        "Cache-Control": "no-store, no-cache, must-revalidate",
+        "Content-Type": "text/html; charset=utf-8",
+        "Date": "Sat, 12 Jul 2025 05:19:22 GMT",
+        "Expires": "Sat, 12 Jul 2025 05:19:22 GMT",
+        "Last-Modified": "Sat, 12 Jul 2025 05:19:22 GMT",
+        "Server": "openresty",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "SAMEORIGIN",
+        "X-Xss-Protection": "1; mode=block"
+      },
+      "content": "<script>window.onload=function(){ url ='/webui';window.location.href=url;}</script>",
+      "url": "http://41.159.138.49:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Server": "openresty",
+        "Date": "Sat, 12 Jul 2025 05:19:25 GMT",
+        "Content-Type": "text/html; charset=utf-8",
+        "Transfer-Encoding": "chunked",
+        "Connection": "close",
+        "Expires": "Sat, 12 Jul 2025 05:19:25 GMT",
+        "Last-Modified": "Sat, 12 Jul 2025 05:19:25 GMT",
+        "Cache-Control": "no-store, no-cache, must-revalidate",
+        "Accept-Ranges": "none",
+        "X-XSS-Protection": "1; mode=block",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "SAMEORIGIN",
+        "Strict-Transport-Security": "max-age=7884000"
+      },
+      "content": "<script>window.onload=function(){ url ='/webui';window.location.href=url;}</script>",
+      "url": "https://41.159.138.49:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "181.49.137.41": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://181.49.137.41:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='181.49.137.41', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://181.49.137.41:443",
+      "success": false
+    }
+  },
+  "45.33.31.144": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://45.33.31.144:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='45.33.31.144', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1028)')))",
+      "url": "https://45.33.31.144:443",
+      "success": false
+    }
+  },
+  "218.216.64.146": {
+    "port_80": {
+      "status_code": 401,
+      "headers": {
+        "Connection": "close",
+        "Accept-Ranges": "none",
+        "Date": "Sat, 12 Jul 2025 05:10:49 GMT",
+        "Server": "cisco-IOS",
+        "Www-Authenticate": "Basic realm=\"level_15 or view_access\""
+      },
+      "content": "401 Unauthorized\r\n",
+      "url": "http://218.216.64.146:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='218.216.64.146', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1028)')))",
+      "url": "https://218.216.64.146:443",
+      "success": false
+    }
+  },
+  "64.225.75.105": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://64.225.75.105:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='64.225.75.105', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://64.225.75.105:443",
+      "success": false
+    }
+  },
+  "210.65.65.254": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://210.65.65.254:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='210.65.65.254', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://210.65.65.254:443",
+      "success": false
+    }
+  },
+  "176.236.151.210": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://176.236.151.210:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='176.236.151.210', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://176.236.151.210:443",
+      "success": false
+    }
+  },
+  "192.36.61.58": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://192.36.61.58:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='192.36.61.58', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1028)')))",
+      "url": "https://192.36.61.58:443",
+      "success": false
+    }
+  },
+  "172.104.86.58": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://172.104.86.58:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "读取超时",
+      "url": "https://172.104.86.58:443",
+      "success": false
+    }
+  },
+  "64.176.168.129": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://64.176.168.129:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='64.176.168.129', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1028)')))",
+      "url": "https://64.176.168.129:443",
+      "success": false
+    }
+  },
+  "64.176.5.58": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://64.176.5.58:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='64.176.5.58', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1028)')))",
+      "url": "https://64.176.5.58:443",
+      "success": false
+    }
+  },
+  "45.79.92.244": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://45.79.92.244:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='45.79.92.244', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1028)')))",
+      "url": "https://45.79.92.244:443",
+      "success": false
+    }
+  },
+  "196.219.45.17": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://196.219.45.17:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='196.219.45.17', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1028)')))",
+      "url": "https://196.219.45.17:443",
+      "success": false
+    }
+  },
+  "172.232.163.245": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "3041",
+        "Accept-Ranges": "bytes",
+        "Content-Encoding": "gzip",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 05:14:53 GMT",
+        "Etag": "\"29cd-639897fceddcf-gzip\"",
+        "Last-Modified": "Thu, 10 Jul 2025 01:56:17 GMT",
+        "Server": "Apache/2.4.62 (Debian)",
+        "Vary": "Accept-Encoding"
+      },
+      "content": "\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\n  <head>\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n    <title>Apache2 Debian Default Page: It works</title>\n    <style type=\"text/css\" media=\"screen\">\n  * {\n    margin: 0px 0px 0px 0px;\n    padding: 0px 0px 0px 0px;\n  }\n\n  body, html {\n    padding: 3px 3px 3px 3px;\n\n    background-color: #D8DBE2;\n\n    font-family: Verdana, sans-serif;\n    font-size: 11pt;\n    text-align: center;\n  }\n\n  div.main_page {\n    position: relative;\n    display: table;\n\n    width: 800px;\n\n    margin-bottom: 3px;\n    margin-left: auto;\n    margin-right: auto;\n    padding: 0px 0px 0px 0px;\n\n    border-width: 2px;\n    border-color: #212738;\n    border-style: solid;\n\n    background-color: #FFFFFF;\n\n    text-align: center;\n  }\n\n  div.page_header {\n    height: 99px;\n    width: 100%;\n\n    background-color: #F5F6F7;\n  }\n\n  div.page_header span {\n    margin: 15px 0px 0px 50px;\n\n    font-size: 180%;\n    font-weight: bold;\n  }\n\n  div.page_header img {\n    margin: 3px 0px 0px 40px;\n\n    border: 0px 0px 0px;\n  }\n\n  div.table_of_contents {\n    clear: left;\n\n    min-width: 200px;\n\n    margin: 3px 3px 3px 3px;\n\n    background-color: #FFFFFF;\n\n    text-align: left;\n  }\n\n  div.table_of_contents_item {\n    clear: left;\n\n    width: 100%;\n\n    margin: 4px 0px 0px 0px;\n\n    background-color: #FFFFFF;\n\n    color: #000000;\n    text-align: left;\n  }\n\n  div.table_of_contents_item a {\n    margin: 6px 0px 0px 6px;\n  }\n\n  div.content_section {\n    margin: 3px 3px 3px 3px;\n\n    background-color: #FFFFFF;\n\n    text-align: left;\n  }\n\n  div.content_section_text {\n    padding: 4px 8px 4px 8px;\n\n    color: #000000;\n    font-size: 100%;\n  }\n\n  div.content_section_text pre {\n    margin: 8px 0px 8px 0px;\n    padding: 8px 8px 8px 8px;\n\n    border-width: 1px;\n    border-style: dotted;\n    border-color: #000000;\n\n    background-color: ",
+      "url": "http://172.232.163.245:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='172.232.163.245', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://172.232.163.245:443",
+      "success": false
+    }
+  },
+  "170.64.173.41": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://170.64.173.41:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='170.64.173.41', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1028)')))",
+      "url": "https://170.64.173.41:443",
+      "success": false
+    }
+  },
+  "118.189.135.70": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://118.189.135.70:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='118.189.135.70', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://118.189.135.70:443",
+      "success": false
+    }
+  },
+  "95.248.133.149": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "480",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 06:15:25 GMT",
+        "Etag": "\"0-f81-1e0\"",
+        "Last-Modified": "Thu, 02 Apr 2020 10:51:10 GMT",
+        "Server": "Webs",
+        "X-Frame-Options": "SAMEORIGIN"
+      },
+      "content": "ï»¿<!doctype html>\r\n<html>\r\n<head>\r\n\t<title></title>\r\n\t<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\r\n\t<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" >\r\n\t<meta http-equiv=\"Pragma\" content=\"no-cache\" />\r\n\t<meta http-equiv=\"Cache-Control\" content=\"no-cache, must-revalidate\" />\r\n\t<meta http-equiv=\"Expires\" content=\"0\" />\r\n</head>\r\n<body>\r\n</body>\r\n<script>\r\n\twindow.location.href = \"/doc/page/login.asp?_\" + (new Date()).getTime();\r\n</script>\r\n</html>",
+      "url": "http://95.248.133.149:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='95.248.133.149', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://95.248.133.149:443",
+      "success": false
+    }
+  },
+  "194.72.28.27": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://194.72.28.27:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='194.72.28.27', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://194.72.28.27:443",
+      "success": false
+    }
+  },
+  "96.126.120.21": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "120778",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 05:16:07 GMT",
+        "Server": "Apache/2.4.46 (Unix) OpenSSL/1.1.1j"
+      },
+      "content": "<!DOCTYPE html>\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n<meta http-equiv=\"Pragma\" content=\"no-cache\" />\n<meta charset=\"utf-8\">\n<meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\">\n<meta content=\"object\" property=\"og:type\">\n<meta content=\"GitLab\" property=\"og:site_name\">\n<meta content=\"Help\" property=\"og:title\">\n<meta content=\"GitLab Community Edition\" property=\"og:description\">\n<meta content=\"summary\" property=\"twitter:card\">\n<meta content=\"Help\" property=\"twitter:title\">\n<meta content=\"GitLab Community Edition\" property=\"twitter:description\">\n<meta content=\"GitLab Community Edition\" name=\"description\">\n<meta content=\"#484D57\" name=\"theme-color\">\n<meta content=\"#38353E\" name=\"msapplication-TileColor\">\n<meta name=\"csrf-param\" content=\"authenticity_token\" />\n<meta name=\"csrf-token\" content=\"8dcb74a64dc984fb9abe3e7c201f810d9ec90ed8e4ca73c63bba87f8ffd439112101e5==\" />\n<title>ç³»ç»ç»å½</title>\n</head>\n<body>\n<div style=\"display: none;\">\n<script>SC.util.mergeIntoContext({\"focusedControlID\":null,\"userName\":\"\",\"userDisplayName\":\"\",\"isUserAuthenticated\":false,\"antiForgeryToken\":\"THtoAUxH4sS9\",\"isUserAdministrator\":false,\"canManageSharedToolbox\":false,\"pageBaseFileName\":\"Guest\",\"notifyActivityFrequencyMilliseconds\":600000,\"loginAfterInactivityMilliseconds\":36000000,\"canChangePassword\":false,\"controlPanelUrl\":null,\"pageType\":\"GuestPage\",\"processType\":2,\"userAgentOverride\":null,\"sessionTypeInfos\":[]});</script>\n<SessionInfo><SID>a29d421feecf680a</SID><Challenge>680a</Challenge><BlockTime>0</BlockTime><Rights></Rights><Users><User last=\"1\">fritzr</User></Users></SessionInfo>\n<Account>\n<Entry0 Active=\"Yes\" username=\"CMCCAdmin\" web_passwd=\"CmcC4dm1n5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<Entry1 Active=\"Yes\" username=\"useradmin\" web_passwd=\"Gu4ngx1pd5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<Entr",
+      "url": "http://96.126.120.21:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Content-Length": "120791",
+        "Content-Type": "text/html",
+        "Server": "SP-XML",
+        "Date": "Sat, 12 Jul 2025 05:16:14 GMT",
+        "Connection": "close"
+      },
+      "content": "<!DOCTYPE html>\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n<meta http-equiv=\"Pragma\" content=\"no-cache\" />\n<meta charset=\"utf-8\">\n<meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\">\n<meta content=\"object\" property=\"og:type\">\n<meta content=\"GitLab\" property=\"og:site_name\">\n<meta content=\"Help\" property=\"og:title\">\n<meta content=\"GitLab Community Edition\" property=\"og:description\">\n<meta content=\"summary\" property=\"twitter:card\">\n<meta content=\"Help\" property=\"twitter:title\">\n<meta content=\"GitLab Community Edition\" property=\"twitter:description\">\n<meta content=\"GitLab Community Edition\" name=\"description\">\n<meta content=\"#484D57\" name=\"theme-color\">\n<meta content=\"#38353E\" name=\"msapplication-TileColor\">\n<meta name=\"csrf-param\" content=\"authenticity_token\" />\n<meta name=\"csrf-token\" content=\"8dcb74a64dc984fb9abe3e7c201f810d9ec90ed8e4ca73c63bba87f8ffd439112101e5==\" />\n<title>Welcome to VioStor System</title>\n</head>\n<body>\n<div style=\"display: none;\">\n<script>SC.util.mergeIntoContext({\"focusedControlID\":null,\"userName\":\"\",\"userDisplayName\":\"\",\"isUserAuthenticated\":false,\"antiForgeryToken\":\"THtoAUxH4sS9\",\"isUserAdministrator\":false,\"canManageSharedToolbox\":false,\"pageBaseFileName\":\"Guest\",\"notifyActivityFrequencyMilliseconds\":600000,\"loginAfterInactivityMilliseconds\":36000000,\"canChangePassword\":false,\"controlPanelUrl\":null,\"pageType\":\"GuestPage\",\"processType\":2,\"userAgentOverride\":null,\"sessionTypeInfos\":[]});</script>\n<SessionInfo><SID>a29d421feecf680a</SID><Challenge>680a</Challenge><BlockTime>0</BlockTime><Rights></Rights><Users><User last=\"1\">fritzr</User></Users></SessionInfo>\n<Account>\n<Entry0 Active=\"Yes\" username=\"CMCCAdmin\" web_passwd=\"CmcC4dm1n5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<Entry1 Active=\"Yes\" username=\"useradmin\" web_passwd=\"Gu4ngx1pd5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.",
+      "url": "https://96.126.120.21:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "159.16.16.70": {
+    "port_80": {
+      "status_code": 401,
+      "headers": {
+        "Connection": "close",
+        "Accept-Ranges": "none",
+        "Date": "Sat, 12 Jul 2025 04:06:15 GMT",
+        "Server": "cisco-IOS",
+        "Www-Authenticate": "Basic realm=\"level_15 or view_access\""
+      },
+      "content": "401 Unauthorized\r\n",
+      "url": "http://159.16.16.70:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='159.16.16.70', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1028)')))",
+      "url": "https://159.16.16.70:443",
+      "success": false
+    }
+  },
+  "66.9.167.35": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Transfer-Encoding": "chunked",
+        "Accept-Ranges": "none",
+        "Cache-Control": "no-store, no-cache, must-revalidate",
+        "Content-Type": "text/html; charset=utf-8",
+        "Date": "Sat, 12 Jul 2025 05:17:35 GMT",
+        "Expires": "Sat, 12 Jul 2025 05:17:35 GMT",
+        "Last-Modified": "Sat, 12 Jul 2025 05:17:35 GMT",
+        "Server": "openresty",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "SAMEORIGIN",
+        "X-Xss-Protection": "1; mode=block"
+      },
+      "content": "<script>window.onload=function(){ url ='/webui/';window.location.href=url;}</script>",
+      "url": "http://66.9.167.35:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Server": "openresty",
+        "Date": "Sat, 12 Jul 2025 05:17:38 GMT",
+        "Content-Type": "text/html; charset=utf-8",
+        "Transfer-Encoding": "chunked",
+        "Connection": "close",
+        "Expires": "Sat, 12 Jul 2025 05:17:38 GMT",
+        "Last-Modified": "Sat, 12 Jul 2025 05:17:38 GMT",
+        "Cache-Control": "no-store, no-cache, must-revalidate",
+        "Accept-Ranges": "none",
+        "X-XSS-Protection": "1; mode=block",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "SAMEORIGIN",
+        "Strict-Transport-Security": "max-age=31536000"
+      },
+      "content": "<script>window.onload=function(){ url ='/webui/';window.location.href=url;}</script>",
+      "url": "https://66.9.167.35:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "103.15.240.89": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://103.15.240.89:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='103.15.240.89', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1028)')))",
+      "url": "https://103.15.240.89:443",
+      "success": false
+    }
+  },
+  "198.58.103.106": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "120786",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 05:17:59 GMT",
+        "Server": "web"
+      },
+      "content": "<!DOCTYPE html>\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n<meta http-equiv=\"Pragma\" content=\"no-cache\" />\n<meta charset=\"utf-8\">\n<meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\">\n<meta content=\"object\" property=\"og:type\">\n<meta content=\"GitLab\" property=\"og:site_name\">\n<meta content=\"Help\" property=\"og:title\">\n<meta content=\"GitLab Community Edition\" property=\"og:description\">\n<meta content=\"summary\" property=\"twitter:card\">\n<meta content=\"Help\" property=\"twitter:title\">\n<meta content=\"GitLab Community Edition\" property=\"twitter:description\">\n<meta content=\"GitLab Community Edition\" name=\"description\">\n<meta content=\"#484D57\" name=\"theme-color\">\n<meta content=\"#38353E\" name=\"msapplication-TileColor\">\n<meta name=\"csrf-param\" content=\"authenticity_token\" />\n<meta name=\"csrf-token\" content=\"8dcb74a64dc984fb9abe3e7c201f810d9ec90ed8e4ca73c63bba87f8ffd439112101e5==\" />\n<title>Radius Settings</title>\n</head>\n<body>\n<div style=\"display: none;\">\n<script>SC.util.mergeIntoContext({\"focusedControlID\":null,\"userName\":\"\",\"userDisplayName\":\"\",\"isUserAuthenticated\":false,\"antiForgeryToken\":\"THtoAUxH4sS9\",\"isUserAdministrator\":false,\"canManageSharedToolbox\":false,\"pageBaseFileName\":\"Guest\",\"notifyActivityFrequencyMilliseconds\":600000,\"loginAfterInactivityMilliseconds\":36000000,\"canChangePassword\":false,\"controlPanelUrl\":null,\"pageType\":\"GuestPage\",\"processType\":2,\"userAgentOverride\":null,\"sessionTypeInfos\":[]});</script>\n<SessionInfo><SID>a29d421feecf680a</SID><Challenge>680a</Challenge><BlockTime>0</BlockTime><Rights></Rights><Users><User last=\"1\">fritzr</User></Users></SessionInfo>\n<Account>\n<Entry0 Active=\"Yes\" username=\"CMCCAdmin\" web_passwd=\"CmcC4dm1n5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<Entry1 Active=\"Yes\" username=\"useradmin\" web_passwd=\"Gu4ngx1pd5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<E",
+      "url": "http://198.58.103.106:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Content-Length": "120784",
+        "Content-Type": "text/html",
+        "Server": "WebSocket",
+        "Date": "Sat, 12 Jul 2025 05:18:06 GMT",
+        "Connection": "close"
+      },
+      "content": "<!DOCTYPE html>\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n<meta http-equiv=\"Pragma\" content=\"no-cache\" />\n<meta charset=\"utf-8\">\n<meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\">\n<meta content=\"object\" property=\"og:type\">\n<meta content=\"GitLab\" property=\"og:site_name\">\n<meta content=\"Help\" property=\"og:title\">\n<meta content=\"GitLab Community Edition\" property=\"og:description\">\n<meta content=\"summary\" property=\"twitter:card\">\n<meta content=\"Help\" property=\"twitter:title\">\n<meta content=\"GitLab Community Edition\" property=\"twitter:description\">\n<meta content=\"GitLab Community Edition\" name=\"description\">\n<meta content=\"#484D57\" name=\"theme-color\">\n<meta content=\"#38353E\" name=\"msapplication-TileColor\">\n<meta name=\"csrf-param\" content=\"authenticity_token\" />\n<meta name=\"csrf-token\" content=\"8dcb74a64dc984fb9abe3e7c201f810d9ec90ed8e4ca73c63bba87f8ffd439112101e5==\" />\n<title>FWR7102 Login</title>\n</head>\n<body>\n<div style=\"display: none;\">\n<script>SC.util.mergeIntoContext({\"focusedControlID\":null,\"userName\":\"\",\"userDisplayName\":\"\",\"isUserAuthenticated\":false,\"antiForgeryToken\":\"THtoAUxH4sS9\",\"isUserAdministrator\":false,\"canManageSharedToolbox\":false,\"pageBaseFileName\":\"Guest\",\"notifyActivityFrequencyMilliseconds\":600000,\"loginAfterInactivityMilliseconds\":36000000,\"canChangePassword\":false,\"controlPanelUrl\":null,\"pageType\":\"GuestPage\",\"processType\":2,\"userAgentOverride\":null,\"sessionTypeInfos\":[]});</script>\n<SessionInfo><SID>a29d421feecf680a</SID><Challenge>680a</Challenge><BlockTime>0</BlockTime><Rights></Rights><Users><User last=\"1\">fritzr</User></Users></SessionInfo>\n<Account>\n<Entry0 Active=\"Yes\" username=\"CMCCAdmin\" web_passwd=\"CmcC4dm1n5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<Entry1 Active=\"Yes\" username=\"useradmin\" web_passwd=\"Gu4ngx1pd5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<Ent",
+      "url": "https://198.58.103.106:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "154.113.171.138": {
+    "port_80": {
+      "status_code": 401,
+      "headers": {
+        "Connection": "close",
+        "Accept-Ranges": "none",
+        "Date": "Sat, 12 Jul 2025 03:22:29 GMT",
+        "Server": "cisco-IOS",
+        "Www-Authenticate": "Basic realm=\"level_15 or view_access\""
+      },
+      "content": "401 Unauthorized\r\n",
+      "url": "http://154.113.171.138:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='154.113.171.138', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1028)')))",
+      "url": "https://154.113.171.138:443",
+      "success": false
+    }
+  },
+  "216.182.109.0": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://216.182.109.0:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "读取超时",
+      "url": "https://216.182.109.0:443",
+      "success": false
+    }
+  },
+  "194.36.90.164": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://194.36.90.164:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='194.36.90.164', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1028)')))",
+      "url": "https://194.36.90.164:443",
+      "success": false
+    }
+  },
+  "143.42.229.113": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://143.42.229.113:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "读取超时",
+      "url": "https://143.42.229.113:443",
+      "success": false
+    }
+  },
+  "74.207.227.122": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "120794",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 05:37:57 GMT",
+        "Server": "BIG-IP"
+      },
+      "content": "<!DOCTYPE html>\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n<meta http-equiv=\"Pragma\" content=\"no-cache\" />\n<meta charset=\"utf-8\">\n<meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\">\n<meta content=\"object\" property=\"og:type\">\n<meta content=\"GitLab\" property=\"og:site_name\">\n<meta content=\"Help\" property=\"og:title\">\n<meta content=\"GitLab Community Edition\" property=\"og:description\">\n<meta content=\"summary\" property=\"twitter:card\">\n<meta content=\"Help\" property=\"twitter:title\">\n<meta content=\"GitLab Community Edition\" property=\"twitter:description\">\n<meta content=\"GitLab Community Edition\" name=\"description\">\n<meta content=\"#484D57\" name=\"theme-color\">\n<meta content=\"#38353E\" name=\"msapplication-TileColor\">\n<meta name=\"csrf-param\" content=\"authenticity_token\" />\n<meta name=\"csrf-token\" content=\"8dcb74a64dc984fb9abe3e7c201f810d9ec90ed8e4ca73c63bba87f8ffd439112101e5==\" />\n<title>Hanwha Vision WebViewer</title>\n</head>\n<body>\n<div style=\"display: none;\">\n<script>SC.util.mergeIntoContext({\"focusedControlID\":null,\"userName\":\"\",\"userDisplayName\":\"\",\"isUserAuthenticated\":false,\"antiForgeryToken\":\"THtoAUxH4sS9\",\"isUserAdministrator\":false,\"canManageSharedToolbox\":false,\"pageBaseFileName\":\"Guest\",\"notifyActivityFrequencyMilliseconds\":600000,\"loginAfterInactivityMilliseconds\":36000000,\"canChangePassword\":false,\"controlPanelUrl\":null,\"pageType\":\"GuestPage\",\"processType\":2,\"userAgentOverride\":null,\"sessionTypeInfos\":[]});</script>\n<SessionInfo><SID>a29d421feecf680a</SID><Challenge>680a</Challenge><BlockTime>0</BlockTime><Rights></Rights><Users><User last=\"1\">fritzr</User></Users></SessionInfo>\n<Account>\n<Entry0 Active=\"Yes\" username=\"CMCCAdmin\" web_passwd=\"CmcC4dm1n5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<Entry1 Active=\"Yes\" username=\"useradmin\" web_passwd=\"Gu4ngx1pd5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.",
+      "url": "http://74.207.227.122:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Content-Length": "120780",
+        "Content-Type": "text/html",
+        "Server": "Linux/2.6.37, UPnP/1.0, Portable SDK for UPnP devices/1.4.7",
+        "Date": "Sat, 12 Jul 2025 05:38:05 GMT",
+        "Connection": "close"
+      },
+      "content": "<!DOCTYPE html>\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n<meta http-equiv=\"Pragma\" content=\"no-cache\" />\n<meta charset=\"utf-8\">\n<meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\">\n<meta content=\"object\" property=\"og:type\">\n<meta content=\"GitLab\" property=\"og:site_name\">\n<meta content=\"Help\" property=\"og:title\">\n<meta content=\"GitLab Community Edition\" property=\"og:description\">\n<meta content=\"summary\" property=\"twitter:card\">\n<meta content=\"Help\" property=\"twitter:title\">\n<meta content=\"GitLab Community Edition\" property=\"twitter:description\">\n<meta content=\"GitLab Community Edition\" name=\"description\">\n<meta content=\"#484D57\" name=\"theme-color\">\n<meta content=\"#38353E\" name=\"msapplication-TileColor\">\n<meta name=\"csrf-param\" content=\"authenticity_token\" />\n<meta name=\"csrf-token\" content=\"8dcb74a64dc984fb9abe3e7c201f810d9ec90ed8e4ca73c63bba87f8ffd439112101e5==\" />\n<title>è¿ç¨é</title>\n</head>\n<body>\n<div style=\"display: none;\">\n<script>SC.util.mergeIntoContext({\"focusedControlID\":null,\"userName\":\"\",\"userDisplayName\":\"\",\"isUserAuthenticated\":false,\"antiForgeryToken\":\"THtoAUxH4sS9\",\"isUserAdministrator\":false,\"canManageSharedToolbox\":false,\"pageBaseFileName\":\"Guest\",\"notifyActivityFrequencyMilliseconds\":600000,\"loginAfterInactivityMilliseconds\":36000000,\"canChangePassword\":false,\"controlPanelUrl\":null,\"pageType\":\"GuestPage\",\"processType\":2,\"userAgentOverride\":null,\"sessionTypeInfos\":[]});</script>\n<SessionInfo><SID>a29d421feecf680a</SID><Challenge>680a</Challenge><BlockTime>0</BlockTime><Rights></Rights><Users><User last=\"1\">fritzr</User></Users></SessionInfo>\n<Account>\n<Entry0 Active=\"Yes\" username=\"CMCCAdmin\" web_passwd=\"CmcC4dm1n5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<Entry1 Active=\"Yes\" username=\"useradmin\" web_passwd=\"Gu4ngx1pd5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<Entry2 ",
+      "url": "https://74.207.227.122:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "45.79.239.204": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "107",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html"
+      },
+      "content": "<html><body><h1>502 Bad Gateway</h1>\nThe server returned an invalid or incomplete response.\n</body></html>\n",
+      "url": "http://45.79.239.204:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='45.79.239.204', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1028)')))",
+      "url": "https://45.79.239.204:443",
+      "success": false
+    }
+  },
+  "143.42.229.124": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://143.42.229.124:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "读取超时",
+      "url": "https://143.42.229.124:443",
+      "success": false
+    }
+  },
+  "216.218.92.15": {
+    "port_80": {
+      "status_code": 401,
+      "headers": {
+        "Connection": "close",
+        "Accept-Ranges": "none",
+        "Date": "Sat, 12 Jul 2025 03:50:43 GMT",
+        "Server": "cisco-IOS",
+        "Www-Authenticate": "Basic realm=\"level_15 or view_access\""
+      },
+      "content": "401 Unauthorized\r\n",
+      "url": "http://216.218.92.15:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='216.218.92.15', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1028)')))",
+      "url": "https://216.218.92.15:443",
+      "success": false
+    }
+  },
+  "200.1.174.3": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://200.1.174.3:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='200.1.174.3', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://200.1.174.3:443",
+      "success": false
+    }
+  },
+  "45.79.5.170": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "120770",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 05:22:55 GMT",
+        "Server": "HTTPServer1.0"
+      },
+      "content": "<!DOCTYPE html>\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n<meta http-equiv=\"Pragma\" content=\"no-cache\" />\n<meta charset=\"utf-8\">\n<meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\">\n<meta content=\"object\" property=\"og:type\">\n<meta content=\"GitLab\" property=\"og:site_name\">\n<meta content=\"Help\" property=\"og:title\">\n<meta content=\"GitLab Community Edition\" property=\"og:description\">\n<meta content=\"summary\" property=\"twitter:card\">\n<meta content=\"Help\" property=\"twitter:title\">\n<meta content=\"GitLab Community Edition\" property=\"twitter:description\">\n<meta content=\"GitLab Community Edition\" name=\"description\">\n<meta content=\"#484D57\" name=\"theme-color\">\n<meta content=\"#38353E\" name=\"msapplication-TileColor\">\n<meta name=\"csrf-param\" content=\"authenticity_token\" />\n<meta name=\"csrf-token\" content=\"8dcb74a64dc984fb9abe3e7c201f810d9ec90ed8e4ca73c63bba87f8ffd439112101e5==\" />\n<title>filbornaskolan</title>\n</head>\n<body>\n<div style=\"display: none;\">\n<script>SC.util.mergeIntoContext({\"focusedControlID\":null,\"userName\":\"\",\"userDisplayName\":\"\",\"isUserAuthenticated\":false,\"antiForgeryToken\":\"THtoAUxH4sS9\",\"isUserAdministrator\":false,\"canManageSharedToolbox\":false,\"pageBaseFileName\":\"Guest\",\"notifyActivityFrequencyMilliseconds\":600000,\"loginAfterInactivityMilliseconds\":36000000,\"canChangePassword\":false,\"controlPanelUrl\":null,\"pageType\":\"GuestPage\",\"processType\":2,\"userAgentOverride\":null,\"sessionTypeInfos\":[]});</script>\n<SessionInfo><SID>a29d421feecf680a</SID><Challenge>680a</Challenge><BlockTime>0</BlockTime><Rights></Rights><Users><User last=\"1\">fritzr</User></Users></SessionInfo>\n<Account>\n<Entry0 Active=\"Yes\" username=\"CMCCAdmin\" web_passwd=\"CmcC4dm1n5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<Entry1 Active=\"Yes\" username=\"useradmin\" web_passwd=\"Gu4ngx1pd5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<En",
+      "url": "http://45.79.5.170:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Content-Length": "120790",
+        "Content-Type": "text/html",
+        "Server": "TeleEye/1.1",
+        "Date": "Sat, 12 Jul 2025 05:23:03 GMT",
+        "Connection": "close"
+      },
+      "content": "<!DOCTYPE html>\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n<meta http-equiv=\"Pragma\" content=\"no-cache\" />\n<meta charset=\"utf-8\">\n<meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\">\n<meta content=\"object\" property=\"og:type\">\n<meta content=\"GitLab\" property=\"og:site_name\">\n<meta content=\"Help\" property=\"og:title\">\n<meta content=\"GitLab Community Edition\" property=\"og:description\">\n<meta content=\"summary\" property=\"twitter:card\">\n<meta content=\"Help\" property=\"twitter:title\">\n<meta content=\"GitLab Community Edition\" property=\"twitter:description\">\n<meta content=\"GitLab Community Edition\" name=\"description\">\n<meta content=\"#484D57\" name=\"theme-color\">\n<meta content=\"#38353E\" name=\"msapplication-TileColor\">\n<meta name=\"csrf-param\" content=\"authenticity_token\" />\n<meta name=\"csrf-token\" content=\"8dcb74a64dc984fb9abe3e7c201f810d9ec90ed8e4ca73c63bba87f8ffd439112101e5==\" />\n<title>KEVIN â åä¸ä¸ªWordPressç«ç¹</title>\n</head>\n<body>\n<div style=\"display: none;\">\n<script>SC.util.mergeIntoContext({\"focusedControlID\":null,\"userName\":\"\",\"userDisplayName\":\"\",\"isUserAuthenticated\":false,\"antiForgeryToken\":\"THtoAUxH4sS9\",\"isUserAdministrator\":false,\"canManageSharedToolbox\":false,\"pageBaseFileName\":\"Guest\",\"notifyActivityFrequencyMilliseconds\":600000,\"loginAfterInactivityMilliseconds\":36000000,\"canChangePassword\":false,\"controlPanelUrl\":null,\"pageType\":\"GuestPage\",\"processType\":2,\"userAgentOverride\":null,\"sessionTypeInfos\":[]});</script>\n<SessionInfo><SID>a29d421feecf680a</SID><Challenge>680a</Challenge><BlockTime>0</BlockTime><Rights></Rights><Users><User last=\"1\">fritzr</User></Users></SessionInfo>\n<Account>\n<Entry0 Active=\"Yes\" username=\"CMCCAdmin\" web_passwd=\"CmcC4dm1n5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<Entry1 Active=\"Yes\" username=\"useradmin\" web_passwd=\"Gu4ngx1pd5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=",
+      "url": "https://45.79.5.170:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "199.68.13.6": {
+    "port_80": {
+      "status_code": 401,
+      "headers": {
+        "Connection": "close",
+        "Accept-Ranges": "none",
+        "Date": "Sat, 12 Jul 2025 04:55:46 GMT",
+        "Server": "cisco-IOS",
+        "Www-Authenticate": "Basic realm=\"level_15 or view_access\""
+      },
+      "content": "401 Unauthorized\r\n",
+      "url": "http://199.68.13.6:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='199.68.13.6', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://199.68.13.6:443",
+      "success": false
+    }
+  },
+  "164.92.130.137": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://164.92.130.137:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='164.92.130.137', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1028)')))",
+      "url": "https://164.92.130.137:443",
+      "success": false
+    }
+  },
+  "200.54.73.249": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://200.54.73.249:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='200.54.73.249', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://200.54.73.249:443",
+      "success": false
+    }
+  },
+  "69.17.131.225": {
+    "port_80": {
+      "status_code": 401,
+      "headers": {
+        "Connection": "close",
+        "Accept-Ranges": "none",
+        "Date": "Sat, 12 Jul 2025 12:05:29 GMT",
+        "Server": "cisco-IOS",
+        "Www-Authenticate": "Basic realm=\"level_15_access\""
+      },
+      "content": "401 Unauthorized\r\n",
+      "url": "http://69.17.131.225:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='69.17.131.225', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1028)')))",
+      "url": "https://69.17.131.225:443",
+      "success": false
+    }
+  },
+  "190.202.56.10": {
+    "port_80": {
+      "status_code": 401,
+      "headers": {
+        "Connection": "close",
+        "Accept-Ranges": "none",
+        "Date": "Sat, 12 Jul 2025 06:01:34 GMT",
+        "Server": "cisco-IOS",
+        "Www-Authenticate": "Basic realm=\"level_15 or view_access\""
+      },
+      "content": "401 Unauthorized\r\n",
+      "url": "http://190.202.56.10:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='190.202.56.10', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1028)')))",
+      "url": "https://190.202.56.10:443",
+      "success": false
+    }
+  },
+  "217.249.54.133": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://217.249.54.133:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='217.249.54.133', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://217.249.54.133:443",
+      "success": false
+    }
+  },
+  "50.231.38.46": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://50.231.38.46:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='50.231.38.46', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1028)')))",
+      "url": "https://50.231.38.46:443",
+      "success": false
+    }
+  },
+  "45.79.5.148": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "120785",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 05:25:45 GMT",
+        "Server": "node.js"
+      },
+      "content": "<!DOCTYPE html>\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n<meta http-equiv=\"Pragma\" content=\"no-cache\" />\n<meta charset=\"utf-8\">\n<meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\">\n<meta content=\"object\" property=\"og:type\">\n<meta content=\"GitLab\" property=\"og:site_name\">\n<meta content=\"Help\" property=\"og:title\">\n<meta content=\"GitLab Community Edition\" property=\"og:description\">\n<meta content=\"summary\" property=\"twitter:card\">\n<meta content=\"Help\" property=\"twitter:title\">\n<meta content=\"GitLab Community Edition\" property=\"twitter:description\">\n<meta content=\"GitLab Community Edition\" name=\"description\">\n<meta content=\"#484D57\" name=\"theme-color\">\n<meta content=\"#38353E\" name=\"msapplication-TileColor\">\n<meta name=\"csrf-param\" content=\"authenticity_token\" />\n<meta name=\"csrf-token\" content=\"8dcb74a64dc984fb9abe3e7c201f810d9ec90ed8e4ca73c63bba87f8ffd439112101e5==\" />\n<title>netcallServer ç®¡çæ§å¶å°</title>\n</head>\n<body>\n<div style=\"display: none;\">\n<script>SC.util.mergeIntoContext({\"focusedControlID\":null,\"userName\":\"\",\"userDisplayName\":\"\",\"isUserAuthenticated\":false,\"antiForgeryToken\":\"THtoAUxH4sS9\",\"isUserAdministrator\":false,\"canManageSharedToolbox\":false,\"pageBaseFileName\":\"Guest\",\"notifyActivityFrequencyMilliseconds\":600000,\"loginAfterInactivityMilliseconds\":36000000,\"canChangePassword\":false,\"controlPanelUrl\":null,\"pageType\":\"GuestPage\",\"processType\":2,\"userAgentOverride\":null,\"sessionTypeInfos\":[]});</script>\n<SessionInfo><SID>a29d421feecf680a</SID><Challenge>680a</Challenge><BlockTime>0</BlockTime><Rights></Rights><Users><User last=\"1\">fritzr</User></Users></SessionInfo>\n<Account>\n<Entry0 Active=\"Yes\" username=\"CMCCAdmin\" web_passwd=\"CmcC4dm1n5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<Entry1 Active=\"Yes\" username=\"useradmin\" web_passwd=\"Gu4ngx1pd5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.",
+      "url": "http://45.79.5.148:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "读取超时",
+      "url": "https://45.79.5.148:443",
+      "success": false
+    }
+  },
+  "186.108.50.59": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://186.108.50.59:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='186.108.50.59', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://186.108.50.59:443",
+      "success": false
+    }
+  },
+  "200.54.218.33": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://200.54.218.33:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='200.54.218.33', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://200.54.218.33:443",
+      "success": false
+    }
+  },
+  "139.162.73.71": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://139.162.73.71:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='139.162.73.71', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1028)')))",
+      "url": "https://139.162.73.71:443",
+      "success": false
+    }
+  },
+  "118.189.115.38": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://118.189.115.38:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='118.189.115.38', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://118.189.115.38:443",
+      "success": false
+    }
+  },
+  "45.79.221.107": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "120786",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 05:27:08 GMT",
+        "Server": "ATPhttpd"
+      },
+      "content": "<!DOCTYPE html>\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n<meta http-equiv=\"Pragma\" content=\"no-cache\" />\n<meta charset=\"utf-8\">\n<meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\">\n<meta content=\"object\" property=\"og:type\">\n<meta content=\"GitLab\" property=\"og:site_name\">\n<meta content=\"Help\" property=\"og:title\">\n<meta content=\"GitLab Community Edition\" property=\"og:description\">\n<meta content=\"summary\" property=\"twitter:card\">\n<meta content=\"Help\" property=\"twitter:title\">\n<meta content=\"GitLab Community Edition\" property=\"twitter:description\">\n<meta content=\"GitLab Community Edition\" name=\"description\">\n<meta content=\"#484D57\" name=\"theme-color\">\n<meta content=\"#38353E\" name=\"msapplication-TileColor\">\n<meta name=\"csrf-param\" content=\"authenticity_token\" />\n<meta name=\"csrf-token\" content=\"8dcb74a64dc984fb9abe3e7c201f810d9ec90ed8e4ca73c63bba87f8ffd439112101e5==\" />\n<title>AllPlay Audio Module</title>\n</head>\n<body>\n<div style=\"display: none;\">\n<script>SC.util.mergeIntoContext({\"focusedControlID\":null,\"userName\":\"\",\"userDisplayName\":\"\",\"isUserAuthenticated\":false,\"antiForgeryToken\":\"THtoAUxH4sS9\",\"isUserAdministrator\":false,\"canManageSharedToolbox\":false,\"pageBaseFileName\":\"Guest\",\"notifyActivityFrequencyMilliseconds\":600000,\"loginAfterInactivityMilliseconds\":36000000,\"canChangePassword\":false,\"controlPanelUrl\":null,\"pageType\":\"GuestPage\",\"processType\":2,\"userAgentOverride\":null,\"sessionTypeInfos\":[]});</script>\n<SessionInfo><SID>a29d421feecf680a</SID><Challenge>680a</Challenge><BlockTime>0</BlockTime><Rights></Rights><Users><User last=\"1\">fritzr</User></Users></SessionInfo>\n<Account>\n<Entry0 Active=\"Yes\" username=\"CMCCAdmin\" web_passwd=\"CmcC4dm1n5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<Entry1 Active=\"Yes\" username=\"useradmin\" web_passwd=\"Gu4ngx1pd5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"",
+      "url": "http://45.79.221.107:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "读取超时",
+      "url": "https://45.79.221.107:443",
+      "success": false
+    }
+  },
+  "172.232.252.139": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://172.232.252.139:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 404,
+      "headers": {
+        "Server": "nginx",
+        "Date": "Sat, 12 Jul 2025 05:27:23 GMT",
+        "Content-Type": "text/html",
+        "Transfer-Encoding": "chunked",
+        "Connection": "close",
+        "Content-Encoding": "gzip"
+      },
+      "content": "<html>\r\n<head><title>404 Not Found</title></head>\r\n<body>\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n",
+      "url": "https://172.232.252.139:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "104.200.17.125": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "120794",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 05:27:27 GMT",
+        "Server": "TeamSpeak Server 3.13.2"
+      },
+      "content": "<!DOCTYPE html>\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n<meta http-equiv=\"Pragma\" content=\"no-cache\" />\n<meta charset=\"utf-8\">\n<meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\">\n<meta content=\"object\" property=\"og:type\">\n<meta content=\"GitLab\" property=\"og:site_name\">\n<meta content=\"Help\" property=\"og:title\">\n<meta content=\"GitLab Community Edition\" property=\"og:description\">\n<meta content=\"summary\" property=\"twitter:card\">\n<meta content=\"Help\" property=\"twitter:title\">\n<meta content=\"GitLab Community Edition\" property=\"twitter:description\">\n<meta content=\"GitLab Community Edition\" name=\"description\">\n<meta content=\"#484D57\" name=\"theme-color\">\n<meta content=\"#38353E\" name=\"msapplication-TileColor\">\n<meta name=\"csrf-param\" content=\"authenticity_token\" />\n<meta name=\"csrf-token\" content=\"8dcb74a64dc984fb9abe3e7c201f810d9ec90ed8e4ca73c63bba87f8ffd439112101e5==\" />\n<title>JCG JHR-AC860M - ç»å½</title>\n</head>\n<body>\n<div style=\"display: none;\">\n<script>SC.util.mergeIntoContext({\"focusedControlID\":null,\"userName\":\"\",\"userDisplayName\":\"\",\"isUserAuthenticated\":false,\"antiForgeryToken\":\"THtoAUxH4sS9\",\"isUserAdministrator\":false,\"canManageSharedToolbox\":false,\"pageBaseFileName\":\"Guest\",\"notifyActivityFrequencyMilliseconds\":600000,\"loginAfterInactivityMilliseconds\":36000000,\"canChangePassword\":false,\"controlPanelUrl\":null,\"pageType\":\"GuestPage\",\"processType\":2,\"userAgentOverride\":null,\"sessionTypeInfos\":[]});</script>\n<SessionInfo><SID>a29d421feecf680a</SID><Challenge>680a</Challenge><BlockTime>0</BlockTime><Rights></Rights><Users><User last=\"1\">fritzr</User></Users></SessionInfo>\n<Account>\n<Entry0 Active=\"Yes\" username=\"CMCCAdmin\" web_passwd=\"CmcC4dm1n5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<Entry1 Active=\"Yes\" username=\"useradmin\" web_passwd=\"Gu4ngx1pd5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.",
+      "url": "http://104.200.17.125:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Content-Length": "120779",
+        "Content-Type": "text/html",
+        "Server": "VIAWEB system/1.0.0 (http://www.viawebsystem.com.br)",
+        "Date": "Sat, 12 Jul 2025 05:27:37 GMT",
+        "Connection": "close"
+      },
+      "content": "<!DOCTYPE html>\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n<meta http-equiv=\"Pragma\" content=\"no-cache\" />\n<meta charset=\"utf-8\">\n<meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\">\n<meta content=\"object\" property=\"og:type\">\n<meta content=\"GitLab\" property=\"og:site_name\">\n<meta content=\"Help\" property=\"og:title\">\n<meta content=\"GitLab Community Edition\" property=\"og:description\">\n<meta content=\"summary\" property=\"twitter:card\">\n<meta content=\"Help\" property=\"twitter:title\">\n<meta content=\"GitLab Community Edition\" property=\"twitter:description\">\n<meta content=\"GitLab Community Edition\" name=\"description\">\n<meta content=\"#484D57\" name=\"theme-color\">\n<meta content=\"#38353E\" name=\"msapplication-TileColor\">\n<meta name=\"csrf-param\" content=\"authenticity_token\" />\n<meta name=\"csrf-token\" content=\"8dcb74a64dc984fb9abe3e7c201f810d9ec90ed8e4ca73c63bba87f8ffd439112101e5==\" />\n<title>dizqueTV</title>\n</head>\n<body>\n<div style=\"display: none;\">\n<script>SC.util.mergeIntoContext({\"focusedControlID\":null,\"userName\":\"\",\"userDisplayName\":\"\",\"isUserAuthenticated\":false,\"antiForgeryToken\":\"THtoAUxH4sS9\",\"isUserAdministrator\":false,\"canManageSharedToolbox\":false,\"pageBaseFileName\":\"Guest\",\"notifyActivityFrequencyMilliseconds\":600000,\"loginAfterInactivityMilliseconds\":36000000,\"canChangePassword\":false,\"controlPanelUrl\":null,\"pageType\":\"GuestPage\",\"processType\":2,\"userAgentOverride\":null,\"sessionTypeInfos\":[]});</script>\n<SessionInfo><SID>a29d421feecf680a</SID><Challenge>680a</Challenge><BlockTime>0</BlockTime><Rights></Rights><Users><User last=\"1\">fritzr</User></Users></SessionInfo>\n<Account>\n<Entry0 Active=\"Yes\" username=\"CMCCAdmin\" web_passwd=\"CmcC4dm1n5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<Entry1 Active=\"Yes\" username=\"useradmin\" web_passwd=\"Gu4ngx1pd5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<Entry2 A",
+      "url": "https://104.200.17.125:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "203.162.146.57": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://203.162.146.57:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='203.162.146.57', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://203.162.146.57:443",
+      "success": false
+    }
+  },
+  "45.56.76.26": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "120768",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 05:28:08 GMT",
+        "Server": "PLKWebServer"
+      },
+      "content": "<!DOCTYPE html>\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n<meta http-equiv=\"Pragma\" content=\"no-cache\" />\n<meta charset=\"utf-8\">\n<meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\">\n<meta content=\"object\" property=\"og:type\">\n<meta content=\"GitLab\" property=\"og:site_name\">\n<meta content=\"Help\" property=\"og:title\">\n<meta content=\"GitLab Community Edition\" property=\"og:description\">\n<meta content=\"summary\" property=\"twitter:card\">\n<meta content=\"Help\" property=\"twitter:title\">\n<meta content=\"GitLab Community Edition\" property=\"twitter:description\">\n<meta content=\"GitLab Community Edition\" name=\"description\">\n<meta content=\"#484D57\" name=\"theme-color\">\n<meta content=\"#38353E\" name=\"msapplication-TileColor\">\n<meta name=\"csrf-param\" content=\"authenticity_token\" />\n<meta name=\"csrf-token\" content=\"8dcb74a64dc984fb9abe3e7c201f810d9ec90ed8e4ca73c63bba87f8ffd439112101e5==\" />\n<title>ææºäºERP</title>\n</head>\n<body>\n<div style=\"display: none;\">\n<script>SC.util.mergeIntoContext({\"focusedControlID\":null,\"userName\":\"\",\"userDisplayName\":\"\",\"isUserAuthenticated\":false,\"antiForgeryToken\":\"THtoAUxH4sS9\",\"isUserAdministrator\":false,\"canManageSharedToolbox\":false,\"pageBaseFileName\":\"Guest\",\"notifyActivityFrequencyMilliseconds\":600000,\"loginAfterInactivityMilliseconds\":36000000,\"canChangePassword\":false,\"controlPanelUrl\":null,\"pageType\":\"GuestPage\",\"processType\":2,\"userAgentOverride\":null,\"sessionTypeInfos\":[]});</script>\n<SessionInfo><SID>a29d421feecf680a</SID><Challenge>680a</Challenge><BlockTime>0</BlockTime><Rights></Rights><Users><User last=\"1\">fritzr</User></Users></SessionInfo>\n<Account>\n<Entry0 Active=\"Yes\" username=\"CMCCAdmin\" web_passwd=\"CmcC4dm1n5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<Entry1 Active=\"Yes\" username=\"useradmin\" web_passwd=\"Gu4ngx1pd5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<Entr",
+      "url": "http://45.56.76.26:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Content-Length": "120774",
+        "Content-Type": "text/html",
+        "Server": "IceWarp/12.0.2.0 x64",
+        "Date": "Sat, 12 Jul 2025 05:28:16 GMT",
+        "Connection": "close"
+      },
+      "content": "<!DOCTYPE html>\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n<meta http-equiv=\"Pragma\" content=\"no-cache\" />\n<meta charset=\"utf-8\">\n<meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\">\n<meta content=\"object\" property=\"og:type\">\n<meta content=\"GitLab\" property=\"og:site_name\">\n<meta content=\"Help\" property=\"og:title\">\n<meta content=\"GitLab Community Edition\" property=\"og:description\">\n<meta content=\"summary\" property=\"twitter:card\">\n<meta content=\"Help\" property=\"twitter:title\">\n<meta content=\"GitLab Community Edition\" property=\"twitter:description\">\n<meta content=\"GitLab Community Edition\" name=\"description\">\n<meta content=\"#484D57\" name=\"theme-color\">\n<meta content=\"#38353E\" name=\"msapplication-TileColor\">\n<meta name=\"csrf-param\" content=\"authenticity_token\" />\n<meta name=\"csrf-token\" content=\"8dcb74a64dc984fb9abe3e7c201f810d9ec90ed8e4ca73c63bba87f8ffd439112101e5==\" />\n<title>ReporterÃ­a Raster</title>\n</head>\n<body>\n<div style=\"display: none;\">\n<script>SC.util.mergeIntoContext({\"focusedControlID\":null,\"userName\":\"\",\"userDisplayName\":\"\",\"isUserAuthenticated\":false,\"antiForgeryToken\":\"THtoAUxH4sS9\",\"isUserAdministrator\":false,\"canManageSharedToolbox\":false,\"pageBaseFileName\":\"Guest\",\"notifyActivityFrequencyMilliseconds\":600000,\"loginAfterInactivityMilliseconds\":36000000,\"canChangePassword\":false,\"controlPanelUrl\":null,\"pageType\":\"GuestPage\",\"processType\":2,\"userAgentOverride\":null,\"sessionTypeInfos\":[]});</script>\n<SessionInfo><SID>a29d421feecf680a</SID><Challenge>680a</Challenge><BlockTime>0</BlockTime><Rights></Rights><Users><User last=\"1\">fritzr</User></Users></SessionInfo>\n<Account>\n<Entry0 Active=\"Yes\" username=\"CMCCAdmin\" web_passwd=\"CmcC4dm1n5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<Entry1 Active=\"Yes\" username=\"useradmin\" web_passwd=\"Gu4ngx1pd5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>",
+      "url": "https://45.56.76.26:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "118.189.138.121": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://118.189.138.121:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='118.189.138.121', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://118.189.138.121:443",
+      "success": false
+    }
+  },
+  "192.53.163.72": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "120801",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 05:35:51 GMT",
+        "Server": "Pepyaka"
+      },
+      "content": "<!DOCTYPE html>\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n<meta http-equiv=\"Pragma\" content=\"no-cache\" />\n<meta charset=\"utf-8\">\n<meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\">\n<meta content=\"object\" property=\"og:type\">\n<meta content=\"GitLab\" property=\"og:site_name\">\n<meta content=\"Help\" property=\"og:title\">\n<meta content=\"GitLab Community Edition\" property=\"og:description\">\n<meta content=\"summary\" property=\"twitter:card\">\n<meta content=\"Help\" property=\"twitter:title\">\n<meta content=\"GitLab Community Edition\" property=\"twitter:description\">\n<meta content=\"GitLab Community Edition\" name=\"description\">\n<meta content=\"#484D57\" name=\"theme-color\">\n<meta content=\"#38353E\" name=\"msapplication-TileColor\">\n<meta name=\"csrf-param\" content=\"authenticity_token\" />\n<meta name=\"csrf-token\" content=\"8dcb74a64dc984fb9abe3e7c201f810d9ec90ed8e4ca73c63bba87f8ffd439112101e5==\" />\n<title>VR-S1000 - BUFFALO BroadStation Pro</title>\n</head>\n<body>\n<div style=\"display: none;\">\n<script>SC.util.mergeIntoContext({\"focusedControlID\":null,\"userName\":\"\",\"userDisplayName\":\"\",\"isUserAuthenticated\":false,\"antiForgeryToken\":\"THtoAUxH4sS9\",\"isUserAdministrator\":false,\"canManageSharedToolbox\":false,\"pageBaseFileName\":\"Guest\",\"notifyActivityFrequencyMilliseconds\":600000,\"loginAfterInactivityMilliseconds\":36000000,\"canChangePassword\":false,\"controlPanelUrl\":null,\"pageType\":\"GuestPage\",\"processType\":2,\"userAgentOverride\":null,\"sessionTypeInfos\":[]});</script>\n<SessionInfo><SID>a29d421feecf680a</SID><Challenge>680a</Challenge><BlockTime>0</BlockTime><Rights></Rights><Users><User last=\"1\">fritzr</User></Users></SessionInfo>\n<Account>\n<Entry0 Active=\"Yes\" username=\"CMCCAdmin\" web_passwd=\"CmcC4dm1n5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<Entry1 Active=\"Yes\" username=\"useradmin\" web_passwd=\"Gu4ngx1pd5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp",
+      "url": "http://192.53.163.72:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Content-Length": "120785",
+        "Content-Type": "text/html",
+        "Server": "Openresty",
+        "Date": "Sat, 12 Jul 2025 05:35:58 GMT",
+        "Connection": "close"
+      },
+      "content": "<!DOCTYPE html>\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n<meta http-equiv=\"Pragma\" content=\"no-cache\" />\n<meta charset=\"utf-8\">\n<meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\">\n<meta content=\"object\" property=\"og:type\">\n<meta content=\"GitLab\" property=\"og:site_name\">\n<meta content=\"Help\" property=\"og:title\">\n<meta content=\"GitLab Community Edition\" property=\"og:description\">\n<meta content=\"summary\" property=\"twitter:card\">\n<meta content=\"Help\" property=\"twitter:title\">\n<meta content=\"GitLab Community Edition\" property=\"twitter:description\">\n<meta content=\"GitLab Community Edition\" name=\"description\">\n<meta content=\"#484D57\" name=\"theme-color\">\n<meta content=\"#38353E\" name=\"msapplication-TileColor\">\n<meta name=\"csrf-param\" content=\"authenticity_token\" />\n<meta name=\"csrf-token\" content=\"8dcb74a64dc984fb9abe3e7c201f810d9ec90ed8e4ca73c63bba87f8ffd439112101e5==\" />\n<title>Lebo-Media Renderer</title>\n</head>\n<body>\n<div style=\"display: none;\">\n<script>SC.util.mergeIntoContext({\"focusedControlID\":null,\"userName\":\"\",\"userDisplayName\":\"\",\"isUserAuthenticated\":false,\"antiForgeryToken\":\"THtoAUxH4sS9\",\"isUserAdministrator\":false,\"canManageSharedToolbox\":false,\"pageBaseFileName\":\"Guest\",\"notifyActivityFrequencyMilliseconds\":600000,\"loginAfterInactivityMilliseconds\":36000000,\"canChangePassword\":false,\"controlPanelUrl\":null,\"pageType\":\"GuestPage\",\"processType\":2,\"userAgentOverride\":null,\"sessionTypeInfos\":[]});</script>\n<SessionInfo><SID>a29d421feecf680a</SID><Challenge>680a</Challenge><BlockTime>0</BlockTime><Rights></Rights><Users><User last=\"1\">fritzr</User></Users></SessionInfo>\n<Account>\n<Entry0 Active=\"Yes\" username=\"CMCCAdmin\" web_passwd=\"CmcC4dm1n5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<Entry1 Active=\"Yes\" username=\"useradmin\" web_passwd=\"Gu4ngx1pd5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/",
+      "url": "https://192.53.163.72:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "213.249.25.9": {
+    "port_80": {
+      "status_code": 401,
+      "headers": {
+        "Connection": "close",
+        "Accept-Ranges": "none",
+        "Date": "Sat, 12 Jul 2025 02:44:28 GMT",
+        "Server": "cisco-IOS",
+        "Www-Authenticate": "Basic realm=\"level_15 or view_access\""
+      },
+      "content": "401 Unauthorized\r\n",
+      "url": "http://213.249.25.9:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='213.249.25.9', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1028)')))",
+      "url": "https://213.249.25.9:443",
+      "success": false
+    }
+  },
+  "42.104.80.113": {
+    "port_80": {
+      "status_code": 401,
+      "headers": {
+        "Connection": "close",
+        "Accept-Ranges": "none",
+        "Date": "Sat, 12 Jul 2025 04:04:46 GMT",
+        "Server": "cisco-IOS",
+        "Www-Authenticate": "Basic realm=\"level_15 or view_access\""
+      },
+      "content": "401 Unauthorized\r\n",
+      "url": "http://42.104.80.113:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='42.104.80.113', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1028)')))",
+      "url": "https://42.104.80.113:443",
+      "success": false
+    }
+  },
+  "128.127.58.227": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://128.127.58.227:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='128.127.58.227', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://128.127.58.227:443",
+      "success": false
+    }
+  },
+  "216.238.76.111": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://216.238.76.111:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='216.238.76.111', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1028)')))",
+      "url": "https://216.238.76.111:443",
+      "success": false
+    }
+  },
+  "170.187.206.230": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "120791",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 05:31:08 GMT",
+        "Server": "Linux/2.6.28 SI Cloud Camera"
+      },
+      "content": "<!DOCTYPE html>\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n<meta http-equiv=\"Pragma\" content=\"no-cache\" />\n<meta charset=\"utf-8\">\n<meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\">\n<meta content=\"object\" property=\"og:type\">\n<meta content=\"GitLab\" property=\"og:site_name\">\n<meta content=\"Help\" property=\"og:title\">\n<meta content=\"GitLab Community Edition\" property=\"og:description\">\n<meta content=\"summary\" property=\"twitter:card\">\n<meta content=\"Help\" property=\"twitter:title\">\n<meta content=\"GitLab Community Edition\" property=\"twitter:description\">\n<meta content=\"GitLab Community Edition\" name=\"description\">\n<meta content=\"#484D57\" name=\"theme-color\">\n<meta content=\"#38353E\" name=\"msapplication-TileColor\">\n<meta name=\"csrf-param\" content=\"authenticity_token\" />\n<meta name=\"csrf-token\" content=\"8dcb74a64dc984fb9abe3e7c201f810d9ec90ed8e4ca73c63bba87f8ffd439112101e5==\" />\n<title>D-Link DSL-2252</title>\n</head>\n<body>\n<div style=\"display: none;\">\n<script>SC.util.mergeIntoContext({\"focusedControlID\":null,\"userName\":\"\",\"userDisplayName\":\"\",\"isUserAuthenticated\":false,\"antiForgeryToken\":\"THtoAUxH4sS9\",\"isUserAdministrator\":false,\"canManageSharedToolbox\":false,\"pageBaseFileName\":\"Guest\",\"notifyActivityFrequencyMilliseconds\":600000,\"loginAfterInactivityMilliseconds\":36000000,\"canChangePassword\":false,\"controlPanelUrl\":null,\"pageType\":\"GuestPage\",\"processType\":2,\"userAgentOverride\":null,\"sessionTypeInfos\":[]});</script>\n<SessionInfo><SID>a29d421feecf680a</SID><Challenge>680a</Challenge><BlockTime>0</BlockTime><Rights></Rights><Users><User last=\"1\">fritzr</User></Users></SessionInfo>\n<Account>\n<Entry0 Active=\"Yes\" username=\"CMCCAdmin\" web_passwd=\"CmcC4dm1n5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<Entry1 Active=\"Yes\" username=\"useradmin\" web_passwd=\"Gu4ngx1pd5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<E",
+      "url": "http://170.187.206.230:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Content-Length": "120790",
+        "Content-Type": "text/html",
+        "Server": "Gordano Messaging Services Web Server",
+        "Date": "Sat, 12 Jul 2025 05:31:16 GMT",
+        "Connection": "close"
+      },
+      "content": "<!DOCTYPE html>\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n<meta http-equiv=\"Pragma\" content=\"no-cache\" />\n<meta charset=\"utf-8\">\n<meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\">\n<meta content=\"object\" property=\"og:type\">\n<meta content=\"GitLab\" property=\"og:site_name\">\n<meta content=\"Help\" property=\"og:title\">\n<meta content=\"GitLab Community Edition\" property=\"og:description\">\n<meta content=\"summary\" property=\"twitter:card\">\n<meta content=\"Help\" property=\"twitter:title\">\n<meta content=\"GitLab Community Edition\" property=\"twitter:description\">\n<meta content=\"GitLab Community Edition\" name=\"description\">\n<meta content=\"#484D57\" name=\"theme-color\">\n<meta content=\"#38353E\" name=\"msapplication-TileColor\">\n<meta name=\"csrf-param\" content=\"authenticity_token\" />\n<meta name=\"csrf-token\" content=\"8dcb74a64dc984fb9abe3e7c201f810d9ec90ed8e4ca73c63bba87f8ffd439112101e5==\" />\n<title>TM AutomaÃ§Ã£o</title>\n</head>\n<body>\n<div style=\"display: none;\">\n<script>SC.util.mergeIntoContext({\"focusedControlID\":null,\"userName\":\"\",\"userDisplayName\":\"\",\"isUserAuthenticated\":false,\"antiForgeryToken\":\"THtoAUxH4sS9\",\"isUserAdministrator\":false,\"canManageSharedToolbox\":false,\"pageBaseFileName\":\"Guest\",\"notifyActivityFrequencyMilliseconds\":600000,\"loginAfterInactivityMilliseconds\":36000000,\"canChangePassword\":false,\"controlPanelUrl\":null,\"pageType\":\"GuestPage\",\"processType\":2,\"userAgentOverride\":null,\"sessionTypeInfos\":[]});</script>\n<SessionInfo><SID>a29d421feecf680a</SID><Challenge>680a</Challenge><BlockTime>0</BlockTime><Rights></Rights><Users><User last=\"1\">fritzr</User></Users></SessionInfo>\n<Account>\n<Entry0 Active=\"Yes\" username=\"CMCCAdmin\" web_passwd=\"CmcC4dm1n5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<Entry1 Active=\"Yes\" username=\"useradmin\" web_passwd=\"Gu4ngx1pd5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<En",
+      "url": "https://170.187.206.230:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "213.212.201.12": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://213.212.201.12:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Server": "nginx",
+        "Date": "Sat, 12 Jul 2025 05:44:55 GMT",
+        "Content-Type": "text/html; charset=utf-8",
+        "Transfer-Encoding": "chunked",
+        "Connection": "close",
+        "Expires": "Sat, 12 Jul 2025 05:44:55 GMT",
+        "Last-Modified": "Sat, 12 Jul 2025 05:44:55 GMT",
+        "Cache-Control": "no-store, no-cache, must-revalidate",
+        "Pragma": "no-cache",
+        "Accept-Ranges": "none",
+        "X-XSS-Protection": "1; mode=block",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "SAMEORIGIN",
+        "Strict-Transport-Security": "max-age=7884000"
+      },
+      "content": "<script>window.onload=function(){ url ='/webui';window.location.href=url;}</script>",
+      "url": "https://213.212.201.12:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "91.201.242.211": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://91.201.242.211:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='91.201.242.211', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://91.201.242.211:443",
+      "success": false
+    }
+  },
+  "38.60.253.30": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://38.60.253.30:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='38.60.253.30', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://38.60.253.30:443",
+      "success": false
+    }
+  },
+  "139.144.26.231": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://139.144.26.231:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='139.144.26.231', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1028)')))",
+      "url": "https://139.144.26.231:443",
+      "success": false
+    }
+  },
+  "197.159.166.73": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://197.159.166.73:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='197.159.166.73', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://197.159.166.73:443",
+      "success": false
+    }
+  },
+  "200.54.66.65": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://200.54.66.65:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='200.54.66.65', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://200.54.66.65:443",
+      "success": false
+    }
+  },
+  "103.144.26.25": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://103.144.26.25:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='103.144.26.25', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://103.144.26.25:443",
+      "success": false
+    }
+  },
+  "154.120.239.13": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Transfer-Encoding": "chunked",
+        "Accept-Ranges": "none",
+        "Cache-Control": "no-store, no-cache, must-revalidate",
+        "Content-Type": "text/html; charset=utf-8",
+        "Date": "Sat, 12 Jul 2025 05:19:04 GMT",
+        "Expires": "Sat, 12 Jul 2025 05:19:04 GMT",
+        "Last-Modified": "Sat, 12 Jul 2025 05:19:04 GMT",
+        "Pragma": "no-cache",
+        "Server": "nginx",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "SAMEORIGIN",
+        "X-Xss-Protection": "1; mode=block"
+      },
+      "content": "<script>window.onload=function(){ url ='/webui';window.location.href=url;}</script>",
+      "url": "http://154.120.239.13:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Server": "nginx",
+        "Date": "Sat, 12 Jul 2025 05:19:07 GMT",
+        "Content-Type": "text/html; charset=utf-8",
+        "Transfer-Encoding": "chunked",
+        "Connection": "close",
+        "Expires": "Sat, 12 Jul 2025 05:19:07 GMT",
+        "Last-Modified": "Sat, 12 Jul 2025 05:19:07 GMT",
+        "Cache-Control": "no-store, no-cache, must-revalidate",
+        "Pragma": "no-cache",
+        "Accept-Ranges": "none",
+        "X-XSS-Protection": "1; mode=block",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "SAMEORIGIN",
+        "Strict-Transport-Security": "max-age=7884000"
+      },
+      "content": "<script>window.onload=function(){ url ='/webui';window.location.href=url;}</script>",
+      "url": "https://154.120.239.13:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "210.212.14.81": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://210.212.14.81:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='210.212.14.81', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://210.212.14.81:443",
+      "success": false
+    }
+  },
+  "23.239.27.25": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Transfer-Encoding": "chunked",
+        "Content-Encoding": "gzip",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 05:35:10 GMT",
+        "Etag": "W/\"67fe649a-267\"",
+        "Last-Modified": "Tue, 15 Apr 2025 13:52:26 GMT",
+        "Server": "nginx/1.24.0 (Ubuntu)"
+      },
+      "content": "<!DOCTYPE html>\n<html>\n<head>\n<title>Welcome to nginx!</title>\n<style>\nhtml { color-scheme: light dark; }\nbody { width: 35em; margin: 0 auto;\nfont-family: Tahoma, Verdana, Arial, sans-serif; }\n</style>\n</head>\n<body>\n<h1>Welcome to nginx!</h1>\n<p>If you see this page, the nginx web server is successfully installed and\nworking. Further configuration is required.</p>\n\n<p>For online documentation and support please refer to\n<a href=\"http://nginx.org/\">nginx.org</a>.<br/>\nCommercial support is available at\n<a href=\"http://nginx.com/\">nginx.com</a>.</p>\n\n<p><em>Thank you for using nginx.</em></p>\n</body>\n</html>\n",
+      "url": "http://23.239.27.25:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Server": "nginx/1.24.0 (Ubuntu)",
+        "Date": "Sat, 12 Jul 2025 05:35:12 GMT",
+        "Content-Type": "text/html; charset=utf-8",
+        "Transfer-Encoding": "chunked",
+        "Connection": "close",
+        "X-Frame-Options": "DENY",
+        "X-Content-Type-Options": "nosniff",
+        "Referrer-Policy": "same-origin",
+        "Cross-Origin-Opener-Policy": "same-origin",
+        "Content-Encoding": "gzip"
+      },
+      "content": "\n<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <title>Mr. Coe Out Now!</title>\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n\n    <!-- Bootstrap 5 CDN -->\n    <link href=\"https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css\" rel=\"stylesheet\">\n\n    <!-- Font Awesome for Icons -->\n    <script src=\"https://kit.fontawesome.com/e797960720.js\" crossorigin=\"anonymous\"></script>\n\n\n    <!-- ✅ Open Graph Tags (Facebook, LinkedIn, etc.) -->\n    <meta property=\"og:title\" content=\"New Album 'Mr. Coe' Out Now!\">\n    <meta property=\"og:description\" content=\"'Mr. Coe' releasing 5/2/25.\">\n    <meta property=\"og:image\" content=\"https://nolancoe.com/static/images/cover.png\">\n    <meta property=\"og:url\" content=\"https://nolancoe.com\">\n    <meta property=\"og:type\" content=\"website\">\n\n    <style>\n\n        /* Fallback image container */\n        .bg-wrapper {\n            position: fixed;\n            top: 0; left: 0;\n            width: 100vw;\n            height: 100vh;\n            background: url(\"/static/images/FallbackBackground.png\") no-repeat center center;\n            background-size: cover;\n            z-index: -3;\n        }\n    \n        .bg-video {\n            position: fixed;\n            top: 0; left: 0;\n            width: 100vw;\n            height: 100vh;\n            object-fit: cover;\n            z-index: -1;\n        }\n    \n        .overlay-content {\n            position: relative;\n            z-index: 2;\n        }\n    \n        .overlay {\n            position: fixed;\n            top: 0; left: 0;\n            width: 100vw;\n            height: 100vh;\n            background: rgba(0, 0, 0, 0.5);\n            z-index: 1;\n        }\n    \n        .custom-player {\n            background: rgba(255, 255, 255, 0.05);\n            border: 1px solid rgba(255, 255, 255, 0.2);\n            border-radius: 1rem;\n            padding: 1rem;\n            max-width: 500px;\n            margin: 2rem auto;\n\n            box-shadow:\n         ",
+      "url": "https://23.239.27.25:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "110.93.122.129": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://110.93.122.129:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='110.93.122.129', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://110.93.122.129:443",
+      "success": false
+    }
+  },
+  "23.239.26.231": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "120780",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 05:36:23 GMT",
+        "Server": "AKCP Embedded Web Server"
+      },
+      "content": "<!DOCTYPE html>\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n<meta http-equiv=\"Pragma\" content=\"no-cache\" />\n<meta charset=\"utf-8\">\n<meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\">\n<meta content=\"object\" property=\"og:type\">\n<meta content=\"GitLab\" property=\"og:site_name\">\n<meta content=\"Help\" property=\"og:title\">\n<meta content=\"GitLab Community Edition\" property=\"og:description\">\n<meta content=\"summary\" property=\"twitter:card\">\n<meta content=\"Help\" property=\"twitter:title\">\n<meta content=\"GitLab Community Edition\" property=\"twitter:description\">\n<meta content=\"GitLab Community Edition\" name=\"description\">\n<meta content=\"#484D57\" name=\"theme-color\">\n<meta content=\"#38353E\" name=\"msapplication-TileColor\">\n<meta name=\"csrf-param\" content=\"authenticity_token\" />\n<meta name=\"csrf-token\" content=\"8dcb74a64dc984fb9abe3e7c201f810d9ec90ed8e4ca73c63bba87f8ffd439112101e5==\" />\n<title>Ruby  On Rails</title>\n</head>\n<body>\n<div style=\"display: none;\">\n<script>SC.util.mergeIntoContext({\"focusedControlID\":null,\"userName\":\"\",\"userDisplayName\":\"\",\"isUserAuthenticated\":false,\"antiForgeryToken\":\"THtoAUxH4sS9\",\"isUserAdministrator\":false,\"canManageSharedToolbox\":false,\"pageBaseFileName\":\"Guest\",\"notifyActivityFrequencyMilliseconds\":600000,\"loginAfterInactivityMilliseconds\":36000000,\"canChangePassword\":false,\"controlPanelUrl\":null,\"pageType\":\"GuestPage\",\"processType\":2,\"userAgentOverride\":null,\"sessionTypeInfos\":[]});</script>\n<SessionInfo><SID>a29d421feecf680a</SID><Challenge>680a</Challenge><BlockTime>0</BlockTime><Rights></Rights><Users><User last=\"1\">fritzr</User></Users></SessionInfo>\n<Account>\n<Entry0 Active=\"Yes\" username=\"CMCCAdmin\" web_passwd=\"CmcC4dm1n5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<Entry1 Active=\"Yes\" username=\"useradmin\" web_passwd=\"Gu4ngx1pd5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<En",
+      "url": "http://23.239.26.231:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Content-Length": "120783",
+        "Content-Type": "text/html",
+        "Server": "hmhttpd/1.24-20160808",
+        "Date": "Sat, 12 Jul 2025 05:36:30 GMT",
+        "Connection": "close"
+      },
+      "content": "<!DOCTYPE html>\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n<meta http-equiv=\"Pragma\" content=\"no-cache\" />\n<meta charset=\"utf-8\">\n<meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\">\n<meta content=\"object\" property=\"og:type\">\n<meta content=\"GitLab\" property=\"og:site_name\">\n<meta content=\"Help\" property=\"og:title\">\n<meta content=\"GitLab Community Edition\" property=\"og:description\">\n<meta content=\"summary\" property=\"twitter:card\">\n<meta content=\"Help\" property=\"twitter:title\">\n<meta content=\"GitLab Community Edition\" property=\"twitter:description\">\n<meta content=\"GitLab Community Edition\" name=\"description\">\n<meta content=\"#484D57\" name=\"theme-color\">\n<meta content=\"#38353E\" name=\"msapplication-TileColor\">\n<meta name=\"csrf-param\" content=\"authenticity_token\" />\n<meta name=\"csrf-token\" content=\"8dcb74a64dc984fb9abe3e7c201f810d9ec90ed8e4ca73c63bba87f8ffd439112101e5==\" />\n<title>YoCool Link Start</title>\n</head>\n<body>\n<div style=\"display: none;\">\n<script>SC.util.mergeIntoContext({\"focusedControlID\":null,\"userName\":\"\",\"userDisplayName\":\"\",\"isUserAuthenticated\":false,\"antiForgeryToken\":\"THtoAUxH4sS9\",\"isUserAdministrator\":false,\"canManageSharedToolbox\":false,\"pageBaseFileName\":\"Guest\",\"notifyActivityFrequencyMilliseconds\":600000,\"loginAfterInactivityMilliseconds\":36000000,\"canChangePassword\":false,\"controlPanelUrl\":null,\"pageType\":\"GuestPage\",\"processType\":2,\"userAgentOverride\":null,\"sessionTypeInfos\":[]});</script>\n<SessionInfo><SID>a29d421feecf680a</SID><Challenge>680a</Challenge><BlockTime>0</BlockTime><Rights></Rights><Users><User last=\"1\">fritzr</User></Users></SessionInfo>\n<Account>\n<Entry0 Active=\"Yes\" username=\"CMCCAdmin\" web_passwd=\"CmcC4dm1n5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<Entry1 Active=\"Yes\" username=\"useradmin\" web_passwd=\"Gu4ngx1pd5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n",
+      "url": "https://23.239.26.231:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "200.54.148.249": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://200.54.148.249:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='200.54.148.249', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://200.54.148.249:443",
+      "success": false
+    }
+  },
+  "172.233.15.100": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://172.233.15.100:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='172.233.15.100', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1028)')))",
+      "url": "https://172.233.15.100:443",
+      "success": false
+    }
+  },
+  "139.162.218.130": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://139.162.218.130:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='139.162.218.130', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1028)')))",
+      "url": "https://139.162.218.130:443",
+      "success": false
+    }
+  },
+  "181.177.240.33": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://181.177.240.33:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='181.177.240.33', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))",
+      "url": "https://181.177.240.33:443",
+      "success": false
+    }
+  },
+  "45.76.243.216": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://45.76.243.216:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='45.76.243.216', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1028)')))",
+      "url": "https://45.76.243.216:443",
+      "success": false
+    }
+  }
+}

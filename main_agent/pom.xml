@@ -17,6 +17,12 @@
             <artifactId>baidu_logo</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
+
+        <dependency>
+            <groupId>org.graduate</groupId>
+            <artifactId>baidu_RAG_Agent</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
     </dependencies>
 
     <properties>

@@ -1,0 +1,3926 @@
+{
+  "84.72.196.195": {
+    "port_80": {
+      "status_code": 401,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "195",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 01:38:03 GMT",
+        "Etag": "\"0-2b8-b90\"",
+        "Server": "WebServer/2.0",
+        "Www-Authenticate": "Digest realm=\"DCS-2670L\", qop=\"auth\", nonce=\"491ad4e7c9ac4573e38d0c94b55b4fda\", opaque=\"0-2b8-b90\", algorithm=\"MD5\", stale=\"FALSE\"",
+        "X-Frame-Options": "SAMEORIGIN"
+      },
+      "content": "<!DOCTYPE html>\r\n<html><head><title>Document Error: Unauthorized</title></head>\r\n<body><h2>Access Error: 401 -- Unauthorized</h2>\r\n<p>Access Denied, Authorization enabled.</p>\r\n</body>\r\n</html>\r\n",
+      "url": "http://84.72.196.195:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://84.72.196.195:443",
+      "success": false
+    }
+  },
+  "187.168.227.123": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://187.168.227.123:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://187.168.227.123:443",
+      "success": false
+    }
+  },
+  "70.77.236.180": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://70.77.236.180:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='70.77.236.180', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://70.77.236.180:443",
+      "success": false
+    }
+  },
+  "82.63.8.86": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://82.63.8.86:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://82.63.8.86:443",
+      "success": false
+    }
+  },
+  "45.50.105.4": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://45.50.105.4:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://45.50.105.4:443",
+      "success": false
+    }
+  },
+  "71.161.237.240": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://71.161.237.240:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://71.161.237.240:443",
+      "success": false
+    }
+  },
+  "69.246.170.170": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://69.246.170.170:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://69.246.170.170:443",
+      "success": false
+    }
+  },
+  "73.85.142.135": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://73.85.142.135:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://73.85.142.135:443",
+      "success": false
+    }
+  },
+  "187.224.128.9": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://187.224.128.9:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://187.224.128.9:443",
+      "success": false
+    }
+  },
+  "82.69.12.110": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://82.69.12.110:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://82.69.12.110:443",
+      "success": false
+    }
+  },
+  "31.208.22.190": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "480",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 03:40:09 GMT",
+        "Etag": "\"0-842-1e0\"",
+        "Last-Modified": "Wed, 09 Sep 2020 10:54:51 GMT",
+        "Server": "Webs",
+        "X-Frame-Options": "SAMEORIGIN"
+      },
+      "content": "ï»¿<!doctype html>\r\n<html>\r\n<head>\r\n\t<title></title>\r\n\t<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\r\n\t<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" >\r\n\t<meta http-equiv=\"Pragma\" content=\"no-cache\" />\r\n\t<meta http-equiv=\"Cache-Control\" content=\"no-cache, must-revalidate\" />\r\n\t<meta http-equiv=\"Expires\" content=\"0\" />\r\n</head>\r\n<body>\r\n</body>\r\n<script>\r\n\twindow.location.href = \"/doc/page/login.asp?_\" + (new Date()).getTime();\r\n</script>\r\n</html>",
+      "url": "http://31.208.22.190:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://31.208.22.190:443",
+      "success": false
+    }
+  },
+  "85.93.131.70": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://85.93.131.70:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://85.93.131.70:443",
+      "success": false
+    }
+  },
+  "104.161.47.134": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Accept-Ranges": "bytes",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 01:40:37 GMT",
+        "Etag": "\"65c8ff08-0\"",
+        "Last-Modified": "Sun, 11 Feb 2024 17:08:24 GMT",
+        "Server": "nginx",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://104.161.47.134:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 403,
+      "headers": {
+        "Server": "nginx",
+        "Date": "Sat, 12 Jul 2025 01:40:39 GMT",
+        "Content-Type": "text/html",
+        "Transfer-Encoding": "chunked",
+        "Connection": "close",
+        "Content-Encoding": "gzip"
+      },
+      "content": "<html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n",
+      "url": "https://104.161.47.134:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "73.52.176.188": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://73.52.176.188:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://73.52.176.188:443",
+      "success": false
+    }
+  },
+  "96.61.173.198": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://96.61.173.198:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://96.61.173.198:443",
+      "success": false
+    }
+  },
+  "98.222.189.195": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://98.222.189.195:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='98.222.189.195', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://98.222.189.195:443",
+      "success": false
+    }
+  },
+  "184.101.67.200": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://184.101.67.200:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://184.101.67.200:443",
+      "success": false
+    }
+  },
+  "74.119.254.158": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://74.119.254.158:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://74.119.254.158:443",
+      "success": false
+    }
+  },
+  "73.56.189.128": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://73.56.189.128:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://73.56.189.128:443",
+      "success": false
+    }
+  },
+  "66.74.8.164": {
+    "port_80": {
+      "status_code": 401,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "103",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html",
+        "Date": "Fri Jul 11 17:41:41 2025",
+        "Pragma": "no-cache",
+        "Server": "alphapd/2.1.8",
+        "Www-Authenticate": "Digest realm=\"DCS-934L_E7\",qop=\"auth\", nonce=\"06372fe90fc206a3349875473074732c\""
+      },
+      "content": "<html><body><h2>Error: Authorization Required</h2>\r\n<p>Authentication was requested</p></body></html>\r\n",
+      "url": "http://66.74.8.164:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='66.74.8.164', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:852)'),))",
+      "url": "https://66.74.8.164:443",
+      "success": false
+    }
+  },
+  "71.56.131.207": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "7851",
+        "Accept-Ranges": "bytes",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 01:41:44 GMT",
+        "Etag": "\"2005117781\"",
+        "Last-Modified": "Mon, 30 Jul 2018 06:38:42 GMT",
+        "Server": "dcs-lig-httpd",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "SAMEORIGIN",
+        "X-Xss-Protection": "1;mode=block"
+      },
+      "content": "<html>\n<head>\n<title>Checking Language...</title>\n<script language=\"JavaScript\" src=\"js/public.js\" type=\"text/javascript\"></script>\n\n<script type=\"text/javascript\">\n//var systemCheck = 0;\nvar LANGS=\"eng chn cht de es it fr pt\";\n\nfunction isIE() \n{ \n\tvar browserMsg = navigator.userAgent.toLowerCase(); \n\t//      alert(browserMsg); \n\tif (navigator.appName == \"Microsoft Internet Explorer\")\n\t\t\treturn true; \n    \n\treturn false; \n}\n\nfunction isEdge()\n{\n\tvar agt = navigator.userAgent;\n\tvar agtMatch = agt.match(/Edge\\//);\n\tif(agtMatch){\n\t\tdocument.write(\"<br/><div style=\\\"font-weight:bold; font-size:36px\\\">Unsupported Browser Detected</div><div><h3>The web-based setup page on this device works best in Internet Explorer.</h3></div><div><h3>You can find Internet Explorer in the start menu under the following context:</h3></div><div><span style=\\\"font-weight:bold; font-size:36px; font-style:italic\\\">All Apps</span> <span style=\\\"font-weight:bold; font-size:36px\\\">></span> <span style=\\\"font-weight:bold; font-size:36px; font-style:italic\\\">Windows Accessories</span> <span style=\\\"font-weight:bold; font-size:36px\\\">></span> <span style=\\\"font-weight:bold; font-size:36px; font-style:italic\\\">Internet Explorer</span></div>\");\n\t\treturn true;\n\t}\n\t\n\treturn false;\n} \n\nfunction isFirefox52()\n{\n\tvar agt = navigator.userAgent.toLowerCase();\n\tvar agtMatch = agt.match(/firefox\\/([\\d.]+)/);\n\tif(agtMatch){\n  \t\tif(agtMatch[1].split(\".\")[0] > 52){\n\t\t\tdocument.write(\"<br/><br/><h2 style=\\\"color:#FF0000\\\">The browser you are using may have difficulty receiving images and video. If you experience any issues viewing this page, we suggest using Internet Explorer or Apple Safari.</h2>\");\n\t\t\treturn true;\n \t \t}\n\t}\n\t\n\treturn false;\n}\n\nfunction isChrome45()\n{\n\tvar agt = navigator.userAgent.toLowerCase();\n\tvar agtMatch = agt.match(/chrome\\/([\\d.]+)/);\n\tif(agtMatch){\n  \t\tif(agtMatch[1].split(\".\")[0] > 44){\n\t\t\tdocument.write(\"<br/><br/><h2 style=\\\"color:#FF0000\\\">The browser you are using may have difficult",
+      "url": "http://71.56.131.207:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Content-Type": "text/html",
+        "Accept-Ranges": "bytes",
+        "ETag": "\"2005117781\"",
+        "Last-Modified": "Mon, 30 Jul 2018 06:38:42 GMT",
+        "Content-Length": "7851",
+        "Connection": "close",
+        "Date": "Sat, 12 Jul 2025 01:41:46 GMT",
+        "Server": "dcs-lig-httpd"
+      },
+      "content": "<html>\n<head>\n<title>Checking Language...</title>\n<script language=\"JavaScript\" src=\"js/public.js\" type=\"text/javascript\"></script>\n\n<script type=\"text/javascript\">\n//var systemCheck = 0;\nvar LANGS=\"eng chn cht de es it fr pt\";\n\nfunction isIE() \n{ \n\tvar browserMsg = navigator.userAgent.toLowerCase(); \n\t//      alert(browserMsg); \n\tif (navigator.appName == \"Microsoft Internet Explorer\")\n\t\t\treturn true; \n    \n\treturn false; \n}\n\nfunction isEdge()\n{\n\tvar agt = navigator.userAgent;\n\tvar agtMatch = agt.match(/Edge\\//);\n\tif(agtMatch){\n\t\tdocument.write(\"<br/><div style=\\\"font-weight:bold; font-size:36px\\\">Unsupported Browser Detected</div><div><h3>The web-based setup page on this device works best in Internet Explorer.</h3></div><div><h3>You can find Internet Explorer in the start menu under the following context:</h3></div><div><span style=\\\"font-weight:bold; font-size:36px; font-style:italic\\\">All Apps</span> <span style=\\\"font-weight:bold; font-size:36px\\\">></span> <span style=\\\"font-weight:bold; font-size:36px; font-style:italic\\\">Windows Accessories</span> <span style=\\\"font-weight:bold; font-size:36px\\\">></span> <span style=\\\"font-weight:bold; font-size:36px; font-style:italic\\\">Internet Explorer</span></div>\");\n\t\treturn true;\n\t}\n\t\n\treturn false;\n} \n\nfunction isFirefox52()\n{\n\tvar agt = navigator.userAgent.toLowerCase();\n\tvar agtMatch = agt.match(/firefox\\/([\\d.]+)/);\n\tif(agtMatch){\n  \t\tif(agtMatch[1].split(\".\")[0] > 52){\n\t\t\tdocument.write(\"<br/><br/><h2 style=\\\"color:#FF0000\\\">The browser you are using may have difficulty receiving images and video. If you experience any issues viewing this page, we suggest using Internet Explorer or Apple Safari.</h2>\");\n\t\t\treturn true;\n \t \t}\n\t}\n\t\n\treturn false;\n}\n\nfunction isChrome45()\n{\n\tvar agt = navigator.userAgent.toLowerCase();\n\tvar agtMatch = agt.match(/chrome\\/([\\d.]+)/);\n\tif(agtMatch){\n  \t\tif(agtMatch[1].split(\".\")[0] > 44){\n\t\t\tdocument.write(\"<br/><br/><h2 style=\\\"color:#FF0000\\\">The browser you are using may have difficult",
+      "url": "https://71.56.131.207:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "71.104.37.113": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://71.104.37.113:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://71.104.37.113:443",
+      "success": false
+    }
+  },
+  "76.111.232.241": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://76.111.232.241:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://76.111.232.241:443",
+      "success": false
+    }
+  },
+  "185.197.221.178": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://185.197.221.178:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://185.197.221.178:443",
+      "success": false
+    }
+  },
+  "80.181.242.88": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://80.181.242.88:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://80.181.242.88:443",
+      "success": false
+    }
+  },
+  "187.233.43.175": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://187.233.43.175:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://187.233.43.175:443",
+      "success": false
+    }
+  },
+  "177.240.195.140": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://177.240.195.140:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://177.240.195.140:443",
+      "success": false
+    }
+  },
+  "114.34.9.240": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "7851",
+        "Accept-Ranges": "bytes",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 01:43:28 GMT",
+        "Etag": "\"2005117781\"",
+        "Last-Modified": "Mon, 30 Jul 2018 06:38:42 GMT",
+        "Server": "dcs-lig-httpd",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "SAMEORIGIN",
+        "X-Xss-Protection": "1;mode=block"
+      },
+      "content": "<html>\n<head>\n<title>Checking Language...</title>\n<script language=\"JavaScript\" src=\"js/public.js\" type=\"text/javascript\"></script>\n\n<script type=\"text/javascript\">\n//var systemCheck = 0;\nvar LANGS=\"eng chn cht de es it fr pt\";\n\nfunction isIE() \n{ \n\tvar browserMsg = navigator.userAgent.toLowerCase(); \n\t//      alert(browserMsg); \n\tif (navigator.appName == \"Microsoft Internet Explorer\")\n\t\t\treturn true; \n    \n\treturn false; \n}\n\nfunction isEdge()\n{\n\tvar agt = navigator.userAgent;\n\tvar agtMatch = agt.match(/Edge\\//);\n\tif(agtMatch){\n\t\tdocument.write(\"<br/><div style=\\\"font-weight:bold; font-size:36px\\\">Unsupported Browser Detected</div><div><h3>The web-based setup page on this device works best in Internet Explorer.</h3></div><div><h3>You can find Internet Explorer in the start menu under the following context:</h3></div><div><span style=\\\"font-weight:bold; font-size:36px; font-style:italic\\\">All Apps</span> <span style=\\\"font-weight:bold; font-size:36px\\\">></span> <span style=\\\"font-weight:bold; font-size:36px; font-style:italic\\\">Windows Accessories</span> <span style=\\\"font-weight:bold; font-size:36px\\\">></span> <span style=\\\"font-weight:bold; font-size:36px; font-style:italic\\\">Internet Explorer</span></div>\");\n\t\treturn true;\n\t}\n\t\n\treturn false;\n} \n\nfunction isFirefox52()\n{\n\tvar agt = navigator.userAgent.toLowerCase();\n\tvar agtMatch = agt.match(/firefox\\/([\\d.]+)/);\n\tif(agtMatch){\n  \t\tif(agtMatch[1].split(\".\")[0] > 52){\n\t\t\tdocument.write(\"<br/><br/><h2 style=\\\"color:#FF0000\\\">The browser you are using may have difficulty receiving images and video. If you experience any issues viewing this page, we suggest using Internet Explorer or Apple Safari.</h2>\");\n\t\t\treturn true;\n \t \t}\n\t}\n\t\n\treturn false;\n}\n\nfunction isChrome45()\n{\n\tvar agt = navigator.userAgent.toLowerCase();\n\tvar agtMatch = agt.match(/chrome\\/([\\d.]+)/);\n\tif(agtMatch){\n  \t\tif(agtMatch[1].split(\".\")[0] > 44){\n\t\t\tdocument.write(\"<br/><br/><h2 style=\\\"color:#FF0000\\\">The browser you are using may have difficult",
+      "url": "http://114.34.9.240:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='114.34.9.240', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:852)'),))",
+      "url": "https://114.34.9.240:443",
+      "success": false
+    }
+  },
+  "92.196.229.143": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://92.196.229.143:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://92.196.229.143:443",
+      "success": false
+    }
+  },
+  "99.229.160.48": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://99.229.160.48:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://99.229.160.48:443",
+      "success": false
+    }
+  },
+  "65.24.210.170": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://65.24.210.170:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://65.24.210.170:443",
+      "success": false
+    }
+  },
+  "97.120.71.6": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://97.120.71.6:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://97.120.71.6:443",
+      "success": false
+    }
+  },
+  "149.172.125.90": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://149.172.125.90:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://149.172.125.90:443",
+      "success": false
+    }
+  },
+  "95.251.99.60": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://95.251.99.60:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://95.251.99.60:443",
+      "success": false
+    }
+  },
+  "109.104.206.25": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://109.104.206.25:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='109.104.206.25', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:852)'),))",
+      "url": "https://109.104.206.25:443",
+      "success": false
+    }
+  },
+  "93.89.44.72": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://93.89.44.72:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://93.89.44.72:443",
+      "success": false
+    }
+  },
+  "139.180.206.8": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://139.180.206.8:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='139.180.206.8', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://139.180.206.8:443",
+      "success": false
+    }
+  },
+  "24.184.2.52": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://24.184.2.52:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Content-Type": "text/html",
+        "Accept-Ranges": "bytes",
+        "ETag": "\"1114346182\"",
+        "Last-Modified": "Mon, 30 Jul 2018 01:09:27 GMT",
+        "Content-Length": "3362",
+        "Connection": "close",
+        "Date": "Sat, 12 Jul 2025 01:45:41 GMT",
+        "Server": "dcs-lig-httpd"
+      },
+      "content": "<html>\n<head>\n<title>Checking Language...</title>\n<script language=\"JavaScript\" src=\"js/public.js\" type=\"text/javascript\"></script>\n\n<script type=\"text/javascript\">\nvar systemCheck = 0;\nvar LANGS=\"eng cht chn de es it fr pt\";\n\nfunction isIE() \n{ \n\tvar browserMsg = navigator.userAgent.toLowerCase(); \n\t//      alert(browserMsg); \n\tif (navigator.appName == \"Microsoft Internet Explorer\")\n\t\t\treturn true; \n    \n\treturn false; \n} \nfunction isMobile()\n{\n\tvar browserMsg = navigator.userAgent.toLowerCase(); \n\tvar url = \"m/m/index.html\";\n\tvar isMobile = true;\n\t\n\tif(browserMsg.indexOf(\"android\") != -1 || browserMsg.indexOf(\"iphone\") != -1\n\t|| browserMsg.indexOf(\"blackberry\") != -1 || browserMsg.indexOf(\"mobile\") != -1)\n\t{\n\t\turl = \"m/\"\n\t}\n\telse\n\t{\n\t\tisMobile = false;\n\t}\n\tif(isMobile)\n\t\trefresh(url);\n\treturn isMobile;\n}\n\nfunction readCookie( name )\n{\n\tvar nameEQ = name + \"=\";\n\tvar ca = document.cookie.split(';');\n\tfor(var i=0;i < ca.length;i++)\n\t{\n\t\tvar c = ca[i];\n\t\twhile (c.charAt(0)==' ') \n\t\t\tc = c.substring(1,c.length);\n\t\tif (c.indexOf(nameEQ) == 0) \n\t\t\treturn c.substring(nameEQ.length,c.length);\n\t}\n\treturn \"null\";\n}\n\nfunction createCookie( name, value, days )\n{\n\tif (days) {\n\t\tvar date = new Date();\n\t\tdate.setTime(date.getTime()+(days*24*60*60*1000));\n\t\tvar expires = '; expires='+date.toGMTString();\n\t}\n\telse \n\t\tvar expires = '';\n\n\tdocument.cookie = name+'='+value+expires+'; path=/';\n}\n\nfunction refresh(url)\n{\n    document.write(\"<meta http-equiv=\\\"Refresh\\\" content=\\\"0;url=\" + url + \"\\\">\");\n}\n\nfunction maxWindow() {\n\twindow.top.moveTo(0,0);\n\twindow.top.resizeTo(screen.availWidth,screen.availHeight);\n}\t\nfunction INIT()\n{   \n\tif(isMobile())\n\t\treturn;\n\tvar lang = readCookie(\"language\");\n\tvar targetWeb=\"eng/liveView.cgi\";\n\tvar targetLang=\"eng\";\n\tif(lang != \"null\")\n\t{\n\t\tvar langArray=LANGS.split(\" \");\n\t\tvar langLength=langArray.length; \t\n\t\tfor(i=0;i<langLength;i++)\n\t\t{\n\t\t\tif(lang==langArray[i])\n\t\t\t{\n\t\t\t\ttargetWeb=lang+\"/liveView.cgi\";\t\n\t\t\t\ttargetLang=lang;\n\t\t\t\tbreak;\n\t\t\t}\n\t\t}\n\t}\n\te",
+      "url": "https://24.184.2.52:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "73.93.205.46": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://73.93.205.46:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://73.93.205.46:443",
+      "success": false
+    }
+  },
+  "185.186.135.6": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://185.186.135.6:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://185.186.135.6:443",
+      "success": false
+    }
+  },
+  "23.88.132.44": {
+    "port_80": {
+      "status_code": 401,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "103",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html",
+        "Date": "Sat Feb  9 05:54:35 2019",
+        "Pragma": "no-cache",
+        "Server": "alphapd/2.1.8",
+        "Www-Authenticate": "Digest realm=\"DCS-5020L_24\",qop=\"auth\", nonce=\"4016d0a82b4965156230cf4145901002\""
+      },
+      "content": "<html><body><h2>Error: Authorization Required</h2>\r\n<p>Authentication was requested</p></body></html>\r\n",
+      "url": "http://23.88.132.44:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://23.88.132.44:443",
+      "success": false
+    }
+  },
+  "159.75.49.252": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "138",
+        "Accept-Ranges": "bytes",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 01:46:40 GMT",
+        "Etag": "\"654b1b58-8a\"",
+        "Last-Modified": "Wed, 08 Nov 2023 05:23:36 GMT",
+        "Server": "nginx"
+      },
+      "content": "<html>\n<head><title>404 Not Found</title></head>\n<body>\n<center><h1>404 Not Found</h1></center>\n<hr><center>nginx</center>\n</body>\n</html>",
+      "url": "http://159.75.49.252:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Server": "nginx",
+        "Date": "Sat, 12 Jul 2025 01:46:41 GMT",
+        "Content-Type": "text/html; charset=utf-8",
+        "Transfer-Encoding": "chunked",
+        "Connection": "close",
+        "Vary": "Accept-Encoding",
+        "access-control-allow-credentials": "true",
+        "access-control-allow-origin": "*",
+        "access-control-expose-headers": "",
+        "cache-control": "max-age=0, private, must-revalidate, no-cache",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-download-options": "noopen",
+        "x-frame-options": "SAMEORIGIN",
+        "x-permitted-cross-domain-policies": "none",
+        "x-request-id": "GFFdvjkDUpd-RgEAGz8h",
+        "x-robots-tag": "noindex, nofollow",
+        "Content-Encoding": "gzip"
+      },
+      "content": "<!DOCTYPE html>\n<html lang=\"en\" class=\"h-full\">\n  <head>\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta name=\"description\" content=\"A lightweight, non-intrusive alternative to Google Analytics.\">\n    <meta name=\"robots\" content=\"noindex, nofollow\">\n\n    <link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"/images/ce/apple-touch-icon-f29d23c185b2e7e1a9567ce2708f416c.png?vsn=d\">\n<link rel=\"icon\" type=\"image/png\" sizes=\"32x32\" href=\"/images/ce/favicon-32x32-216f8b2177e3500b87b19d06f9da0cc6.png?vsn=d\">\n<link rel=\"icon\" type=\"image/png\" sizes=\"16x16\" href=\"/images/ce/favicon-16x16-6ea9a4367c4fe4f55300dff2d0d2e486.png?vsn=d\">\n    <title>Plausible · Web analytics</title>\n    <link rel=\"stylesheet\" href=\"/css/app-e657fe5d8624813d28ba445c300e40b3.css?vsn=d\">\n\n  </head>\n  <body class=\"flex flex-col h-full bg-gray-100 dark:bg-gray-900\">\n    <div class=\"w-full mt-12 text-center\">\n      <a href=\"/\">\n<img alt=\"Plausible logo\" class=\"w-44 hidden dark:inline\" loading=\"lazy\" src=\"/images/ce/logo_dark-cd5b9492245c556d7a3845a4a3dbd247.svg?vsn=d\">\n<img alt=\"Plausible logo\" class=\"w-44 inline dark:hidden\" loading=\"lazy\" src=\"/images/ce/logo_light-6c005532f1946acdf91f8a8059a5ce4b.svg?vsn=d\">\n      </a>\n    </div>\n\n\n\n\n<div class=\"mt-12 w-full md:max-w-xl md:mx-auto bg-white dark:bg-gray-800 md:shadow-md md:rounded px-8 py-6\">\n  <p class=\"text-gray-900 text-xl font-black dark:text-gray-100\">\n    Welcome to Plausible!\n  </p>\n  <p class=\"mt-4 text-gray-600 dark:text-gray-200\">\n  <a href=\"https://plausible.io/\" class=\"border-b text-indigo-700 font-semibold dark:text-indigo-400 border-indigo-700 dark:border-indigo-500\">Plausible Analytics</a> is a simple, open source, lightweight (&lt; 1 KB) and privacy-friendly alternative to Google Analytics. We're completely independent and solely funded by our 10,000+ paying subscribers. Read more <a href=\"https://plausible.io/about\" cla",
+      "url": "https://159.75.49.252:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "97.92.181.126": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://97.92.181.126:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='97.92.181.126', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://97.92.181.126:443",
+      "success": false
+    }
+  },
+  "83.251.32.203": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://83.251.32.203:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://83.251.32.203:443",
+      "success": false
+    }
+  },
+  "93.196.17.139": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://93.196.17.139:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://93.196.17.139:443",
+      "success": false
+    }
+  },
+  "216.110.235.28": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://216.110.235.28:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://216.110.235.28:443",
+      "success": false
+    }
+  },
+  "171.4.195.126": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://171.4.195.126:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://171.4.195.126:443",
+      "success": false
+    }
+  },
+  "172.232.206.53": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://172.232.206.53:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='172.232.206.53', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://172.232.206.53:443",
+      "success": false
+    }
+  },
+  "83.57.200.129": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://83.57.200.129:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://83.57.200.129:443",
+      "success": false
+    }
+  },
+  "49.245.60.150": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://49.245.60.150:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://49.245.60.150:443",
+      "success": false
+    }
+  },
+  "109.21.47.216": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://109.21.47.216:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='109.21.47.216', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://109.21.47.216:443",
+      "success": false
+    }
+  },
+  "98.114.133.67": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://98.114.133.67:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://98.114.133.67:443",
+      "success": false
+    }
+  },
+  "73.251.181.239": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://73.251.181.239:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://73.251.181.239:443",
+      "success": false
+    }
+  },
+  "69.207.16.207": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://69.207.16.207:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://69.207.16.207:443",
+      "success": false
+    }
+  },
+  "73.239.252.16": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://73.239.252.16:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://73.239.252.16:443",
+      "success": false
+    }
+  },
+  "149.28.88.253": {
+    "port_80": {
+      "status_code": 301,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "178",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 01:50:06 GMT",
+        "Location": "https://149.28.88.253/",
+        "Server": "nginx/1.18.0 (Ubuntu)"
+      },
+      "content": "<html>\r\n<head><title>301 Moved Permanently</title></head>\r\n<body>\r\n<center><h1>301 Moved Permanently</h1></center>\r\n<hr><center>nginx/1.18.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n",
+      "url": "http://149.28.88.253:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Server": "nginx/1.18.0 (Ubuntu)",
+        "Date": "Sat, 12 Jul 2025 01:50:08 GMT",
+        "Content-Type": "text/html",
+        "Last-Modified": "Mon, 03 Jul 2023 04:07:45 GMT",
+        "Transfer-Encoding": "chunked",
+        "Connection": "close",
+        "ETag": "W/\"64a24991-a6a\"",
+        "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+        "X-Frame-Options": "SAMEORIGIN",
+        "X-Content-Type-Options": "nosniff",
+        "X-XSS-Protection": "1; mode=block",
+        "Content-Encoding": "gzip"
+      },
+      "content": "<!DOCTYPE HTML>\r\n<!--\r\n\tAerial by HTML5 UP\r\n\thtml5up.net | @n33co\r\n\tFree for personal and commercial use under the CCA 3.0 license (html5up.net/license)\r\n-->\r\n<html>\r\n\t<head>\r\n\t\t<title>Lvwind Shaw</title>\r\n\t\t<meta charset=\"utf-8\" />\r\n\t\t<meta name=\"theme-color\" content=\"#5F7D8C\">\r\n\t\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\r\n\t\t<link rel=\"icon\" sizes=\"192x192\" href=\"favicon.png\">\r\n\t\t<!--[if lte IE 8]><script src=\"assets/js/ie/html5shiv.js\"></script><![endif]-->\r\n\t\t<link rel=\"stylesheet\" href=\"assets/css/main.css\" />\r\n\t\t<!--[if lte IE 8]><link rel=\"stylesheet\" href=\"assets/css/ie8.css\" /><![endif]-->\r\n\t\t<!--[if lte IE 9]><link rel=\"stylesheet\" href=\"assets/css/ie9.css\" /><![endif]-->\r\n\t</head>\r\n\t<body class=\"loading\">\r\n\t\t<div id=\"wrapper\">\r\n\t\t\t<div id=\"bg\"></div>\r\n\t\t\t<div id=\"overlay\"></div>\r\n\t\t\t<div id=\"main\">\r\n\r\n\t\t\t\t<!-- Header -->\r\n\t\t\t\t\t<header id=\"header\">\r\n\t\t\t\t\t\t<h1>Lvwind Shaw</h1>\r\n\t\t\t\t\t\t<p> Programmer &nbsp;&bull;&nbsp; Gamer </p>\r\n\t\t\t\t\t\t<nav>\r\n\t\t\t\t\t\t\t<ul>\r\n\t\t\t\t\t\t\t\t<li><a href=\"//blog.lvwind.com/\" class=\"icon fa-wordpress\"><span class=\"label\">Blog</span></a></li>\r\n\t\t\t\t\t\t\t\t<li><a href=\"//twitter.com/LvWind/\" class=\"icon fa-twitter\"><span class=\"label\">Twitter</span></a></li>\r\n\t\t\t\t\t\t\t\t<li><a href=\"//github.com/LvWind/\" class=\"icon fa-github\"><span class=\"label\">Github</span></a></li>\r\n\t\t\t\t\t\t\t\t<li><a href=\"//instagram.com/LvWind/\" class=\"icon fa-instagram\"><span class=\"label\">Github</span></a></li>\r\n\t\t\t\t\t\t\t\t<li><a href=\"//steamcommunity.com/id/LvWind/\" class=\"icon fa-steam\"><span class=\"label\">Steam</span></a></li>\r\n\t\t\t\t\t\t\t</ul>\r\n\t\t\t\t\t\t</nav>\r\n\t\t\t\t\t</header>\r\n\r\n\t\t\t\t<!-- Footer -->\r\n\t\t\t\t\t<footer id=\"footer\">\r\n\t\t\t\t\t\t<a rel=\"me\" href=\"https://mastodon.social/@lvwind\">Mastodon</a>\r\n\t\t\t\t\t\t<span class=\"copyright\">&copy; Untitled. Design: <a href=\"http://html5up.net\">HTML5 UP</a>.</span>\r\n\t\t\t\t\t</footer>\r\n\r\n\t\t\t</div>\r\n\t\t</div>\r\n\t\t<!--[if lte IE 8]><script src=\"assets/js/ie/respond.min.js\"></script><![endif]-->\r\n\t\t<script>\r\n\t\t\twindow.onload = f",
+      "url": "https://149.28.88.253:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "37.1.164.48": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://37.1.164.48:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://37.1.164.48:443",
+      "success": false
+    }
+  },
+  "76.179.92.222": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://76.179.92.222:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://76.179.92.222:443",
+      "success": false
+    }
+  },
+  "154.21.94.141": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://154.21.94.141:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://154.21.94.141:443",
+      "success": false
+    }
+  },
+  "141.151.18.13": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://141.151.18.13:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://141.151.18.13:443",
+      "success": false
+    }
+  },
+  "213.183.57.164": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://213.183.57.164:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='213.183.57.164', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://213.183.57.164:443",
+      "success": false
+    }
+  },
+  "69.180.117.133": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://69.180.117.133:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://69.180.117.133:443",
+      "success": false
+    }
+  },
+  "24.35.159.227": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://24.35.159.227:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://24.35.159.227:443",
+      "success": false
+    }
+  },
+  "185.209.227.34": {
+    "port_80": {
+      "status_code": 401,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "103",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html",
+        "Date": "Sat Jan 16 15:16:53 2016",
+        "Pragma": "no-cache",
+        "Server": "alphapd",
+        "Www-Authenticate": "Basic realm=\"DCS-932L_56\""
+      },
+      "content": "<html><body><h2>Error: Authorization Required</h2>\r\n<p>Authentication was requested</p></body></html>\r\n",
+      "url": "http://185.209.227.34:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='185.209.227.34', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:852)'),))",
+      "url": "https://185.209.227.34:443",
+      "success": false
+    }
+  },
+  "94.60.108.121": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "4591",
+        "Accept-Ranges": "bytes",
+        "Cache-Control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 01:52:04 GMT",
+        "Etag": "\"3200134115\"",
+        "Last-Modified": "Wed, 12 Jun 2024 08:43:04 GMT",
+        "Server": "webserver"
+      },
+      "content": "<!DOCTYPE html>\n<!-- MAIN-TEMPLATE FOR WEBSITE -->\n<html ng-controller=\"rootCtrl\">\n    <head>\n        <!-- Use the most recent rendering mode of IE or use Chrome Frame for IE<=8 if installed -->\n        <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge,chrome=IE8\">\n\n        <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n        <meta http-equiv=\"Content-Script-Type\" content=\"text/javascript\">\n\n        <meta http-equiv=\"cache-control\" content=\"max-age=0\" />\n        <meta http-equiv=\"cache-control\" content=\"no-cache\" />\n        <meta http-equiv=\"expires\" content=\"0\" />\n        <meta http-equiv=\"expires\" content=\"Tue, 01 Jan 1980 1:00:00 GMT\" />\n        <meta http-equiv=\"pragma\" content=\"no-cache\" />\n\n        <!--<title>Fronius: {{daloState.systemName ? daloState.getDecodedSystemName() : ('WIZARD_TITLE' | translate)}}</title>-->\n        <title ng-bind=\"'Fronius: ' + (daloState.systemName ? daloState.getDecodedSystemName() : ('WIZARD_TITLE' | translate))\"></title>\n\n        <!--[if lt IE 9]><script>\n        var userLang = navigator.language || navigator.userLanguage || 'en';\n        userLang = userLang.split('-')[0]\n        window.location.href = '/html/legacy/legacy_browser_'+userLang+'.html?ver=1.1.26-9';\n        </script><![endif]-->\n        <!--[if IE]><script src=\"/js/ie_fixes.js?ver=3.4.0-102\"></script><![endif]-->\n\n        <link rel=\"icon\" href=\"/img/favicon.ico\" type=\"image/vnd.microsoft.icon\">\n\n        <!--TODO: cleanup stylesheets !! maybe https://github.com/manuelmazzuola/angular-ui-router-styles -->\n\n        <link type=\"text/css\" href=\"/css/bootstrap-progressbar.css?ver=1.1.26-9\" rel=\"stylesheet\" media=\"all\"/>\n        <link type=\"text/css\" href=\"/css/bootstrap-components.css?ver=1.1.26-9\" rel=\"stylesheet\" media=\"all\"/>\n        <link type=\"text/css\" href=\"/css/jquery-ui-1.9.0.custom.css?ver=1.1.26-9\" rel=\"stylesheet\" media=\"all\"/>\n        <link type=\"text/css\" href=\"/css/ngDialog.css?ver=1.1.26-9\" rel=\"stylesheet\" media=\"all\"/>\n       ",
+      "url": "http://94.60.108.121:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://94.60.108.121:443",
+      "success": false
+    }
+  },
+  "139.162.118.148": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://139.162.118.148:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='139.162.118.148', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://139.162.118.148:443",
+      "success": false
+    }
+  },
+  "108.203.228.40": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "1153",
+        "Content-Encoding": "gzip",
+        "Content-Type": "text/html; charset=UTF-8",
+        "Date": "Sat, 12 Jul 2025 01:52:33 GMT",
+        "Server": "Apache/2.4.59 (Raspbian)",
+        "Vary": "Accept-Encoding"
+      },
+      "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\">\r\n\r\n\r\n<html>\r\n<head>\r\n\t<title>GUIDRY portallll</title>\r\n</head>\r\n\r\n\r\n\r\n\r\n<body bgcolor=\"#000000\" link=\"red\">\r\n\r\n<table  border=\"1\" align=\"center\" bordercolor=\"#EB5F23\" bgcolor=\"#000000\">\r\n<TR>\r\n   <TD           align=center  ><font size=\"20\" ><a href= \"stream.php\">Stream</a> </FONT></TD>\r\n   <TD colspan=2 align=center  ><font size=\"20\" color=\"#green\"> GUIDRY WEB PORTAL - HOME</FONT> </TD>\r\n   <TD           align=center  ><font size=\"20\" ><a href= \"http://sonocoweb.sontheimeroffshore.com/backups.php\"><img src=\"jag1.gif\" width=\"50\" height=\"50\" border=\"0\"></a> </FONT></TD>\r\n   \r\n<TR>\r\n<td align=\"center\" bgcolor=\"#000000\"><B><font color=\"#C9B010\">Patio</font></B><BR><a href=\"http://guidry.homeip.net:83/video/mjpg.cgi\" >   <img src=\"http://admin:holen1@guidry.homeip.net:83/image.jpg\"  width=\"447\" border=\"0\" alt=\"\"></a></td>\r\n<td align=\"center\" bgcolor=\"#000000\"><B><font color=\"#C9B010\">Patio1</font></B><BR><a href=\"http://guidry.homeip.net:84/video/mjpg.cgi\" >  <img src=\"http://admin:holen1@guidry.homeip.net:84/image/jpeg.cgi\"  width=\"447\" border=\"0\" alt=\"\"></a></td>\r\n<td align=\"center\" bgcolor=\"#000000\"><B><font color=\"#C9B010\">garage</font></B><BR><a href=\"http://guidry.homeip.net:81/video/mjpg.cgi\" >   <img src=\"http://admin:holen1@guidry.homeip.net:81/image.jpg\"  width=\"447\" border=\"0\" alt=\"\"></a></td>\r\n<td align=\"center\" bgcolor=\"#000000\"><B><font color=\"#C9B010\">Driveway</font></B><BR><a href=\"http://admin:holen1@guidry.homeip.net:85/video/mjpg.cgi\" >  <img src=\"http://admin:holen1@guidry.homeip.net:85/image/jpeg.cgi\"  width=\"447\" border=\"0\" alt=\"\"></a></td>\r\n\r\n</TR>\r\n\r\n<TR>\r\n  <td align=\"center\" bgcolor=\"white\"><a href=\"https://www.wunderground.com/dashboard/pws/KLATHIBO2\" >\r\n\r\n\r\n<HEADER>\r\n<STYLE type\"text/css\">\r\ntd.label {\r\n font-family: courier_new;\r\n color: green;\r\n font-size: large;\r\n}\r\ntd.data {\r\n font-family: courier_new;\r\n color: black;\r\n font-weight: bold;\r\n font-size: large;\r\n }\r\n \r\n table, th,",
+      "url": "http://108.203.228.40:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://108.203.228.40:443",
+      "success": false
+    }
+  },
+  "71.214.149.52": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://71.214.149.52:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://71.214.149.52:443",
+      "success": false
+    }
+  },
+  "46.162.100.237": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://46.162.100.237:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://46.162.100.237:443",
+      "success": false
+    }
+  },
+  "216.238.99.75": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://216.238.99.75:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='216.238.99.75', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://216.238.99.75:443",
+      "success": false
+    }
+  },
+  "73.24.254.27": {
+    "port_80": {
+      "status_code": 401,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "103",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html",
+        "Date": "Fri Jul 11 18:54:29 2025",
+        "Pragma": "no-cache",
+        "Server": "alphapd/2.1.8",
+        "Www-Authenticate": "Digest realm=\"DCS-933L_18\",qop=\"auth\", nonce=\"41d9b930af72bbaaa179016945bfa384\""
+      },
+      "content": "<html><body><h2>Error: Authorization Required</h2>\r\n<p>Authentication was requested</p></body></html>\r\n",
+      "url": "http://73.24.254.27:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='73.24.254.27', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://73.24.254.27:443",
+      "success": false
+    }
+  },
+  "200.25.45.110": {
+    "port_80": {
+      "status_code": 301,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "59",
+        "Content-Type": "text/html; charset=utf-8",
+        "Date": "Sat, 12 Jul 2025 01:54:54 GMT",
+        "Location": "https://ipinfo.io/census"
+      },
+      "content": "<a href=\"https://ipinfo.io/census\">Moved Permanently</a>.\n\n",
+      "url": "http://200.25.45.110:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://200.25.45.110:443",
+      "success": false
+    }
+  },
+  "81.185.154.89": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://81.185.154.89:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='81.185.154.89', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://81.185.154.89:443",
+      "success": false
+    }
+  },
+  "172.104.65.251": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://172.104.65.251:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://172.104.65.251:443",
+      "success": false
+    }
+  },
+  "100.14.178.130": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://100.14.178.130:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://100.14.178.130:443",
+      "success": false
+    }
+  },
+  "64.176.35.172": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://64.176.35.172:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='64.176.35.172', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://64.176.35.172:443",
+      "success": false
+    }
+  },
+  "84.221.215.46": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://84.221.215.46:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='84.221.215.46', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://84.221.215.46:443",
+      "success": false
+    }
+  },
+  "2.218.62.161": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://2.218.62.161:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://2.218.62.161:443",
+      "success": false
+    }
+  },
+  "68.146.221.121": {
+    "port_80": {
+      "status_code": 401,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "103",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html",
+        "Date": "Fri Jul 11 18:56:28 2025",
+        "Pragma": "no-cache",
+        "Server": "alphapd/2.1.8",
+        "Www-Authenticate": "Digest realm=\"DCS-5030L_BB\",qop=\"auth\", nonce=\"fea5d2079e53c0b532783bb6aa91a1b3\""
+      },
+      "content": "<html><body><h2>Error: Authorization Required</h2>\r\n<p>Authentication was requested</p></body></html>\r\n",
+      "url": "http://68.146.221.121:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='68.146.221.121', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:852)'),))",
+      "url": "https://68.146.221.121:443",
+      "success": false
+    }
+  },
+  "24.42.175.126": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://24.42.175.126:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://24.42.175.126:443",
+      "success": false
+    }
+  },
+  "187.172.117.143": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://187.172.117.143:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://187.172.117.143:443",
+      "success": false
+    }
+  },
+  "68.35.103.233": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://68.35.103.233:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://68.35.103.233:443",
+      "success": false
+    }
+  },
+  "68.145.172.95": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://68.145.172.95:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://68.145.172.95:443",
+      "success": false
+    }
+  },
+  "85.166.6.95": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://85.166.6.95:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://85.166.6.95:443",
+      "success": false
+    }
+  },
+  "57.134.77.123": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://57.134.77.123:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://57.134.77.123:443",
+      "success": false
+    }
+  },
+  "67.191.11.35": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://67.191.11.35:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://67.191.11.35:443",
+      "success": false
+    }
+  },
+  "82.1.48.154": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://82.1.48.154:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://82.1.48.154:443",
+      "success": false
+    }
+  },
+  "65.131.235.155": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://65.131.235.155:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://65.131.235.155:443",
+      "success": false
+    }
+  },
+  "178.249.126.155": {
+    "port_80": {
+      "status_code": 401,
+      "headers": {
+        "Connection": "close",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html",
+        "Date": "Mon Jan 27 07:48:00 2014",
+        "Pragma": "no-cache",
+        "Server": "alphapd",
+        "Www-Authenticate": "Basic realm=\"DCS-932L\""
+      },
+      "content": "<html><body><h2>Error: Authorization Required</h2>\r\n<p>Authentication was requested</p></body></html>\r\n\r\n",
+      "url": "http://178.249.126.155:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='178.249.126.155', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:852)'),))",
+      "url": "https://178.249.126.155:443",
+      "success": false
+    }
+  },
+  "96.22.187.52": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://96.22.187.52:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://96.22.187.52:443",
+      "success": false
+    }
+  },
+  "73.72.188.98": {
+    "port_80": {
+      "status_code": 302,
+      "headers": {
+        "Connection": "close",
+        "Accept-Ranges": "bytes",
+        "Content-Type": "text/html; charset=ISO-8859-1",
+        "Date": "Fri, 11 Jul 2025 21:00:06 GMT",
+        "Location": "/video.html",
+        "Server": "Boa/0.94.14rc19"
+      },
+      "content": "\r\n<HTML><HEAD><TITLE>302 Moved Temporarily</TITLE></HEAD>\n<BODY>\n<H1>302 Moved</H1>The document has moved\n<A HREF=\"/video.html\">here</A>.\n</BODY></HTML>\n",
+      "url": "http://73.72.188.98:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://73.72.188.98:443",
+      "success": false
+    }
+  },
+  "201.110.69.40": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://201.110.69.40:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://201.110.69.40:443",
+      "success": false
+    }
+  },
+  "24.1.202.118": {
+    "port_80": {
+      "status_code": 401,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "103",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html",
+        "Date": "Fri Jul 11 20:00:49 2025",
+        "Pragma": "no-cache",
+        "Server": "alphapd/2.1.8",
+        "Www-Authenticate": "Digest realm=\"DCS-5020L_08\",qop=\"auth\", nonce=\"9515ff9ebfc60ce99d22e77f8a282d81\""
+      },
+      "content": "<html><body><h2>Error: Authorization Required</h2>\r\n<p>Authentication was requested</p></body></html>\r\n",
+      "url": "http://24.1.202.118:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='24.1.202.118', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:852)'),))",
+      "url": "https://24.1.202.118:443",
+      "success": false
+    }
+  },
+  "90.235.157.115": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://90.235.157.115:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://90.235.157.115:443",
+      "success": false
+    }
+  },
+  "70.170.113.231": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://70.170.113.231:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://70.170.113.231:443",
+      "success": false
+    }
+  },
+  "86.104.71.196": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://86.104.71.196:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://86.104.71.196:443",
+      "success": false
+    }
+  },
+  "187.199.13.193": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://187.199.13.193:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://187.199.13.193:443",
+      "success": false
+    }
+  },
+  "98.161.250.171": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://98.161.250.171:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='98.161.250.171', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://98.161.250.171:443",
+      "success": false
+    }
+  },
+  "161.142.163.66": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://161.142.163.66:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://161.142.163.66:443",
+      "success": false
+    }
+  },
+  "173.52.42.93": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://173.52.42.93:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://173.52.42.93:443",
+      "success": false
+    }
+  },
+  "82.65.181.66": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://82.65.181.66:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://82.65.181.66:443",
+      "success": false
+    }
+  },
+  "201.145.16.138": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://201.145.16.138:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://201.145.16.138:443",
+      "success": false
+    }
+  },
+  "192.36.61.58": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://192.36.61.58:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='192.36.61.58', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://192.36.61.58:443",
+      "success": false
+    }
+  },
+  "73.23.61.137": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://73.23.61.137:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://73.23.61.137:443",
+      "success": false
+    }
+  },
+  "64.176.168.129": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://64.176.168.129:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='64.176.168.129', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://64.176.168.129:443",
+      "success": false
+    }
+  },
+  "68.229.51.43": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://68.229.51.43:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://68.229.51.43:443",
+      "success": false
+    }
+  },
+  "24.157.157.173": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://24.157.157.173:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://24.157.157.173:443",
+      "success": false
+    }
+  },
+  "71.223.120.46": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://71.223.120.46:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://71.223.120.46:443",
+      "success": false
+    }
+  },
+  "82.66.255.123": {
+    "port_80": {
+      "status_code": 401,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "103",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html",
+        "Date": "Fri Jul 11 15:05:12 2025",
+        "Pragma": "no-cache",
+        "Server": "alphapd/2.1.8",
+        "Www-Authenticate": "Digest realm=\"DCS-5020L_48\",qop=\"auth\", nonce=\"f970865f8ca24447f8337e4555f167e8\""
+      },
+      "content": "<html><body><h2>Error: Authorization Required</h2>\r\n<p>Authentication was requested</p></body></html>\r\n",
+      "url": "http://82.66.255.123:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='82.66.255.123', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://82.66.255.123:443",
+      "success": false
+    }
+  },
+  "201.170.72.64": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://201.170.72.64:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://201.170.72.64:443",
+      "success": false
+    }
+  },
+  "64.176.5.58": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://64.176.5.58:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='64.176.5.58', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://64.176.5.58:443",
+      "success": false
+    }
+  },
+  "66.177.197.157": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://66.177.197.157:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://66.177.197.157:443",
+      "success": false
+    }
+  },
+  "24.78.128.238": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://24.78.128.238:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Content-Type": "text/html",
+        "Accept-Ranges": "bytes",
+        "ETag": "\"2005117781\"",
+        "Last-Modified": "Mon, 30 Jul 2018 06:38:42 GMT",
+        "Content-Length": "7851",
+        "Connection": "close",
+        "Date": "Sat, 12 Jul 2025 02:06:37 GMT",
+        "Server": "dcs-lig-httpd"
+      },
+      "content": "<html>\n<head>\n<title>Checking Language...</title>\n<script language=\"JavaScript\" src=\"js/public.js\" type=\"text/javascript\"></script>\n\n<script type=\"text/javascript\">\n//var systemCheck = 0;\nvar LANGS=\"eng chn cht de es it fr pt\";\n\nfunction isIE() \n{ \n\tvar browserMsg = navigator.userAgent.toLowerCase(); \n\t//      alert(browserMsg); \n\tif (navigator.appName == \"Microsoft Internet Explorer\")\n\t\t\treturn true; \n    \n\treturn false; \n}\n\nfunction isEdge()\n{\n\tvar agt = navigator.userAgent;\n\tvar agtMatch = agt.match(/Edge\\//);\n\tif(agtMatch){\n\t\tdocument.write(\"<br/><div style=\\\"font-weight:bold; font-size:36px\\\">Unsupported Browser Detected</div><div><h3>The web-based setup page on this device works best in Internet Explorer.</h3></div><div><h3>You can find Internet Explorer in the start menu under the following context:</h3></div><div><span style=\\\"font-weight:bold; font-size:36px; font-style:italic\\\">All Apps</span> <span style=\\\"font-weight:bold; font-size:36px\\\">></span> <span style=\\\"font-weight:bold; font-size:36px; font-style:italic\\\">Windows Accessories</span> <span style=\\\"font-weight:bold; font-size:36px\\\">></span> <span style=\\\"font-weight:bold; font-size:36px; font-style:italic\\\">Internet Explorer</span></div>\");\n\t\treturn true;\n\t}\n\t\n\treturn false;\n} \n\nfunction isFirefox52()\n{\n\tvar agt = navigator.userAgent.toLowerCase();\n\tvar agtMatch = agt.match(/firefox\\/([\\d.]+)/);\n\tif(agtMatch){\n  \t\tif(agtMatch[1].split(\".\")[0] > 52){\n\t\t\tdocument.write(\"<br/><br/><h2 style=\\\"color:#FF0000\\\">The browser you are using may have difficulty receiving images and video. If you experience any issues viewing this page, we suggest using Internet Explorer or Apple Safari.</h2>\");\n\t\t\treturn true;\n \t \t}\n\t}\n\t\n\treturn false;\n}\n\nfunction isChrome45()\n{\n\tvar agt = navigator.userAgent.toLowerCase();\n\tvar agtMatch = agt.match(/chrome\\/([\\d.]+)/);\n\tif(agtMatch){\n  \t\tif(agtMatch[1].split(\".\")[0] > 44){\n\t\t\tdocument.write(\"<br/><br/><h2 style=\\\"color:#FF0000\\\">The browser you are using may have difficult",
+      "url": "https://24.78.128.238:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "24.66.121.203": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://24.66.121.203:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='24.66.121.203', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://24.66.121.203:443",
+      "success": false
+    }
+  },
+  "173.32.235.102": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://173.32.235.102:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://173.32.235.102:443",
+      "success": false
+    }
+  },
+  "83.217.150.97": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://83.217.150.97:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://83.217.150.97:443",
+      "success": false
+    }
+  },
+  "45.79.92.244": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://45.79.92.244:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='45.79.92.244', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://45.79.92.244:443",
+      "success": false
+    }
+  },
+  "74.109.180.107": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://74.109.180.107:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://74.109.180.107:443",
+      "success": false
+    }
+  },
+  "96.55.152.211": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "7851",
+        "Accept-Ranges": "bytes",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 02:07:47 GMT",
+        "Etag": "\"2005117781\"",
+        "Last-Modified": "Mon, 30 Jul 2018 06:38:42 GMT",
+        "Server": "dcs-lig-httpd",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "SAMEORIGIN",
+        "X-Xss-Protection": "1;mode=block"
+      },
+      "content": "<html>\n<head>\n<title>Checking Language...</title>\n<script language=\"JavaScript\" src=\"js/public.js\" type=\"text/javascript\"></script>\n\n<script type=\"text/javascript\">\n//var systemCheck = 0;\nvar LANGS=\"eng chn cht de es it fr pt\";\n\nfunction isIE() \n{ \n\tvar browserMsg = navigator.userAgent.toLowerCase(); \n\t//      alert(browserMsg); \n\tif (navigator.appName == \"Microsoft Internet Explorer\")\n\t\t\treturn true; \n    \n\treturn false; \n}\n\nfunction isEdge()\n{\n\tvar agt = navigator.userAgent;\n\tvar agtMatch = agt.match(/Edge\\//);\n\tif(agtMatch){\n\t\tdocument.write(\"<br/><div style=\\\"font-weight:bold; font-size:36px\\\">Unsupported Browser Detected</div><div><h3>The web-based setup page on this device works best in Internet Explorer.</h3></div><div><h3>You can find Internet Explorer in the start menu under the following context:</h3></div><div><span style=\\\"font-weight:bold; font-size:36px; font-style:italic\\\">All Apps</span> <span style=\\\"font-weight:bold; font-size:36px\\\">></span> <span style=\\\"font-weight:bold; font-size:36px; font-style:italic\\\">Windows Accessories</span> <span style=\\\"font-weight:bold; font-size:36px\\\">></span> <span style=\\\"font-weight:bold; font-size:36px; font-style:italic\\\">Internet Explorer</span></div>\");\n\t\treturn true;\n\t}\n\t\n\treturn false;\n} \n\nfunction isFirefox52()\n{\n\tvar agt = navigator.userAgent.toLowerCase();\n\tvar agtMatch = agt.match(/firefox\\/([\\d.]+)/);\n\tif(agtMatch){\n  \t\tif(agtMatch[1].split(\".\")[0] > 52){\n\t\t\tdocument.write(\"<br/><br/><h2 style=\\\"color:#FF0000\\\">The browser you are using may have difficulty receiving images and video. If you experience any issues viewing this page, we suggest using Internet Explorer or Apple Safari.</h2>\");\n\t\t\treturn true;\n \t \t}\n\t}\n\t\n\treturn false;\n}\n\nfunction isChrome45()\n{\n\tvar agt = navigator.userAgent.toLowerCase();\n\tvar agtMatch = agt.match(/chrome\\/([\\d.]+)/);\n\tif(agtMatch){\n  \t\tif(agtMatch[1].split(\".\")[0] > 44){\n\t\t\tdocument.write(\"<br/><br/><h2 style=\\\"color:#FF0000\\\">The browser you are using may have difficult",
+      "url": "http://96.55.152.211:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://96.55.152.211:443",
+      "success": false
+    }
+  },
+  "73.252.132.43": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://73.252.132.43:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://73.252.132.43:443",
+      "success": false
+    }
+  },
+  "189.131.98.3": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://189.131.98.3:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://189.131.98.3:443",
+      "success": false
+    }
+  },
+  "73.160.78.29": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://73.160.78.29:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://73.160.78.29:443",
+      "success": false
+    }
+  },
+  "212.98.43.131": {
+    "port_80": {
+      "status_code": 401,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "103",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html",
+        "Date": "Sat Jul 12 03:09:30 2025",
+        "Pragma": "no-cache",
+        "Server": "alphapd/2.1.8",
+        "Www-Authenticate": "Digest realm=\"DCS-5030L_C4\",qop=\"auth\", nonce=\"203bd78fb53f7a21182b1601a155dce6\""
+      },
+      "content": "<html><body><h2>Error: Authorization Required</h2>\r\n<p>Authentication was requested</p></body></html>\r\n",
+      "url": "http://212.98.43.131:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='212.98.43.131', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:852)'),))",
+      "url": "https://212.98.43.131:443",
+      "success": false
+    }
+  },
+  "170.64.173.41": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://170.64.173.41:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='170.64.173.41', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://170.64.173.41:443",
+      "success": false
+    }
+  },
+  "67.220.19.117": {
+    "port_80": {
+      "status_code": 401,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "103",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html",
+        "Date": "Sat May 11 10:49:44 2019",
+        "Pragma": "no-cache",
+        "Server": "alphapd/2.1.8",
+        "Www-Authenticate": "Digest realm=\"DCS-934L_01\",qop=\"auth\", nonce=\"1df8b872579ef4a402d093795e978900\""
+      },
+      "content": "<html><body><h2>Error: Authorization Required</h2>\r\n<p>Authentication was requested</p></body></html>\r\n",
+      "url": "http://67.220.19.117:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://67.220.19.117:443",
+      "success": false
+    }
+  },
+  "72.85.24.194": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://72.85.24.194:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://72.85.24.194:443",
+      "success": false
+    }
+  },
+  "173.56.40.89": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://173.56.40.89:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://173.56.40.89:443",
+      "success": false
+    }
+  },
+  "185.209.225.120": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "3241",
+        "Accept-Ranges": "bytes",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 02:10:19 GMT",
+        "Etag": "\"-1391554042\"",
+        "Last-Modified": "Thu, 01 Oct 2015 05:23:15 GMT",
+        "Server": "dcs-lig-httpd"
+      },
+      "content": "<html>\n<head>\n<title>Checking Language...</title>\n<script language=\"JavaScript\" src=\"js/public.js\" type=\"text/javascript\"></script>\n\n<script type=\"text/javascript\">\nvar systemCheck = 0;\nvar LANGS=\"eng chn cht de es it fr pt\";\n\nfunction isIE() \n{ \n\tvar browserMsg = navigator.userAgent.toLowerCase(); \n\t//      alert(browserMsg); \n\tif (navigator.appName == \"Microsoft Internet Explorer\")\n\t\t\treturn true; \n    \n\treturn false; \n} \nfunction isMobile()\n{\n\tvar browserMsg = navigator.userAgent.toLowerCase(); \n\tvar url = \"m/m/index.html\";\n\tvar isMobile = true;\n\t\n\tif(browserMsg.indexOf(\"android\") != -1 || browserMsg.indexOf(\"iphone\") != -1\n\t|| browserMsg.indexOf(\"blackberry\") != -1 || browserMsg.indexOf(\"mobile\") != -1)\n\t{\n\t\turl = \"m/\"\n\t}\n\telse\n\t{\n\t\tisMobile = false;\n\t}\n\tif(isMobile)\n\t\trefresh(url);\n\treturn isMobile;\n}\n\nfunction readCookie( name )\n{\n\tvar nameEQ = name + \"=\";\n\tvar ca = document.cookie.split(';');\n\tfor(var i=0;i < ca.length;i++)\n\t{\n\t\tvar c = ca[i];\n\t\twhile (c.charAt(0)==' ') \n\t\t\tc = c.substring(1,c.length);\n\t\tif (c.indexOf(nameEQ) == 0) \n\t\t\treturn c.substring(nameEQ.length,c.length);\n\t}\n\treturn \"null\";\n}\n\nfunction createCookie( name, value, days )\n{\n\tif (days) {\n\t\tvar date = new Date();\n\t\tdate.setTime(date.getTime()+(days*24*60*60*1000));\n\t\tvar expires = '; expires='+date.toGMTString();\n\t}\n\telse \n\t\tvar expires = '';\n\n\tdocument.cookie = name+'='+value+expires+'; path=/';\n}\n\nfunction refresh(url)\n{\n    document.write(\"<meta http-equiv=\\\"Refresh\\\" content=\\\"0;url=\" + url + \"\\\">\");\n}\n\nfunction maxWindow() {\n\twindow.top.moveTo(0,0);\n\twindow.top.resizeTo(screen.availWidth,screen.availHeight);\n}\t\nfunction INIT()\n{   \n\tif(isMobile())\n\t\treturn;\n\tvar lang = readCookie(\"language\");\n\tvar targetWeb=\"eng/liveView.cgi\";\n\tvar targetLang=\"eng\";\n\tif(lang != \"null\")\n\t{\n\t\tvar langArray=LANGS.split(\" \");\n\t\tvar langLength=langArray.length; \t\n\t\tfor(i=0;i<langLength;i++)\n\t\t{\n\t\t\tif(lang==langArray[i])\n\t\t\t{\n\t\t\t\ttargetWeb=lang+\"/liveView.cgi\";\t\n\t\t\t\ttargetLang=lang;\n\t\t\t\tbreak;\n\t\t\t}\n\t\t}\n\t}\n\te",
+      "url": "http://185.209.225.120:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://185.209.225.120:443",
+      "success": false
+    }
+  },
+  "71.49.128.82": {
+    "port_80": {
+      "status_code": 401,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "103",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html",
+        "Date": "Wed Sep 11 11:48:53 2019",
+        "Pragma": "no-cache",
+        "Server": "alphapd/2.1.8",
+        "Www-Authenticate": "Digest realm=\"DCS-932LB1_D3\",qop=\"auth\", nonce=\"1bbba16a988056203f30f2ed70183d58\""
+      },
+      "content": "<html><body><h2>Error: Authorization Required</h2>\r\n<p>Authentication was requested</p></body></html>\r\n",
+      "url": "http://71.49.128.82:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='71.49.128.82', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:852)'),))",
+      "url": "https://71.49.128.82:443",
+      "success": false
+    }
+  },
+  "84.114.42.223": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://84.114.42.223:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Content-Type": "text/html",
+        "Accept-Ranges": "bytes",
+        "ETag": "\"-1391554042\"",
+        "Last-Modified": "Thu, 01 Oct 2015 05:23:15 GMT",
+        "Content-Length": "3241",
+        "Connection": "close",
+        "Date": "Thu, 13 Feb 2014 08:09:21 GMT",
+        "Server": "dcs-lig-httpd"
+      },
+      "content": "<html>\n<head>\n<title>Checking Language...</title>\n<script language=\"JavaScript\" src=\"js/public.js\" type=\"text/javascript\"></script>\n\n<script type=\"text/javascript\">\nvar systemCheck = 0;\nvar LANGS=\"eng chn cht de es it fr pt\";\n\nfunction isIE() \n{ \n\tvar browserMsg = navigator.userAgent.toLowerCase(); \n\t//      alert(browserMsg); \n\tif (navigator.appName == \"Microsoft Internet Explorer\")\n\t\t\treturn true; \n    \n\treturn false; \n} \nfunction isMobile()\n{\n\tvar browserMsg = navigator.userAgent.toLowerCase(); \n\tvar url = \"m/m/index.html\";\n\tvar isMobile = true;\n\t\n\tif(browserMsg.indexOf(\"android\") != -1 || browserMsg.indexOf(\"iphone\") != -1\n\t|| browserMsg.indexOf(\"blackberry\") != -1 || browserMsg.indexOf(\"mobile\") != -1)\n\t{\n\t\turl = \"m/\"\n\t}\n\telse\n\t{\n\t\tisMobile = false;\n\t}\n\tif(isMobile)\n\t\trefresh(url);\n\treturn isMobile;\n}\n\nfunction readCookie( name )\n{\n\tvar nameEQ = name + \"=\";\n\tvar ca = document.cookie.split(';');\n\tfor(var i=0;i < ca.length;i++)\n\t{\n\t\tvar c = ca[i];\n\t\twhile (c.charAt(0)==' ') \n\t\t\tc = c.substring(1,c.length);\n\t\tif (c.indexOf(nameEQ) == 0) \n\t\t\treturn c.substring(nameEQ.length,c.length);\n\t}\n\treturn \"null\";\n}\n\nfunction createCookie( name, value, days )\n{\n\tif (days) {\n\t\tvar date = new Date();\n\t\tdate.setTime(date.getTime()+(days*24*60*60*1000));\n\t\tvar expires = '; expires='+date.toGMTString();\n\t}\n\telse \n\t\tvar expires = '';\n\n\tdocument.cookie = name+'='+value+expires+'; path=/';\n}\n\nfunction refresh(url)\n{\n    document.write(\"<meta http-equiv=\\\"Refresh\\\" content=\\\"0;url=\" + url + \"\\\">\");\n}\n\nfunction maxWindow() {\n\twindow.top.moveTo(0,0);\n\twindow.top.resizeTo(screen.availWidth,screen.availHeight);\n}\t\nfunction INIT()\n{   \n\tif(isMobile())\n\t\treturn;\n\tvar lang = readCookie(\"language\");\n\tvar targetWeb=\"eng/liveView.cgi\";\n\tvar targetLang=\"eng\";\n\tif(lang != \"null\")\n\t{\n\t\tvar langArray=LANGS.split(\" \");\n\t\tvar langLength=langArray.length; \t\n\t\tfor(i=0;i<langLength;i++)\n\t\t{\n\t\t\tif(lang==langArray[i])\n\t\t\t{\n\t\t\t\ttargetWeb=lang+\"/liveView.cgi\";\t\n\t\t\t\ttargetLang=lang;\n\t\t\t\tbreak;\n\t\t\t}\n\t\t}\n\t}\n\te",
+      "url": "https://84.114.42.223:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "45.59.38.186": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://45.59.38.186:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://45.59.38.186:443",
+      "success": false
+    }
+  },
+  "189.177.58.37": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://189.177.58.37:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://189.177.58.37:443",
+      "success": false
+    }
+  },
+  "201.123.157.139": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://201.123.157.139:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://201.123.157.139:443",
+      "success": false
+    }
+  },
+  "73.65.73.176": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://73.65.73.176:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://73.65.73.176:443",
+      "success": false
+    }
+  },
+  "71.62.170.209": {
+    "port_80": {
+      "status_code": 401,
+      "headers": {
+        "Connection": "close",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html",
+        "Date": "Fri Jul 11 22:12:20 2025",
+        "Pragma": "no-cache",
+        "Server": "alphapd",
+        "Www-Authenticate": "Basic realm=\"DCS-932L\""
+      },
+      "content": "<html><body><h2>Error: Authorization Required</h2>\r\n<p>Authentication was requested</p></body></html>\r\n\r\n",
+      "url": "http://71.62.170.209:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='71.62.170.209', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:852)'),))",
+      "url": "https://71.62.170.209:443",
+      "success": false
+    }
+  },
+  "92.239.22.138": {
+    "port_80": {
+      "status_code": 401,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "103",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html",
+        "Date": "Sat Jul 12 02:12:57 2025",
+        "Pragma": "no-cache",
+        "Server": "alphapd/2.1.8",
+        "Www-Authenticate": "Digest realm=\"DCS-932LB1_31\",qop=\"auth\", nonce=\"896e2226c3d4ab6b0a3817637eaac281\""
+      },
+      "content": "<html><body><h2>Error: Authorization Required</h2>\r\n<p>Authentication was requested</p></body></html>\r\n",
+      "url": "http://92.239.22.138:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://92.239.22.138:443",
+      "success": false
+    }
+  },
+  "94.34.160.11": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://94.34.160.11:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://94.34.160.11:443",
+      "success": false
+    }
+  },
+  "189.144.158.78": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://189.144.158.78:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://189.144.158.78:443",
+      "success": false
+    }
+  },
+  "187.212.153.140": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://187.212.153.140:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://187.212.153.140:443",
+      "success": false
+    }
+  },
+  "201.121.120.5": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://201.121.120.5:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://201.121.120.5:443",
+      "success": false
+    }
+  },
+  "73.67.71.223": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://73.67.71.223:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://73.67.71.223:443",
+      "success": false
+    }
+  },
+  "98.41.167.90": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://98.41.167.90:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://98.41.167.90:443",
+      "success": false
+    }
+  },
+  "78.193.122.105": {
+    "port_80": {
+      "status_code": 401,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "103",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html",
+        "Date": "Sat Jul 12 03:15:24 2025",
+        "Pragma": "no-cache",
+        "Server": "alphapd/2.1.8",
+        "Www-Authenticate": "Digest realm=\"DCS-5020L_34\",qop=\"auth\", nonce=\"60e4b70b3797b3093e90f500d0827ad7\""
+      },
+      "content": "<html><body><h2>Error: Authorization Required</h2>\r\n<p>Authentication was requested</p></body></html>\r\n",
+      "url": "http://78.193.122.105:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='78.193.122.105', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:852)'),))",
+      "url": "https://78.193.122.105:443",
+      "success": false
+    }
+  },
+  "70.23.23.89": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://70.23.23.89:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://70.23.23.89:443",
+      "success": false
+    }
+  },
+  "109.20.139.6": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://109.20.139.6:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='109.20.139.6', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://109.20.139.6:443",
+      "success": false
+    }
+  },
+  "189.144.42.43": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://189.144.42.43:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://189.144.42.43:443",
+      "success": false
+    }
+  },
+  "67.224.8.83": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://67.224.8.83:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://67.224.8.83:443",
+      "success": false
+    }
+  },
+  "70.119.114.177": {
+    "port_80": {
+      "status_code": 401,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "103",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html",
+        "Date": "Tue Jan  8 08:15:46 2019",
+        "Pragma": "no-cache",
+        "Server": "alphapd/2.1.8",
+        "Www-Authenticate": "Digest realm=\"DCS-934L_1D\",qop=\"auth\", nonce=\"c1c5a2bd58ff14e3d978e090e978dffa\""
+      },
+      "content": "<html><body><h2>Error: Authorization Required</h2>\r\n<p>Authentication was requested</p></body></html>\r\n",
+      "url": "http://70.119.114.177:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://70.119.114.177:443",
+      "success": false
+    }
+  },
+  "24.147.24.245": {
+    "port_80": {
+      "status_code": 401,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "103",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html",
+        "Date": "Fri Jul 11 22:16:33 2025",
+        "Pragma": "no-cache",
+        "Server": "alphapd/2.1.8",
+        "Www-Authenticate": "Digest realm=\"DCS-933L_04\",qop=\"auth\", nonce=\"5a3361a063a410b05742b60d6583fcf1\""
+      },
+      "content": "<html><body><h2>Error: Authorization Required</h2>\r\n<p>Authentication was requested</p></body></html>\r\n",
+      "url": "http://24.147.24.245:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='24.147.24.245', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://24.147.24.245:443",
+      "success": false
+    }
+  },
+  "96.40.104.39": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://96.40.104.39:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://96.40.104.39:443",
+      "success": false
+    }
+  },
+  "187.230.205.237": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://187.230.205.237:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://187.230.205.237:443",
+      "success": false
+    }
+  },
+  "2.82.113.153": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://2.82.113.153:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://2.82.113.153:443",
+      "success": false
+    }
+  },
+  "76.139.70.128": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://76.139.70.128:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://76.139.70.128:443",
+      "success": false
+    }
+  },
+  "116.14.89.53": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://116.14.89.53:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://116.14.89.53:443",
+      "success": false
+    }
+  },
+  "189.131.68.103": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://189.131.68.103:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://189.131.68.103:443",
+      "success": false
+    }
+  },
+  "78.26.64.148": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "4679",
+        "Accept-Ranges": "bytes",
+        "Content-Type": "text/html",
+        "Date": "Sat, 21 Jan 2017 05:16:08 GMT",
+        "Etag": "\"300851831\"",
+        "Last-Modified": "Tue, 21 Feb 2017 12:02:55 GMT",
+        "Server": "dcs-lig-httpd",
+        "X-Frame-Options": "SAMEORIGIN"
+      },
+      "content": "<html>\n<head>\n<title>Checking Language...</title>\n<script language=\"JavaScript\" src=\"js/public.js\" type=\"text/javascript\"></script>\n\n<script type=\"text/javascript\">\n//var systemCheck = 0;\nvar LANGS=\"eng chn cht de es it fr pt\";\n\nfunction isIE() \n{ \n\tvar browserMsg = navigator.userAgent.toLowerCase(); \n\t//      alert(browserMsg); \n\tif (navigator.appName == \"Microsoft Internet Explorer\")\n\t\t\treturn true; \n    \n\treturn false; \n} \n\nfunction isEdge()\n \n{\n       var agt = navigator.userAgent;\n\tvar agtMatch = agt.match(/Edge\\//);\n       if(agtMatch){\n                 document.write(\"<br/><div style=\\\"font-weight:bold; font-size:36px\\\">Unsupported Browser Detected</div><div><h3>The web-based setup page on this device works best in Internet Explorer.</h3></div><div><h3>You can find Internet Explorer in the start menu under the following context:</h3></div><div><span style=\\\"font-weight:bold; font-size:36px; font-style:italic\\\">All Apps</span> <span style=\\\"font-weight:bold; font-size:36px\\\">></span> <span style=\\\"font-weight:bold; font-size:36px; font-style:italic\\\">Windows Accessories</span> <span style=\\\"font-weight:bold; font-size:36px\\\">></span> <span style=\\\"font-weight:bold; font-size:36px; font-style:italic\\\">Internet Explorer</span></div>\");\n \n                 return true;\n         }\n         return false;\n }\n\n\n function isChrome45()\n {\n \t var agt = navigator.userAgent.toLowerCase();\n\t var agtMatch = agt.match(/chrome\\/([\\d.]+)/);\n\tif(agtMatch){\n \n\t\tif(agtMatch[1].split(\".\")[0] > 44){\n\t\t\tdocument.write(\"<br/><br/><h2 style=\\\"color:#FF0000\\\">The browser you are using may have difficulty receiving images and video. If you experience any issues viewing this page, we suggest using Internet Explorer, Mozilla Firefox, or Apple Safari.</h2>\");\n\t\t\treturn true;\n \t\t}\n\t}\n\treturn false; \n}\n\nfunction isMobile()\n{\n\tvar browserMsg = navigator.userAgent.toLowerCase(); \n\tvar url = \"m/m/index.html\";\n\tvar isMobile = true;\n\t\n\tif(browserMsg.indexOf(\"android\") != -1 || browserMsg.indexOf(\"",
+      "url": "http://78.26.64.148:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "X-Frame-Options": "SAMEORIGIN",
+        "Content-Type": "text/html",
+        "Accept-Ranges": "bytes",
+        "ETag": "\"300851831\"",
+        "Last-Modified": "Tue, 21 Feb 2017 12:02:55 GMT",
+        "Content-Length": "4679",
+        "Connection": "close",
+        "Date": "Sat, 21 Jan 2017 05:16:10 GMT",
+        "Server": "dcs-lig-httpd"
+      },
+      "content": "<html>\n<head>\n<title>Checking Language...</title>\n<script language=\"JavaScript\" src=\"js/public.js\" type=\"text/javascript\"></script>\n\n<script type=\"text/javascript\">\n//var systemCheck = 0;\nvar LANGS=\"eng chn cht de es it fr pt\";\n\nfunction isIE() \n{ \n\tvar browserMsg = navigator.userAgent.toLowerCase(); \n\t//      alert(browserMsg); \n\tif (navigator.appName == \"Microsoft Internet Explorer\")\n\t\t\treturn true; \n    \n\treturn false; \n} \n\nfunction isEdge()\n \n{\n       var agt = navigator.userAgent;\n\tvar agtMatch = agt.match(/Edge\\//);\n       if(agtMatch){\n                 document.write(\"<br/><div style=\\\"font-weight:bold; font-size:36px\\\">Unsupported Browser Detected</div><div><h3>The web-based setup page on this device works best in Internet Explorer.</h3></div><div><h3>You can find Internet Explorer in the start menu under the following context:</h3></div><div><span style=\\\"font-weight:bold; font-size:36px; font-style:italic\\\">All Apps</span> <span style=\\\"font-weight:bold; font-size:36px\\\">></span> <span style=\\\"font-weight:bold; font-size:36px; font-style:italic\\\">Windows Accessories</span> <span style=\\\"font-weight:bold; font-size:36px\\\">></span> <span style=\\\"font-weight:bold; font-size:36px; font-style:italic\\\">Internet Explorer</span></div>\");\n \n                 return true;\n         }\n         return false;\n }\n\n\n function isChrome45()\n {\n \t var agt = navigator.userAgent.toLowerCase();\n\t var agtMatch = agt.match(/chrome\\/([\\d.]+)/);\n\tif(agtMatch){\n \n\t\tif(agtMatch[1].split(\".\")[0] > 44){\n\t\t\tdocument.write(\"<br/><br/><h2 style=\\\"color:#FF0000\\\">The browser you are using may have difficulty receiving images and video. If you experience any issues viewing this page, we suggest using Internet Explorer, Mozilla Firefox, or Apple Safari.</h2>\");\n\t\t\treturn true;\n \t\t}\n\t}\n\treturn false; \n}\n\nfunction isMobile()\n{\n\tvar browserMsg = navigator.userAgent.toLowerCase(); \n\tvar url = \"m/m/index.html\";\n\tvar isMobile = true;\n\t\n\tif(browserMsg.indexOf(\"android\") != -1 || browserMsg.indexOf(\"",
+      "url": "https://78.26.64.148:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "188.177.122.81": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://188.177.122.81:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://188.177.122.81:443",
+      "success": false
+    }
+  },
+  "85.243.102.117": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://85.243.102.117:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://85.243.102.117:443",
+      "success": false
+    }
+  },
+  "71.210.65.210": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://71.210.65.210:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://71.210.65.210:443",
+      "success": false
+    }
+  },
+  "170.78.113.148": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://170.78.113.148:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://170.78.113.148:443",
+      "success": false
+    }
+  },
+  "77.100.82.90": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "4679",
+        "Accept-Ranges": "bytes",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 02:19:53 GMT",
+        "Etag": "\"300851831\"",
+        "Last-Modified": "Tue, 21 Feb 2017 12:02:55 GMT",
+        "Server": "dcs-lig-httpd",
+        "X-Frame-Options": "SAMEORIGIN"
+      },
+      "content": "<html>\n<head>\n<title>Checking Language...</title>\n<script language=\"JavaScript\" src=\"js/public.js\" type=\"text/javascript\"></script>\n\n<script type=\"text/javascript\">\n//var systemCheck = 0;\nvar LANGS=\"eng chn cht de es it fr pt\";\n\nfunction isIE() \n{ \n\tvar browserMsg = navigator.userAgent.toLowerCase(); \n\t//      alert(browserMsg); \n\tif (navigator.appName == \"Microsoft Internet Explorer\")\n\t\t\treturn true; \n    \n\treturn false; \n} \n\nfunction isEdge()\n \n{\n       var agt = navigator.userAgent;\n\tvar agtMatch = agt.match(/Edge\\//);\n       if(agtMatch){\n                 document.write(\"<br/><div style=\\\"font-weight:bold; font-size:36px\\\">Unsupported Browser Detected</div><div><h3>The web-based setup page on this device works best in Internet Explorer.</h3></div><div><h3>You can find Internet Explorer in the start menu under the following context:</h3></div><div><span style=\\\"font-weight:bold; font-size:36px; font-style:italic\\\">All Apps</span> <span style=\\\"font-weight:bold; font-size:36px\\\">></span> <span style=\\\"font-weight:bold; font-size:36px; font-style:italic\\\">Windows Accessories</span> <span style=\\\"font-weight:bold; font-size:36px\\\">></span> <span style=\\\"font-weight:bold; font-size:36px; font-style:italic\\\">Internet Explorer</span></div>\");\n \n                 return true;\n         }\n         return false;\n }\n\n\n function isChrome45()\n {\n \t var agt = navigator.userAgent.toLowerCase();\n\t var agtMatch = agt.match(/chrome\\/([\\d.]+)/);\n\tif(agtMatch){\n \n\t\tif(agtMatch[1].split(\".\")[0] > 44){\n\t\t\tdocument.write(\"<br/><br/><h2 style=\\\"color:#FF0000\\\">The browser you are using may have difficulty receiving images and video. If you experience any issues viewing this page, we suggest using Internet Explorer, Mozilla Firefox, or Apple Safari.</h2>\");\n\t\t\treturn true;\n \t\t}\n\t}\n\treturn false; \n}\n\nfunction isMobile()\n{\n\tvar browserMsg = navigator.userAgent.toLowerCase(); \n\tvar url = \"m/m/index.html\";\n\tvar isMobile = true;\n\t\n\tif(browserMsg.indexOf(\"android\") != -1 || browserMsg.indexOf(\"",
+      "url": "http://77.100.82.90:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "X-Frame-Options": "SAMEORIGIN",
+        "Content-Type": "text/html",
+        "Accept-Ranges": "bytes",
+        "ETag": "\"300851831\"",
+        "Last-Modified": "Tue, 21 Feb 2017 12:02:55 GMT",
+        "Content-Length": "4679",
+        "Connection": "close",
+        "Date": "Sat, 12 Jul 2025 02:19:55 GMT",
+        "Server": "dcs-lig-httpd"
+      },
+      "content": "<html>\n<head>\n<title>Checking Language...</title>\n<script language=\"JavaScript\" src=\"js/public.js\" type=\"text/javascript\"></script>\n\n<script type=\"text/javascript\">\n//var systemCheck = 0;\nvar LANGS=\"eng chn cht de es it fr pt\";\n\nfunction isIE() \n{ \n\tvar browserMsg = navigator.userAgent.toLowerCase(); \n\t//      alert(browserMsg); \n\tif (navigator.appName == \"Microsoft Internet Explorer\")\n\t\t\treturn true; \n    \n\treturn false; \n} \n\nfunction isEdge()\n \n{\n       var agt = navigator.userAgent;\n\tvar agtMatch = agt.match(/Edge\\//);\n       if(agtMatch){\n                 document.write(\"<br/><div style=\\\"font-weight:bold; font-size:36px\\\">Unsupported Browser Detected</div><div><h3>The web-based setup page on this device works best in Internet Explorer.</h3></div><div><h3>You can find Internet Explorer in the start menu under the following context:</h3></div><div><span style=\\\"font-weight:bold; font-size:36px; font-style:italic\\\">All Apps</span> <span style=\\\"font-weight:bold; font-size:36px\\\">></span> <span style=\\\"font-weight:bold; font-size:36px; font-style:italic\\\">Windows Accessories</span> <span style=\\\"font-weight:bold; font-size:36px\\\">></span> <span style=\\\"font-weight:bold; font-size:36px; font-style:italic\\\">Internet Explorer</span></div>\");\n \n                 return true;\n         }\n         return false;\n }\n\n\n function isChrome45()\n {\n \t var agt = navigator.userAgent.toLowerCase();\n\t var agtMatch = agt.match(/chrome\\/([\\d.]+)/);\n\tif(agtMatch){\n \n\t\tif(agtMatch[1].split(\".\")[0] > 44){\n\t\t\tdocument.write(\"<br/><br/><h2 style=\\\"color:#FF0000\\\">The browser you are using may have difficulty receiving images and video. If you experience any issues viewing this page, we suggest using Internet Explorer, Mozilla Firefox, or Apple Safari.</h2>\");\n\t\t\treturn true;\n \t\t}\n\t}\n\treturn false; \n}\n\nfunction isMobile()\n{\n\tvar browserMsg = navigator.userAgent.toLowerCase(); \n\tvar url = \"m/m/index.html\";\n\tvar isMobile = true;\n\t\n\tif(browserMsg.indexOf(\"android\") != -1 || browserMsg.indexOf(\"",
+      "url": "https://77.100.82.90:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "68.229.94.37": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://68.229.94.37:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://68.229.94.37:443",
+      "success": false
+    }
+  },
+  "67.162.159.157": {
+    "port_80": {
+      "status_code": 401,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "103",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html",
+        "Date": "Fri Jul 11 19:20:17 2025",
+        "Pragma": "no-cache",
+        "Server": "alphapd/2.1.8",
+        "Www-Authenticate": "Digest realm=\"DCS-5009L_92\",qop=\"auth\", nonce=\"2ec45350f52c001d020032823ff5ee05\""
+      },
+      "content": "<html><body><h2>Error: Authorization Required</h2>\r\n<p>Authentication was requested</p></body></html>\r\n",
+      "url": "http://67.162.159.157:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='67.162.159.157', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:852)'),))",
+      "url": "https://67.162.159.157:443",
+      "success": false
+    }
+  },
+  "94.255.206.18": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://94.255.206.18:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://94.255.206.18:443",
+      "success": false
+    }
+  },
+  "187.193.226.252": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://187.193.226.252:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://187.193.226.252:443",
+      "success": false
+    }
+  },
+  "24.70.125.170": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://24.70.125.170:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://24.70.125.170:443",
+      "success": false
+    }
+  },
+  "201.123.102.57": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://201.123.102.57:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://201.123.102.57:443",
+      "success": false
+    }
+  },
+  "76.75.115.19": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://76.75.115.19:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://76.75.115.19:443",
+      "success": false
+    }
+  },
+  "96.22.11.66": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://96.22.11.66:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://96.22.11.66:443",
+      "success": false
+    }
+  },
+  "75.137.56.44": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://75.137.56.44:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://75.137.56.44:443",
+      "success": false
+    }
+  },
+  "147.53.221.83": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://147.53.221.83:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://147.53.221.83:443",
+      "success": false
+    }
+  },
+  "82.72.222.131": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://82.72.222.131:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://82.72.222.131:443",
+      "success": false
+    }
+  },
+  "79.33.126.205": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://79.33.126.205:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://79.33.126.205:443",
+      "success": false
+    }
+  },
+  "98.114.148.12": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://98.114.148.12:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://98.114.148.12:443",
+      "success": false
+    }
+  },
+  "5.9.105.56": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://5.9.105.56:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://5.9.105.56:443",
+      "success": false
+    }
+  },
+  "172.105.192.126": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://172.105.192.126:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://172.105.192.126:443",
+      "success": false
+    }
+  },
+  "139.162.71.192": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "107",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html"
+      },
+      "content": "<html><body><h1>502 Bad Gateway</h1>\nThe server returned an invalid or incomplete response.\n</body></html>\n",
+      "url": "http://139.162.71.192:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='139.162.71.192', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://139.162.71.192:443",
+      "success": false
+    }
+  },
+  "204.14.63.145": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://204.14.63.145:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://204.14.63.145:443",
+      "success": false
+    }
+  },
+  "71.196.67.225": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://71.196.67.225:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://71.196.67.225:443",
+      "success": false
+    }
+  },
+  "73.232.111.26": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "3362",
+        "Accept-Ranges": "bytes",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 02:23:41 GMT",
+        "Etag": "\"1114346182\"",
+        "Last-Modified": "Mon, 30 Jul 2018 01:09:27 GMT",
+        "Server": "dcs-lig-httpd",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "SAMEORIGIN",
+        "X-Xss-Protection": "1;mode=block"
+      },
+      "content": "<html>\n<head>\n<title>Checking Language...</title>\n<script language=\"JavaScript\" src=\"js/public.js\" type=\"text/javascript\"></script>\n\n<script type=\"text/javascript\">\nvar systemCheck = 0;\nvar LANGS=\"eng cht chn de es it fr pt\";\n\nfunction isIE() \n{ \n\tvar browserMsg = navigator.userAgent.toLowerCase(); \n\t//      alert(browserMsg); \n\tif (navigator.appName == \"Microsoft Internet Explorer\")\n\t\t\treturn true; \n    \n\treturn false; \n} \nfunction isMobile()\n{\n\tvar browserMsg = navigator.userAgent.toLowerCase(); \n\tvar url = \"m/m/index.html\";\n\tvar isMobile = true;\n\t\n\tif(browserMsg.indexOf(\"android\") != -1 || browserMsg.indexOf(\"iphone\") != -1\n\t|| browserMsg.indexOf(\"blackberry\") != -1 || browserMsg.indexOf(\"mobile\") != -1)\n\t{\n\t\turl = \"m/\"\n\t}\n\telse\n\t{\n\t\tisMobile = false;\n\t}\n\tif(isMobile)\n\t\trefresh(url);\n\treturn isMobile;\n}\n\nfunction readCookie( name )\n{\n\tvar nameEQ = name + \"=\";\n\tvar ca = document.cookie.split(';');\n\tfor(var i=0;i < ca.length;i++)\n\t{\n\t\tvar c = ca[i];\n\t\twhile (c.charAt(0)==' ') \n\t\t\tc = c.substring(1,c.length);\n\t\tif (c.indexOf(nameEQ) == 0) \n\t\t\treturn c.substring(nameEQ.length,c.length);\n\t}\n\treturn \"null\";\n}\n\nfunction createCookie( name, value, days )\n{\n\tif (days) {\n\t\tvar date = new Date();\n\t\tdate.setTime(date.getTime()+(days*24*60*60*1000));\n\t\tvar expires = '; expires='+date.toGMTString();\n\t}\n\telse \n\t\tvar expires = '';\n\n\tdocument.cookie = name+'='+value+expires+'; path=/';\n}\n\nfunction refresh(url)\n{\n    document.write(\"<meta http-equiv=\\\"Refresh\\\" content=\\\"0;url=\" + url + \"\\\">\");\n}\n\nfunction maxWindow() {\n\twindow.top.moveTo(0,0);\n\twindow.top.resizeTo(screen.availWidth,screen.availHeight);\n}\t\nfunction INIT()\n{   \n\tif(isMobile())\n\t\treturn;\n\tvar lang = readCookie(\"language\");\n\tvar targetWeb=\"eng/liveView.cgi\";\n\tvar targetLang=\"eng\";\n\tif(lang != \"null\")\n\t{\n\t\tvar langArray=LANGS.split(\" \");\n\t\tvar langLength=langArray.length; \t\n\t\tfor(i=0;i<langLength;i++)\n\t\t{\n\t\t\tif(lang==langArray[i])\n\t\t\t{\n\t\t\t\ttargetWeb=lang+\"/liveView.cgi\";\t\n\t\t\t\ttargetLang=lang;\n\t\t\t\tbreak;\n\t\t\t}\n\t\t}\n\t}\n\te",
+      "url": "http://73.232.111.26:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 401,
+      "headers": {
+        "Date": "Sat, 12 Jul 2025 02:24:04 GMT",
+        "Server": "Embedthis-Appweb/3.3.1",
+        "Cache-Control": "no-cache",
+        "ETag": "\"14-492c-136\"",
+        "Content-Length": "195",
+        "Content-Type": "text/html",
+        "Connection": "close\r\n\tX-Frame-Options: SAMEORIGIN",
+        "WWW-Authenticate": "Basic realm=\"DNR-202L\""
+      },
+      "content": "<!DOCTYPE html>\r\n<html><head><title>Document Error: Unauthorized</title></head>\r\n<body><h2>Access Error: 401 -- Unauthorized</h2>\r\n<p>Access Denied, Authorization enabled.</p>\r\n</body>\r\n</html>\r\n",
+      "url": "https://73.232.111.26:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "70.22.128.162": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://70.22.128.162:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://70.22.128.162:443",
+      "success": false
+    }
+  },
+  "73.39.90.169": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://73.39.90.169:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://73.39.90.169:443",
+      "success": false
+    }
+  },
+  "115.134.156.109": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://115.134.156.109:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://115.134.156.109:443",
+      "success": false
+    }
+  },
+  "78.20.1.214": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://78.20.1.214:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://78.20.1.214:443",
+      "success": false
+    }
+  },
+  "79.45.223.29": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://79.45.223.29:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://79.45.223.29:443",
+      "success": false
+    }
+  },
+  "143.42.229.113": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "107",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html"
+      },
+      "content": "<html><body><h1>502 Bad Gateway</h1>\nThe server returned an invalid or incomplete response.\n</body></html>\n",
+      "url": "http://143.42.229.113:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='143.42.229.113', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://143.42.229.113:443",
+      "success": false
+    }
+  },
+  "73.144.35.31": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://73.144.35.31:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://73.144.35.31:443",
+      "success": false
+    }
+  },
+  "68.237.35.221": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://68.237.35.221:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://68.237.35.221:443",
+      "success": false
+    }
+  },
+  "187.133.154.98": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://187.133.154.98:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://187.133.154.98:443",
+      "success": false
+    }
+  },
+  "45.79.239.204": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://45.79.239.204:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='45.79.239.204', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://45.79.239.204:443",
+      "success": false
+    }
+  },
+  "80.217.35.65": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://80.217.35.65:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://80.217.35.65:443",
+      "success": false
+    }
+  },
+  "99.246.124.248": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://99.246.124.248:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://99.246.124.248:443",
+      "success": false
+    }
+  },
+  "38.71.75.82": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://38.71.75.82:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://38.71.75.82:443",
+      "success": false
+    }
+  },
+  "24.131.134.74": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://24.131.134.74:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://24.131.134.74:443",
+      "success": false
+    }
+  },
+  "70.71.172.132": {
+    "port_80": {
+      "status_code": 401,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "103",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html",
+        "Date": "Fri Jul 11 18:27:04 2025",
+        "Pragma": "no-cache",
+        "Server": "alphapd/2.1.8",
+        "Www-Authenticate": "Digest realm=\"DCS-5020L_E0\",qop=\"auth\", nonce=\"0401e844b329e3b19aa5ba647bda7f02\""
+      },
+      "content": "<html><body><h2>Error: Authorization Required</h2>\r\n<p>Authentication was requested</p></body></html>\r\n",
+      "url": "http://70.71.172.132:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='70.71.172.132', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:852)'),))",
+      "url": "https://70.71.172.132:443",
+      "success": false
+    }
+  },
+  "2.203.226.34": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://2.203.226.34:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://2.203.226.34:443",
+      "success": false
+    }
+  },
+  "96.231.216.67": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://96.231.216.67:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://96.231.216.67:443",
+      "success": false
+    }
+  },
+  "172.248.58.167": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://172.248.58.167:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Content-Type": "text/html",
+        "Accept-Ranges": "bytes",
+        "ETag": "\"2005117781\"",
+        "Last-Modified": "Mon, 30 Jul 2018 06:38:42 GMT",
+        "Content-Length": "7851",
+        "Connection": "close",
+        "Date": "Sat, 12 Jul 2025 02:27:20 GMT",
+        "Server": "dcs-lig-httpd"
+      },
+      "content": "<html>\n<head>\n<title>Checking Language...</title>\n<script language=\"JavaScript\" src=\"js/public.js\" type=\"text/javascript\"></script>\n\n<script type=\"text/javascript\">\n//var systemCheck = 0;\nvar LANGS=\"eng chn cht de es it fr pt\";\n\nfunction isIE() \n{ \n\tvar browserMsg = navigator.userAgent.toLowerCase(); \n\t//      alert(browserMsg); \n\tif (navigator.appName == \"Microsoft Internet Explorer\")\n\t\t\treturn true; \n    \n\treturn false; \n}\n\nfunction isEdge()\n{\n\tvar agt = navigator.userAgent;\n\tvar agtMatch = agt.match(/Edge\\//);\n\tif(agtMatch){\n\t\tdocument.write(\"<br/><div style=\\\"font-weight:bold; font-size:36px\\\">Unsupported Browser Detected</div><div><h3>The web-based setup page on this device works best in Internet Explorer.</h3></div><div><h3>You can find Internet Explorer in the start menu under the following context:</h3></div><div><span style=\\\"font-weight:bold; font-size:36px; font-style:italic\\\">All Apps</span> <span style=\\\"font-weight:bold; font-size:36px\\\">></span> <span style=\\\"font-weight:bold; font-size:36px; font-style:italic\\\">Windows Accessories</span> <span style=\\\"font-weight:bold; font-size:36px\\\">></span> <span style=\\\"font-weight:bold; font-size:36px; font-style:italic\\\">Internet Explorer</span></div>\");\n\t\treturn true;\n\t}\n\t\n\treturn false;\n} \n\nfunction isFirefox52()\n{\n\tvar agt = navigator.userAgent.toLowerCase();\n\tvar agtMatch = agt.match(/firefox\\/([\\d.]+)/);\n\tif(agtMatch){\n  \t\tif(agtMatch[1].split(\".\")[0] > 52){\n\t\t\tdocument.write(\"<br/><br/><h2 style=\\\"color:#FF0000\\\">The browser you are using may have difficulty receiving images and video. If you experience any issues viewing this page, we suggest using Internet Explorer or Apple Safari.</h2>\");\n\t\t\treturn true;\n \t \t}\n\t}\n\t\n\treturn false;\n}\n\nfunction isChrome45()\n{\n\tvar agt = navigator.userAgent.toLowerCase();\n\tvar agtMatch = agt.match(/chrome\\/([\\d.]+)/);\n\tif(agtMatch){\n  \t\tif(agtMatch[1].split(\".\")[0] > 44){\n\t\t\tdocument.write(\"<br/><br/><h2 style=\\\"color:#FF0000\\\">The browser you are using may have difficult",
+      "url": "https://172.248.58.167:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "174.83.137.79": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://174.83.137.79:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://174.83.137.79:443",
+      "success": false
+    }
+  },
+  "94.32.242.32": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://94.32.242.32:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://94.32.242.32:443",
+      "success": false
+    }
+  },
+  "143.42.229.124": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://143.42.229.124:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://143.42.229.124:443",
+      "success": false
+    }
+  },
+  "89.99.87.157": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://89.99.87.157:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://89.99.87.157:443",
+      "success": false
+    }
+  },
+  "61.69.146.200": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://61.69.146.200:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://61.69.146.200:443",
+      "success": false
+    }
+  }
+}

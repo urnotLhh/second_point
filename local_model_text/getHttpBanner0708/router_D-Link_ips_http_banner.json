@@ -1,0 +1,2161 @@
+{
+  "49.51.184.13": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "138",
+        "Accept-Ranges": "bytes",
+        "Content-Type": "text/html",
+        "Date": "Sun, 13 Jul 2025 01:35:57 GMT",
+        "Etag": "\"66b192cb-8a\"",
+        "Last-Modified": "Tue, 06 Aug 2024 03:04:43 GMT",
+        "Server": "nginx"
+      },
+      "content": "<html>\n<head><title>404 Not Found</title></head>\n<body>\n<center><h1>404 Not Found</h1></center>\n<hr><center>nginx</center>\n</body>\n</html>",
+      "url": "http://49.51.184.13:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://49.51.184.13:443",
+      "success": false
+    }
+  },
+  "139.162.71.192": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "107",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html"
+      },
+      "content": "<html><body><h1>502 Bad Gateway</h1>\nThe server returned an invalid or incomplete response.\n</body></html>\n",
+      "url": "http://139.162.71.192:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='139.162.71.192', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://139.162.71.192:443",
+      "success": false
+    }
+  },
+  "64.176.35.172": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://64.176.35.172:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='64.176.35.172', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://64.176.35.172:443",
+      "success": false
+    }
+  },
+  "139.180.206.8": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://139.180.206.8:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='139.180.206.8', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://139.180.206.8:443",
+      "success": false
+    }
+  },
+  "108.160.139.63": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "612",
+        "Accept-Ranges": "bytes",
+        "Content-Type": "text/html",
+        "Date": "Sun, 13 Jul 2025 01:37:34 GMT",
+        "Etag": "\"62d0129e-264\"",
+        "Last-Modified": "Thu, 14 Jul 2022 12:57:02 GMT",
+        "Server": "nginx/1.20.1"
+      },
+      "content": "<!DOCTYPE html>\n<html>\n<head>\n<title>Welcome to nginx!</title>\n<style>\n    body {\n        width: 35em;\n        margin: 0 auto;\n        font-family: Tahoma, Verdana, Arial, sans-serif;\n    }\n</style>\n</head>\n<body>\n<h1>Welcome to nginx!</h1>\n<p>If you see this page, the nginx web server is successfully installed and\nworking. Further configuration is required.</p>\n\n<p>For online documentation and support please refer to\n<a href=\"http://nginx.org/\">nginx.org</a>.<br/>\nCommercial support is available at\n<a href=\"http://nginx.com/\">nginx.com</a>.</p>\n\n<p><em>Thank you for using nginx.</em></p>\n</body>\n</html>\n",
+      "url": "http://108.160.139.63:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Server": "nginx/1.20.1",
+        "Date": "Sun, 13 Jul 2025 01:37:36 GMT",
+        "Content-Type": "text/html; charset=utf-8",
+        "Transfer-Encoding": "chunked",
+        "Connection": "close",
+        "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Accept-Encoding",
+        "x-nextjs-cache": "HIT",
+        "x-powered-by": "Next.js",
+        "cache-control": "s-maxage=31536000, stale-while-revalidate",
+        "etag": "\"er21b1174i8p6\"",
+        "content-encoding": "gzip"
+      },
+      "content": "<!DOCTYPE html><html lang=\"en\"><head><meta charSet=\"utf-8\"/><link rel=\"stylesheet\" href=\"/_next/static/css/cbfc412cab8c824e.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/6320fcde60ec292e.css\" data-precedence=\"next\"/><link rel=\"preload\" href=\"/_next/static/chunks/webpack-f184907f3f49b539.js\" as=\"script\"/><link rel=\"preload\" href=\"/_next/static/chunks/bce60fc1-e55b90606913faf1.js\" as=\"script\"/><link rel=\"preload\" href=\"/_next/static/chunks/7698-bb5d18468650f39a.js\" as=\"script\"/><link rel=\"preload\" href=\"/_next/static/chunks/main-app-bf1f72eb5224e6ea.js\" as=\"script\"/><title>NextChat</title><meta name=\"description\" content=\"Your personal ChatGPT Chat Bot.\"/><meta name=\"theme-color\" media=\"(prefers-color-scheme: light)\" content=\"#fafafa\"/><meta name=\"theme-color\" media=\"(prefers-color-scheme: dark)\" content=\"#151515\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1\"/><meta name=\"apple-mobile-web-app-capable\" content=\"yes\"/><meta name=\"apple-mobile-web-app-title\" content=\"NextChat\"/><meta name=\"apple-mobile-web-app-status-bar-style\" content=\"default\"/><meta name=\"config\" content=\"{&quot;version&quot;:&quot;v2.11.3&quot;,&quot;commitDate&quot;:&quot;1710354658000&quot;,&quot;commitHash&quot;:&quot;7c04a90d77b38546d8773c8edf73f03d1f11b01a&quot;,&quot;buildMode&quot;:&quot;standalone&quot;,&quot;isApp&quot;:false}\"/><link rel=\"manifest\" href=\"/site.webmanifest\"/><script src=\"/serviceWorkerRegister.js\" defer=\"\"></script><script src=\"/_next/static/chunks/polyfills-78c92fac7aa8fdd8.js\" noModule=\"\"></script></head><body><div class=\"home_loading-content__7_JjP no-dark\"><svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"30\" height=\"30\" fill=\"none\"><defs><path id=\"bot_svg__a\" d=\"M0 0h30v30H0z\"></path><path id=\"bot_svg__c\" d=\"M0 0h20.455v20.455H0z\"></path></defs><g><rect width=\"30\" height=\"30\" fill=\"#E7F8FF\" rx=\"10\"></rect><mask id=\"bot_svg__b\" fill=\"#fff\"><use xlink:href=\"#bot_s",
+      "url": "https://108.160.139.63:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "95.217.121.57": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://95.217.121.57:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://95.217.121.57:443",
+      "success": false
+    }
+  },
+  "15.204.214.101": {
+    "port_80": {
+      "status_code": 404,
+      "headers": {
+        "Connection": "close",
+        "Transfer-Encoding": "chunked",
+        "Content-Encoding": "gzip",
+        "Content-Type": "text/html",
+        "Date": "Sun, 13 Jul 2025 01:37:56 GMT",
+        "Server": "nginx/1.24.0 (Ubuntu)"
+      },
+      "content": "<html>\r\n<head><title>404 Not Found</title></head>\r\n<body>\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n",
+      "url": "http://15.204.214.101:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Server": "nginx/1.24.0 (Ubuntu)",
+        "Date": "Sun, 13 Jul 2025 01:37:58 GMT",
+        "Content-Type": "text/html; charset=utf-8",
+        "Transfer-Encoding": "chunked",
+        "Connection": "close",
+        "Vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Router-Segment-Prefetch, Accept-Encoding",
+        "x-nextjs-cache": "HIT",
+        "x-nextjs-prerender": "1",
+        "x-nextjs-stale-time": "4294967294",
+        "X-Powered-By": "Next.js",
+        "Cache-Control": "s-maxage=31536000",
+        "ETag": "\"p1flxxrjs76kr\"",
+        "Content-Encoding": "gzip"
+      },
+      "content": "<!DOCTYPE html><html lang=\"en\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"preload\" href=\"/_next/static/media/409f897b497f3fab-s.p.woff2\" as=\"font\" crossorigin=\"\" type=\"font/woff2\"/><link rel=\"preload\" href=\"/_next/static/media/e4af272ccee01ff0-s.p.woff2\" as=\"font\" crossorigin=\"\" type=\"font/woff2\"/><link rel=\"stylesheet\" href=\"/_next/static/css/8e1f5be9587d1810.css\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-d2322307a10049e3.js\"/><script src=\"/_next/static/chunks/4bd1b696-a153d0e435b711e5.js\" async=\"\"></script><script src=\"/_next/static/chunks/684-b93c263980a48557.js\" async=\"\"></script><script src=\"/_next/static/chunks/main-app-770f509432689459.js\" async=\"\"></script><script src=\"/_next/static/chunks/49-5c37cb33a967bc9c.js\" async=\"\"></script><script src=\"/_next/static/chunks/app/layout-796ea497fe699859.js\" async=\"\"></script><script src=\"/_next/static/chunks/896-61ccee400d4ff5a6.js\" async=\"\"></script><script src=\"/_next/static/chunks/app/page-5dd0cc198e84d767.js\" async=\"\"></script><meta name=\"next-size-adjust\" content=\"\"/><title>Bagoodex Agent</title><meta name=\"description\" content=\"Deep Research Agent\"/><script src=\"/_next/static/chunks/polyfills-42372ed130431b0a.js\" noModule=\"\"></script></head><body class=\"__className_e8ce0c __variable_439932\"><script>((e,t,n,r,a,i,o,s)=>{let l=document.documentElement,c=[\"light\",\"dark\"];function u(t){var n;(Array.isArray(e)?e:[e]).forEach(e=>{let n=\"class\"===e,r=n&&i?a.map(e=>i[e]||e):a;n?(l.classList.remove(...r),l.classList.add(i&&i[t]?i[t]:t)):l.setAttribute(e,t)}),n=t,s&&c.includes(n)&&(l.style.colorScheme=n)}if(r)u(r);else try{let e=localStorage.getItem(t)||n,r=o&&\"system\"===e?window.matchMedia(\"(prefers-color-scheme: dark)\").matches?\"dark\":\"light\":e;u(r)}catch(e){}})(\"data-theme\",\"theme\",\"system\",null,[\"light\",\"dark\"],null,true,true)</script><main class=\"min-h-screen bg-gradient-to-b from-black",
+      "url": "https://15.204.214.101:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "185.255.89.138": {
+    "port_80": {
+      "status_code": 404,
+      "headers": {
+        "Connection": "close",
+        "Transfer-Encoding": "chunked",
+        "Content-Encoding": "gzip",
+        "Content-Type": "text/html",
+        "Date": "Sun, 13 Jul 2025 01:38:01 GMT",
+        "Server": "nginx/1.18.0 (Ubuntu)"
+      },
+      "content": "<html>\r\n<head><title>404 Not Found</title></head>\r\n<body>\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx/1.18.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n",
+      "url": "http://185.255.89.138:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Server": "nginx/1.18.0 (Ubuntu)",
+        "Date": "Sun, 13 Jul 2025 01:38:03 GMT",
+        "Content-Type": "text/html; charset=utf-8",
+        "Transfer-Encoding": "chunked",
+        "Connection": "close",
+        "x-nextjs-cache": "HIT",
+        "x-nextjs-prerender": "1",
+        "x-nextjs-stale-time": "4294967294",
+        "X-Powered-By": "Next.js",
+        "Cache-Control": "s-maxage=31536000",
+        "ETag": "\"165lpzuii341xok\"",
+        "Vary": "Accept-Encoding",
+        "Content-Encoding": "gzip"
+      },
+      "content": "<!DOCTYPE html><html lang=\"fa\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\"/><link rel=\"preload\" href=\"/_next/static/media/8c96cc4bd2a39381-s.p.woff2\" as=\"font\" crossorigin=\"\" type=\"font/woff2\"/><link rel=\"stylesheet\" href=\"/_next/static/css/3454d6c4870fd2d7.css\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-d9b2f431c6737641.js\"/><script src=\"/_next/static/chunks/4bd1b696-2aa56bf78a9b017d.js\" async=\"\"></script><script src=\"/_next/static/chunks/1684-637ea46948527caf.js\" async=\"\"></script><script src=\"/_next/static/chunks/main-app-b8ffea5ae5d96e07.js\" async=\"\"></script><script src=\"/_next/static/chunks/3063-28977882d90dc6da.js\" async=\"\"></script><script src=\"/_next/static/chunks/6874-90b1081c1f622b5b.js\" async=\"\"></script><script src=\"/_next/static/chunks/6621-a3e6cc98bb3ed00f.js\" async=\"\"></script><script src=\"/_next/static/chunks/app/(home)/page-b182ed2005623a07.js\" async=\"\"></script><script src=\"/_next/static/chunks/5273-e7681551efd7bd95.js\" async=\"\"></script><script src=\"/_next/static/chunks/app/(inner)/layout-fd552aec620a351c.js\" async=\"\"></script><script src=\"/_next/static/chunks/app/layout-f2fa630a06c9e691.js\" async=\"\"></script><script src=\"/_next/static/chunks/app/template-716b626a3d3857d4.js\" async=\"\"></script><link rel=\"preload\" href=\"https://www.googletagmanager.com/gtag/js?id=G-GNJQQ7MEYY\" as=\"script\"/><meta name=\"next-size-adjust\" content=\"\"/><meta http-equiv=\"ScreenOrientation\" content=\"autoRotate:disabled\"/><meta property=\"og:image\" content=\"/assets/Icon/logo/mstile-150x150.png\"/><meta name=\"twitter:image\" content=\"/assets/Icon/logo/mstile-150x150.png\"/><meta name=\"twitter:image:src\" content=\"/assets/Icon/logo/mstile-150x150.png\"/><link rel=\"manifest\" href=\"/manifest.json\"/><link rel=\"apple-touch-icon\" href=\"/assets/Icon/logo/apple-",
+      "url": "https://185.255.89.138:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "45.127.6.34": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "138",
+        "Accept-Ranges": "bytes",
+        "Content-Type": "text/html",
+        "Date": "Sun, 13 Jul 2025 01:38:04 GMT",
+        "Etag": "\"66227f3f-8a\"",
+        "Last-Modified": "Fri, 19 Apr 2024 14:27:11 GMT",
+        "Server": "nginx"
+      },
+      "content": "<html>\n<head><title>404 Not Found</title></head>\n<body>\n<center><h1>404 Not Found</h1></center>\n<hr><center>nginx</center>\n</body>\n</html>",
+      "url": "http://45.127.6.34:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Server": "nginx",
+        "Date": "Sun, 13 Jul 2025 01:38:06 GMT",
+        "Content-Type": "text/html; charset=utf-8",
+        "Transfer-Encoding": "chunked",
+        "Connection": "close",
+        "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Accept-Encoding",
+        "x-nextjs-cache": "HIT",
+        "x-powered-by": "Next.js",
+        "cache-control": "s-maxage=31536000, stale-while-revalidate",
+        "etag": "\"jau1pn6w1h8p6\"",
+        "content-encoding": "gzip",
+        "Strict-Transport-Security": "max-age=31536000"
+      },
+      "content": "<!DOCTYPE html><html lang=\"en\"><head><meta charSet=\"utf-8\"/><link rel=\"stylesheet\" href=\"/_next/static/css/cbfc412cab8c824e.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/765ce86c7f30c399.css\" data-precedence=\"next\"/><link rel=\"preload\" href=\"/_next/static/chunks/webpack-56d8644ed16774eb.js\" as=\"script\"/><link rel=\"preload\" href=\"/_next/static/chunks/bce60fc1-d9747a6859a4a025.js\" as=\"script\"/><link rel=\"preload\" href=\"/_next/static/chunks/7698-a48a6760e2d976ac.js\" as=\"script\"/><link rel=\"preload\" href=\"/_next/static/chunks/main-app-bf1f72eb5224e6ea.js\" as=\"script\"/><title>NextChat</title><meta name=\"description\" content=\"Your personal ChatGPT Chat Bot.\"/><meta name=\"theme-color\" media=\"(prefers-color-scheme: light)\" content=\"#fafafa\"/><meta name=\"theme-color\" media=\"(prefers-color-scheme: dark)\" content=\"#151515\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1\"/><meta name=\"apple-mobile-web-app-capable\" content=\"yes\"/><meta name=\"apple-mobile-web-app-title\" content=\"NextChat\"/><meta name=\"apple-mobile-web-app-status-bar-style\" content=\"default\"/><meta name=\"config\" content=\"{&quot;version&quot;:&quot;v2.11.2&quot;,&quot;commitDate&quot;:&quot;1708942500000&quot;,&quot;commitHash&quot;:&quot;bc1794fb4af5229c4811008ad247b57bbf091334&quot;,&quot;buildMode&quot;:&quot;standalone&quot;,&quot;isApp&quot;:false}\"/><link rel=\"manifest\" href=\"/site.webmanifest\"/><script src=\"/serviceWorkerRegister.js\" defer=\"\"></script><script src=\"/_next/static/chunks/polyfills-78c92fac7aa8fdd8.js\" noModule=\"\"></script></head><body><div class=\"home_loading-content__7_JjP no-dark\"><svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"30\" height=\"30\" fill=\"none\"><defs><path id=\"bot_svg__a\" d=\"M0 0h30v30H0z\"></path><path id=\"bot_svg__c\" d=\"M0 0h20.455v20.455H0z\"></path></defs><g><rect width=\"30\" height=\"30\" fill=\"#E7F8FF\" rx=\"10\"></rect><mask id=\"bot_svg__b\" fill=\"#fff\"><use xlink:href=\"#bot_s",
+      "url": "https://45.127.6.34:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "64.227.165.176": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "166",
+        "Content-Type": "text/html",
+        "Date": "Sun, 13 Jul 2025 01:38:18 GMT",
+        "Server": "nginx/1.18.0 (Ubuntu)"
+      },
+      "content": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.18.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n",
+      "url": "http://64.227.165.176:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Server": "nginx/1.18.0 (Ubuntu)",
+        "Date": "Sun, 13 Jul 2025 01:38:19 GMT",
+        "Content-Type": "text/html",
+        "Last-Modified": "Mon, 08 Apr 2024 08:18:34 GMT",
+        "Transfer-Encoding": "chunked",
+        "Connection": "close",
+        "ETag": "W/\"6613a85a-730\"",
+        "Content-Encoding": "gzip"
+      },
+      "content": "<!DOCTYPE html>\n<html>\n<head>\n  <!--\n    If you are serving your web app in a path other than the root, change the\n    href value below to reflect the base path you are serving from.\n\n    The path provided below has to start and end with a slash \"/\" in order for\n    it to work correctly.\n\n    For more details:\n    * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base\n\n    This is a placeholder for base href that will be replaced by the value of\n    the `--base-href` argument provided to `flutter build`.\n  -->\n  <base href=\"/\">\n\n  <meta charset=\"UTF-8\">\n  <meta content=\"IE=Edge\" http-equiv=\"X-UA-Compatible\">\n  <meta name=\"description\" content=\"A new Flutter project.\">\n\n  <!-- iOS meta tags & icons -->\n  <meta name=\"apple-mobile-web-app-capable\" content=\"yes\">\n  <meta name=\"apple-mobile-web-app-status-bar-style\" content=\"black\">\n  <meta name=\"apple-mobile-web-app-title\" content=\"admin_panel\">\n  <link rel=\"apple-touch-icon\" href=\"icons/Icon-192.png\">\n\n  <!-- Favicon -->\n  <link rel=\"icon\" type=\"image/png\" href=\"favicon.png\"/>\n\n  <title>admin_panel</title>\n  <link rel=\"manifest\" href=\"manifest.json\">\n\n  <script>\n    // The value below is injected by flutter build, do not touch.\n    const serviceWorkerVersion = \"2145814758\";\n  </script>\n  <!-- This script adds the flutter initialization JS code -->\n  <script src=\"flutter.js\" defer></script>\n</head>\n<body>\n  <script>\n    window.addEventListener('load', function(ev) {\n      // Download main.dart.js\n      _flutter.loader.loadEntrypoint({\n        serviceWorker: {\n          serviceWorkerVersion: serviceWorkerVersion,\n        },\n        onEntrypointLoaded: function(engineInitializer) {\n          engineInitializer.initializeEngine().then(function(appRunner) {\n            appRunner.runApp();\n          });\n        }\n      });\n    });\n  </script>\n</body>\n</html>\n",
+      "url": "https://64.227.165.176:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "64.227.28.2": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://64.227.28.2:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://64.227.28.2:443",
+      "success": false
+    }
+  },
+  "107.182.27.154": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Date": "Sun, 13 Jul 2025 01:39:22 GMT",
+        "Server": "Caddy",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://107.182.27.154:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='107.182.27.154', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:852)'),))",
+      "url": "https://107.182.27.154:443",
+      "success": false
+    }
+  },
+  "144.126.241.218": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://144.126.241.218:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='144.126.241.218', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://144.126.241.218:443",
+      "success": false
+    }
+  },
+  "192.121.171.89": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://192.121.171.89:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='192.121.171.89', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://192.121.171.89:443",
+      "success": false
+    }
+  },
+  "91.107.121.189": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Transfer-Encoding": "chunked",
+        "Cache-Control": "no-store, no-cache, must-revalidate",
+        "Content-Encoding": "gzip",
+        "Content-Type": "text/html; charset=UTF-8",
+        "Date": "Sun, 13 Jul 2025 01:40:11 GMT",
+        "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+        "P3p": "policyref=\"/bitrix/p3p.xml\", CP=\"NON DSP COR CUR ADM DEV PSA PSD OUR UNR BUS UNI COM NAV INT DEM STA\"",
+        "Pragma": "no-cache",
+        "Server": "nginx",
+        "Set-Cookie": "PHPSESSID=O7rPyDr8SzIna56Zf3GYwsmL7QwW4TKj; path=/; HttpOnly, BITRIX_SM_GUEST_ID=44117; expires=Wed, 08-Jul-2026 01:40:11 GMT; Max-Age=31104000; path=/, BITRIX_SM_LAST_VISIT=13.07.2025%2004%3A40%3A11; expires=Wed, 08-Jul-2026 01:40:11 GMT; Max-Age=31104000; path=/, BITRIX_SM_SALE_UID=4715a81b0e2660c6e94ca8cbcf054693; expires=Wed, 08-Jul-2026 01:40:11 GMT; Max-Age=31104000; path=/",
+        "Vary": "Accept-Encoding",
+        "X-Devsrv-Cms": "Bitrix",
+        "X-Powered-Cms": "Bitrix Site Manager (50825cbd1bb0b1e74fb43e5d6fd5b7b4)"
+      },
+      "content": "<!DOCTYPE html>\r\n<html lang=\"ru\">\r\n\t<head>\r\n\t\t<meta charset=\"UTF-8\">\r\n\t\t<meta name=\"format-detection\" content=\"telephone=no\">\r\n\t\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0\"/>\r\n\t\t<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\t\t<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\r\n\t\t<meta name=\"theme-color\" content=\"#3498db\">\r\n\t\t<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta name=\"robots\" content=\"index, follow\" />\n<meta name=\"keywords\" content=\"электросамокат e-twow s2 , e-twow , e-twow master , e-twow booster plus, купить электросамокат для взрослых e-twow s3 gt , характеристики e-twow , e-twow отзывы , e-twow купить в сочи в краснодарском крае и москве. Купить электросамокат в Санкт - Петербурге, у-ецщц , volteco generic 250 , самый легкий электросамокат, электросамокат e twow, fitrider\" />\n<meta name=\"description\" content=\"2022 г. E-TWOW.ru - Электросамокаты  E-TWOW s2 E-TWOW s3 Booster Plus, GT, Eco. Самые легкие и компактные электросамокаты для взрослых для города с мотором 250-500-700 w с 2014 г. на e-twow.ru. Доставка по России. Оплата при получении. Сервисный центр. Запчасти. Оригинальная продукция официальный дилер.\" />\n<link href=\"/bitrix/cache/css/s1/dresscodeV2/kernel_main/kernel_main_v1.css?175217378010074\" type=\"text/css\"  rel=\"stylesheet\" />\n<link href=\"/bitrix/js/ui/design-tokens/dist/ui.design-tokens.min.css?171270235722029\" type=\"text/css\"  rel=\"stylesheet\" />\n<link href=\"/bitrix/js/ui/fonts/opensans/ui.font.opensans.min.css?17127023572320\" type=\"text/css\"  rel=\"stylesheet\" />\n<link href=\"/bitrix/js/main/popup/dist/main.popup.bundle.min.css?171270232126598\" type=\"text/css\"  rel=\"stylesheet\" />\n<link href=\"/bitrix/cache/css/s1/dresscodeV2/page_4eeb5ba7393cf5962adefba145252de2/page_4eeb5ba7393cf5962adefba145252de2_v1.css?175217378018871\" type=\"text/css\"  rel=\"stylesheet\" />\n<link href=\"/bitrix/cache/css/s1/dresscodeV2/template_4c679b4b2c292f",
+      "url": "http://91.107.121.189:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Server": "nginx",
+        "Date": "Sun, 13 Jul 2025 01:40:13 GMT",
+        "Content-Type": "text/html; charset=UTF-8",
+        "Transfer-Encoding": "chunked",
+        "Connection": "close",
+        "P3P": "policyref=\"/bitrix/p3p.xml\", CP=\"NON DSP COR CUR ADM DEV PSA PSD OUR UNR BUS UNI COM NAV INT DEM STA\"",
+        "X-Powered-CMS": "Bitrix Site Manager (50825cbd1bb0b1e74fb43e5d6fd5b7b4)",
+        "X-DevSrv-CMS": "Bitrix",
+        "Set-Cookie": "PHPSESSID=el781l4hQMwqXxkuSgEXsD7iD6ZgmmNP; path=/; HttpOnly, BITRIX_SM_GUEST_ID=44117; expires=Wed, 08-Jul-2026 01:40:13 GMT; Max-Age=31104000; path=/, BITRIX_SM_LAST_VISIT=13.07.2025%2004%3A40%3A13; expires=Wed, 08-Jul-2026 01:40:13 GMT; Max-Age=31104000; path=/, BITRIX_SM_SALE_UID=eed8b92542840eec175fb8f875d3e140; expires=Wed, 08-Jul-2026 01:40:13 GMT; Max-Age=31104000; path=/",
+        "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+        "Cache-Control": "no-store, no-cache, must-revalidate",
+        "Pragma": "no-cache",
+        "Vary": "Accept-Encoding",
+        "Content-Encoding": "gzip"
+      },
+      "content": "<!DOCTYPE html>\r\n<html lang=\"ru\">\r\n\t<head>\r\n\t\t<meta charset=\"UTF-8\">\r\n\t\t<meta name=\"format-detection\" content=\"telephone=no\">\r\n\t\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0\"/>\r\n\t\t<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" />\r\n\t\t<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\r\n\t\t<meta name=\"theme-color\" content=\"#3498db\">\r\n\t\t<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta name=\"robots\" content=\"index, follow\" />\n<meta name=\"keywords\" content=\"электросамокат e-twow s2 , e-twow , e-twow master , e-twow booster plus, купить электросамокат для взрослых e-twow s3 gt , характеристики e-twow , e-twow отзывы , e-twow купить в сочи в краснодарском крае и москве. Купить электросамокат в Санкт - Петербурге, у-ецщц , volteco generic 250 , самый легкий электросамокат, электросамокат e twow, fitrider\" />\n<meta name=\"description\" content=\"2022 г. E-TWOW.ru - Электросамокаты  E-TWOW s2 E-TWOW s3 Booster Plus, GT, Eco. Самые легкие и компактные электросамокаты для взрослых для города с мотором 250-500-700 w с 2014 г. на e-twow.ru. Доставка по России. Оплата при получении. Сервисный центр. Запчасти. Оригинальная продукция официальный дилер.\" />\n<link href=\"/bitrix/cache/css/s1/dresscodeV2/kernel_main/kernel_main_v1.css?175217378010074\" type=\"text/css\"  rel=\"stylesheet\" />\n<link href=\"/bitrix/js/ui/design-tokens/dist/ui.design-tokens.min.css?171270235722029\" type=\"text/css\"  rel=\"stylesheet\" />\n<link href=\"/bitrix/js/ui/fonts/opensans/ui.font.opensans.min.css?17127023572320\" type=\"text/css\"  rel=\"stylesheet\" />\n<link href=\"/bitrix/js/main/popup/dist/main.popup.bundle.min.css?171270232126598\" type=\"text/css\"  rel=\"stylesheet\" />\n<link href=\"/bitrix/cache/css/s1/dresscodeV2/page_4eeb5ba7393cf5962adefba145252de2/page_4eeb5ba7393cf5962adefba145252de2_v1.css?175217378018871\" type=\"text/css\"  rel=\"stylesheet\" />\n<link href=\"/bitrix/cache/css/s1/dresscodeV2/template_4c679b4b2c292f",
+      "url": "https://91.107.121.189:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "51.178.37.68": {
+    "port_80": {
+      "status_code": 301,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "17",
+        "Date": "Sun, 13 Jul 2025 01:40:31 GMT",
+        "Location": "https://51.178.37.68/"
+      },
+      "content": "Moved Permanently",
+      "url": "http://51.178.37.68:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 404,
+      "headers": {
+        "Content-Type": "text/plain; charset=utf-8",
+        "X-Content-Type-Options": "nosniff",
+        "Date": "Sun, 13 Jul 2025 01:40:33 GMT",
+        "Content-Length": "19",
+        "Connection": "close"
+      },
+      "content": "404 page not found\n",
+      "url": "https://51.178.37.68:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "51.178.18.101": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://51.178.18.101:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://51.178.18.101:443",
+      "success": false
+    }
+  },
+  "172.105.9.237": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://172.105.9.237:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://172.105.9.237:443",
+      "success": false
+    }
+  },
+  "172.104.65.251": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://172.104.65.251:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://172.104.65.251:443",
+      "success": false
+    }
+  },
+  "131.108.155.183": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://131.108.155.183:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://131.108.155.183:443",
+      "success": false
+    }
+  },
+  "152.206.139.68": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Transfer-Encoding": "chunked",
+        "Content-Encoding": "gzip",
+        "Content-Type": "text/html",
+        "Date": "Sun, 13 Jul 2025 01:42:08 GMT",
+        "Etag": "W/\"63a3c54f-264\"",
+        "Last-Modified": "Thu, 22 Dec 2022 02:47:43 GMT",
+        "Server": "nginx/1.18.0 (Ubuntu)"
+      },
+      "content": "<!DOCTYPE html>\n<html>\n<head>\n<title>Welcome to nginx!</title>\n<style>\n    body {\n        width: 35em;\n        margin: 0 auto;\n        font-family: Tahoma, Verdana, Arial, sans-serif;\n    }\n</style>\n</head>\n<body>\n<h1>Welcome to nginx!</h1>\n<p>If you see this page, the nginx web server is successfully installed and\nworking. Further configuration is required.</p>\n\n<p>For online documentation and support please refer to\n<a href=\"http://nginx.org/\">nginx.org</a>.<br/>\nCommercial support is available at\n<a href=\"http://nginx.com/\">nginx.com</a>.</p>\n\n<p><em>Thank you for using nginx.</em></p>\n</body>\n</html>\n",
+      "url": "http://152.206.139.68:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://152.206.139.68:443",
+      "success": false
+    }
+  },
+  "65.109.231.252": {
+    "port_80": {
+      "status_code": 404,
+      "headers": {
+        "Connection": "close",
+        "Transfer-Encoding": "chunked",
+        "Content-Encoding": "gzip",
+        "Content-Type": "text/html",
+        "Date": "Sun, 13 Jul 2025 01:42:11 GMT",
+        "Server": "nginx/1.18.0 (Ubuntu)"
+      },
+      "content": "<html>\r\n<head><title>404 Not Found</title></head>\r\n<body>\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx/1.18.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n",
+      "url": "http://65.109.231.252:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Server": "nginx/1.18.0 (Ubuntu)",
+        "Date": "Sun, 13 Jul 2025 01:42:13 GMT",
+        "Content-Type": "text/html; charset=utf-8",
+        "Transfer-Encoding": "chunked",
+        "Connection": "close",
+        "Vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Url, Accept-Encoding",
+        "x-nextjs-cache": "HIT",
+        "X-Powered-By": "Next.js",
+        "Cache-Control": "s-maxage=31536000, stale-while-revalidate",
+        "ETag": "\"6owxxpw27n7o9\"",
+        "Content-Encoding": "gzip"
+      },
+      "content": "<!DOCTYPE html><html lang=\"en\" class=\"w-full h-full dark\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"preload\" href=\"/_next/static/media/8a9e72331fecd08b-s.p.woff2\" as=\"font\" crossorigin=\"\" type=\"font/woff2\"/><link rel=\"stylesheet\" href=\"/_next/static/css/5b21be9c0926d820.css\" crossorigin=\"\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-902fe33c07a8e41e.js\" crossorigin=\"\"/><script src=\"/_next/static/chunks/fd9d1056-5003b4a02e45f441.js\" async=\"\" crossorigin=\"\"></script><script src=\"/_next/static/chunks/2472-e65895623c836368.js\" async=\"\" crossorigin=\"\"></script><script src=\"/_next/static/chunks/main-app-73671fc01026d59a.js\" async=\"\" crossorigin=\"\"></script><script src=\"/_next/static/chunks/2260-26001ce3ee750085.js\" async=\"\"></script><script src=\"/_next/static/chunks/890-434e8d70e4ca1610.js\" async=\"\"></script><script src=\"/_next/static/chunks/app/layout-be51dbb3e3fb0ca0.js\" async=\"\"></script><script src=\"/_next/static/chunks/413-31e58a5b0618ecab.js\" async=\"\"></script><script src=\"/_next/static/chunks/8326-0bea634153bffb9f.js\" async=\"\"></script><script src=\"/_next/static/chunks/app/not-found-b03dc507e74b0466.js\" async=\"\"></script><script src=\"/_next/static/chunks/48507feb-9c3c4bfa4faf2428.js\" async=\"\"></script><script src=\"/_next/static/chunks/5335-7a232c7f82d1a942.js\" async=\"\"></script><script src=\"/_next/static/chunks/1497-4869bd3542d9580c.js\" async=\"\"></script><script src=\"/_next/static/chunks/7593-1d17c3c5831ec119.js\" async=\"\"></script><script src=\"/_next/static/chunks/1359-84bed501875eb7e1.js\" async=\"\"></script><script src=\"/_next/static/chunks/app/(main)/layout-759722c1f9a35fcd.js\" async=\"\"></script><script src=\"/_next/static/chunks/4628-6def5383640c14b3.js\" async=\"\"></script><script src=\"/_next/static/chunks/2304-f8817d412d67f930.js\" async=\"\"></script><script src=\"/_next/static/chunks/903-c7ba891a42e9b962.js\" async=\"\"></script><script ",
+      "url": "https://65.109.231.252:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "104.248.191.18": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://104.248.191.18:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='104.248.191.18', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://104.248.191.18:443",
+      "success": false
+    }
+  },
+  "187.19.160.30": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://187.19.160.30:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://187.19.160.30:443",
+      "success": false
+    }
+  },
+  "144.91.112.174": {
+    "port_80": {
+      "status_code": 302,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "92",
+        "Content-Type": "text/html",
+        "Date": "Sun, 13 Jul 2025 01:42:46 GMT",
+        "Location": "/login",
+        "Server": "nginx/1.18.0 (Ubuntu)",
+        "Vary": "Accept-Encoding"
+      },
+      "content": "<!DOCTYPE html><html><head><meta http-equiv=\"refresh\" content=\"0; url=/login\"></head></html>",
+      "url": "http://144.91.112.174:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://144.91.112.174:443",
+      "success": false
+    }
+  },
+  "145.239.87.252": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Transfer-Encoding": "chunked",
+        "Content-Encoding": "gzip",
+        "Content-Type": "text/html",
+        "Date": "Sun, 13 Jul 2025 01:43:00 GMT",
+        "Etag": "W/\"67a1307e-267\"",
+        "Last-Modified": "Mon, 03 Feb 2025 21:09:18 GMT",
+        "Server": "nginx/1.26.0 (Ubuntu)"
+      },
+      "content": "<!DOCTYPE html>\n<html>\n<head>\n<title>Welcome to nginx!</title>\n<style>\nhtml { color-scheme: light dark; }\nbody { width: 35em; margin: 0 auto;\nfont-family: Tahoma, Verdana, Arial, sans-serif; }\n</style>\n</head>\n<body>\n<h1>Welcome to nginx!</h1>\n<p>If you see this page, the nginx web server is successfully installed and\nworking. Further configuration is required.</p>\n\n<p>For online documentation and support please refer to\n<a href=\"http://nginx.org/\">nginx.org</a>.<br/>\nCommercial support is available at\n<a href=\"http://nginx.com/\">nginx.com</a>.</p>\n\n<p><em>Thank you for using nginx.</em></p>\n</body>\n</html>\n",
+      "url": "http://145.239.87.252:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Server": "nginx/1.26.0 (Ubuntu)",
+        "Date": "Sun, 13 Jul 2025 01:43:02 GMT",
+        "Content-Type": "text/html; charset=utf-8",
+        "Transfer-Encoding": "chunked",
+        "Connection": "close",
+        "x-middleware-rewrite": "/pl/",
+        "Vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Url, Accept-Encoding",
+        "X-Powered-By": "Next.js",
+        "Cache-Control": "private, no-cache, no-store, max-age=0, must-revalidate",
+        "Content-Encoding": "gzip",
+        "Alt-Svc": "h3=\":443\"; ma=86400"
+      },
+      "content": "<!DOCTYPE html><html lang=\"pl\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"preload\" href=\"/_next/static/media/140d7ede024f369d-s.p.woff2\" as=\"font\" crossorigin=\"\" type=\"font/woff2\"/><link rel=\"preload\" href=\"/_next/static/media/4c285fdca692ea22-s.p.woff2\" as=\"font\" crossorigin=\"\" type=\"font/woff2\"/><link rel=\"preload\" href=\"/_next/static/media/b957ea75a84b6ea7-s.p.woff2\" as=\"font\" crossorigin=\"\" type=\"font/woff2\"/><link rel=\"preload\" href=\"/_next/static/media/eafabf029ad39a43-s.p.woff2\" as=\"font\" crossorigin=\"\" type=\"font/woff2\"/><link rel=\"preload\" as=\"image\" imageSrcSet=\"/_next/image?url=https%3A%2F%2Fpanel.multitechnology.pl%2Fuploads%2Fhero_1_3578915f47.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Fpanel.multitechnology.pl%2Fuploads%2Fhero_1_3578915f47.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Fpanel.multitechnology.pl%2Fuploads%2Fhero_1_3578915f47.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Fpanel.multitechnology.pl%2Fuploads%2Fhero_1_3578915f47.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Fpanel.multitechnology.pl%2Fuploads%2Fhero_1_3578915f47.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Fpanel.multitechnology.pl%2Fuploads%2Fhero_1_3578915f47.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Fpanel.multitechnology.pl%2Fuploads%2Fhero_1_3578915f47.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Fpanel.multitechnology.pl%2Fuploads%2Fhero_1_3578915f47.jpg&amp;w=3840&amp;q=75 3840w\" imageSizes=\"100vw\" fetchPriority=\"high\"/><link rel=\"preload\" as=\"image\" href=\"/pattern.svg\" fetchPriority=\"high\"/><link rel=\"stylesheet\" href=\"/_next/static/css/8850252e1517d1ee.css\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-ec2608df582674e1.js\"/><script src=\"/_next/static/chunks/fd9d1056-f898535ba37b63c1.js\" async=\"\"></script><script src=\"/_next/static/",
+      "url": "https://145.239.87.252:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "139.162.118.148": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://139.162.118.148:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://139.162.118.148:443",
+      "success": false
+    }
+  },
+  "213.183.57.164": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://213.183.57.164:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='213.183.57.164', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://213.183.57.164:443",
+      "success": false
+    }
+  },
+  "139.162.71.27": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://139.162.71.27:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://139.162.71.27:443",
+      "success": false
+    }
+  },
+  "200.164.74.204": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://200.164.74.204:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://200.164.74.204:443",
+      "success": false
+    }
+  },
+  "192.121.162.136": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://192.121.162.136:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='192.121.162.136', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://192.121.162.136:443",
+      "success": false
+    }
+  },
+  "172.232.206.53": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://172.232.206.53:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='172.232.206.53', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://172.232.206.53:443",
+      "success": false
+    }
+  },
+  "216.238.99.75": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://216.238.99.75:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='216.238.99.75', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://216.238.99.75:443",
+      "success": false
+    }
+  },
+  "200.25.45.110": {
+    "port_80": {
+      "status_code": 301,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "59",
+        "Content-Type": "text/html; charset=utf-8",
+        "Date": "Sun, 13 Jul 2025 01:48:20 GMT",
+        "Location": "https://ipinfo.io/census"
+      },
+      "content": "<a href=\"https://ipinfo.io/census\">Moved Permanently</a>.\n\n",
+      "url": "http://200.25.45.110:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://200.25.45.110:443",
+      "success": false
+    }
+  },
+  "172.200.159.155": {
+    "port_80": {
+      "status_code": 302,
+      "headers": {
+        "Connection": "close",
+        "Transfer-Encoding": "chunked",
+        "Date": "Sun, 13 Jul 2025 01:49:32 GMT",
+        "Location": "http://172.200.159.155/api/auth/signin?callbackUrl=%2F",
+        "Server": "nginx/1.18.0 (Ubuntu)",
+        "Set-Cookie": "authjs.csrf-token=b4e88d4ebbca80b5a18eb08d566ee7e07c1acda40f110ba9b5c2bc65203806c3%7C06bfadba27aab355335c362aa9e3fb8546c2fdf2fb07b595fc82ca3a382f70da; Path=/; HttpOnly; SameSite=Lax, authjs.callback-url=http%3A%2F%2F172.200.159.155; Path=/; HttpOnly; SameSite=Lax"
+      },
+      "content": "http://172.200.159.155/api/auth/signin?callbackUrl=%2F",
+      "url": "http://172.200.159.155:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://172.200.159.155:443",
+      "success": false
+    }
+  },
+  "192.36.61.58": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://192.36.61.58:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='192.36.61.58', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://192.36.61.58:443",
+      "success": false
+    }
+  },
+  "64.176.168.129": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://64.176.168.129:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='64.176.168.129', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://64.176.168.129:443",
+      "success": false
+    }
+  },
+  "64.176.5.58": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://64.176.5.58:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='64.176.5.58', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://64.176.5.58:443",
+      "success": false
+    }
+  },
+  "45.79.92.244": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "107",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html"
+      },
+      "content": "<html><body><h1>502 Bad Gateway</h1>\nThe server returned an invalid or incomplete response.\n</body></html>\n",
+      "url": "http://45.79.92.244:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='45.79.92.244', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://45.79.92.244:443",
+      "success": false
+    }
+  },
+  "170.64.173.41": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://170.64.173.41:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='170.64.173.41', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://170.64.173.41:443",
+      "success": false
+    }
+  },
+  "172.105.192.126": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://172.105.192.126:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://172.105.192.126:443",
+      "success": false
+    }
+  },
+  "143.42.229.113": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "107",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html"
+      },
+      "content": "<html><body><h1>502 Bad Gateway</h1>\nThe server returned an invalid or incomplete response.\n</body></html>\n",
+      "url": "http://143.42.229.113:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='143.42.229.113', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://143.42.229.113:443",
+      "success": false
+    }
+  },
+  "47.251.61.95": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "899",
+        "Content-Type": "text/html; charset=UTF-8",
+        "Date": "Sun, 13 Jul 2025 01:54:37 GMT",
+        "Etag": "\"8e324a9410c1b1933c3f355e9ae783cc6335f5b1\"",
+        "Server": "nginx/1.24.0",
+        "Set-Cookie": "_xsrf=2|edba46e8|a148518c5af461374af4250185a80e28|1752371677; Path=/"
+      },
+      "content": "<a href=/python>hello python</a>\"\n               <form method=\"post\" action=\"/login\" enctype=\"multipart/form-data\">\n               <input type=\"text\" name=\"name\"><br><br>\n               <input type=\"password\" name=\"password\"><br><br>\n               <input type=\"file\" name=\"avatar\"><br><br>\n               <input type=\"submit\" value=\"提交\">&nbsp;&nbsp;&nbsp;\n               <input type=\"reset\" value=\"重置\">\n               </form>'\n               <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<title>登录</title>\n</head>\n<body>\n<form>\n<!--防范XSRF攻击-->\n<input type=\"hidden\" name=\"_xsrf\" value=\"2|edba46e8|a148518c5af461374af4250185a80e28|1752371677\"/>\n<label>用户名：<input type=\"text\" name=\"username\" value=\"\" placeholder=\"请输入用户名\"></label>\n<label>密码：<input type=\"password\" name=\"pass\" placeholder=\"请输入密码\"></label>\n</form>\n</body>\n</html>",
+      "url": "http://47.251.61.95:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://47.251.61.95:443",
+      "success": false
+    }
+  },
+  "45.79.239.204": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "107",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html"
+      },
+      "content": "<html><body><h1>502 Bad Gateway</h1>\nThe server returned an invalid or incomplete response.\n</body></html>\n",
+      "url": "http://45.79.239.204:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='45.79.239.204', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://45.79.239.204:443",
+      "success": false
+    }
+  },
+  "143.42.229.124": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://143.42.229.124:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='143.42.229.124', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://143.42.229.124:443",
+      "success": false
+    }
+  },
+  "77.90.2.231": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "916",
+        "Accept-Ranges": "bytes",
+        "Cache-Control": "no-cache, no-store, must-revalidate,proxy-revalidate, max-age=0",
+        "Content-Encoding": "gzip",
+        "Content-Type": "text/html; charset=utf-8",
+        "Date": "Sun, 13 Jul 2025 01:57:18 GMT",
+        "Last-Modified": "Thu, 25 Apr 2024 23:45:25 GMT",
+        "Vary": "Accept-Encoding"
+      },
+      "content": "<!DOCTYPE html>\n<html lang=\"\">\n\n<head>\n\t<meta charset=\"utf-8\">\n\t<meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\">\n\t<meta content=\"width=device-width,initial-scale=1\" name=\"viewport\">\n\t<meta content=\"noindex\" name=\"robots\">\n\t<link href=\"/img/icon/apple-touch-icon.png\" rel=\"apple-touch-icon\" sizes=\"180x180\">\n\t<link href=\"/site.webmanifest\" rel=\"manifest\">\n\t<meta content=\"#da532c\" name=\"msapplication-TileColor\">\n\t<meta content=\"#ffffff\" name=\"theme-color\">\n\t<link href=\"/favicon.ico\" rel=\"shortcut icon\" type=\"image/x-icon\">\n\t<link href=\"/favicon.ico\" mask=\"\" rel=\"icon\" sizes=\"any\">\n\t<title>\n\t\tCasaOS\n\t</title>\n<link href=\"/0.8af7add0.js\" rel=\"prefetch\"><link href=\"/1.5db3d552.js\" rel=\"prefetch\"><link href=\"/10.f3328bf0.js\" rel=\"prefetch\"><link href=\"/11.ce8fcfca.js\" rel=\"prefetch\"><link href=\"/12.d80889b5.js\" rel=\"prefetch\"><link href=\"/13.4eb610e5.js\" rel=\"prefetch\"><link href=\"/14.ea992751.js\" rel=\"prefetch\"><link href=\"/15.ac041626.js\" rel=\"prefetch\"><link href=\"/16.64df298f.js\" rel=\"prefetch\"><link href=\"/17.253263a5.js\" rel=\"prefetch\"><link href=\"/18.b1285a67.js\" rel=\"prefetch\"><link href=\"/19.a0b503ec.js\" rel=\"prefetch\"><link href=\"/2.abf03c34.js\" rel=\"prefetch\"><link href=\"/20.a5e5eb0a.js\" rel=\"prefetch\"><link href=\"/21.d37c47df.js\" rel=\"prefetch\"><link href=\"/22.f8a37fab.js\" rel=\"prefetch\"><link href=\"/23.189da12b.js\" rel=\"prefetch\"><link href=\"/24.e4342521.js\" rel=\"prefetch\"><link href=\"/25.6364e736.js\" rel=\"prefetch\"><link href=\"/26.d4f409fb.js\" rel=\"prefetch\"><link href=\"/27.4433a5de.js\" rel=\"prefetch\"><link href=\"/28.bd260a86.js\" rel=\"prefetch\"><link href=\"/29.ad6cf14a.js\" rel=\"prefetch\"><link href=\"/3.79db4798.js\" rel=\"prefetch\"><link href=\"/30.a3217f4f.js\" rel=\"prefetch\"><link href=\"/31.fae1dfad.js\" rel=\"prefetch\"><link href=\"/32.caaab8ce.js\" rel=\"prefetch\"><link href=\"/33.9948e8ec.js\" rel=\"prefetch\"><link href=\"/34.63def333.js\" rel=\"prefetch\"><link href=\"/35.a873a57d.js\" rel=\"prefetch\"><link href=\"/36.63661a27.js\" rel=\"prefetch\"><link href=\"/4.f435a011",
+      "url": "http://77.90.2.231:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://77.90.2.231:443",
+      "success": false
+    }
+  },
+  "119.28.47.13": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "4833",
+        "Accept-Ranges": "bytes",
+        "Content-Type": "text/html",
+        "Date": "Sun, 13 Jul 2025 01:57:37 GMT",
+        "Etag": "\"53762af0-12e1\"",
+        "Last-Modified": "Fri, 16 May 2014 15:12:48 GMT",
+        "Server": "nginx/1.20.1"
+      },
+      "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\">\n<html>\n<head>\n  <title>Welcome to CentOS</title>\n  <style rel=\"stylesheet\" type=\"text/css\"> \n\n\thtml {\n\tbackground-image:url(img/html-background.png);\n\tbackground-color: white;\n\tfont-family: \"DejaVu Sans\", \"Liberation Sans\", sans-serif;\n\tfont-size: 0.85em;\n\tline-height: 1.25em;\n\tmargin: 0 4% 0 4%;\n\t}\n\n\tbody {\n\tborder: 10px solid #fff;\n\tmargin:0;\n\tpadding:0;\n\tbackground: #fff;\n\t}\n\n\t/* Links */\n\n\ta:link { border-bottom: 1px dotted #ccc; text-decoration: none; color: #204d92; }\n\ta:hover { border-bottom:1px dotted #ccc; text-decoration: underline; color: green; }\n\ta:active {  border-bottom:1px dotted #ccc; text-decoration: underline; color: #204d92; }\n\ta:visited { border-bottom:1px dotted #ccc; text-decoration: none; color: #204d92; }\n\ta:visited:hover { border-bottom:1px dotted #ccc; text-decoration: underline; color: green; }\n \n\t.logo a:link,\n\t.logo a:hover,\n\t.logo a:visited { border-bottom: none; }\n\n\t.mainlinks a:link { border-bottom: 1px dotted #ddd; text-decoration: none; color: #eee; }\n\t.mainlinks a:hover { border-bottom:1px dotted #ddd; text-decoration: underline; color: white; }\n\t.mainlinks a:active { border-bottom:1px dotted #ddd; text-decoration: underline; color: white; }\n\t.mainlinks a:visited { border-bottom:1px dotted #ddd; text-decoration: none; color: white; }\n\t.mainlinks a:visited:hover { border-bottom:1px dotted #ddd; text-decoration: underline; color: white; }\n\n\t/* User interface styles */\n\n\t#header {\n\tmargin:0;\n\tpadding: 0.5em;\n\tbackground: #204D8C url(img/header-background.png);\n\ttext-align: left;\n\t}\n\n\t.logo {\n\tpadding: 0;\n\t/* For text only logo */\n\tfont-size: 1.4em;\n\tline-height: 1em;\n\tfont-weight: bold;\n\t}\n\n\t.logo img {\n\tvertical-align: middle;\n\tpadding-right: 1em;\n\t}\n\n\t.logo a {\n\tcolor: #fff;\n\ttext-decoration: none;\n\t}\n\n\tp {\n\tline-height:1.5em;\n\t}\n\n\th1 { \n\t\tmargin-bottom: 0;\n\t\tline-height: 1.9em; }\n\th2 { \n\t\tmargin-top: 0;\n\t\tline-height: 1.7em; }\n\n\t#content {\n\tclear:both;\n\tpadding-left: ",
+      "url": "http://119.28.47.13:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://119.28.47.13:443",
+      "success": false
+    }
+  },
+  "193.203.15.5": {
+    "port_80": {
+      "status_code": 404,
+      "headers": {
+        "Connection": "close",
+        "Transfer-Encoding": "chunked",
+        "Content-Encoding": "gzip",
+        "Content-Type": "text/html",
+        "Date": "Sun, 13 Jul 2025 01:58:17 GMT",
+        "Server": "nginx/1.18.0 (Ubuntu)"
+      },
+      "content": "<html>\r\n<head><title>404 Not Found</title></head>\r\n<body>\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx/1.18.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n",
+      "url": "http://193.203.15.5:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Server": "nginx/1.18.0 (Ubuntu)",
+        "Date": "Sun, 13 Jul 2025 01:58:19 GMT",
+        "Content-Type": "text/html",
+        "Last-Modified": "Fri, 18 Aug 2023 13:51:07 GMT",
+        "Transfer-Encoding": "chunked",
+        "Connection": "close",
+        "ETag": "W/\"64df774b-12ca\"",
+        "Content-Encoding": "gzip"
+      },
+      "content": "<!DOCTYPE html>\n<html lang=\"fr\">\n\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>CHELLA DATA</title>\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"styles.css\">\n    <link href=\"https://cdn.rawgit.com/michalsnik/aos/2.1.1/dist/aos.css\" rel=\"stylesheet\">\n    <link rel=\"icon\" href=\"assets/favicon/favicon.ico\" type=\"image/x-icon\">\n    <link rel=\"shortcut icon\" href=\"assets/favicon/favicon.ico\" type=\"image/x-icon\">\n    <script src=\"https://cdn.rawgit.com/michalsnik/aos/2.1.1/dist/aos.js\"></script>\n\n</head>\n\n<body>\n    <header>\n        <img width=\"10%\" height=\"10%\" src=\"assets/logo.png\" alt=\"Logo de CHELLA DATA\">\n        <h1>CHELLA DATA</h1>\n        <p>Votre partenaire de confiance pour le conseil en data, le dÃ©veloppement web et l'automatisation de tÃ¢ches.\n        </p>\n    </header>\n    <nav>\n        <ul>\n            <li><a href=\"#about\">Qui sommes-nous</a></li>\n            <li><a href=\"#services\">Nos offres</a></li>\n            <li><a href=\"#contact\">Contactez-nous</a></li>\n        </ul>\n    </nav>\n    <button id=\"cta-button\">Obtenez un devis</button>\n\n    <section id=\"about\" data-aos=\"fade-down\">\n        <h2>Qui sommes-nous</h2>\n        <div class=\"section-content\">\n            <div class=\"text-content\">\n                <p>CHELLA DATA est une entreprise spÃ©cialisÃ©e en conseil autour de la data, dÃ©veloppement web et\n                    automatisation de tÃ¢ches. Fort de notre expertise en Python et en autres langages de programmation,\n                    nous\n                    proposons des solutions personnalisÃ©es et sur mesure pour nos clients.</p>\n                <p>Nous proposons Ã©galement des services de recrutement technique, apportant notre expertise pour aider\n                    nos\n                    clients Ã  trouver les talents qui correspondent le mieux Ã  leurs besoins.</p>\n                <p>Notre passion pour la technologie et notre engagement envers nos clients font de",
+      "url": "https://193.203.15.5:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "172.104.118.207": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://172.104.118.207:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://172.104.118.207:443",
+      "success": false
+    }
+  },
+  "139.162.97.90": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://139.162.97.90:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='139.162.97.90', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://139.162.97.90:443",
+      "success": false
+    }
+  },
+  "216.238.76.111": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://216.238.76.111:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='216.238.76.111', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://216.238.76.111:443",
+      "success": false
+    }
+  },
+  "172.104.86.58": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://172.104.86.58:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='172.104.86.58', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://172.104.86.58:443",
+      "success": false
+    }
+  },
+  "159.89.208.62": {
+    "port_80": {
+      "status_code": 301,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "178",
+        "Content-Type": "text/html",
+        "Date": "Sun, 13 Jul 2025 02:02:15 GMT",
+        "Location": "https://www.thekoreanmall.com/",
+        "Server": "nginx/1.24.0 (Ubuntu)"
+      },
+      "content": "<html>\r\n<head><title>301 Moved Permanently</title></head>\r\n<body>\r\n<center><h1>301 Moved Permanently</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n",
+      "url": "http://159.89.208.62:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Server": "nginx/1.24.0 (Ubuntu)",
+        "Date": "Sun, 13 Jul 2025 02:02:17 GMT",
+        "Content-Type": "text/html; charset=utf-8",
+        "Transfer-Encoding": "chunked",
+        "Connection": "close",
+        "Vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Accept-Encoding",
+        "link": "</_next/static/media/2c10f61e4eab0711-s.p.ttf>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/ttf\"",
+        "X-Powered-By": "Next.js",
+        "Cache-Control": "private, no-cache, no-store, max-age=0, must-revalidate",
+        "Content-Encoding": "gzip"
+      },
+      "content": "<!DOCTYPE html><html lang=\"en\" class=\"scroll-smooth\" style=\"scroll-behavior:smooth\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0\"/><link rel=\"preload\" as=\"image\" imageSrcSet=\"/_next/image?url=http%3A%2F%2Fres.cloudinary.com%2Fdksi7q3so%2Fimage%2Fupload%2Fv1688992935%2FDesktopBannerImages%2F1688992933510-banner3_ndikod.webp&amp;w=1920&amp;q=100 1x, /_next/image?url=http%3A%2F%2Fres.cloudinary.com%2Fdksi7q3so%2Fimage%2Fupload%2Fv1688992935%2FDesktopBannerImages%2F1688992933510-banner3_ndikod.webp&amp;w=3840&amp;q=100 2x\" fetchPriority=\"high\"/><link rel=\"preload\" as=\"image\" imageSrcSet=\"/_next/image?url=http%3A%2F%2Fres.cloudinary.com%2Fdksi7q3so%2Fimage%2Fupload%2Fv1688992975%2FDesktopBannerImages%2F1688992973520-banner2_xvk0kx.webp&amp;w=1920&amp;q=100 1x, /_next/image?url=http%3A%2F%2Fres.cloudinary.com%2Fdksi7q3so%2Fimage%2Fupload%2Fv1688992975%2FDesktopBannerImages%2F1688992973520-banner2_xvk0kx.webp&amp;w=3840&amp;q=100 2x\" fetchPriority=\"high\"/><link rel=\"preload\" as=\"image\" imageSrcSet=\"/_next/image?url=http%3A%2F%2Fres.cloudinary.com%2Fdksi7q3so%2Fimage%2Fupload%2Fv1688993057%2FDesktopBannerImages%2F1688993055438-bannerOne_zporks.webp&amp;w=1920&amp;q=100 1x, /_next/image?url=http%3A%2F%2Fres.cloudinary.com%2Fdksi7q3so%2Fimage%2Fupload%2Fv1688993057%2FDesktopBannerImages%2F1688993055438-bannerOne_zporks.webp&amp;w=3840&amp;q=100 2x\" fetchPriority=\"high\"/><link rel=\"stylesheet\" href=\"/_next/static/css/9c78840ab1fe10f2.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/a20c1cda979f80f4.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/b891606b95051e2c.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/283bf9ab40f74a2a.css\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-",
+      "url": "https://159.89.208.62:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "172.233.15.100": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://172.233.15.100:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='172.233.15.100', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://172.233.15.100:443",
+      "success": false
+    }
+  },
+  "139.162.218.130": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://139.162.218.130:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='139.162.218.130', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://139.162.218.130:443",
+      "success": false
+    }
+  },
+  "45.76.243.216": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://45.76.243.216:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='45.76.243.216', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://45.76.243.216:443",
+      "success": false
+    }
+  },
+  "78.46.104.176": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Accept-Ranges": "bytes",
+        "Content-Type": "text/html",
+        "Date": "Sun, 13 Jul 2025 02:03:57 GMT",
+        "Etag": "\"0-50472cf5db953\"",
+        "Last-Modified": "Thu, 02 Oct 2014 16:07:15 GMT",
+        "Server": "nginx/1.10.3",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://78.46.104.176:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 502,
+      "headers": {
+        "Server": "nginx/1.10.3",
+        "Date": "Sun, 13 Jul 2025 02:04:00 GMT",
+        "Content-Type": "text/html",
+        "Content-Length": "173",
+        "Connection": "close"
+      },
+      "content": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.10.3</center>\r\n</body>\r\n</html>\r\n",
+      "url": "https://78.46.104.176:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "146.59.16.168": {
+    "port_80": {
+      "status_code": 404,
+      "headers": {
+        "Connection": "close",
+        "Transfer-Encoding": "chunked",
+        "Content-Encoding": "gzip",
+        "Content-Type": "text/html",
+        "Date": "Sun, 13 Jul 2025 02:04:02 GMT",
+        "Server": "nginx/1.24.0 (Ubuntu)"
+      },
+      "content": "<html>\r\n<head><title>404 Not Found</title></head>\r\n<body>\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n",
+      "url": "http://146.59.16.168:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Server": "nginx/1.24.0 (Ubuntu)",
+        "Date": "Sun, 13 Jul 2025 02:04:04 GMT",
+        "Content-Type": "text/html; charset=utf-8",
+        "Transfer-Encoding": "chunked",
+        "Connection": "close",
+        "X-Powered-By": "Express",
+        "Cache-Control": "public, max-age=0",
+        "ETag": "W/\"6849-6VMly3UqdmWr0+lQnZtQWGx+Amw\"",
+        "Vary": "Accept-Encoding",
+        "Content-Encoding": "gzip"
+      },
+      "content": "<!DOCTYPE html>\n<html lang=\"pl\">\n<head>\n\n    <title>Studenci.IT blog</title>\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    \n    <link rel=\"preload\" as=\"style\" href=\"/assets/built/screen.css?v=7a0a915914\">\n    <link rel=\"preload\" as=\"script\" href=\"/assets/built/source.js?v=7a0a915914\">\n    \n    <link rel=\"preload\" as=\"font\" type=\"font/woff2\" href=\"/assets/fonts/inter-roman.woff2?v=7a0a915914\" crossorigin=\"anonymous\">\n<style>\n    @font-face {\n        font-family: \"Inter\";\n        font-style: normal;\n        font-weight: 100 900;\n        font-display: optional;\n        src: url(/assets/fonts/inter-roman.woff2?v=7a0a915914) format(\"woff2\");\n        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;\n    }\n</style>\n\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"/assets/built/screen.css?v=7a0a915914\">\n\n    <style>\n        :root {\n            --background-color: #ffffff\n        }\n    </style>\n\n    <script>\n        /* The script for calculating the color contrast has been taken from\n        https://gomakethings.com/dynamically-changing-the-text-color-based-on-background-color-contrast-with-vanilla-js/ */\n        var accentColor = getComputedStyle(document.documentElement).getPropertyValue('--background-color');\n        accentColor = accentColor.trim().slice(1);\n\n        if (accentColor.length === 3) {\n            accentColor = accentColor[0] + accentColor[0] + accentColor[1] + accentColor[1] + accentColor[2] + accentColor[2];\n        }\n\n        var r = parseInt(accentColor.substr(0, 2), 16);\n        var g = parseInt(accentColor.substr(2, 2), 16);\n        var b = parseInt(accentColor.substr(4, 2), 16);\n        var yiq = ((r * 299) + (g * 587) + (b * 114)) / 1000;\n        var textColor = (yiq >= 128) ? 'dark' : 'light';\n\n        document.documentElement.className = `has-${t",
+      "url": "https://146.59.16.168:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "45.33.31.87": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://45.33.31.87:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='45.33.31.87', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://45.33.31.87:443",
+      "success": false
+    }
+  },
+  "31.208.244.51": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://31.208.244.51:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://31.208.244.51:443",
+      "success": false
+    }
+  },
+  "101.126.87.215": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://101.126.87.215:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://101.126.87.215:443",
+      "success": false
+    }
+  },
+  "159.253.36.192": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Transfer-Encoding": "chunked",
+        "Content-Encoding": "gzip",
+        "Content-Type": "text/html",
+        "Date": "Sun, 13 Jul 2025 02:05:29 GMT",
+        "Etag": "W/\"634e8298-264\"",
+        "Last-Modified": "Tue, 18 Oct 2022 10:40:24 GMT",
+        "Server": "nginx/1.18.0 (Ubuntu)"
+      },
+      "content": "<!DOCTYPE html>\n<html>\n<head>\n<title>Welcome to nginx!</title>\n<style>\n    body {\n        width: 35em;\n        margin: 0 auto;\n        font-family: Tahoma, Verdana, Arial, sans-serif;\n    }\n</style>\n</head>\n<body>\n<h1>Welcome to nginx!</h1>\n<p>If you see this page, the nginx web server is successfully installed and\nworking. Further configuration is required.</p>\n\n<p>For online documentation and support please refer to\n<a href=\"http://nginx.org/\">nginx.org</a>.<br/>\nCommercial support is available at\n<a href=\"http://nginx.com/\">nginx.com</a>.</p>\n\n<p><em>Thank you for using nginx.</em></p>\n</body>\n</html>\n",
+      "url": "http://159.253.36.192:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 502,
+      "headers": {
+        "Server": "nginx/1.18.0 (Ubuntu)",
+        "Date": "Sun, 13 Jul 2025 02:05:30 GMT",
+        "Content-Type": "text/html",
+        "Content-Length": "166",
+        "Connection": "close"
+      },
+      "content": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.18.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n",
+      "url": "https://159.253.36.192:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "39.99.234.61": {
+    "port_80": {
+      "status_code": 403,
+      "headers": {
+        "Connection": "close",
+        "Transfer-Encoding": "chunked",
+        "Content-Encoding": "gzip",
+        "Content-Type": "text/html",
+        "Date": "Sun, 13 Jul 2025 02:05:37 GMT",
+        "Server": "nginx/1.18.0 (Ubuntu)"
+      },
+      "content": "<html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>nginx/1.18.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n",
+      "url": "http://39.99.234.61:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Server": "nginx/1.18.0 (Ubuntu)",
+        "Date": "Sun, 13 Jul 2025 02:05:37 GMT",
+        "Content-Type": "text/html; charset=utf-8",
+        "Transfer-Encoding": "chunked",
+        "Connection": "close",
+        "Vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Accept-Encoding",
+        "x-nextjs-cache": "HIT",
+        "X-Powered-By": "Next.js",
+        "Cache-Control": "s-maxage=31536000, stale-while-revalidate",
+        "ETag": "\"vvcvfe419l6t1\"",
+        "Content-Encoding": "gzip"
+      },
+      "content": "<!DOCTYPE html><html lang=\"en\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"preload\" href=\"/_next/static/media/4473ecc91f70f139-s.p.woff\" as=\"font\" crossorigin=\"\" type=\"font/woff\"/><link rel=\"preload\" href=\"/_next/static/media/463dafcda517f24f-s.p.woff\" as=\"font\" crossorigin=\"\" type=\"font/woff\"/><link rel=\"stylesheet\" href=\"/_next/static/css/e87a2ef83934dfdd.css\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-44518aeb3f9c94e2.js\"/><script src=\"/_next/static/chunks/fd9d1056-bf12fd48b55a9a02.js\" async=\"\"></script><script src=\"/_next/static/chunks/23-239e86693d5973a0.js\" async=\"\"></script><script src=\"/_next/static/chunks/main-app-023a1c159219c0c3.js\" async=\"\"></script><script src=\"/_next/static/chunks/116-5e1f679641b4001b.js\" async=\"\"></script><script src=\"/_next/static/chunks/625-0867a99f04947ea7.js\" async=\"\"></script><script src=\"/_next/static/chunks/793-8689ac740ad102a3.js\" async=\"\"></script><script src=\"/_next/static/chunks/454-83b5d45b9b39b63f.js\" async=\"\"></script><script src=\"/_next/static/chunks/app/page-a592abb9e003e17f.js\" async=\"\"></script><title>OctoLink管理</title><meta name=\"description\" content=\"Generated by create next app\"/><link rel=\"icon\" href=\"/favicon.ico\" type=\"image/x-icon\" sizes=\"16x16\"/><meta name=\"next-size-adjust\"/><script src=\"/_next/static/chunks/polyfills-42372ed130431b0a.js\" noModule=\"\"></script></head><body class=\"__variable_1e4310 __variable_c3aa02 antialiased\"><div style=\"display:flex;flex-direction:column;align-items:center;justify-content:center;height:100vh;background-color:rgb(237, 240, 250);background-image:url(&#x27;/back.png&#x27;);background-size:cover;background-position:center;background-repeat:no-repeat\"><div style=\"text-align:center\"><div style=\"display:flex;align-items:center;justify-content:center;gap:10px\"><h1 style=\"font-size:50px;font-weight:600;margin-bottom:8px;color:#fff\">OctoLink</h1></div>",
+      "url": "https://39.99.234.61:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "173.230.157.134": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://173.230.157.134:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='173.230.157.134', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://173.230.157.134:443",
+      "success": false
+    }
+  },
+  "194.71.227.174": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://194.71.227.174:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='194.71.227.174', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://194.71.227.174:443",
+      "success": false
+    }
+  },
+  "164.132.71.59": {
+    "port_80": {
+      "status_code": 301,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "230",
+        "Content-Type": "text/html; charset=iso-8859-1",
+        "Date": "Sun, 13 Jul 2025 02:07:47 GMT",
+        "Location": "https://164.132.71.59/",
+        "Server": "Apache/2"
+      },
+      "content": "<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">\n<html><head>\n<title>301 Moved Permanently</title>\n</head><body>\n<h1>Moved Permanently</h1>\n<p>The document has moved <a href=\"https://164.132.71.59/\">here</a>.</p>\n</body></html>\n",
+      "url": "http://164.132.71.59:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 401,
+      "headers": {
+        "Date": "Sun, 13 Jul 2025 02:07:49 GMT",
+        "Server": "Apache/2",
+        "WWW-Authenticate": "Basic realm=\"Access Protege\"",
+        "Content-Length": "381",
+        "Connection": "close",
+        "Content-Type": "text/html; charset=iso-8859-1"
+      },
+      "content": "<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">\n<html><head>\n<title>401 Unauthorized</title>\n</head><body>\n<h1>Unauthorized</h1>\n<p>This server could not verify that you\nare authorized to access the document\nrequested.  Either you supplied the wrong\ncredentials (e.g., bad password), or your\nbrowser doesn't understand how to supply\nthe credentials required.</p>\n</body></html>\n",
+      "url": "https://164.132.71.59:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "170.106.188.25": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://170.106.188.25:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://170.106.188.25:443",
+      "success": false
+    }
+  },
+  "125.138.232.69": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://125.138.232.69:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://125.138.232.69:443",
+      "success": false
+    }
+  },
+  "45.79.90.54": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "120785",
+        "Content-Type": "text/html",
+        "Date": "Sun, 13 Jul 2025 02:09:42 GMT",
+        "Server": "MailEnable-HTTP"
+      },
+      "content": "<!DOCTYPE html>\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n<meta http-equiv=\"Pragma\" content=\"no-cache\" />\n<meta charset=\"utf-8\">\n<meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\">\n<meta content=\"object\" property=\"og:type\">\n<meta content=\"GitLab\" property=\"og:site_name\">\n<meta content=\"Help\" property=\"og:title\">\n<meta content=\"GitLab Community Edition\" property=\"og:description\">\n<meta content=\"summary\" property=\"twitter:card\">\n<meta content=\"Help\" property=\"twitter:title\">\n<meta content=\"GitLab Community Edition\" property=\"twitter:description\">\n<meta content=\"GitLab Community Edition\" name=\"description\">\n<meta content=\"#484D57\" name=\"theme-color\">\n<meta content=\"#38353E\" name=\"msapplication-TileColor\">\n<meta name=\"csrf-param\" content=\"authenticity_token\" />\n<meta name=\"csrf-token\" content=\"8dcb74a64dc984fb9abe3e7c201f810d9ec90ed8e4ca73c63bba87f8ffd439112101e5==\" />\n<title>Teltonika-RUT950.com - Web UI</title>\n</head>\n<body>\n<div style=\"display: none;\">\n<script>SC.util.mergeIntoContext({\"focusedControlID\":null,\"userName\":\"\",\"userDisplayName\":\"\",\"isUserAuthenticated\":false,\"antiForgeryToken\":\"THtoAUxH4sS9\",\"isUserAdministrator\":false,\"canManageSharedToolbox\":false,\"pageBaseFileName\":\"Guest\",\"notifyActivityFrequencyMilliseconds\":600000,\"loginAfterInactivityMilliseconds\":36000000,\"canChangePassword\":false,\"controlPanelUrl\":null,\"pageType\":\"GuestPage\",\"processType\":2,\"userAgentOverride\":null,\"sessionTypeInfos\":[]});</script>\n<SessionInfo><SID>a29d421feecf680a</SID><Challenge>680a</Challenge><BlockTime>0</BlockTime><Rights></Rights><Users><User last=\"1\">fritzr</User></Users></SessionInfo>\n<Account>\n<Entry0 Active=\"Yes\" username=\"CMCCAdmin\" web_passwd=\"CmcC4dm1n5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<Entry1 Active=\"Yes\" username=\"useradmin\" web_passwd=\"Gu4ngx1pd5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.",
+      "url": "http://45.79.90.54:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Content-Length": "120778",
+        "Content-Type": "text/html",
+        "Server": "Cisco IOS-XR",
+        "Date": "Sun, 13 Jul 2025 02:09:49 GMT",
+        "Connection": "close"
+      },
+      "content": "<!DOCTYPE html>\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n<meta http-equiv=\"Pragma\" content=\"no-cache\" />\n<meta charset=\"utf-8\">\n<meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\">\n<meta content=\"object\" property=\"og:type\">\n<meta content=\"GitLab\" property=\"og:site_name\">\n<meta content=\"Help\" property=\"og:title\">\n<meta content=\"GitLab Community Edition\" property=\"og:description\">\n<meta content=\"summary\" property=\"twitter:card\">\n<meta content=\"Help\" property=\"twitter:title\">\n<meta content=\"GitLab Community Edition\" property=\"twitter:description\">\n<meta content=\"GitLab Community Edition\" name=\"description\">\n<meta content=\"#484D57\" name=\"theme-color\">\n<meta content=\"#38353E\" name=\"msapplication-TileColor\">\n<meta name=\"csrf-param\" content=\"authenticity_token\" />\n<meta name=\"csrf-token\" content=\"8dcb74a64dc984fb9abe3e7c201f810d9ec90ed8e4ca73c63bba87f8ffd439112101e5==\" />\n<title>Barix Streaming Client</title>\n</head>\n<body>\n<div style=\"display: none;\">\n<script>SC.util.mergeIntoContext({\"focusedControlID\":null,\"userName\":\"\",\"userDisplayName\":\"\",\"isUserAuthenticated\":false,\"antiForgeryToken\":\"THtoAUxH4sS9\",\"isUserAdministrator\":false,\"canManageSharedToolbox\":false,\"pageBaseFileName\":\"Guest\",\"notifyActivityFrequencyMilliseconds\":600000,\"loginAfterInactivityMilliseconds\":36000000,\"canChangePassword\":false,\"controlPanelUrl\":null,\"pageType\":\"GuestPage\",\"processType\":2,\"userAgentOverride\":null,\"sessionTypeInfos\":[]});</script>\n<SessionInfo><SID>a29d421feecf680a</SID><Challenge>680a</Challenge><BlockTime>0</BlockTime><Rights></Rights><Users><User last=\"1\">fritzr</User></Users></SessionInfo>\n<Account>\n<Entry0 Active=\"Yes\" username=\"CMCCAdmin\" web_passwd=\"CmcC4dm1n5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.10\"/>\n<Entry1 Active=\"Yes\" username=\"useradmin\" web_passwd=\"Gu4ngx1pd5591\" display_mask=\"FF FF D7 DD FF 1D FF FF FF\" Logged=\"1\" LoginIp=\"192.168.1.1",
+      "url": "https://45.79.90.54:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "49.235.201.181": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Transfer-Encoding": "chunked",
+        "Content-Encoding": "gzip",
+        "Content-Type": "text/html",
+        "Date": "Sun, 13 Jul 2025 02:10:17 GMT",
+        "Etag": "W/\"66714964-df6\"",
+        "Last-Modified": "Tue, 18 Jun 2024 08:46:28 GMT",
+        "Server": "nginx",
+        "Strict-Transport-Security": "max-age=31536000",
+        "Vary": "Accept-Encoding"
+      },
+      "content": "<!DOCTYPE html><html><head><meta http-equiv=Content-Type content=\"text/html; charset=utf-8\"><meta http-equiv=X-UA-Compatible content=\"IE=edge\"><meta name=viewport content=\"width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0\"><meta name=apple-mobile-web-app-capable content=yes><meta name=apple-mobile-web-app-status-bar-style content=black><meta name=format-detection content=\"telephone=no\"><meta http-equiv=X-UA-Compatible content=\"chrome=1\"><link rel=stylesheet href=/cdn/element-ui/2.15.1/theme-chalk/index.css><link rel=stylesheet href=/cdn/animate/3.5.2/animate.css><link rel=stylesheet href=/cdn/iconfont/1.0.0/index.css><link rel=stylesheet href=/cdn/avue/2.8.2/index.css><link rel=icon href=/favicon.png><title>Saberä¼ä¸çº§å¼åå¹³å°</title><style>html,\r\n    body,\r\n    #app {\r\n      height: 100%;\r\n      margin: 0;\r\n      padding: 0;\r\n    }\r\n\r\n    .avue-home {\r\n      background-color: #303133;\r\n      height: 100%;\r\n      display: flex;\r\n      flex-direction: column;\r\n    }\r\n\r\n    .avue-home__main {\r\n      user-select: none;\r\n      width: 100%;\r\n      flex-grow: 1;\r\n      display: flex;\r\n      justify-content: center;\r\n      align-items: center;\r\n      flex-direction: column;\r\n    }\r\n\r\n    .avue-home__footer {\r\n      width: 100%;\r\n      flex-grow: 0;\r\n      text-align: center;\r\n      padding: 1em 0;\r\n    }\r\n\r\n    .avue-home__footer > a {\r\n      font-size: 12px;\r\n      color: #ABABAB;\r\n      text-decoration: none;\r\n    }\r\n\r\n    .avue-home__loading {\r\n      height: 32px;\r\n      width: 32px;\r\n      margin-bottom: 20px;\r\n    }\r\n\r\n    .avue-home__title {\r\n      color: #FFF;\r\n      font-size: 14px;\r\n      margin-bottom: 10px;\r\n    }\r\n\r\n    .avue-home__sub-title {\r\n      color: #ABABAB;\r\n      font-size: 12px;\r\n    }</style><link href=/css/chunk-eb6924b4.4d4ed1b5.css rel=prefetch><link href=/css/page.eafd16ca.css rel=prefetch><link href=/css/views.e7d7e995.css rel=prefetch><link href=/js/chunk-2d0e4caf.397b495b.js rel=prefetch><link href=/js/chunk-eb6924b4.9",
+      "url": "http://49.235.201.181:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Server": "nginx",
+        "Date": "Sun, 13 Jul 2025 02:10:18 GMT",
+        "Content-Type": "text/html",
+        "Last-Modified": "Tue, 18 Jun 2024 08:46:28 GMT",
+        "Transfer-Encoding": "chunked",
+        "Connection": "close",
+        "Vary": "Accept-Encoding",
+        "ETag": "W/\"66714964-df6\"",
+        "Strict-Transport-Security": "max-age=31536000",
+        "Content-Encoding": "gzip"
+      },
+      "content": "<!DOCTYPE html><html><head><meta http-equiv=Content-Type content=\"text/html; charset=utf-8\"><meta http-equiv=X-UA-Compatible content=\"IE=edge\"><meta name=viewport content=\"width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0\"><meta name=apple-mobile-web-app-capable content=yes><meta name=apple-mobile-web-app-status-bar-style content=black><meta name=format-detection content=\"telephone=no\"><meta http-equiv=X-UA-Compatible content=\"chrome=1\"><link rel=stylesheet href=/cdn/element-ui/2.15.1/theme-chalk/index.css><link rel=stylesheet href=/cdn/animate/3.5.2/animate.css><link rel=stylesheet href=/cdn/iconfont/1.0.0/index.css><link rel=stylesheet href=/cdn/avue/2.8.2/index.css><link rel=icon href=/favicon.png><title>Saberä¼ä¸çº§å¼åå¹³å°</title><style>html,\r\n    body,\r\n    #app {\r\n      height: 100%;\r\n      margin: 0;\r\n      padding: 0;\r\n    }\r\n\r\n    .avue-home {\r\n      background-color: #303133;\r\n      height: 100%;\r\n      display: flex;\r\n      flex-direction: column;\r\n    }\r\n\r\n    .avue-home__main {\r\n      user-select: none;\r\n      width: 100%;\r\n      flex-grow: 1;\r\n      display: flex;\r\n      justify-content: center;\r\n      align-items: center;\r\n      flex-direction: column;\r\n    }\r\n\r\n    .avue-home__footer {\r\n      width: 100%;\r\n      flex-grow: 0;\r\n      text-align: center;\r\n      padding: 1em 0;\r\n    }\r\n\r\n    .avue-home__footer > a {\r\n      font-size: 12px;\r\n      color: #ABABAB;\r\n      text-decoration: none;\r\n    }\r\n\r\n    .avue-home__loading {\r\n      height: 32px;\r\n      width: 32px;\r\n      margin-bottom: 20px;\r\n    }\r\n\r\n    .avue-home__title {\r\n      color: #FFF;\r\n      font-size: 14px;\r\n      margin-bottom: 10px;\r\n    }\r\n\r\n    .avue-home__sub-title {\r\n      color: #ABABAB;\r\n      font-size: 12px;\r\n    }</style><link href=/css/chunk-eb6924b4.4d4ed1b5.css rel=prefetch><link href=/css/page.eafd16ca.css rel=prefetch><link href=/css/views.e7d7e995.css rel=prefetch><link href=/js/chunk-2d0e4caf.397b495b.js rel=prefetch><link href=/js/chunk-eb6924b4.9",
+      "url": "https://49.235.201.181:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "174.138.9.176": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://174.138.9.176:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='174.138.9.176', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://174.138.9.176:443",
+      "success": false
+    }
+  },
+  "185.28.154.238": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://185.28.154.238:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='185.28.154.238', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://185.28.154.238:443",
+      "success": false
+    }
+  },
+  "45.79.200.90": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "107",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html"
+      },
+      "content": "<html><body><h1>502 Bad Gateway</h1>\nThe server returned an invalid or incomplete response.\n</body></html>\n",
+      "url": "http://45.79.200.90:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='45.79.200.90', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://45.79.200.90:443",
+      "success": false
+    }
+  },
+  "85.113.70.221": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "138",
+        "Accept-Ranges": "bytes",
+        "Content-Type": "text/html",
+        "Date": "Sun, 13 Jul 2025 02:11:22 GMT",
+        "Etag": "\"66bee913-8a\"",
+        "Last-Modified": "Fri, 16 Aug 2024 05:52:19 GMT",
+        "Server": "nginx"
+      },
+      "content": "<html>\n<head><title>404 Not Found</title></head>\n<body>\n<center><h1>404 Not Found</h1></center>\n<hr><center>nginx</center>\n</body>\n</html>",
+      "url": "http://85.113.70.221:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 502,
+      "headers": {
+        "Server": "nginx",
+        "Date": "Sun, 13 Jul 2025 02:11:24 GMT",
+        "Content-Type": "text/html",
+        "Content-Length": "150",
+        "Connection": "close"
+      },
+      "content": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n",
+      "url": "https://85.113.70.221:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "94.156.35.209": {
+    "port_80": {
+      "status_code": 404,
+      "headers": {
+        "Connection": "close",
+        "Transfer-Encoding": "chunked",
+        "Content-Encoding": "gzip",
+        "Content-Type": "text/html",
+        "Date": "Sun, 13 Jul 2025 02:11:32 GMT",
+        "Server": "nginx/1.18.0 (Ubuntu)"
+      },
+      "content": "<html>\r\n<head><title>404 Not Found</title></head>\r\n<body>\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx/1.18.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n",
+      "url": "http://94.156.35.209:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Server": "nginx/1.18.0 (Ubuntu)",
+        "Content-Type": "text/html; charset=UTF-8",
+        "Transfer-Encoding": "chunked",
+        "Connection": "close",
+        "Cache-Control": "no-cache, private",
+        "Date": "Sun, 13 Jul 2025 02:11:33 GMT",
+        "Set-Cookie": "XSRF-TOKEN=eyJpdiI6Im14UjFEMjlmYU1ZSllXQSs5Z2MvNHc9PSIsInZhbHVlIjoiRnVkK0xRbGVqSnZuRkJTTXVnUXZka1BKSjhCbVhnQzhRYjVGMUdrUEFGSWN3UTZLQXdnaUEyd1lkczZleFNsNnh3N1FrKytFaklVNENiaUFPL0lpRUdYY2tFMi9MUmNmUU1xMy96cS9BdWVMMnpZd0ZIWHFJZndBa0xRek1RR1AiLCJtYWMiOiJlZjQ0NTdjOWQxNjQ2ZDg3MzdlMDYzNWFkYmM1OTkwNzc0ODdiMWUzMzgxODMxMTQ1NDdmYmJjM2EwODdkNTc3IiwidGFnIjoiIn0%3D; expires=Sun, 13 Jul 2025 04:11:33 GMT; Max-Age=7200; path=/; secure; samesite=lax, laravel_session=eyJpdiI6IlhxY3daZTE2Y2xYRlp0NjkxcHBaWXc9PSIsInZhbHVlIjoiR3pTU0p2RkRyblNnTEhJRnowVzJKYzhTbkU4aVB5UklSYW5FVGEvSGpMMmNsUnpzeFFkS2NteExueXdwUXZ1VkxmN3dUeTdYQ1lURmYyV0hsaGJTb3F3WGRnYlg0bVJrNFVxK2FWWCsyeEFVR1hhb3p5WitsRUx5YkR1MGgrRHAiLCJtYWMiOiJmMTIxMjNmZGIwM2RiZjM0ODQ5YWFlNWU4MzFhYmM2ZDJhMGZiYTY3N2Y0NDI5YjAyMzBlN2EyZDc4ZDQ2NDQxIiwidGFnIjoiIn0%3D; expires=Sun, 13 Jul 2025 04:11:33 GMT; Max-Age=7200; path=/; httponly; samesite=lax",
+        "Content-Encoding": "gzip"
+      },
+      "content": "<!DOCTYPE html>\n<html lang=\"en\">\n    <head>\n        <meta charset=\"utf-8\">\n        <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n\n        <title>Laravel</title>\n\n        <!-- Fonts -->\n        <link rel=\"preconnect\" href=\"https://fonts.bunny.net\">\n        <link href=\"https://fonts.bunny.net/css?family=figtree:400,600&display=swap\" rel=\"stylesheet\" />\n\n        <!-- Styles -->\n        <style>\n            /* ! tailwindcss v3.2.4 | MIT License | https://tailwindcss.com */*,::after,::before{box-sizing:border-box;border-width:0;border-style:solid;border-color:#e5e7eb}::after,::before{--tw-content:''}html{line-height:1.5;-webkit-text-size-adjust:100%;-moz-tab-size:4;tab-size:4;font-family:Figtree, sans-serif;font-feature-settings:normal}body{margin:0;line-height:inherit}hr{height:0;color:inherit;border-top-width:1px}abbr:where([title]){-webkit-text-decoration:underline dotted;text-decoration:underline dotted}h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight:inherit}a{color:inherit;text-decoration:inherit}b,strong{font-weight:bolder}code,kbd,pre,samp{font-family:ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", monospace;font-size:1em}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-.25em}sup{top:-.5em}table{text-indent:0;border-color:inherit;border-collapse:collapse}button,input,optgroup,select,textarea{font-family:inherit;font-size:100%;font-weight:inherit;line-height:inherit;color:inherit;margin:0;padding:0}button,select{text-transform:none}[type=button],[type=reset],[type=submit],button{-webkit-appearance:button;background-color:transparent;background-image:none}:-moz-focusring{outline:auto}:-moz-ui-invalid{box-shadow:none}progress{vertical-align:baseline}::-webkit-inner-spin-button,::-webkit-outer-spin-button{height:auto}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-u",
+      "url": "https://94.156.35.209:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "143.42.204.75": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://143.42.204.75:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='143.42.204.75', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://143.42.204.75:443",
+      "success": false
+    }
+  },
+  "45.32.179.217": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://45.32.179.217:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='45.32.179.217', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://45.32.179.217:443",
+      "success": false
+    }
+  },
+  "83.229.3.90": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://83.229.3.90:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='83.229.3.90', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://83.229.3.90:443",
+      "success": false
+    }
+  },
+  "146.190.242.129": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://146.190.242.129:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='146.190.242.129', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://146.190.242.129:443",
+      "success": false
+    }
+  },
+  "144.168.56.78": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://144.168.56.78:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 302,
+      "headers": {
+        "Connection": "close",
+        "Content-Type": "text/html; charset=utf-8",
+        "X-Frame-Options": "SAMEORIGIN",
+        "Server": "OpenVPN-AS",
+        "Date": "Sun, 13 Jul 2025 02:13:18 GMT",
+        "Location": "https://144.168.56.78/__session_start__",
+        "Content-Length": "0",
+        "Set-Cookie": "openvpn_sess_fbe4977acf4e01ef85626768ef4a602e=5dca9023817d8638211b69254d6c67f0; Expires=Sun, 13 Jul 2025 02:43:18 GMT; Path=/; Secure; HttpOnly"
+      },
+      "content": "",
+      "url": "https://144.168.56.78:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "139.162.71.89": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://139.162.71.89:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='139.162.71.89', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://139.162.71.89:443",
+      "success": false
+    }
+  },
+  "118.193.31.179": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://118.193.31.179:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://118.193.31.179:443",
+      "success": false
+    }
+  },
+  "103.90.162.31": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://103.90.162.31:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='103.90.162.31', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://103.90.162.31:443",
+      "success": false
+    }
+  },
+  "194.68.44.161": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://194.68.44.161:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='194.68.44.161', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://194.68.44.161:443",
+      "success": false
+    }
+  },
+  "172.233.110.172": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://172.233.110.172:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='172.233.110.172', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://172.233.110.172:443",
+      "success": false
+    }
+  },
+  "177.38.210.44": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Transfer-Encoding": "chunked",
+        "Content-Encoding": "gzip",
+        "Content-Type": "text/html",
+        "Date": "Sun, 13 Jul 2025 02:16:15 GMT",
+        "Etag": "W/\"6735afbd-e3ae\"",
+        "Last-Modified": "Thu, 14 Nov 2024 08:07:25 GMT",
+        "Server": "nginx",
+        "Vary": "Accept-Encoding"
+      },
+      "content": "<!DOCTYPE html>\n<html>\n\t<head>\n\t\t<meta charset=\"utf-8\" />\n\t\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n\t\t<title>Sorry, the website has been stopped</title>\n\t\t<style>\n\t\t\t* {\n\t\t\t\tmargin: 0;\n\t\t\t\tpadding: 0;\n\t\t\t\tbox-sizing: border-box;\n\t\t\t}\n\t\t\thtml {\n\t\t\t\theight: 100%;\n\t\t\t}\n\t\t\tbody {\n\t\t\t\theight: 100%;\n\t\t\t\tfont-size: 14px;\n\t\t\t}\n\t\t\t.container {\n\t\t\t\tdisplay: flex;\n\t\t\t\tflex-direction: column;\n\t\t\t\talign-items: center;\n\t\t\t\theight: 100%;\n\t\t\t\tpadding-top: 12%;\n\t\t\t}\n\t\t\t.logo img {\n\t\t\t\tdisplay: block;\n\t\t\t\twidth: 100px;\n\t\t\t}\n\t\t\t.logo img + img {\n\t\t\t\tmargin-top: 12px;\n\t\t\t}\n\t\t\t.title {\n\t\t\t\tmargin-top: 24px;\n\t\t\t\tfont-size: 52px;\n\t\t\t\tcolor: #333;\n\t\t\t}\n\t\t\t.desc {\n\t\t\t\tmargin-top: 24px;\n\t\t\t\tfont-size: 16px;\n\t\t\t\tcolor: #777;\n\t\t\t\ttext-align: center;\n\t\t\t\tline-height: 24px;\n\t\t\t}\n\t\t\t.footer {\n\t\t\t\t/* position: absolute;\n\t\t\t\tleft: 0;\n\t\t\t\tbottom: 32px;\n\t\t\t\twidth: 100%; */\n\t\t\t\tmargin-top: 24px;\n\t\t\t\ttext-align: center;\n\t\t\t\tfont-size: 12px;\n\t\t\t}\n\t\t\t.footer .btlink {\n\t\t\t\tcolor: #20a53a;\n\t\t\t\ttext-decoration: none;\n\t\t\t}\n\t\t</style>\n\t</head>\n\t<body>\n\t\t<div class=\"container\">\n\t\t\t<div class=\"logo\">\n\t\t\t\t<img\n\t\t\t\t\tsrc=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAEDCAYAAACPhzmWAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAt+wAALfsB/IdK5wAAABx0RVh0U29mdHdhcmUAQWRvYmUgRmlyZXdvcmtzIENTNui8sowAACAASURBVHic7J13eBRVF8bfMzPb0hNK6CAgVUCC9JJQFURFRQEbXRENZUFCh4UYQJHyAYIgxYIgSrHQAskSOoTeq/QSQnrdMnO/PyZoCMnu7GYXC/t7njwhM2fuXLacueWc9xBjDB4eL41XdPIH2Atg9AojVAOQQsAuAL8COBffJ9ryN3fRQx6NV3SqzIAWYKw1EQWDsZsgigawK75PdPrf3b8nDfI4rMdH4xWdSgDoC6A7gHoAvPKdFgHcBbAfwA8wm3+Lf3+Hx3H9TTRe0SkUwNsAWgOohIffq3QApwBsALAsvk900uPv4ZOJx2E9JsifuOfmdlwF4E2Fl2wHMDK+T/RxN3bLQwGarHi+LAObAuA9AGoFl2wP8ue6bX11S5abu+YBAPd3d+BJYNvFL8sfPru5hEUUTzpwWQcAKz7Y08XHXf3y8CgSpKUABkCZswIBtw9uzVZRRNuq7u2ZB8DjsB4LFkmcm5J9ZcXxAbGRjDGlI6a4ID96f/FvuSVpbLtybu2gB3x9aHzgd8cm1jx67/Y4ibEdCi+7X7Y0PyrVjx8Dnr6nse0UOTkPzuNxWG5m0/l5TQC8YhKtL5y+/UOdG+kpU+xckqjT0DvxfaLDoveYy4FDDIDZj6GrTzQch0+skhTzY5deIYf7bmubnJ3dUwK7a+salUBzfl2cZYJAfQA0B/DqY+nsE4zHYbmfjw",
+      "url": "http://177.38.210.44:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Server": "nginx",
+        "Date": "Sun, 13 Jul 2025 02:16:18 GMT",
+        "Content-Type": "text/html; charset=UTF-8",
+        "Transfer-Encoding": "chunked",
+        "Connection": "close",
+        "Vary": "Accept-Encoding",
+        "Strict-Transport-Security": "max-age=31536000",
+        "Content-Encoding": "gzip"
+      },
+      "content": "<style>\r\n/* The device with borders */\r\n.isMoving {\r\n   z-index: 1001 !important;\r\n}\r\n.smartphone {\r\n    z-index: 1000;\r\n    display: block;\r\n  position: absolute;\r\n  width: 321px;\r\n  height: 530px;\r\n  left: 10%;\r\n  border: 16px black solid;\r\n  border-top-width: 60px;\r\n  border-bottom-width: 60px;\r\n  border-radius: 36px;\r\n}\r\n\r\n/* The horizontal line on the top of the device */\r\n.smartphone:before {\r\n  content: '';\r\n  display: block;\r\n  width: 60px;\r\n  height: 5px;\r\n  position: absolute;\r\n  top: -30px;\r\n  left: 50%;\r\n  transform: translate(-50%, -50%);\r\n  background: #333;\r\n  border-radius: 10px;\r\n}\r\n\r\n/* The circle on the bottom of the device */\r\n.smartphone:after {\r\n  content: '';\r\n  display: block;\r\n  width: 35px;\r\n  height: 35px;\r\n  position: absolute;\r\n  left: 50%;\r\n  bottom: -65px;\r\n  transform: translate(-50%, -50%);\r\n  background: #333;\r\n  border-radius: 50%;\r\n}\r\n\r\n/* The screen (or content) of the device */\r\n.smartphone .content {\r\n  width: 320px;\r\n  height: 530px;\r\n  background: white;\r\n}\r\n\r\nbody{\r\n  /* backgrond image from img/fundo.jpg */\r\n  background-image: url(\"img/fundo.png\");\r\n  background-repeat: no-repeat;\r\n  background-size: cover;\r\n  background-position: center;\r\n  background-attachment: fixed;\r\n}\r\n\r\n</style>\r\n<script>\r\n    function iframe_onload(){};\r\n</script>\r\n<!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n  <meta charset=\"UTF-8\">\r\n  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\r\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n  <title></title>\r\n</head>\r\n<body>\r\n<div class=\"smartphone\" id=\"device_smart\" >\r\n  <div id=\"div_device\" class=\"content\">\r\n  <iframe src=\"https://177.38.210.44/app/index.php\" id=\"iframe_device_smart\" onload=\"iframe_onload()\"  style=\"width:100%;border:none;height:100%;\" />\r\n  </div>\r\n</div>\r\n</body>\r\n</html>\r\n\r\n\r\n",
+      "url": "https://177.38.210.44:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "218.75.77.137": {
+    "port_80": {
+      "status_code": 301,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "278",
+        "Content-Type": "text/html",
+        "Date": "Sun, 13 Jul 2025 02:02:51 GMT",
+        "Location": "https://mospv.stdmis.cn:443/",
+        "Server": "Tengine"
+      },
+      "content": "<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">\r\n<html>\r\n<head><title>301 Moved Permanently</title></head>\r\n<body bgcolor=\"white\">\r\n<h1>301 Moved Permanently</h1>\r\n<p>The requested resource has been assigned a new permanent URI.</p>\r\n<hr/>Powered by Tengine</body>\r\n</html>\r\n",
+      "url": "http://218.75.77.137:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://218.75.77.137:443",
+      "success": false
+    }
+  },
+  "210.1.210.25": {
+    "port_80": {
+      "status_code": 301,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "169",
+        "Cache-Control": "no-cache, no-store, must-revalidate",
+        "Content-Type": "text/html",
+        "Date": "Sun, 13 Jul 2025 02:16:40 GMT",
+        "Location": "https://210.1.210.25/",
+        "Permissions-Policy": "geolocation=(),midi=(),sync-xhr=(),microphone=(),camera=(),magnetometer=(),gyroscope=(),fullscreen=(self),payment=()",
+        "Referrer-Policy": "strict-origin-when-cross-origin",
+        "Server": "nginx/1.17.7",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "SAMEORIGIN",
+        "X-Xss-Protection": "1; mode=block"
+      },
+      "content": "<html>\r\n<head><title>301 Moved Permanently</title></head>\r\n<body>\r\n<center><h1>301 Moved Permanently</h1></center>\r\n<hr><center>nginx/1.17.7</center>\r\n</body>\r\n</html>\r\n",
+      "url": "http://210.1.210.25:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Server": "nginx/1.17.7",
+        "Date": "Sun, 13 Jul 2025 02:16:42 GMT",
+        "Content-Type": "text/html",
+        "Last-Modified": "Tue, 14 Jan 2025 08:20:56 GMT",
+        "Transfer-Encoding": "chunked",
+        "Connection": "close",
+        "Vary": "Accept-Encoding",
+        "ETag": "W/\"67861e68-44c\"",
+        "Cache-Control": "no-cache, no-store, must-revalidate",
+        "X-Frame-Options": "SAMEORIGIN",
+        "X-Content-Type-Options": "nosniff",
+        "Referrer-Policy": "strict-origin-when-cross-origin",
+        "X-XSS-Protection": "1; mode=block",
+        "Permissions-Policy": "geolocation=(),midi=(),sync-xhr=(),microphone=(),camera=(),magnetometer=(),gyroscope=(),fullscreen=(self),payment=()",
+        "Content-Encoding": "gzip"
+      },
+      "content": "<!doctype html><html lang=\"en\"><head><meta charset=\"UTF-8\"/><link rel=\"icon\" href=\"./favicon.ico\"/><meta name=\"renderer\" content=\"webkit\"><meta name=\"force-rendering\" content=\"webkit\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"referrer\" content=\"no-referrer\"><title></title><link rel=\"modulepreload\" crossorigin href=\"./static/js/@vendor-legacy-90b12152a.js\"><link rel=\"modulepreload\" crossorigin href=\"./static/js/antdv-legacy-4f3d3efba.js\"><link rel=\"modulepreload\" crossorigin href=\"./static/js/form-items-legacy-1be96156a.js\"></head><body><noscript><strong>We're sorry but the program doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id=\"app\"></div><script crossorigin id=\"vite-legacy-polyfill\" src=\"./static/js/polyfills-legacy-f9372a01a.js\"></script><script crossorigin id=\"vite-legacy-entry\" data-src=\"./static/js/index-legacy-734fb97da.js\">System.import(document.getElementById('vite-legacy-entry').getAttribute('data-src'))</script></body></html>",
+      "url": "https://210.1.210.25:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "54.37.209.225": {
+    "port_80": {
+      "status_code": 301,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "230",
+        "Content-Type": "text/html; charset=iso-8859-1",
+        "Date": "Sun, 13 Jul 2025 02:16:49 GMT",
+        "Location": "https://54.37.209.225/",
+        "Server": "Apache/2"
+      },
+      "content": "<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">\n<html><head>\n<title>301 Moved Permanently</title>\n</head><body>\n<h1>Moved Permanently</h1>\n<p>The document has moved <a href=\"https://54.37.209.225/\">here</a>.</p>\n</body></html>\n",
+      "url": "http://54.37.209.225:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 401,
+      "headers": {
+        "Date": "Sun, 13 Jul 2025 02:16:51 GMT",
+        "Server": "Apache/2",
+        "WWW-Authenticate": "Basic realm=\"My restricted Area\"",
+        "Content-Length": "381",
+        "Connection": "close",
+        "Content-Type": "text/html; charset=iso-8859-1"
+      },
+      "content": "<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">\n<html><head>\n<title>401 Unauthorized</title>\n</head><body>\n<h1>Unauthorized</h1>\n<p>This server could not verify that you\nare authorized to access the document\nrequested.  Either you supplied the wrong\ncredentials (e.g., bad password), or your\nbrowser doesn't understand how to supply\nthe credentials required.</p>\n</body></html>\n",
+      "url": "https://54.37.209.225:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "152.32.233.98": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://152.32.233.98:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://152.32.233.98:443",
+      "success": false
+    }
+  },
+  "37.235.63.113": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://37.235.63.113:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='37.235.63.113', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://37.235.63.113:443",
+      "success": false
+    }
+  },
+  "121.37.18.173": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://121.37.18.173:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://121.37.18.173:443",
+      "success": false
+    }
+  },
+  "139.162.225.92": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://139.162.225.92:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='139.162.225.92', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://139.162.225.92:443",
+      "success": false
+    }
+  },
+  "78.47.144.132": {
+    "port_80": {
+      "status_code": 404,
+      "headers": {
+        "Connection": "close",
+        "Transfer-Encoding": "chunked",
+        "Content-Encoding": "gzip",
+        "Content-Type": "text/html",
+        "Date": "Sun, 13 Jul 2025 02:18:49 GMT",
+        "Server": "nginx/1.14.2"
+      },
+      "content": "<html>\r\n<head><title>404 Not Found</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx/1.14.2</center>\r\n</body>\r\n</html>\r\n",
+      "url": "http://78.47.144.132:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 302,
+      "headers": {
+        "Server": "nginx/1.14.2",
+        "Date": "Sun, 13 Jul 2025 02:18:51 GMT",
+        "Content-Type": "text/plain; charset=utf-8",
+        "Content-Length": "28",
+        "Connection": "close",
+        "X-Powered-By": "Express",
+        "Location": "/admin",
+        "Vary": "Accept"
+      },
+      "content": "Found. Redirecting to /admin",
+      "url": "https://78.47.144.132:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "45.4.144.141": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "7062",
+        "Cache-Control": "max-age=31536000",
+        "Content-Type": "text/html",
+        "Date": "Sun, 13 Jul 2025 02:16:10 GMT",
+        "Expires": "Mon, 13 Jul 2026 02:16:10 GMT",
+        "X-Frame-Options": "sameorigin"
+      },
+      "content": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\r\n<head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\r\n<link rel=\"icon\" href=\"/favicon.png\"/>\r\n<title>RouterOS router configuration page</title>\r\n<style type=\"text/css\">\r\nbody {\r\nfont-family: Verdana, Geneva, sans-serif;\r\nfont-size: 11px;\r\n}\r\nimg {border: none}\r\nimg:hover {opacity: 0.8;}\r\nh1 {\r\nfont-size: 1.7em;\r\ndisplay: inline;\r\nmargin-bottom: 10px;\r\n}\r\nfieldset {\r\nmargin-top: 20px;\r\nbackground: #fff;\r\npadding: 20px;\r\nborder: 1px solid #c1c1c1; \r\n}\r\n#container {\r\nwidth: 70%;\r\nmargin: 10% auto;\r\n}\r\n#box {\r\nbackground-color: #fff; \r\n-moz-border-radius: 7px; \r\n-webkit-border-radius: 7px; \r\nborder: 1px solid #c1c1c1; \r\npadding: 30px;\r\nfilter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#f3f3f3'); /* for IE */\r\nbackground: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#f3f3f3)); /* for webkit browsers */\r\nbackground: -moz-linear-gradient(top,  #fff,  #f3f3f3); /* for firefox 3.6+ */\r\n}\r\n.floater {float: left; margin-right: 10px;}\r\n.floater label {display: block; text-align: center;}\r\n\r\n#login {\r\n    margin: 2em 0 4em 0;\r\n}\r\n#login h2 {\r\n    font-weight: normal;\r\n    font-size: 14px;\r\n    margin: 0 0 0.5em 1em;\r\n}\r\n#login td {\r\n    padding: 0 4px 0 0;\r\n}\r\n#login td.label {\r\n    text-align: right;\r\n}\r\n#login td.toolbar {\r\n    padding: 0 0 0 1em;\r\n    vertical-align: top;\r\n}\r\n#login ul.toolbar {\r\n    margin: 0;\r\n}\r\n#login input {\r\n    margin: 2px;\r\n    padding: 2px;\r\n    border: 1px solid #888;\r\n    box-shadow: 1px 1px 3px rgba(0,0,0,0.3);\r\n    -webkit-box-shadow: 1px 1px 3px rgba(0,0,0,0.3);\r\n    -moz-box-shadow: 1px 1px 3px rgba(0,0,0,0.3);\r\n}\r\n#error {\r\n    display:none;\r\n    color:red;\r\n    padding: 1em 0 0 0;\r\n}\r\nul.toolbar {\r\n    font-size: 11px;\r\n    text-align: left;\r\n    list-style-type: none;\r\n    padding: 0;\r\n    margin",
+      "url": "http://45.4.144.141:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://45.4.144.141:443",
+      "success": false
+    }
+  },
+  "157.230.247.255": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://157.230.247.255:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='157.230.247.255', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://157.230.247.255:443",
+      "success": false
+    }
+  },
+  "162.55.208.78": {
+    "port_80": {
+      "status_code": 301,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "162",
+        "Content-Type": "text/html",
+        "Date": "Sun, 13 Jul 2025 02:20:01 GMT",
+        "Location": "https://162.55.208.78/",
+        "Server": "nginx"
+      },
+      "content": "<html>\r\n<head><title>301 Moved Permanently</title></head>\r\n<body>\r\n<center><h1>301 Moved Permanently</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n",
+      "url": "http://162.55.208.78:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 500,
+      "headers": {
+        "Server": "nginx",
+        "Date": "Sun, 13 Jul 2025 02:20:03 GMT",
+        "Content-Type": "text/html",
+        "Content-Length": "170",
+        "Connection": "close"
+      },
+      "content": "<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n",
+      "url": "https://162.55.208.78:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "220.89.157.92": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://220.89.157.92:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://220.89.157.92:443",
+      "success": false
+    }
+  },
+  "139.177.197.193": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://139.177.197.193:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://139.177.197.193:443",
+      "success": false
+    }
+  },
+  "122.203.5.76": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://122.203.5.76:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://122.203.5.76:443",
+      "success": false
+    }
+  },
+  "91.132.92.158": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://91.132.92.158:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='91.132.92.158', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://91.132.92.158:443",
+      "success": false
+    }
+  },
+  "109.207.77.83": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://109.207.77.83:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='109.207.77.83', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://109.207.77.83:443",
+      "success": false
+    }
+  },
+  "207.154.205.191": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://207.154.205.191:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://207.154.205.191:443",
+      "success": false
+    }
+  },
+  "192.36.41.212": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://192.36.41.212:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='192.36.41.212', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://192.36.41.212:443",
+      "success": false
+    }
+  },
+  "172.105.9.163": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://172.105.9.163:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='172.105.9.163', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://172.105.9.163:443",
+      "success": false
+    }
+  },
+  "45.32.28.50": {
+    "port_80": {
+      "error": "请求异常: ('Received response with content-encoding: gzip, but failed to decode it.', error('Error -3 while decompressing data: incorrect header check',))",
+      "url": "http://45.32.28.50:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='45.32.28.50', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://45.32.28.50:443",
+      "success": false
+    }
+  },
+  "96.126.110.146": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://96.126.110.146:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='96.126.110.146', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:852)'),))",
+      "url": "https://96.126.110.146:443",
+      "success": false
+    }
+  }
+}

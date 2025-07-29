@@ -1,0 +1,1261 @@
+{
+  "132.239.247.187": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "697",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html",
+        "Last-Modified": "Sat, 12 Jul 2025 22:04:42 GMT"
+      },
+      "content": "    \n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\">\n<HTML>\n<HEAD>\n  <meta http-equiv=\"Expires\" content=\"Tue, 12 May 1962 1:00:00 GMT\">\n  <meta http-equiv=\"Pragma\" content=\"no-cache\">\n  <meta http-equiv=\"Cache-Control\" content=\"no-cache\">\n  <meta http-equiv=\"Content-type\" CONTENT=\"text/html; charset=iso-8859-1\">\n  <meta http-equiv=\"Content-language\" CONTENT=\"en\">\n\n  <META HTTP-EQUIV=\"Refresh\" CONTENT=\"0; URL=/view/viewer_index.shtml?id=22759\">\n  <title>Index page</title>\n  <noscript>Your browser has JavaScript turned off.<br>For the user interface to work, you must enable JavaScript in your browser and reload/refresh this page.\n  </noscript>\n</HEAD>\n<BODY>\n</BODY>\n</HTML>\n",
+      "url": "http://132.239.247.187:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://132.239.247.187:443",
+      "success": false
+    }
+  },
+  "137.110.116.57": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://137.110.116.57:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://137.110.116.57:443",
+      "success": false
+    }
+  },
+  "132.247.163.72": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "699",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html",
+        "Last-Modified": "Sun, 13 Jul 2025 00:20:42 GMT"
+      },
+      "content": "      \n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\">\n<HTML>\n<HEAD>\n  <meta http-equiv=\"Expires\" content=\"Tue, 12 May 1962 1:00:00 GMT\">\n  <meta http-equiv=\"Pragma\" content=\"no-cache\">\n  <meta http-equiv=\"Cache-Control\" content=\"no-cache\">\n  <meta http-equiv=\"Content-type\" CONTENT=\"text/html; charset=iso-8859-1\">\n  <meta http-equiv=\"Content-language\" CONTENT=\"en\">\n\n  <META HTTP-EQUIV=\"Refresh\" CONTENT=\"0; URL=/view/viewer_index.shtml?id=15513\">\n  <title>Index page</title>\n  <noscript>Your browser has JavaScript turned off.<br>For the user interface to work, you must enable JavaScript in your browser and reload/refresh this page.\n  </noscript>\n</HEAD>\n<BODY>\n</BODY>\n</HTML>\n",
+      "url": "http://132.247.163.72:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Content-Length": "699",
+        "Last-Modified": "Sun, 13 Jul 2025 00:20:45 GMT",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html"
+      },
+      "content": "      \n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\">\n<HTML>\n<HEAD>\n  <meta http-equiv=\"Expires\" content=\"Tue, 12 May 1962 1:00:00 GMT\">\n  <meta http-equiv=\"Pragma\" content=\"no-cache\">\n  <meta http-equiv=\"Cache-Control\" content=\"no-cache\">\n  <meta http-equiv=\"Content-type\" CONTENT=\"text/html; charset=iso-8859-1\">\n  <meta http-equiv=\"Content-language\" CONTENT=\"en\">\n\n  <META HTTP-EQUIV=\"Refresh\" CONTENT=\"0; URL=/view/viewer_index.shtml?id=15514\">\n  <title>Index page</title>\n  <noscript>Your browser has JavaScript turned off.<br>For the user interface to work, you must enable JavaScript in your browser and reload/refresh this page.\n  </noscript>\n</HEAD>\n<BODY>\n</BODY>\n</HTML>\n",
+      "url": "https://132.247.163.72:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "129.171.160.157": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "1134",
+        "Cache-Control": "no-cache no-store",
+        "Content-Type": "text/html"
+      },
+      "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\">\n<html>\n<head>\n  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n  <meta http-equiv=\"Expires\" content=\"Tue, 12 May 1962 1:00:00 GMT\" />\n  <meta http-equiv=\"Pragma\" content=\"no-cache\" />\n  <meta http-equiv=\"Cache-Control\" content=\"no-cache\" />\n  <meta http-equiv=\"Content-type\" content=\"text/html; charset=iso-8859-1\" />\n  <meta http-equiv=\"Content-language\" content=\"en\" />\n\n  <script>\n    var refreshUrl = \"/view/view.shtml?id=3681\";\n    var questMark = refreshUrl.indexOf('?') < 0 ? \"?\" : \"&\";\n      var imagepath = \"/mjpg/video.mjpg?camera=1\";\n\n      var completePath = \"imagepath=\" + encodeURIComponent(imagepath) + \"&size=1\";\n\n    if (refreshUrl.indexOf(\"view.shtml\") >= 0) {\n      window.location.href = refreshUrl + questMark + completePath;\n    }\n    else {\n      window.location.href = refreshUrl;\n    }\n  </script>\n  <title>Index page</title>\n  <noscript>\n    Your browser has JavaScript turned off.<br>For the user interface to work, you must enable JavaScript in your browser and reload/refresh this page.\n  </noscript>\n</head>\n<body>\n</body>\n</html>\n",
+      "url": "http://129.171.160.157:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://129.171.160.157:443",
+      "success": false
+    }
+  },
+  "194.28.70.6": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "697",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html",
+        "Last-Modified": "Sun, 13 Jul 2025 04:35:24 GMT"
+      },
+      "content": "    \n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\">\n<HTML>\n<HEAD>\n  <meta http-equiv=\"Expires\" content=\"Tue, 12 May 1962 1:00:00 GMT\">\n  <meta http-equiv=\"Pragma\" content=\"no-cache\">\n  <meta http-equiv=\"Cache-Control\" content=\"no-cache\">\n  <meta http-equiv=\"Content-type\" CONTENT=\"text/html; charset=iso-8859-1\">\n  <meta http-equiv=\"Content-language\" CONTENT=\"en\">\n\n  <META HTTP-EQUIV=\"Refresh\" CONTENT=\"0; URL=/view/viewer_index.shtml?id=13090\">\n  <title>Index page</title>\n  <noscript>Your browser has JavaScript turned off.<br>For the user interface to work, you must enable JavaScript in your browser and reload/refresh this page.\n  </noscript>\n</HEAD>\n<BODY>\n</BODY>\n</HTML>\n",
+      "url": "http://194.28.70.6:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://194.28.70.6:443",
+      "success": false
+    }
+  },
+  "166.159.125.230": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://166.159.125.230:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://166.159.125.230:443",
+      "success": false
+    }
+  },
+  "187.155.162.27": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://187.155.162.27:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://187.155.162.27:443",
+      "success": false
+    }
+  },
+  "66.76.52.186": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "1126",
+        "Cache-Control": "no-cache no-store",
+        "Content-Type": "text/html"
+      },
+      "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\">\n<html>\n<head>\n  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n  <meta http-equiv=\"Expires\" content=\"Tue, 12 May 1962 1:00:00 GMT\" />\n  <meta http-equiv=\"Pragma\" content=\"no-cache\" />\n  <meta http-equiv=\"Cache-Control\" content=\"no-cache\" />\n  <meta http-equiv=\"Content-type\" content=\"text/html; charset=iso-8859-1\" />\n  <meta http-equiv=\"Content-language\" content=\"en\" />\n\n  <script>\n    var refreshUrl = \"/view/view.shtml?id=10151\";\n    var questMark = refreshUrl.indexOf('?') < 0 ? \"?\" : \"&\";\n      var imagepath = \"/mjpg/video.mjpg\";\n\n      var completePath = \"imagepath=\" + encodeURIComponent(imagepath) + \"&size=1\";\n\n    if (refreshUrl.indexOf(\"view.shtml\") >= 0) {\n      window.location.href = refreshUrl + questMark + completePath;\n    }\n    else {\n      window.location.href = refreshUrl;\n    }\n  </script>\n  <title>Index page</title>\n  <noscript>\n    Your browser has JavaScript turned off.<br>For the user interface to work, you must enable JavaScript in your browser and reload/refresh this page.\n  </noscript>\n</head>\n<body>\n</body>\n</html>\n",
+      "url": "http://66.76.52.186:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Content-Length": "1126",
+        "Cache-Control": "no-cache no-store",
+        "Content-Type": "text/html"
+      },
+      "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\">\n<html>\n<head>\n  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n  <meta http-equiv=\"Expires\" content=\"Tue, 12 May 1962 1:00:00 GMT\" />\n  <meta http-equiv=\"Pragma\" content=\"no-cache\" />\n  <meta http-equiv=\"Cache-Control\" content=\"no-cache\" />\n  <meta http-equiv=\"Content-type\" content=\"text/html; charset=iso-8859-1\" />\n  <meta http-equiv=\"Content-language\" content=\"en\" />\n\n  <script>\n    var refreshUrl = \"/view/view.shtml?id=10152\";\n    var questMark = refreshUrl.indexOf('?') < 0 ? \"?\" : \"&\";\n      var imagepath = \"/mjpg/video.mjpg\";\n\n      var completePath = \"imagepath=\" + encodeURIComponent(imagepath) + \"&size=1\";\n\n    if (refreshUrl.indexOf(\"view.shtml\") >= 0) {\n      window.location.href = refreshUrl + questMark + completePath;\n    }\n    else {\n      window.location.href = refreshUrl;\n    }\n  </script>\n  <title>Index page</title>\n  <noscript>\n    Your browser has JavaScript turned off.<br>For the user interface to work, you must enable JavaScript in your browser and reload/refresh this page.\n  </noscript>\n</head>\n<body>\n</body>\n</html>\n",
+      "url": "https://66.76.52.186:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "87.251.48.12": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "697",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html",
+        "Last-Modified": "Wed, 16 Aug 2023 10:22:28 GMT"
+      },
+      "content": "    \n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\">\n<HTML>\n<HEAD>\n  <meta http-equiv=\"Expires\" content=\"Tue, 12 May 1962 1:00:00 GMT\">\n  <meta http-equiv=\"Pragma\" content=\"no-cache\">\n  <meta http-equiv=\"Cache-Control\" content=\"no-cache\">\n  <meta http-equiv=\"Content-type\" CONTENT=\"text/html; charset=iso-8859-1\">\n  <meta http-equiv=\"Content-language\" CONTENT=\"en\">\n\n  <META HTTP-EQUIV=\"Refresh\" CONTENT=\"0; URL=/view/viewer_index.shtml?id=10124\">\n  <title>Index page</title>\n  <noscript>Your browser has JavaScript turned off.<br>For the user interface to work, you must enable JavaScript in your browser and reload/refresh this page.\n  </noscript>\n</HEAD>\n<BODY>\n</BODY>\n</HTML>\n",
+      "url": "http://87.251.48.12:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://87.251.48.12:443",
+      "success": false
+    }
+  },
+  "71.167.119.8": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://71.167.119.8:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://71.167.119.8:443",
+      "success": false
+    }
+  },
+  "91.215.81.17": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "1133",
+        "Cache-Control": "no-cache no-store",
+        "Content-Type": "text/html",
+        "X-Frame-Options": "SAMEORIGIN"
+      },
+      "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\">\n<html>\n<head>\n  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n  <meta http-equiv=\"Expires\" content=\"Tue, 12 May 1962 1:00:00 GMT\" />\n  <meta http-equiv=\"Pragma\" content=\"no-cache\" />\n  <meta http-equiv=\"Cache-Control\" content=\"no-cache\" />\n  <meta http-equiv=\"Content-type\" content=\"text/html; charset=iso-8859-1\" />\n  <meta http-equiv=\"Content-language\" content=\"en\" />\n\n  <script>\n    var refreshUrl = \"/view/view.shtml?id=181\";\n    var questMark = refreshUrl.indexOf('?') < 0 ? \"?\" : \"&\";\n      var imagepath = \"/mjpg/video.mjpg?camera=1\";\n\n      var completePath = \"imagepath=\" + encodeURIComponent(imagepath) + \"&size=1\";\n\n    if (refreshUrl.indexOf(\"view.shtml\") >= 0) {\n      window.location.href = refreshUrl + questMark + completePath;\n    }\n    else {\n      window.location.href = refreshUrl;\n    }\n  </script>\n  <title>Index page</title>\n  <noscript>\n    Your browser has JavaScript turned off.<br>For the user interface to work, you must enable JavaScript in your browser and reload/refresh this page.\n  </noscript>\n</head>\n<body>\n</body>\n</html>\n",
+      "url": "http://91.215.81.17:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "X-Frame-Options": "SAMEORIGIN",
+        "Content-Length": "1133",
+        "Cache-Control": "no-cache no-store",
+        "Content-Type": "text/html"
+      },
+      "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\">\n<html>\n<head>\n  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n  <meta http-equiv=\"Expires\" content=\"Tue, 12 May 1962 1:00:00 GMT\" />\n  <meta http-equiv=\"Pragma\" content=\"no-cache\" />\n  <meta http-equiv=\"Cache-Control\" content=\"no-cache\" />\n  <meta http-equiv=\"Content-type\" content=\"text/html; charset=iso-8859-1\" />\n  <meta http-equiv=\"Content-language\" content=\"en\" />\n\n  <script>\n    var refreshUrl = \"/view/view.shtml?id=182\";\n    var questMark = refreshUrl.indexOf('?') < 0 ? \"?\" : \"&\";\n      var imagepath = \"/mjpg/video.mjpg?camera=1\";\n\n      var completePath = \"imagepath=\" + encodeURIComponent(imagepath) + \"&size=1\";\n\n    if (refreshUrl.indexOf(\"view.shtml\") >= 0) {\n      window.location.href = refreshUrl + questMark + completePath;\n    }\n    else {\n      window.location.href = refreshUrl;\n    }\n  </script>\n  <title>Index page</title>\n  <noscript>\n    Your browser has JavaScript turned off.<br>For the user interface to work, you must enable JavaScript in your browser and reload/refresh this page.\n  </noscript>\n</head>\n<body>\n</body>\n</html>\n",
+      "url": "https://91.215.81.17:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "176.10.45.82": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://176.10.45.82:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://176.10.45.82:443",
+      "success": false
+    }
+  },
+  "37.203.163.105": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "764",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html",
+        "Last-Modified": "Sun, 13 Jul 2025 04:36:17 GMT"
+      },
+      "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\">\n<html>\n<head>\n  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=10\" />\n  <meta http-equiv=\"Expires\" content=\"Tue, 12 May 1962 1:00:00 GMT\" />\n  <meta http-equiv=\"Pragma\" content=\"no-cache\" />\n  <meta http-equiv=\"Cache-Control\" content=\"no-cache\" />\n  <meta http-equiv=\"Content-type\" content=\"text/html; charset=iso-8859-1\" />\n  <meta http-equiv=\"Content-language\" content=\"en\" />\n\n  <meta http-equiv=\"refresh\" content=\"0; url=/operator/captureFrequency.shtml\" />\n  <title>Index page</title>\n  <noscript>\n    Your browser has JavaScript turned off.<br>For the user interface to work, you must enable JavaScript in your browser and reload/refresh this page.\n  </noscript>\n</head>\n<body>\n</body>\n</html>\n",
+      "url": "http://37.203.163.105:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://37.203.163.105:443",
+      "success": false
+    }
+  },
+  "128.59.233.6": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "714",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html",
+        "Last-Modified": "Sun, 13 Jul 2025 00:36:21 GMT"
+      },
+      "content": "\r\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\">\r\n<HTML>\r\n<HEAD>\r\n  <meta http-equiv=\"Expires\" content=\"Tue, 12 May 1962 1:00:00 GMT\">\r\n  <meta http-equiv=\"Pragma\" content=\"no-cache\">\r\n  <meta http-equiv=\"Cache-Control\" content=\"no-cache\">\r\n  <meta http-equiv=\"Content-type\" CONTENT=\"text/html; charset=iso-8859-1\">\r\n  <meta http-equiv=\"Content-language\" CONTENT=\"en\">\r\r\r\n    <META HTTP-EQUIV=\"Refresh\" CONTENT=\"0; URL=/view/index.shtml\">\r\r\r\n  <title>Index page</title>\r\n  <noscript>\rYour browser has JavaScript turned off.<br>For the user interface to work effectively, you must enable JavaScript in your browser and reload/refresh this page.\r\n  </noscript>\r\n</HEAD>\r\n<BODY>\r\n</BODY>\r\n</HTML>\r\n\r\n",
+      "url": "http://128.59.233.6:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://128.59.233.6:443",
+      "success": false
+    }
+  },
+  "63.205.201.202": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "765",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html",
+        "Last-Modified": "Fri, 11 Jul 2025 18:38:02 GMT"
+      },
+      "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\">\n<html>\n<head>\n  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=10\" />\n  <meta http-equiv=\"Expires\" content=\"Tue, 12 May 1962 1:00:00 GMT\" />\n  <meta http-equiv=\"Pragma\" content=\"no-cache\" />\n  <meta http-equiv=\"Cache-Control\" content=\"no-cache\" />\n  <meta http-equiv=\"Content-type\" content=\"text/html; charset=iso-8859-1\" />\n  <meta http-equiv=\"Content-language\" content=\"en\" />\n\n  <meta http-equiv=\"refresh\" content=\"0; url=/view/viewer_index.shtml?id=24895\" />\n  <title>Index page</title>\n  <noscript>\n    Your browser has JavaScript turned off.<br>For the user interface to work, you must enable JavaScript in your browser and reload/refresh this page.\n  </noscript>\n</head>\n<body>\n</body>\n</html>\n",
+      "url": "http://63.205.201.202:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://63.205.201.202:443",
+      "success": false
+    }
+  },
+  "212.186.184.126": {
+    "port_80": {
+      "status_code": 302,
+      "headers": {
+        "Connection": "close",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html",
+        "Date": "Sun Jul 13 06:36:28 2025",
+        "Location": "http://212.186.184.126/default.asp",
+        "Pragma": "no-cache",
+        "Server": "Webs"
+      },
+      "content": "<html><head></head><body>\r\n\t\tThis document has moved to a new <a href=\"http://212.186.184.126/default.asp\">location</a>.\r\n\t\tPlease update your documents to reflect the new location.\r\n\t\t</body></html>\r\n\r\n",
+      "url": "http://212.186.184.126:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://212.186.184.126:443",
+      "success": false
+    }
+  },
+  "80.11.194.192": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://80.11.194.192:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://80.11.194.192:443",
+      "success": false
+    }
+  },
+  "77.62.141.166": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://77.62.141.166:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://77.62.141.166:443",
+      "success": false
+    }
+  },
+  "129.79.228.231": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "698",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html",
+        "Last-Modified": "Sun, 13 Jul 2025 04:36:45 GMT"
+      },
+      "content": "    \n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\">\n<HTML>\n<HEAD>\n  <meta http-equiv=\"Expires\" content=\"Tue, 12 May 1962 1:00:00 GMT\">\n  <meta http-equiv=\"Pragma\" content=\"no-cache\">\n  <meta http-equiv=\"Cache-Control\" content=\"no-cache\">\n  <meta http-equiv=\"Content-type\" CONTENT=\"text/html; charset=iso-8859-1\">\n  <meta http-equiv=\"Content-language\" CONTENT=\"en\">\n\n  <META HTTP-EQUIV=\"Refresh\" CONTENT=\"0; URL=/view/viewer_index.shtml?id=245036\">\n  <title>Index page</title>\n  <noscript>Your browser has JavaScript turned off.<br>For the user interface to work, you must enable JavaScript in your browser and reload/refresh this page.\n  </noscript>\n</HEAD>\n<BODY>\n</BODY>\n</HTML>\n",
+      "url": "http://129.79.228.231:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://129.79.228.231:443",
+      "success": false
+    }
+  },
+  "63.44.17.216": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://63.44.17.216:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://63.44.17.216:443",
+      "success": false
+    }
+  },
+  "195.191.158.181": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "700",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html",
+        "Last-Modified": "Sun, 13 Jul 2025 05:15:03 GMT"
+      },
+      "content": "    \n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\">\n<HTML>\n<HEAD>\n  <meta http-equiv=\"Expires\" content=\"Tue, 12 May 1962 1:00:00 GMT\">\n  <meta http-equiv=\"Pragma\" content=\"no-cache\">\n  <meta http-equiv=\"Cache-Control\" content=\"no-cache\">\n  <meta http-equiv=\"Content-type\" CONTENT=\"text/html; charset=iso-8859-1\">\n  <meta http-equiv=\"Content-language\" CONTENT=\"en\">\n\n  <META HTTP-EQUIV=\"Refresh\" CONTENT=\"0; URL=/view/viewer_index.shtml?id=112\">\n  <title>Index page</title>\n  <noscript>\n    Your browser has JavaScript turned off.<br>For the user interface to work, you must enable JavaScript in your browser and reload/refresh this page.\n  </noscript>\n</HEAD>\n<BODY>\n</BODY>\n</HTML>\n",
+      "url": "http://195.191.158.181:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://195.191.158.181:443",
+      "success": false
+    }
+  },
+  "128.46.83.137": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "764",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html",
+        "Last-Modified": "Sun, 13 Jul 2025 04:37:12 GMT",
+        "X-Frame-Options": "sameorigin"
+      },
+      "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\">\n<html>\n<head>\n  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=10\" />\n  <meta http-equiv=\"Expires\" content=\"Tue, 12 May 1962 1:00:00 GMT\" />\n  <meta http-equiv=\"Pragma\" content=\"no-cache\" />\n  <meta http-equiv=\"Cache-Control\" content=\"no-cache\" />\n  <meta http-equiv=\"Content-type\" content=\"text/html; charset=iso-8859-1\" />\n  <meta http-equiv=\"Content-language\" content=\"en\" />\n\n  <meta http-equiv=\"refresh\" content=\"0; url=/view/viewer_index.shtml?id=8871\" />\n  <title>Index page</title>\n  <noscript>\n    Your browser has JavaScript turned off.<br>For the user interface to work, you must enable JavaScript in your browser and reload/refresh this page.\n  </noscript>\n</head>\n<body>\n</body>\n</html>\n",
+      "url": "http://128.46.83.137:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://128.46.83.137:443",
+      "success": false
+    }
+  },
+  "128.46.205.73": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "725",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html",
+        "Last-Modified": "Sun, 13 Jul 2025 00:37:15 GMT"
+      },
+      "content": "\r\n\r\r\r\r\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\">\r\n<HTML>\r\n<HEAD>\r\n  <meta http-equiv=\"Expires\" content=\"Tue, 12 May 1962 1:00:00 GMT\">\r\n  <meta http-equiv=\"Pragma\" content=\"no-cache\">\r\n  <meta http-equiv=\"Cache-Control\" content=\"no-cache\">\r\n  <meta http-equiv=\"Content-type\" CONTENT=\"text/html; charset=iso-8859-1\">\r\n  <meta http-equiv=\"Content-language\" CONTENT=\"en\">\r\r\r\r\r\n\r\n\r\r\n  <META HTTP-EQUIV=\"Refresh\" CONTENT=\"0; URL=/view/viewer_index.shtml?id=35480\">\r\r\n  <title>Index page</title>\r\n  <noscript>\rYour browser has JavaScript turned off.<br>For the user interface to work, you must enable JavaScript in your browser and reload/refresh this page.\r\n  </noscript>\r\n</HEAD>\r\n<BODY>\r\n</BODY>\r\n</HTML>\r\n",
+      "url": "http://128.46.205.73:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://128.46.205.73:443",
+      "success": false
+    }
+  },
+  "128.46.253.56": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "173",
+        "Accept-Ranges": "bytes",
+        "Cache-Control": "max-age=0, no-cache, no-store, must-revalidate",
+        "Content-Security-Policy": "default-src 'self'; frame-ancestors 'self'; connect-src 'self' https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com https://*.axis.com mediastream: blob:; script-src 'self' https://*.googletagmanager.com https://www.google-analytics.com https://ssl.google-analytics.com https://*.axis.com; style-src 'self' 'unsafe-inline'; img-src 'self' https://*.google-analytics.com https://*.googletagmanager.com https://*.axis.com data: blob:; media-src 'self' mediastream: blob:; object-src 'none'",
+        "Content-Type": "text/html",
+        "Date": "Sun, 13 Jul 2025 04:37:18 GMT",
+        "Last-Modified": "Tue, 05 Apr 2011 23:00:00 GMT",
+        "Pragma": "no-cache",
+        "Referrer-Policy": "strict-origin-when-cross-origin",
+        "Server": "Apache/2.4.63 (Unix) OpenSSL/3.0.16",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "SAMEORIGIN",
+        "X-Xss-Protection": "1; mode=block"
+      },
+      "content": "\n<!DOCTYPE html>\n <html>\n   <head>\n    <script type=\"text/javascript\" src=\"redirect.js?7dabcb6ede0feb57ca7520d3b9e835c9\" data-subfolder=\"camera\"></script>\n   </head>\n</html>",
+      "url": "http://128.46.253.56:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Date": "Sun, 13 Jul 2025 04:37:20 GMT",
+        "Server": "Apache/2.4.63 (Unix) OpenSSL/3.0.16",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "SAMEORIGIN",
+        "X-XSS-Protection": "1; mode=block",
+        "Content-Security-Policy": "default-src 'self'; frame-ancestors 'self'; connect-src 'self' https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com https://*.axis.com mediastream: blob:; script-src 'self' https://*.googletagmanager.com https://www.google-analytics.com https://ssl.google-analytics.com https://*.axis.com; style-src 'self' 'unsafe-inline'; img-src 'self' https://*.google-analytics.com https://*.googletagmanager.com https://*.axis.com data: blob:; media-src 'self' mediastream: blob:; object-src 'none'",
+        "Referrer-Policy": "strict-origin-when-cross-origin",
+        "Upgrade": "h2",
+        "Connection": "Upgrade, close",
+        "Last-Modified": "Tue, 05 Apr 2011 23:00:00 GMT",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "173",
+        "Cache-Control": "max-age=0, no-cache, no-store, must-revalidate",
+        "Pragma": "no-cache",
+        "Content-Type": "text/html"
+      },
+      "content": "\n<!DOCTYPE html>\n <html>\n   <head>\n    <script type=\"text/javascript\" src=\"redirect.js?7dabcb6ede0feb57ca7520d3b9e835c9\" data-subfolder=\"camera\"></script>\n   </head>\n</html>",
+      "url": "https://128.46.253.56:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "80.243.236.94": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "696",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html",
+        "Last-Modified": "Sun, 13 Jul 2025 04:37:22 GMT"
+      },
+      "content": "    \n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\">\n<HTML>\n<HEAD>\n  <meta http-equiv=\"Expires\" content=\"Tue, 12 May 1962 1:00:00 GMT\">\n  <meta http-equiv=\"Pragma\" content=\"no-cache\">\n  <meta http-equiv=\"Cache-Control\" content=\"no-cache\">\n  <meta http-equiv=\"Content-type\" CONTENT=\"text/html; charset=iso-8859-1\">\n  <meta http-equiv=\"Content-language\" CONTENT=\"en\">\n\n  <META HTTP-EQUIV=\"Refresh\" CONTENT=\"0; URL=/view/viewer_index.shtml?id=3139\">\n  <title>Index page</title>\n  <noscript>Your browser has JavaScript turned off.<br>For the user interface to work, you must enable JavaScript in your browser and reload/refresh this page.\n  </noscript>\n</HEAD>\n<BODY>\n</BODY>\n</HTML>\n",
+      "url": "http://80.243.236.94:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://80.243.236.94:443",
+      "success": false
+    }
+  },
+  "80.11.46.83": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://80.11.46.83:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://80.11.46.83:443",
+      "success": false
+    }
+  },
+  "210.175.242.229": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "725",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html",
+        "Last-Modified": "Mon, 16 Dec 2024 20:22:30 GMT"
+      },
+      "content": "\r\n\r\r\r\r\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\">\r\n<HTML>\r\n<HEAD>\r\n  <meta http-equiv=\"Expires\" content=\"Tue, 12 May 1962 1:00:00 GMT\">\r\n  <meta http-equiv=\"Pragma\" content=\"no-cache\">\r\n  <meta http-equiv=\"Cache-Control\" content=\"no-cache\">\r\n  <meta http-equiv=\"Content-type\" CONTENT=\"text/html; charset=iso-8859-1\">\r\n  <meta http-equiv=\"Content-language\" CONTENT=\"en\">\r\r\r\r\r\n\r\n\r\r\n  <META HTTP-EQUIV=\"Refresh\" CONTENT=\"0; URL=/view/viewer_index.shtml?id=26935\">\r\r\n  <title>Index page</title>\r\n  <noscript>\rYour browser has JavaScript turned off.<br>For the user interface to work, you must enable JavaScript in your browser and reload/refresh this page.\r\n  </noscript>\r\n</HEAD>\r\n<BODY>\r\n</BODY>\r\n</HTML>\r\n",
+      "url": "http://210.175.242.229:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://210.175.242.229:443",
+      "success": false
+    }
+  },
+  "173.12.148.42": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "762",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html",
+        "Last-Modified": "Sun, 13 Jul 2025 04:38:16 GMT",
+        "X-Frame-Options": "sameorigin"
+      },
+      "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\">\n<html>\n<head>\n  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=10\" />\n  <meta http-equiv=\"Expires\" content=\"Tue, 12 May 1962 1:00:00 GMT\" />\n  <meta http-equiv=\"Pragma\" content=\"no-cache\" />\n  <meta http-equiv=\"Cache-Control\" content=\"no-cache\" />\n  <meta http-equiv=\"Content-type\" content=\"text/html; charset=iso-8859-1\" />\n  <meta http-equiv=\"Content-language\" content=\"en\" />\n\n  <meta http-equiv=\"refresh\" content=\"0; url=/view/viewer_index.shtml?id=72\" />\n  <title>Index page</title>\n  <noscript>\n    Your browser has JavaScript turned off.<br>For the user interface to work, you must enable JavaScript in your browser and reload/refresh this page.\n  </noscript>\n</head>\n<body>\n</body>\n</html>\n",
+      "url": "http://173.12.148.42:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://173.12.148.42:443",
+      "success": false
+    }
+  },
+  "93.83.178.214": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://93.83.178.214:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='93.83.178.214', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:852)'),))",
+      "url": "https://93.83.178.214:443",
+      "success": false
+    }
+  },
+  "89.222.132.40": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "724",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html",
+        "Last-Modified": "Sat, 06 Aug 1988 18:38:01 GMT"
+      },
+      "content": "\r\n\r\r\r\r\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\">\r\n<HTML>\r\n<HEAD>\r\n  <meta http-equiv=\"Expires\" content=\"Tue, 12 May 1962 1:00:00 GMT\">\r\n  <meta http-equiv=\"Pragma\" content=\"no-cache\">\r\n  <meta http-equiv=\"Cache-Control\" content=\"no-cache\">\r\n  <meta http-equiv=\"Content-type\" CONTENT=\"text/html; charset=iso-8859-1\">\r\n  <meta http-equiv=\"Content-language\" CONTENT=\"en\">\r\r\r\r\r\n\r\n\r\r\n  <META HTTP-EQUIV=\"Refresh\" CONTENT=\"0; URL=/view/viewer_index.shtml?id=6167\">\r\r\n  <title>Index page</title>\r\n  <noscript>\rYour browser has JavaScript turned off.<br>For the user interface to work, you must enable JavaScript in your browser and reload/refresh this page.\r\n  </noscript>\r\n</HEAD>\r\n<BODY>\r\n</BODY>\r\n</HTML>\r\n",
+      "url": "http://89.222.132.40:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://89.222.132.40:443",
+      "success": false
+    }
+  },
+  "207.135.66.123": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "1149",
+        "Cache-Control": "no-cache no-store",
+        "Content-Type": "text/html"
+      },
+      "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\">\n<html>\n<head>\n  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n  <meta http-equiv=\"Expires\" content=\"Tue, 12 May 1962 1:00:00 GMT\" />\n  <meta http-equiv=\"Pragma\" content=\"no-cache\" />\n  <meta http-equiv=\"Cache-Control\" content=\"no-cache\" />\n  <meta http-equiv=\"Content-type\" content=\"text/html; charset=iso-8859-1\" />\n  <meta http-equiv=\"Content-language\" content=\"en\" />\n\n  <script>\n    var refreshUrl = \"/view/view.shtml?id=12766\";\n    var questMark = refreshUrl.indexOf('?') < 0 ? \"?\" : \"&\";\n        var imagepath = \"/axis-media/media.amp?videocodec=h264\";\n\n      var completePath = \"imagepath=\" + encodeURIComponent(imagepath) + \"&size=1\";\n\n    if (refreshUrl.indexOf(\"view.shtml\") >= 0) {\n      window.location.href = refreshUrl + questMark + completePath;\n    }\n    else {\n      window.location.href = refreshUrl;\n    }\n  </script>\n  <title>Index page</title>\n  <noscript>\n    Your browser has JavaScript turned off.<br>For the user interface to work, you must enable JavaScript in your browser and reload/refresh this page.\n  </noscript>\n</head>\n<body>\n</body>\n</html>\n",
+      "url": "http://207.135.66.123:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://207.135.66.123:443",
+      "success": false
+    }
+  },
+  "80.99.15.32": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://80.99.15.32:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://80.99.15.32:443",
+      "success": false
+    }
+  },
+  "213.195.126.244": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "4046",
+        "Cache-Control": "max-age=0",
+        "Content-Encoding": "deflate",
+        "Content-Security-Policy": "script-src 'self' 'unsafe-inline' 'unsafe-eval'",
+        "Content-Type": "text/html",
+        "Date": "Sat, 28 Jun 2025 12:23:51 GMT",
+        "Etag": "\"1747993451:25a8\"",
+        "Last-Modified": "Fri, 23 May 2025 09:44:11 GMT",
+        "P3p": "CP=CAO PSA OUR",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "SAMEORIGIN",
+        "X-Xss-Protection": "1;mode=block"
+      },
+      "content": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1,shrink-to-fit=no\"><meta name=\"theme-color\" content=\"#000000\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"/><meta name=\"format-detection\" content=\"telephone=no\"><title>WEB</title></head><body><script>function _clearTheme_(){for(key in localStorage)/color.(.*)less/gi.test(key)&&localStorage.removeItem(key)}function setToken(e){sessionStorage.setItem(\"tempToken\",e)}window.less={env:\"production\",async:!1,javascriptEnabled:!0,concat:!0}</script><script src=\"/IEpolyfill.min.js\"></script><script src=\"/browserJudge.js\"></script><script src=\"/qrcode.js\"></script><script src=\"/pluginVersion.js\"></script><noscript>You need to enable JavaScript to run this app.</noscript><div id=\"root\" class=\"m-h-100-p\"></div><div id=\"plugins\"></div><div id=\"postionDiv\" style=\"position:fixed;z-Index:2000;top:0;left:0\"></div><link href=\"/style/color.5918375.less\" rel=\"stylesheet/less\"><link href=\"/style/color.5918375.1.less\" rel=\"stylesheet/less\"><link href=\"/style/color.5918375.2.less\" rel=\"stylesheet/less\"><link href=\"/style/color.5918375.3.less\" rel=\"stylesheet/less\"><link href=\"/style/color.5918375.4.less\" rel=\"stylesheet/less\"><link href=\"/style/color.5918375.5.less\" rel=\"stylesheet/less\"><link href=\"/style/color.5918375.6.less\" rel=\"stylesheet/less\"><link href=\"/style/color.5918375.7.less\" rel=\"stylesheet/less\"><link href=\"/style/color.5918375.8.less\" rel=\"stylesheet/less\"><link href=\"/style/color.5918375.9.less\" rel=\"stylesheet/less\"><link href=\"/style/color.5918375.10.less\" rel=\"stylesheet/less\"><link href=\"/style/color.5918375.11.less\" rel=\"stylesheet/less\"><link href=\"/style/color.5918375.12.less\" rel=\"stylesheet/less\"><link href=\"/style/color.5918375.13.less\" rel=\"stylesheet/less\"><link href=\"/style/color.5918375.14.less\" rel=\"stylesheet/less\"><link href=\"/style/color.5918375.15.less\" rel=\"stylesheet/less\"><link href=\"/style/color.5918375.16.less\" rel=\"s",
+      "url": "http://213.195.126.244:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://213.195.126.244:443",
+      "success": false
+    }
+  },
+  "129.21.200.141": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "764",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html",
+        "Last-Modified": "Sun, 13 Jul 2025 04:38:49 GMT",
+        "X-Frame-Options": "sameorigin"
+      },
+      "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\">\n<html>\n<head>\n  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=10\" />\n  <meta http-equiv=\"Expires\" content=\"Tue, 12 May 1962 1:00:00 GMT\" />\n  <meta http-equiv=\"Pragma\" content=\"no-cache\" />\n  <meta http-equiv=\"Cache-Control\" content=\"no-cache\" />\n  <meta http-equiv=\"Content-type\" content=\"text/html; charset=iso-8859-1\" />\n  <meta http-equiv=\"Content-language\" content=\"en\" />\n\n  <meta http-equiv=\"refresh\" content=\"0; url=/view/viewer_index.shtml?id=2229\" />\n  <title>Index page</title>\n  <noscript>\n    Your browser has JavaScript turned off.<br>For the user interface to work, you must enable JavaScript in your browser and reload/refresh this page.\n  </noscript>\n</head>\n<body>\n</body>\n</html>\n",
+      "url": "http://129.21.200.141:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://129.21.200.141:443",
+      "success": false
+    }
+  },
+  "69.193.116.44": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "173",
+        "Accept-Ranges": "bytes",
+        "Cache-Control": "max-age=0, no-cache, no-store, must-revalidate",
+        "Content-Security-Policy": "default-src 'self'; frame-ancestors 'self'; connect-src 'self' https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com https://*.axis.com mediastream: blob:; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.googletagmanager.com https://www.google-analytics.com https://ssl.google-analytics.com https://*.axis.com; style-src 'self' 'unsafe-inline'; img-src 'self' https://*.google-analytics.com https://*.googletagmanager.com https://*.axis.com data: blob:; media-src 'self' mediastream: blob:; object-src 'none'",
+        "Content-Type": "text/html",
+        "Date": "Sun, 13 Jul 2025 04:39:03 GMT",
+        "Last-Modified": "Tue, 05 Apr 2011 23:00:00 GMT",
+        "Pragma": "no-cache",
+        "Server": "Apache/2.4.62 (Unix) OpenSSL/3.0.16",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "SAMEORIGIN",
+        "X-Xss-Protection": "1; mode=block"
+      },
+      "content": "\n<!DOCTYPE html>\n <html>\n   <head>\n    <script type=\"text/javascript\" src=\"redirect.js?7dabcb6ede0feb57ca7520d3b9e835c9\" data-subfolder=\"camera\"></script>\n   </head>\n</html>",
+      "url": "http://69.193.116.44:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://69.193.116.44:443",
+      "success": false
+    }
+  },
+  "108.58.42.234": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "701",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html",
+        "Last-Modified": "Sun, 13 Jul 2025 04:39:04 GMT"
+      },
+      "content": "    \n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\">\n<HTML>\n<HEAD>\n  <meta http-equiv=\"Expires\" content=\"Tue, 12 May 1962 1:00:00 GMT\">\n  <meta http-equiv=\"Pragma\" content=\"no-cache\">\n  <meta http-equiv=\"Cache-Control\" content=\"no-cache\">\n  <meta http-equiv=\"Content-type\" CONTENT=\"text/html; charset=iso-8859-1\">\n  <meta http-equiv=\"Content-language\" CONTENT=\"en\">\n\n  <META HTTP-EQUIV=\"Refresh\" CONTENT=\"0; URL=/view/viewer_index.shtml?id=8857\">\n  <title>Index page</title>\n  <noscript>\n    Your browser has JavaScript turned off.<br>For the user interface to work, you must enable JavaScript in your browser and reload/refresh this page.\n  </noscript>\n</HEAD>\n<BODY>\n</BODY>\n</HTML>\n",
+      "url": "http://108.58.42.234:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://108.58.42.234:443",
+      "success": false
+    }
+  },
+  "67.201.80.248": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "1125",
+        "Cache-Control": "no-cache no-store",
+        "Content-Type": "text/html"
+      },
+      "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\">\n<html>\n<head>\n  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n  <meta http-equiv=\"Expires\" content=\"Tue, 12 May 1962 1:00:00 GMT\" />\n  <meta http-equiv=\"Pragma\" content=\"no-cache\" />\n  <meta http-equiv=\"Cache-Control\" content=\"no-cache\" />\n  <meta http-equiv=\"Content-type\" content=\"text/html; charset=iso-8859-1\" />\n  <meta http-equiv=\"Content-language\" content=\"en\" />\n\n  <script>\n    var refreshUrl = \"/view/view.shtml?id=3884\";\n    var questMark = refreshUrl.indexOf('?') < 0 ? \"?\" : \"&\";\n      var imagepath = \"/mjpg/video.mjpg\";\n\n      var completePath = \"imagepath=\" + encodeURIComponent(imagepath) + \"&size=1\";\n\n    if (refreshUrl.indexOf(\"view.shtml\") >= 0) {\n      window.location.href = refreshUrl + questMark + completePath;\n    }\n    else {\n      window.location.href = refreshUrl;\n    }\n  </script>\n  <title>Index page</title>\n  <noscript>\n    Your browser has JavaScript turned off.<br>For the user interface to work, you must enable JavaScript in your browser and reload/refresh this page.\n  </noscript>\n</head>\n<body>\n</body>\n</html>\n",
+      "url": "http://67.201.80.248:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://67.201.80.248:443",
+      "success": false
+    }
+  },
+  "37.203.163.85": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "1128",
+        "Cache-Control": "no-cache no-store",
+        "Content-Type": "text/html"
+      },
+      "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\">\n<html>\n<head>\n  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n  <meta http-equiv=\"Expires\" content=\"Tue, 12 May 1962 1:00:00 GMT\" />\n  <meta http-equiv=\"Pragma\" content=\"no-cache\" />\n  <meta http-equiv=\"Cache-Control\" content=\"no-cache\" />\n  <meta http-equiv=\"Content-type\" content=\"text/html; charset=iso-8859-1\" />\n  <meta http-equiv=\"Content-language\" content=\"en\" />\n\n  <script>\n    var refreshUrl = \"/view/view.shtml?id=10566\";\n    var questMark = refreshUrl.indexOf('?') < 0 ? \"?\" : \"&\";\n      var imagepath = \"/mjpg/1/video.mjpg\";\n\n      var completePath = \"imagepath=\" + encodeURIComponent(imagepath) + \"&size=1\";\n\n    if (refreshUrl.indexOf(\"view.shtml\") >= 0) {\n      window.location.href = refreshUrl + questMark + completePath;\n    }\n    else {\n      window.location.href = refreshUrl;\n    }\n  </script>\n  <title>Index page</title>\n  <noscript>\n    Your browser has JavaScript turned off.<br>For the user interface to work, you must enable JavaScript in your browser and reload/refresh this page.\n  </noscript>\n</head>\n<body>\n</body>\n</html>\n",
+      "url": "http://37.203.163.85:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://37.203.163.85:443",
+      "success": false
+    }
+  },
+  "166.140.236.94": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://166.140.236.94:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://166.140.236.94:443",
+      "success": false
+    }
+  },
+  "213.113.255.26": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://213.113.255.26:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://213.113.255.26:443",
+      "success": false
+    }
+  },
+  "189.229.233.140": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://189.229.233.140:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://189.229.233.140:443",
+      "success": false
+    }
+  },
+  "100.42.92.25": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "492",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html",
+        "Last-Modified": "Sat, 03 Jan 1970 03:31:25 GMT"
+      },
+      "content": "\r\n<HTML>\r\n<HEAD>\r\n  <META HTTP-EQUIV=\"Expires\" CONTENT=\"Tue, 01 Jan 1980 1:00:00 GMT\"> \r\n  <META HTTP-EQUIV=\"Pragma\" CONTENT=\"no-cache\">\r\n  <META HTTP-EQUIV=\"Cache-Control\" CONTENT=\"no-cache\">\r\r\r\n    <META HTTP-EQUIV=\"Refresh\" CONTENT=\"0; URL=/view/index.shtml\">\r\r\r\n  <noscript>\rYour browser has JavaScript turned off.<br>For the user interface to work effectively, you must enable JavaScript in your browser and reload/refresh this page.\r\n  </noscript>\r\n</HEAD>\r\n<BODY>\r\n</BODY>\r\n</HTML>\r\n\r\n",
+      "url": "http://100.42.92.25:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://100.42.92.25:443",
+      "success": false
+    }
+  },
+  "80.13.74.73": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://80.13.74.73:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://80.13.74.73:443",
+      "success": false
+    }
+  },
+  "166.250.69.235": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://166.250.69.235:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://166.250.69.235:443",
+      "success": false
+    }
+  },
+  "210.175.242.225": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "725",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html",
+        "Last-Modified": "Tue, 17 Dec 2024 20:23:26 GMT"
+      },
+      "content": "\r\n\r\r\r\r\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\">\r\n<HTML>\r\n<HEAD>\r\n  <meta http-equiv=\"Expires\" content=\"Tue, 12 May 1962 1:00:00 GMT\">\r\n  <meta http-equiv=\"Pragma\" content=\"no-cache\">\r\n  <meta http-equiv=\"Cache-Control\" content=\"no-cache\">\r\n  <meta http-equiv=\"Content-type\" CONTENT=\"text/html; charset=iso-8859-1\">\r\n  <meta http-equiv=\"Content-language\" CONTENT=\"en\">\r\r\r\r\r\n\r\n\r\r\n  <META HTTP-EQUIV=\"Refresh\" CONTENT=\"0; URL=/view/viewer_index.shtml?id=26844\">\r\r\n  <title>Index page</title>\r\n  <noscript>\rYour browser has JavaScript turned off.<br>For the user interface to work, you must enable JavaScript in your browser and reload/refresh this page.\r\n  </noscript>\r\n</HEAD>\r\n<BODY>\r\n</BODY>\r\n</HTML>\r\n",
+      "url": "http://210.175.242.225:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://210.175.242.225:443",
+      "success": false
+    }
+  },
+  "63.42.34.16": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://63.42.34.16:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://63.42.34.16:443",
+      "success": false
+    }
+  },
+  "75.145.88.19": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "1124",
+        "Cache-Control": "no-cache no-store",
+        "Content-Type": "text/html"
+      },
+      "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\">\n<html>\n<head>\n  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n  <meta http-equiv=\"Expires\" content=\"Tue, 12 May 1962 1:00:00 GMT\" />\n  <meta http-equiv=\"Pragma\" content=\"no-cache\" />\n  <meta http-equiv=\"Cache-Control\" content=\"no-cache\" />\n  <meta http-equiv=\"Content-type\" content=\"text/html; charset=iso-8859-1\" />\n  <meta http-equiv=\"Content-language\" content=\"en\" />\n\n  <script>\n    var refreshUrl = \"/view/view.shtml?id=662\";\n    var questMark = refreshUrl.indexOf('?') < 0 ? \"?\" : \"&\";\n      var imagepath = \"/mjpg/video.mjpg\";\n\n      var completePath = \"imagepath=\" + encodeURIComponent(imagepath) + \"&size=1\";\n\n    if (refreshUrl.indexOf(\"view.shtml\") >= 0) {\n      window.location.href = refreshUrl + questMark + completePath;\n    }\n    else {\n      window.location.href = refreshUrl;\n    }\n  </script>\n  <title>Index page</title>\n  <noscript>\n    Your browser has JavaScript turned off.<br>For the user interface to work, you must enable JavaScript in your browser and reload/refresh this page.\n  </noscript>\n</head>\n<body>\n</body>\n</html>\n",
+      "url": "http://75.145.88.19:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://75.145.88.19:443",
+      "success": false
+    }
+  },
+  "128.46.83.139": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "765",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html",
+        "Last-Modified": "Sun, 13 Jul 2025 04:40:41 GMT",
+        "X-Frame-Options": "sameorigin"
+      },
+      "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\">\n<html>\n<head>\n  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=10\" />\n  <meta http-equiv=\"Expires\" content=\"Tue, 12 May 1962 1:00:00 GMT\" />\n  <meta http-equiv=\"Pragma\" content=\"no-cache\" />\n  <meta http-equiv=\"Cache-Control\" content=\"no-cache\" />\n  <meta http-equiv=\"Content-type\" content=\"text/html; charset=iso-8859-1\" />\n  <meta http-equiv=\"Content-language\" content=\"en\" />\n\n  <meta http-equiv=\"refresh\" content=\"0; url=/view/viewer_index.shtml?id=32697\" />\n  <title>Index page</title>\n  <noscript>\n    Your browser has JavaScript turned off.<br>For the user interface to work, you must enable JavaScript in your browser and reload/refresh this page.\n  </noscript>\n</head>\n<body>\n</body>\n</html>\n",
+      "url": "http://128.46.83.139:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://128.46.83.139:443",
+      "success": false
+    }
+  },
+  "72.224.40.101": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://72.224.40.101:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://72.224.40.101:443",
+      "success": false
+    }
+  },
+  "50.252.186.196": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "1124",
+        "Cache-Control": "no-cache no-store",
+        "Content-Type": "text/html"
+      },
+      "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\">\n<html>\n<head>\n  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n  <meta http-equiv=\"Expires\" content=\"Tue, 12 May 1962 1:00:00 GMT\" />\n  <meta http-equiv=\"Pragma\" content=\"no-cache\" />\n  <meta http-equiv=\"Cache-Control\" content=\"no-cache\" />\n  <meta http-equiv=\"Content-type\" content=\"text/html; charset=iso-8859-1\" />\n  <meta http-equiv=\"Content-language\" content=\"en\" />\n\n  <script>\n    var refreshUrl = \"/view/view.shtml?id=140\";\n    var questMark = refreshUrl.indexOf('?') < 0 ? \"?\" : \"&\";\n      var imagepath = \"/mjpg/video.mjpg\";\n\n      var completePath = \"imagepath=\" + encodeURIComponent(imagepath) + \"&size=1\";\n\n    if (refreshUrl.indexOf(\"view.shtml\") >= 0) {\n      window.location.href = refreshUrl + questMark + completePath;\n    }\n    else {\n      window.location.href = refreshUrl;\n    }\n  </script>\n  <title>Index page</title>\n  <noscript>\n    Your browser has JavaScript turned off.<br>For the user interface to work, you must enable JavaScript in your browser and reload/refresh this page.\n  </noscript>\n</head>\n<body>\n</body>\n</html>\n",
+      "url": "http://50.252.186.196:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://50.252.186.196:443",
+      "success": false
+    }
+  },
+  "166.148.3.206": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://166.148.3.206:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://166.148.3.206:443",
+      "success": false
+    }
+  },
+  "89.111.67.100": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Accept-Ranges": "bytes",
+        "Content-Type": "text/html",
+        "Date": "Sun, 13 Jul 2025 04:41:21 GMT",
+        "Last-Modified": "Sun, 13 Jul 2025 04:41:21 GMT"
+      },
+      "content": "<html><head><META HTTP-EQUIV=\"Refresh\" CONTENT=\"0; URL=/local/people-counter/.api?start.html\"></head></html>\n",
+      "url": "http://89.111.67.100:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://89.111.67.100:443",
+      "success": false
+    }
+  },
+  "166.249.70.69": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://166.249.70.69:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://166.249.70.69:443",
+      "success": false
+    }
+  },
+  "67.53.63.57": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "714",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html",
+        "Last-Modified": "Sat, 07 May 2016 01:42:29 GMT"
+      },
+      "content": "\r\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\">\r\n<HTML>\r\n<HEAD>\r\n  <meta http-equiv=\"Expires\" content=\"Tue, 12 May 1962 1:00:00 GMT\">\r\n  <meta http-equiv=\"Pragma\" content=\"no-cache\">\r\n  <meta http-equiv=\"Cache-Control\" content=\"no-cache\">\r\n  <meta http-equiv=\"Content-type\" CONTENT=\"text/html; charset=iso-8859-1\">\r\n  <meta http-equiv=\"Content-language\" CONTENT=\"en\">\r\r\r\n    <META HTTP-EQUIV=\"Refresh\" CONTENT=\"0; URL=/view/index.shtml\">\r\r\r\n  <title>Index page</title>\r\n  <noscript>\rYour browser has JavaScript turned off.<br>For the user interface to work effectively, you must enable JavaScript in your browser and reload/refresh this page.\r\n  </noscript>\r\n</HEAD>\r\n<BODY>\r\n</BODY>\r\n</HTML>\r\n\r\n",
+      "url": "http://67.53.63.57:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://67.53.63.57:443",
+      "success": false
+    }
+  },
+  "207.177.51.216": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "697",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html",
+        "Last-Modified": "Sun, 13 Jul 2025 04:42:22 GMT"
+      },
+      "content": "    \n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\">\n<HTML>\n<HEAD>\n  <meta http-equiv=\"Expires\" content=\"Tue, 12 May 1962 1:00:00 GMT\">\n  <meta http-equiv=\"Pragma\" content=\"no-cache\">\n  <meta http-equiv=\"Cache-Control\" content=\"no-cache\">\n  <meta http-equiv=\"Content-type\" CONTENT=\"text/html; charset=iso-8859-1\">\n  <meta http-equiv=\"Content-language\" CONTENT=\"en\">\n\n  <META HTTP-EQUIV=\"Refresh\" CONTENT=\"0; URL=/view/viewer_index.shtml?id=11248\">\n  <title>Index page</title>\n  <noscript>Your browser has JavaScript turned off.<br>For the user interface to work, you must enable JavaScript in your browser and reload/refresh this page.\n  </noscript>\n</HEAD>\n<BODY>\n</BODY>\n</HTML>\n",
+      "url": "http://207.177.51.216:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://207.177.51.216:443",
+      "success": false
+    }
+  },
+  "206.230.61.85": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://206.230.61.85:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://206.230.61.85:443",
+      "success": false
+    }
+  },
+  "37.203.163.87": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "764",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html",
+        "Last-Modified": "Sun, 13 Jul 2025 04:42:29 GMT"
+      },
+      "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\">\n<html>\n<head>\n  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=10\" />\n  <meta http-equiv=\"Expires\" content=\"Tue, 12 May 1962 1:00:00 GMT\" />\n  <meta http-equiv=\"Pragma\" content=\"no-cache\" />\n  <meta http-equiv=\"Cache-Control\" content=\"no-cache\" />\n  <meta http-equiv=\"Content-type\" content=\"text/html; charset=iso-8859-1\" />\n  <meta http-equiv=\"Content-language\" content=\"en\" />\n\n  <meta http-equiv=\"refresh\" content=\"0; url=/operator/captureFrequency.shtml\" />\n  <title>Index page</title>\n  <noscript>\n    Your browser has JavaScript turned off.<br>For the user interface to work, you must enable JavaScript in your browser and reload/refresh this page.\n  </noscript>\n</head>\n<body>\n</body>\n</html>\n",
+      "url": "http://37.203.163.87:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://37.203.163.87:443",
+      "success": false
+    }
+  },
+  "210.61.142.129": {
+    "port_80": {
+      "error": "读取超时",
+      "url": "http://210.61.142.129:80",
+      "success": false
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://210.61.142.129:443",
+      "success": false
+    }
+  },
+  "98.103.187.118": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "87",
+        "Accept-Ranges": "bytes",
+        "Cache-Control": "max-age=0, no-cache, no-store, must-revalidate",
+        "Content-Security-Policy": "default-src 'self'; frame-ancestors 'self'; connect-src 'self' https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com https://*.axis.com mediastream: blob:; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.googletagmanager.com https://www.google-analytics.com https://ssl.google-analytics.com https://*.axis.com; style-src 'self' 'unsafe-inline'; img-src 'self' https://*.google-analytics.com https://*.googletagmanager.com https://*.axis.com data: blob:; media-src 'self' mediastream: blob:; object-src 'none'",
+        "Content-Type": "text/html",
+        "Date": "Sun, 13 Jul 2025 04:40:20 GMT",
+        "Last-Modified": "Tue, 05 Apr 2011 23:00:00 GMT",
+        "Pragma": "no-cache",
+        "Server": "Apache/2.4.62 (Unix) OpenSSL/3.0.15",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "SAMEORIGIN",
+        "X-Xss-Protection": "1; mode=block"
+      },
+      "content": "<html><head><script>window.location.pathname='camera/index.html'</script></head></html>",
+      "url": "http://98.103.187.118:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Date": "Sun, 13 Jul 2025 04:40:23 GMT",
+        "Server": "Apache/2.4.62 (Unix) OpenSSL/3.0.15",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "SAMEORIGIN",
+        "X-XSS-Protection": "1; mode=block",
+        "Content-Security-Policy": "default-src 'self'; frame-ancestors 'self'; connect-src 'self' https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com https://*.axis.com mediastream: blob:; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.googletagmanager.com https://www.google-analytics.com https://ssl.google-analytics.com https://*.axis.com; style-src 'self' 'unsafe-inline'; img-src 'self' https://*.google-analytics.com https://*.googletagmanager.com https://*.axis.com data: blob:; media-src 'self' mediastream: blob:; object-src 'none'",
+        "Upgrade": "h2",
+        "Connection": "Upgrade, close",
+        "Last-Modified": "Tue, 05 Apr 2011 23:00:00 GMT",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "87",
+        "Cache-Control": "max-age=0, no-cache, no-store, must-revalidate",
+        "Pragma": "no-cache",
+        "Content-Type": "text/html"
+      },
+      "content": "<html><head><script>window.location.pathname='camera/index.html'</script></head></html>",
+      "url": "https://98.103.187.118:443",
+      "redirect_history": [],
+      "success": true
+    }
+  }
+}

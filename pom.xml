@@ -17,6 +17,7 @@
         <module>local_text</module>
         <module>main_agent</module>
         <module>common</module>
+        <module>baidu_RAG_Agent</module>
     </modules>
 
     <parent>
@@ -53,6 +54,18 @@
                 <enabled>true</enabled>
             </snapshots>
         </repository>
+
+        <repository>
+            <id>baidu-public</id>
+            <url>https://repo.baidu.com/nexus/content/groups/public/</url>
+            <releases>
+                <enabled>true</enabled>
+            </releases>
+            <snapshots>
+                <enabled>false</enabled> <!-- 不使用快照版本 -->
+            </snapshots>
+        </repository>
+
     </repositories>
 
     <dependencyManagement>

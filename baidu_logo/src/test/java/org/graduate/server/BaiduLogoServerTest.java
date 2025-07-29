@@ -7,8 +7,7 @@ public class BaiduLogoServerTest {
         BaiduLogoServer baiduLogoServer = new BaiduLogoServer();
 
         // 使用当前类的类加载器获取资源路径
-        String resourcePath = "index_pic/index_pic1.png";
-        String resourcePath2 = "baidu_logo/src/main/resources/index_pic/tp_link.png";
+        String resourcePath2 = "src/main/resources/index_pic/hikvision/5.188.133.165.png";
         baiduLogoServer.getLogoOwner(resourcePath2);
     }
 }

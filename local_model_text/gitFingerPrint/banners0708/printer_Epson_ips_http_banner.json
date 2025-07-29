@@ -1,0 +1,1531 @@
+{
+  "171.7.2.37": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://171.7.2.37:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://171.7.2.37:443",
+      "success": false
+    }
+  },
+  "58.136.178.230": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://58.136.178.230:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://58.136.178.230:443",
+      "success": false
+    }
+  },
+  "191.223.15.137": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://191.223.15.137:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://191.223.15.137:443",
+      "success": false
+    }
+  },
+  "125.166.90.204": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://125.166.90.204:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://125.166.90.204:443",
+      "success": false
+    }
+  },
+  "78.31.90.131": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Transfer-Encoding": "chunked",
+        "Cache-Control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+        "Content-Type": "text/html; charset=UTF-8",
+        "Date": "Sat, 12 Jul 2025 18:57:43 GMT",
+        "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+        "Pragma": "no-cache",
+        "Server": "Apache",
+        "Set-Cookie": "MYSESSID=91a5d1b33f9824dcab6f029e8ef2b0b5; path=/"
+      },
+      "content": "\n<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"zh_tw\" lang=\"zh_tw\">\n<link rel=\"shortcut icon\" href=\"/theme/images/icons/browser.ico\">\n<head>\n<title>N2310\n</title>\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=EmulateIE7\">\n<meta http-equiv=\"X-UA-Compatible\" content=\"chrome=1\"/>\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\" />   \n<link rel=\"stylesheet\" type=\"text/css\" href=\"/theme/css/ext-all.css?\" />\n<link rel=\"stylesheet\" type=\"text/css\" href=\"/theme/css/loadmask.css?\" />\n<link rel=\"stylesheet\" type=\"text/css\" href=\"/theme/css/login.css?\" />\n<script type=\"text/javascript\" src=\"/extjs/adapter/ext/ext-base.js?\"></script>\n<script type=\"text/javascript\" src=\"/extjs/ext-all.js?\"></script>    \n<script type=\"text/javascript\" src=\"/javascript/net.js?\" ></script>   \n \n\n<script type=\"text/JavaScript\">\n<!--\n//\nvar mainMask; \nvar piczza_enabled = false;\nvar webdisk_enabled = false;\nvar rebootflag;\nvar fwMask;\n\nfunction MM_swapImgRestore() { //v3.0\n  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;\n}\n\nfunction MM_preloadImages() { //v3.0\n  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();\n    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)\n    if (a[i].indexOf(\"#\")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}\n}\n\nfunction MM_findObj(n, d) { //v4.01\n  var p,i,x;  if(!d) d=document; if((p=n.indexOf(\"?\"))>0&&parent.frames.length) {\n    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}\n  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];\n  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);\n  if(!x && d.getElementById) x=d.getElementById(n); return x;\n}\n\nfunction MM_swapImage() { //v3.0\n  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)\n   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}\n}\nfunction closewi",
+      "url": "http://78.31.90.131:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Date": "Sat, 12 Jul 2025 18:57:46 GMT",
+        "Server": "Apache",
+        "Set-Cookie": "MYSESSID=78a201a36b25980bd5022306ca494aba; path=/",
+        "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+        "Cache-Control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+        "Pragma": "no-cache",
+        "Connection": "close",
+        "Transfer-Encoding": "chunked",
+        "Content-Type": "text/html; charset=UTF-8"
+      },
+      "content": "\n<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"zh_tw\" lang=\"zh_tw\">\n<link rel=\"shortcut icon\" href=\"/theme/images/icons/browser.ico\">\n<head>\n<title>N2310\n</title>\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=EmulateIE7\">\n<meta http-equiv=\"X-UA-Compatible\" content=\"chrome=1\"/>\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\" />   \n<link rel=\"stylesheet\" type=\"text/css\" href=\"/theme/css/ext-all.css?\" />\n<link rel=\"stylesheet\" type=\"text/css\" href=\"/theme/css/loadmask.css?\" />\n<link rel=\"stylesheet\" type=\"text/css\" href=\"/theme/css/login.css?\" />\n<script type=\"text/javascript\" src=\"/extjs/adapter/ext/ext-base.js?\"></script>\n<script type=\"text/javascript\" src=\"/extjs/ext-all.js?\"></script>    \n<script type=\"text/javascript\" src=\"/javascript/net.js?\" ></script>   \n \n\n<script type=\"text/JavaScript\">\n<!--\n//\nvar mainMask; \nvar piczza_enabled = false;\nvar webdisk_enabled = false;\nvar rebootflag;\nvar fwMask;\n\nfunction MM_swapImgRestore() { //v3.0\n  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;\n}\n\nfunction MM_preloadImages() { //v3.0\n  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();\n    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)\n    if (a[i].indexOf(\"#\")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}\n}\n\nfunction MM_findObj(n, d) { //v4.01\n  var p,i,x;  if(!d) d=document; if((p=n.indexOf(\"?\"))>0&&parent.frames.length) {\n    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}\n  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];\n  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);\n  if(!x && d.getElementById) x=d.getElementById(n); return x;\n}\n\nfunction MM_swapImage() { //v3.0\n  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)\n   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}\n}\nfunction closewi",
+      "url": "https://78.31.90.131:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "187.237.251.232": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "44",
+        "Accept-Ranges": "bytes",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 17:55:36 GMT",
+        "Etag": "\"100000001d97c-2c-3e95722d5de80\"",
+        "Last-Modified": "Sat, 20 Nov 2004 21:16:26 GMT",
+        "Server": "Apache/2.2.14 (Win32) PHP/5.2.11"
+      },
+      "content": "<html><body><h1>It works!</h1></body></html>",
+      "url": "http://187.237.251.232:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://187.237.251.232:443",
+      "success": false
+    }
+  },
+  "112.187.43.249": {
+    "port_80": {
+      "status_code": 302,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "138",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 18:58:08 GMT",
+        "Location": "http://112.187.43.249:5000/",
+        "Server": "nginx"
+      },
+      "content": "<html>\r\n<head><title>302 Found</title></head>\r\n<body>\r\n<center><h1>302 Found</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n",
+      "url": "http://112.187.43.249:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 302,
+      "headers": {
+        "Server": "nginx",
+        "Date": "Sat, 12 Jul 2025 18:58:09 GMT",
+        "Content-Type": "text/html",
+        "Content-Length": "138",
+        "Connection": "close",
+        "Location": "https://112.187.43.249:5001/"
+      },
+      "content": "<html>\r\n<head><title>302 Found</title></head>\r\n<body>\r\n<center><h1>302 Found</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n",
+      "url": "https://112.187.43.249:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "152.230.7.201": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://152.230.7.201:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://152.230.7.201:443",
+      "success": false
+    }
+  },
+  "60.249.230.115": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "480",
+        "Content-Type": "text/html",
+        "Date": "Sun, 13 Jul 2025 02:58:40 GMT",
+        "Etag": "\"0-731-1e0\"",
+        "Last-Modified": "Mon, 19 Sep 2016 01:39:01 GMT",
+        "Server": "DNVRS-Webs"
+      },
+      "content": "ï»¿<!doctype html>\r\n<html>\r\n<head>\r\n\t<title></title>\r\n\t<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\r\n\t<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" >\r\n\t<meta http-equiv=\"Pragma\" content=\"no-cache\" />\r\n\t<meta http-equiv=\"Cache-Control\" content=\"no-cache, must-revalidate\" />\r\n\t<meta http-equiv=\"Expires\" content=\"0\" />\r\n</head>\r\n<body>\r\n</body>\r\n<script>\r\n\twindow.location.href = \"/doc/page/login.asp?_\" + (new Date()).getTime();\r\n</script>\r\n</html>",
+      "url": "http://60.249.230.115:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Server": "nginx",
+        "Date": "Sat, 12 Jul 2025 18:58:43 GMT",
+        "Content-Type": "text/html",
+        "Content-Length": "1741",
+        "Connection": "close",
+        "Last-Modified": "Thu, 25 Apr 2024 09:11:54 GMT",
+        "ETag": "\"662a1e5a-6cd\"",
+        "Accept-Ranges": "bytes"
+      },
+      "content": "<!DOCTYPE html>\n<html class=\"img-no-display\"><head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge,chrome=1\"><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n<meta name=\"viewport\" content=\"initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width\">\n<link rel=\"shortcut icon\" href=\"#\">\n<title>Hello! Welcome to Synology Web Station!</title>\n<style>\nhtml {\n    height: 100%;\n    overflow: auto;\n\tpadding: 0;\n    margin: 0;  \n}\nbody {\n    height: 100%;\n\tpadding: 0;\n    margin: 0;\n}\ndiv#outer {\n    display: table;\n    height: 100%;\n    width: 100%;\n}\ndiv#inner {\n    display: table-cell;\n    text-align: center;\n    vertical-align: middle;\n}\ndiv#container {\n\tdisplay: flex;\n\tflex-direction: column;\n\tjustify-content: center;\n    min-width: 800px;\n    min-height: 580px;\n}\nimg {\n    width: 500px;\n    height: 330px;\n    margin: 30px 0;\n}\np#header {\n    font-family: Roboto-Medium;\n    font-size: 28px;\n    color: #323C46;\n    text-align: center;\n    line-height: 36px;\n    margin-top: 0;\n    margin-bottom: 12px;\n}\np#paragraph {\n    font-family: Roboto-Regular;\n    font-size: 13px;\n    color: #323C46;\n    text-align: center;\n    line-height: 20px;\n\tmargin: 0 auto;\n}\n\n</style>\n</head>\n<body>\n    <div id=\"outer\">\n        <div id=\"inner\">\n            <div id=\"container\">\n\t\t\t\t<div>\n                <img src=\"web_images/illus_webstation_enabled.jpg\"/>\n                <p id=\"header\">Your website is not set up yet.</p>\n                <p id=\"paragraph\">Web Station has been enabled. To learn more about hosting a website, refer to the \"Web Station\" section of DSM Help.</p>\n\t\t\t\t</div>\n\t\t\t</div>\n        </div>\n    </div>\n</body>\n</html>\n",
+      "url": "https://60.249.230.115:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "190.63.208.34": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://190.63.208.34:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://190.63.208.34:443",
+      "success": false
+    }
+  },
+  "47.144.20.137": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://47.144.20.137:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://47.144.20.137:443",
+      "success": false
+    }
+  },
+  "103.165.228.245": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://103.165.228.245:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://103.165.228.245:443",
+      "success": false
+    }
+  },
+  "83.40.251.115": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://83.40.251.115:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://83.40.251.115:443",
+      "success": false
+    }
+  },
+  "187.208.37.2": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://187.208.37.2:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://187.208.37.2:443",
+      "success": false
+    }
+  },
+  "186.182.241.238": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://186.182.241.238:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://186.182.241.238:443",
+      "success": false
+    }
+  },
+  "187.136.111.114": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "703",
+        "Accept-Ranges": "bytes",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 18:59:50 GMT",
+        "Etag": "\"71534e6a727fd91:0\"",
+        "Last-Modified": "Fri, 05 May 2023 16:55:37 GMT",
+        "Server": "Microsoft-IIS/10.0",
+        "X-Powered-By": "ASP.NET"
+      },
+      "content": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\r\n<head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\" />\r\n<title>IIS Windows Server</title>\r\n<style type=\"text/css\">\r\n<!--\r\nbody {\r\n\tcolor:#000000;\r\n\tbackground-color:#0072C6;\r\n\tmargin:0;\r\n}\r\n\r\n#container {\r\n\tmargin-left:auto;\r\n\tmargin-right:auto;\r\n\ttext-align:center;\r\n\t}\r\n\r\na img {\r\n\tborder:none;\r\n}\r\n\r\n-->\r\n</style>\r\n</head>\r\n<body>\r\n<div id=\"container\">\r\n<a href=\"http://go.microsoft.com/fwlink/?linkid=66138&amp;clcid=0x409\"><img src=\"iisstart.png\" alt=\"IIS\" width=\"960\" height=\"600\" /></a>\r\n</div>\r\n</body>\r\n</html>",
+      "url": "http://187.136.111.114:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://187.136.111.114:443",
+      "success": false
+    }
+  },
+  "202.125.74.234": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://202.125.74.234:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://202.125.74.234:443",
+      "success": false
+    }
+  },
+  "186.123.179.6": {
+    "port_80": {
+      "status_code": 503,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "378",
+        "Content-Security-Policy": "upgrade-insecure-requests;",
+        "Content-Type": "text/html; charset=iso-8859-1",
+        "Date": "Sat, 12 Jul 2025 19:00:36 GMT",
+        "Server": "Apache/2.4.29 (Ubuntu)"
+      },
+      "content": "<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">\n<html><head>\n<title>503 Service Unavailable</title>\n</head><body>\n<h1>Service Unavailable</h1>\n<p>The server is temporarily unable to service your\nrequest due to maintenance downtime or capacity\nproblems. Please try again later.</p>\n<hr>\n<address>Apache/2.4.29 (Ubuntu) Server at 186.123.179.6 Port 80</address>\n</body></html>\n",
+      "url": "http://186.123.179.6:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 503,
+      "headers": {
+        "Date": "Sat, 12 Jul 2025 19:00:38 GMT",
+        "Server": "Apache/2.4.29 (Ubuntu)",
+        "Content-Security-Policy": "upgrade-insecure-requests;",
+        "Content-Length": "379",
+        "Connection": "close",
+        "Content-Type": "text/html; charset=iso-8859-1"
+      },
+      "content": "<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">\n<html><head>\n<title>503 Service Unavailable</title>\n</head><body>\n<h1>Service Unavailable</h1>\n<p>The server is temporarily unable to service your\nrequest due to maintenance downtime or capacity\nproblems. Please try again later.</p>\n<hr>\n<address>Apache/2.4.29 (Ubuntu) Server at 186.123.179.6 Port 443</address>\n</body></html>\n",
+      "url": "https://186.123.179.6:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "187.159.3.148": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://187.159.3.148:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://187.159.3.148:443",
+      "success": false
+    }
+  },
+  "103.110.90.94": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://103.110.90.94:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 403,
+      "headers": {
+        "Date": "Sat, 12 Jul 2025 19:01:01 GMT",
+        "Server": "Apache/2.4.37 (Win32) OpenSSL/1.1.1a PHP/7.2.14",
+        "Content-Length": "433",
+        "Connection": "close",
+        "Content-Type": "text/html; charset=iso-8859-1"
+      },
+      "content": "<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">\n<html><head>\n<title>403 Forbidden</title>\n</head><body>\n<h1>Forbidden</h1>\n<p>You don't have permission to access /\non this server.<br />\n</p>\n<p>Additionally, a 403 Forbidden\nerror was encountered while trying to use an ErrorDocument to handle the request.</p>\n<hr>\n<address>Apache/2.4.37 (Win32) OpenSSL/1.1.1a PHP/7.2.14 Server at 103.110.90.94 Port 443</address>\n</body></html>\n",
+      "url": "https://103.110.90.94:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "24.96.242.102": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://24.96.242.102:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://24.96.242.102:443",
+      "success": false
+    }
+  },
+  "147.135.97.136": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "612",
+        "Accept-Ranges": "bytes",
+        "Content-Type": "text/html; charset=UTF-8",
+        "Date": "Sat, 12 Jul 2025 19:01:06 GMT",
+        "Etag": "\"5ebc2fb6-264\"",
+        "Last-Modified": "Wed, 13 May 2020 17:34:46 GMT",
+        "Server": "none-none",
+        "Vary": "Accept-Encoding"
+      },
+      "content": "<!DOCTYPE html>\n<html>\n<head>\n<title>Welcome to nginx!</title>\n<style>\n    body {\n        width: 35em;\n        margin: 0 auto;\n        font-family: Tahoma, Verdana, Arial, sans-serif;\n    }\n</style>\n</head>\n<body>\n<h1>Welcome to nginx!</h1>\n<p>If you see this page, the nginx web server is successfully installed and\nworking. Further configuration is required.</p>\n\n<p>For online documentation and support please refer to\n<a href=\"http://nginx.org/\">nginx.org</a>.<br/>\nCommercial support is available at\n<a href=\"http://nginx.com/\">nginx.com</a>.</p>\n\n<p><em>Thank you for using nginx.</em></p>\n</body>\n</html>\n",
+      "url": "http://147.135.97.136:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 403,
+      "headers": {
+        "Date": "Sat, 12 Jul 2025 19:01:07 GMT",
+        "Content-Type": "text/html; charset=UTF-8",
+        "Content-Length": "146",
+        "Connection": "close",
+        "Vary": "Accept-Encoding",
+        "Server": "none-none"
+      },
+      "content": "<html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n",
+      "url": "https://147.135.97.136:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "189.141.76.163": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://189.141.76.163:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://189.141.76.163:443",
+      "success": false
+    }
+  },
+  "190.52.55.74": {
+    "port_80": {
+      "status_code": 302,
+      "headers": {
+        "Connection": "close",
+        "Content-Type": "text/html",
+        "Date": "Sat, 03 Jan 1970 03:07:59 GMT",
+        "Location": "/index.html",
+        "Server": "Boa/0.93.15"
+      },
+      "content": "<HTML><HEAD><TITLE>302 Moved Temporarily</TITLE></HEAD>\n<BODY>\n<H1>302 Moved</H1>The document has moved\n<A HREF=\"/index.html\">here</A>.\n</BODY></HTML>\nHTTP/1.0 200 OK\r\nDate: Sat, 03 Jan 1970 03:07:59 GMT\r\nServer: Boa/0.93.15\r\nConnection: close\r\nContent-Type: text/html\r\nContent-Length: 711\r\nLast-Modified: Tue, 01 Aug 2023 01:30:04 GMT\r\n\r\n<!doctype html><html lang=\"\"><head><meta charset=\"utf-8\"/><meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\"/><meta content=\"width=device-width,initial-scale=1\" name=\"viewport\"/><link href=\"/favicon.ico\" rel=\"icon\"/><title></title><meta name=\"author\" content=\"1.0.0.246_HEAD_8E94F6A\"><script defer=\"defer\" src=\"/js/chunk-vendors.276a186d.js\"></script><script defer=\"defer\" src=\"/js/app.d6fd831b.js\"></script><link href=\"/css/chunk-vendors.72687502.css\" rel=\"stylesheet\"><link href=\"/css/app.4ec585c3.css\" rel=\"stylesheet\"></head><body><noscript><strong>We're sorry but onu_pc doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id=\"app\"></div></body></html>",
+      "url": "http://190.52.55.74:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://190.52.55.74:443",
+      "success": false
+    }
+  },
+  "189.251.225.47": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://189.251.225.47:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://189.251.225.47:443",
+      "success": false
+    }
+  },
+  "36.92.217.138": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "158",
+        "Content-Encoding": "gzip",
+        "Content-Type": "text/html; charset=UTF-8",
+        "Date": "Sat, 12 Jul 2025 19:02:01 GMT",
+        "Server": "Apache",
+        "Vary": "Accept-Encoding"
+      },
+      "content": "<html>\r\n<head><title>Server 100 bang Sam - hanyajasa.com</title></head>\r\n<meta http-equiv=\"refresh\" content=\"0; url=https://www.google.com\">\r\nHanyaJasa.Com 88.100\r\n</html>\r\n",
+      "url": "http://36.92.217.138:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Date": "Sat, 12 Jul 2025 19:02:03 GMT",
+        "Server": "Apache",
+        "Vary": "Accept-Encoding",
+        "Content-Encoding": "gzip",
+        "Content-Length": "158",
+        "Connection": "close",
+        "Content-Type": "text/html; charset=UTF-8"
+      },
+      "content": "<html>\r\n<head><title>Server 100 bang Sam - hanyajasa.com</title></head>\r\n<meta http-equiv=\"refresh\" content=\"0; url=https://www.google.com\">\r\nHanyaJasa.Com 88.100\r\n</html>\r\n",
+      "url": "https://36.92.217.138:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "60.210.117.0": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://60.210.117.0:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://60.210.117.0:443",
+      "success": false
+    }
+  },
+  "24.115.104.143": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://24.115.104.143:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://24.115.104.143:443",
+      "success": false
+    }
+  },
+  "93.39.246.106": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://93.39.246.106:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://93.39.246.106:443",
+      "success": false
+    }
+  },
+  "200.46.87.187": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "594",
+        "Accept-Ranges": "bytes",
+        "Content-Encoding": "gzip",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 19:02:34 GMT",
+        "Etag": "\"fbfbebc4522cd41:0\"",
+        "Last-Modified": "Sun, 05 Aug 2018 00:25:10 GMT",
+        "Server": "Microsoft-IIS/7.5",
+        "Vary": "Accept-Encoding",
+        "X-Powered-By": "ASP.NET"
+      },
+      "content": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\r\n<head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\" />\r\n<title>IIS7</title>\r\n<style type=\"text/css\">\r\n<!--\r\nbody {\r\n\tcolor:#000000;\r\n\tbackground-color:#B3B3B3;\r\n\tmargin:0;\r\n}\r\n\r\n#container {\r\n\tmargin-left:auto;\r\n\tmargin-right:auto;\r\n\ttext-align:center;\r\n\t}\r\n\r\na img {\r\n\tborder:none;\r\n}\r\n\r\n-->\r\n</style>\r\n</head>\r\n<body>\r\n<div id=\"container\">\r\n<a href=\"http://go.microsoft.com/fwlink/?linkid=66138&amp;clcid=0x409\"><img src=\"welcome.png\" alt=\"IIS7\" width=\"571\" height=\"411\" /></a>\r\n</div>\r\n</body>\r\n</html>",
+      "url": "http://200.46.87.187:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://200.46.87.187:443",
+      "success": false
+    }
+  },
+  "89.37.65.69": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "608",
+        "Accept-Ranges": "bytes",
+        "Content-Encoding": "gzip",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 19:02:49 GMT",
+        "Etag": "\"73c9298e115dd71:0\"",
+        "Last-Modified": "Wed, 09 Jun 2021 09:26:41 GMT",
+        "Server": "Microsoft-IIS/8.5",
+        "Vary": "Accept-Encoding",
+        "X-Powered-By": "ASP.NET"
+      },
+      "content": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\r\n<head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\" />\r\n<title>IIS Windows Server</title>\r\n<style type=\"text/css\">\r\n<!--\r\nbody {\r\n\tcolor:#000000;\r\n\tbackground-color:#0072C6;\r\n\tmargin:0;\r\n}\r\n\r\n#container {\r\n\tmargin-left:auto;\r\n\tmargin-right:auto;\r\n\ttext-align:center;\r\n\t}\r\n\r\na img {\r\n\tborder:none;\r\n}\r\n\r\n-->\r\n</style>\r\n</head>\r\n<body>\r\n<div id=\"container\">\r\n<a href=\"http://go.microsoft.com/fwlink/?linkid=66138&amp;clcid=0x409\"><img src=\"iis-85.png\" alt=\"IIS\" width=\"960\" height=\"600\" /></a>\r\n</div>\r\n</body>\r\n</html>",
+      "url": "http://89.37.65.69:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://89.37.65.69:443",
+      "success": false
+    }
+  },
+  "201.103.253.25": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://201.103.253.25:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://201.103.253.25:443",
+      "success": false
+    }
+  },
+  "181.57.213.241": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Transfer-Encoding": "chunked",
+        "Cache-Control": "no-cache, no-store, max-age=0",
+        "Content-Type": "text/html",
+        "Pragma": "no-cache",
+        "X-Frame-Options": "SAMEORIGIN"
+      },
+      "content": "ï»¿<html>\r\n<head>\r\n<title></title>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\r\n<link href=\"Cuscss/login.css?201607252101391618483553184798\"  media=\"all\" rel=\"stylesheet\" />\r\n<style type=\"text/css\">\r\n#first{\r\nbackground-color:white;\r\nheight:25px;\r\ntext-align: center;\r\ncolor: red;\r\nposition:absolute;\r\nwidth: 380px;\r\ntop: 312px;\r\n}\r\n</style>\r\n<script language=\"JavaScript\" src=\"../resource/common/md5.js?201607252101391618483553184798\"></script>\r\n<script language=\"JavaScript\" src=\"../resource/common/RndSecurityFormat.js?201607252101391618483553184798\"></script>\r\n<script language=\"JavaScript\" src=\"../resource/common/jquery.min.js?201607252101391618483553184798\"></script>\r\n<script language=\"JavaScript\" src=\"../resource/common/safelogin.js?201607252101391618483553184798\"></script>\r\n<script language=\"JavaScript\" type=\"text/javascript\">\r\nfunction MD5(str) { return hex_md5(str); }\r\n\r\nvar FailStat ='0';\r\nvar CfgMode ='COMMON';\r\nvar LoginTimes = '0';\r\nvar ModeCheckTimes = '0';\r\nvar ProductName = 'MA5675';\r\nvar Var_DefaultLang = 'english';\r\nvar Var_LastLoginLang = 'english';\r\nvar LockTime = '60';\r\nvar LockLeftTime = '0';\r\nvar errloginlockNum = '3';\r\nvar errVerificationCode = '0';\r\nvar Language = '';\r\nvar locklefttimerhandle;\r\n\r\nif(Var_LastLoginLang == '')\r\n{\r\nLanguage = Var_DefaultLang;\r\n}\r\nelse\r\n{\r\nLanguage = Var_LastLoginLang;\r\n}\r\n\r\ndocument.title = ProductName;\r\n\r\nfunction getValue(sId)\r\n{\r\nvar item;\r\nif (null == (item = getElement(sId)))\r\n{\r\ndebug(sId + \" is not existed\" );\r\nreturn -1;\r\n}\r\n\r\nreturn item.value;\r\n}\r\n\r\nvar CfgCTArea = 'NOCHOOSE';\r\n\r\nfunction CTAreaRelationInfo(Des, Area)\r\n{\r\nthis.Des = Des;\r\nthis.Area = Area;\r\n}\r\n\r\nvar ctAreaInfos = new Array(new CTAreaRelationInfo(\"ç§»å¨\", 'CHOOSE_CMCC'),\r\n                            new CTAreaRelationInfo(\"çµä¿¡\", 'CHOOSE_XINAN'),\r\n                            new CTAreaRelationInfo(\"èé\", 'CHOOSE_UNICOM'),\r\nnull);\r\n\r\nvar CfgFtWordArea = 'NOCHOOSE';\r\nvar CfgFtWord = 'COMMON';\r\n\r\nfunction AreaRelat",
+      "url": "http://181.57.213.241:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://181.57.213.241:443",
+      "success": false
+    }
+  },
+  "189.190.58.132": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://189.190.58.132:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://189.190.58.132:443",
+      "success": false
+    }
+  },
+  "102.67.142.58": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "703",
+        "Accept-Ranges": "bytes",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 19:03:56 GMT",
+        "Etag": "\"c11fbd9b18fd81:0\"",
+        "Last-Modified": "Mon, 04 Jul 2022 14:25:02 GMT",
+        "Server": "Microsoft-IIS/10.0"
+      },
+      "content": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\r\n<head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\" />\r\n<title>IIS Windows Server</title>\r\n<style type=\"text/css\">\r\n<!--\r\nbody {\r\n\tcolor:#000000;\r\n\tbackground-color:#0072C6;\r\n\tmargin:0;\r\n}\r\n\r\n#container {\r\n\tmargin-left:auto;\r\n\tmargin-right:auto;\r\n\ttext-align:center;\r\n\t}\r\n\r\na img {\r\n\tborder:none;\r\n}\r\n\r\n-->\r\n</style>\r\n</head>\r\n<body>\r\n<div id=\"container\">\r\n<a href=\"http://go.microsoft.com/fwlink/?linkid=66138&amp;clcid=0x409\"><img src=\"iisstart.png\" alt=\"IIS\" width=\"960\" height=\"600\" /></a>\r\n</div>\r\n</body>\r\n</html>",
+      "url": "http://102.67.142.58:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://102.67.142.58:443",
+      "success": false
+    }
+  },
+  "171.232.77.147": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://171.232.77.147:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://171.232.77.147:443",
+      "success": false
+    }
+  },
+  "202.51.228.11": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://202.51.228.11:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://202.51.228.11:443",
+      "success": false
+    }
+  },
+  "189.146.215.205": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://189.146.215.205:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://189.146.215.205:443",
+      "success": false
+    }
+  },
+  "189.136.62.213": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://189.136.62.213:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://189.136.62.213:443",
+      "success": false
+    }
+  },
+  "36.92.246.98": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "608",
+        "Accept-Ranges": "bytes",
+        "Content-Encoding": "gzip",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 19:04:54 GMT",
+        "Etag": "\"1b132399779cd61:0\"",
+        "Last-Modified": "Wed, 07 Oct 2020 07:00:53 GMT",
+        "Server": "Microsoft-IIS/8.5",
+        "Vary": "Accept-Encoding",
+        "X-Powered-By": "ASP.NET"
+      },
+      "content": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\r\n<head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\" />\r\n<title>IIS Windows Server</title>\r\n<style type=\"text/css\">\r\n<!--\r\nbody {\r\n\tcolor:#000000;\r\n\tbackground-color:#0072C6;\r\n\tmargin:0;\r\n}\r\n\r\n#container {\r\n\tmargin-left:auto;\r\n\tmargin-right:auto;\r\n\ttext-align:center;\r\n\t}\r\n\r\na img {\r\n\tborder:none;\r\n}\r\n\r\n-->\r\n</style>\r\n</head>\r\n<body>\r\n<div id=\"container\">\r\n<a href=\"http://go.microsoft.com/fwlink/?linkid=66138&amp;clcid=0x409\"><img src=\"iis-85.png\" alt=\"IIS\" width=\"960\" height=\"600\" /></a>\r\n</div>\r\n</body>\r\n</html>",
+      "url": "http://36.92.246.98:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 403,
+      "headers": {
+        "Content-Type": "text/html",
+        "Server": "Microsoft-IIS/8.5",
+        "X-Powered-By": "ASP.NET",
+        "Date": "Sat, 12 Jul 2025 19:04:55 GMT",
+        "Connection": "close",
+        "Content-Length": "1233"
+      },
+      "content": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\r\n<head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\"/>\r\n<title>403 - Forbidden: Access is denied.</title>\r\n<style type=\"text/css\">\r\n<!--\r\nbody{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#EEEEEE;}\r\nfieldset{padding:0 15px 10px 15px;} \r\nh1{font-size:2.4em;margin:0;color:#FFF;}\r\nh2{font-size:1.7em;margin:0;color:#CC0000;} \r\nh3{font-size:1.2em;margin:10px 0 0 0;color:#000000;} \r\n#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:\"trebuchet MS\", Verdana, sans-serif;color:#FFF;\r\nbackground-color:#555555;}\r\n#content{margin:0 0 0 2%;position:relative;}\r\n.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;}\r\n-->\r\n</style>\r\n</head>\r\n<body>\r\n<div id=\"header\"><h1>Server Error</h1></div>\r\n<div id=\"content\">\r\n <div class=\"content-container\"><fieldset>\r\n  <h2>403 - Forbidden: Access is denied.</h2>\r\n  <h3>You do not have permission to view this directory or page using the credentials that you supplied.</h3>\r\n </fieldset></div>\r\n</div>\r\n</body>\r\n</html>\r\n",
+      "url": "https://36.92.246.98:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "190.120.5.84": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://190.120.5.84:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://190.120.5.84:443",
+      "success": false
+    }
+  },
+  "85.234.198.169": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://85.234.198.169:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://85.234.198.169:443",
+      "success": false
+    }
+  },
+  "103.93.39.137": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "696",
+        "Accept-Ranges": "bytes",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 19:07:10 GMT",
+        "Etag": "\"60d46c1d6f6d61:0\"",
+        "Last-Modified": "Sat, 30 Jan 2021 07:03:26 GMT",
+        "Server": "Microsoft-IIS/10.0",
+        "X-Powered-By": "ASP.NET"
+      },
+      "content": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\r\n<head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\" />\r\n<title>IIS Windows</title>\r\n<style type=\"text/css\">\r\n<!--\r\nbody {\r\n\tcolor:#000000;\r\n\tbackground-color:#0072C6;\r\n\tmargin:0;\r\n}\r\n\r\n#container {\r\n\tmargin-left:auto;\r\n\tmargin-right:auto;\r\n\ttext-align:center;\r\n\t}\r\n\r\na img {\r\n\tborder:none;\r\n}\r\n\r\n-->\r\n</style>\r\n</head>\r\n<body>\r\n<div id=\"container\">\r\n<a href=\"http://go.microsoft.com/fwlink/?linkid=66138&amp;clcid=0x409\"><img src=\"iisstart.png\" alt=\"IIS\" width=\"960\" height=\"600\" /></a>\r\n</div>\r\n</body>\r\n</html>",
+      "url": "http://103.93.39.137:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://103.93.39.137:443",
+      "success": false
+    }
+  },
+  "103.123.72.174": {
+    "port_80": {
+      "status_code": 403,
+      "headers": {
+        "Connection": "close",
+        "Cache-Control": "no-cache, no-store, must-revalidate, private, max-age=0",
+        "Content-Security-Policy": "default-src 'self' 'unsafe-inline';",
+        "Content-Type": "text/html; charset=utf-8",
+        "Date": "Sat, 12 Jul 2025 19:05:59 GMT",
+        "Expires": "0",
+        "Pragma": "no-cache",
+        "Referrer-Policy": "strict-origin-when-cross-origin",
+        "X-Content-Type-Options": "nosniff",
+        "X-Dns-Prefetch-Control": "off",
+        "X-Frame-Options": "DENY",
+        "X-Xss-Protection": "0"
+      },
+      "content": "<!DOCTYPE html>\n<!--\n*  Pi-hole: A black hole for Internet advertisements\n*  (c) 2017 Pi-hole, LLC (https://pi-hole.net)\n*  Network-wide ad blocking via your own hardware.\n*\n*  This file is copyright under the latest version of the EUPL.\n*  Please see LICENSE file for your rights under this license.\n-->\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\">\n    <!-- Usually browsers proactively perform domain name resolution on links that the user may choose to follow. We disable DNS prefetching here -->\n    <meta http-equiv=\"x-dns-prefetch-control\" content=\"off\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n\n    <title>Pi-hole raspberrypi</title>\n\n    <meta name=\"csrf-token\" content=\"\">\n\n    <link rel=\"apple-touch-icon\" href=\"/admin/img/favicons/apple-touch-icon.png\" sizes=\"180x180\">\n    <link rel=\"icon\" href=\"/admin/img/favicons/favicon-32x32.png\" sizes=\"32x32\" type=\"image/png\">\n    <link rel=\"icon\" href=\"/admin/img/favicons/favicon-16x16.png\" sizes=\"16x16\" type=\"image/png\">\n    <link rel=\"manifest\" href=\"/admin/img/favicons/manifest.json\">\n    <link rel=\"mask-icon\" href=\"/admin/img/favicons/safari-pinned-tab.svg\" color=\"#367fa9\">\n    <link rel=\"shortcut icon\" href=\"/admin/img/favicons/favicon.ico\">\n    <meta name=\"msapplication-TileColor\" content=\"#367fa9\">\n    <meta name=\"msapplication-TileImage\" content=\"/admin/img/favicons/mstile-150x150.png\">\n    <meta name=\"theme-color\" content=\"#367fa9\">\n\n    <!-- Theme fonts -->\n    <link rel=\"stylesheet\" href=\"/admin/vendor/fonts/source-sans-pro/source-sans-pro.css?v=1743845429\">\n\n    <style>\n        html { background-color: #000; }\n    </style>\n\n    <!-- Common styles -->\n    <link rel=\"stylesheet\" href=\"/admin/vendor/bootstrap/css/bootstrap.min.css?v=1743845429\">\n    <link rel=\"stylesheet\" href=\"/admin/vendor/animate/animate.min.css?v=1743845429\">\n    <link rel=\"stylesheet\" href=\"/admin/vendor/bstreeview/bstreeview.min.css?v=1743845429\">\n    <link rel=\"stylesheet\" href=\"/admin/vendor/font-awesome",
+      "url": "http://103.123.72.174:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 403,
+      "headers": {
+        "Cache-Control": "no-cache, no-store, must-revalidate, private, max-age=0",
+        "Expires": "0",
+        "Pragma": "no-cache",
+        "X-DNS-Prefetch-Control": "off",
+        "Content-Security-Policy": "default-src 'self' 'unsafe-inline';",
+        "X-Frame-Options": "DENY",
+        "X-XSS-Protection": "0",
+        "X-Content-Type-Options": "nosniff",
+        "Referrer-Policy": "strict-origin-when-cross-origin",
+        "Content-Type": "text/html; charset=utf-8",
+        "Date": "Sat, 12 Jul 2025 19:06:02 GMT",
+        "Connection": "close"
+      },
+      "content": "<!DOCTYPE html>\n<!--\n*  Pi-hole: A black hole for Internet advertisements\n*  (c) 2017 Pi-hole, LLC (https://pi-hole.net)\n*  Network-wide ad blocking via your own hardware.\n*\n*  This file is copyright under the latest version of the EUPL.\n*  Please see LICENSE file for your rights under this license.\n-->\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\">\n    <!-- Usually browsers proactively perform domain name resolution on links that the user may choose to follow. We disable DNS prefetching here -->\n    <meta http-equiv=\"x-dns-prefetch-control\" content=\"off\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n\n    <title>Pi-hole raspberrypi</title>\n\n    <meta name=\"csrf-token\" content=\"\">\n\n    <link rel=\"apple-touch-icon\" href=\"/admin/img/favicons/apple-touch-icon.png\" sizes=\"180x180\">\n    <link rel=\"icon\" href=\"/admin/img/favicons/favicon-32x32.png\" sizes=\"32x32\" type=\"image/png\">\n    <link rel=\"icon\" href=\"/admin/img/favicons/favicon-16x16.png\" sizes=\"16x16\" type=\"image/png\">\n    <link rel=\"manifest\" href=\"/admin/img/favicons/manifest.json\">\n    <link rel=\"mask-icon\" href=\"/admin/img/favicons/safari-pinned-tab.svg\" color=\"#367fa9\">\n    <link rel=\"shortcut icon\" href=\"/admin/img/favicons/favicon.ico\">\n    <meta name=\"msapplication-TileColor\" content=\"#367fa9\">\n    <meta name=\"msapplication-TileImage\" content=\"/admin/img/favicons/mstile-150x150.png\">\n    <meta name=\"theme-color\" content=\"#367fa9\">\n\n    <!-- Theme fonts -->\n    <link rel=\"stylesheet\" href=\"/admin/vendor/fonts/source-sans-pro/source-sans-pro.css?v=1743845429\">\n\n    <style>\n        html { background-color: #000; }\n    </style>\n\n    <!-- Common styles -->\n    <link rel=\"stylesheet\" href=\"/admin/vendor/bootstrap/css/bootstrap.min.css?v=1743845429\">\n    <link rel=\"stylesheet\" href=\"/admin/vendor/animate/animate.min.css?v=1743845429\">\n    <link rel=\"stylesheet\" href=\"/admin/vendor/bstreeview/bstreeview.min.css?v=1743845429\">\n    <link rel=\"stylesheet\" href=\"/admin/vendor/font-awesome",
+      "url": "https://103.123.72.174:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "189.148.119.4": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://189.148.119.4:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://189.148.119.4:443",
+      "success": false
+    }
+  },
+  "124.218.217.19": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://124.218.217.19:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://124.218.217.19:443",
+      "success": false
+    }
+  },
+  "87.19.136.135": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://87.19.136.135:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://87.19.136.135:443",
+      "success": false
+    }
+  },
+  "181.49.229.6": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://181.49.229.6:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://181.49.229.6:443",
+      "success": false
+    }
+  },
+  "181.41.240.21": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "3256",
+        "Accept-Ranges": "bytes",
+        "Content-Encoding": "gzip",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 19:07:01 GMT",
+        "Etag": "\"2cf6-52d24d53b07ce-gzip\"",
+        "Last-Modified": "Thu, 03 Mar 2016 13:18:23 GMT",
+        "Server": "Apache/2.4.7 (Ubuntu)",
+        "Vary": "Accept-Encoding"
+      },
+      "content": "\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\n  <!--\n    Modified from the Debian original for Ubuntu\n    Last updated: 2014-03-19\n    See: https://launchpad.net/bugs/1288690\n  -->\n  <head>\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n    <title>Apache2 Ubuntu Default Page: It works</title>\n    <style type=\"text/css\" media=\"screen\">\n  * {\n    margin: 0px 0px 0px 0px;\n    padding: 0px 0px 0px 0px;\n  }\n\n  body, html {\n    padding: 3px 3px 3px 3px;\n\n    background-color: #D8DBE2;\n\n    font-family: Verdana, sans-serif;\n    font-size: 11pt;\n    text-align: center;\n  }\n\n  div.main_page {\n    position: relative;\n    display: table;\n\n    width: 800px;\n\n    margin-bottom: 3px;\n    margin-left: auto;\n    margin-right: auto;\n    padding: 0px 0px 0px 0px;\n\n    border-width: 2px;\n    border-color: #212738;\n    border-style: solid;\n\n    background-color: #FFFFFF;\n\n    text-align: center;\n  }\n\n  div.page_header {\n    height: 99px;\n    width: 100%;\n\n    background-color: #F5F6F7;\n  }\n\n  div.page_header span {\n    margin: 15px 0px 0px 50px;\n\n    font-size: 180%;\n    font-weight: bold;\n  }\n\n  div.page_header img {\n    margin: 3px 0px 0px 40px;\n\n    border: 0px 0px 0px;\n  }\n\n  div.table_of_contents {\n    clear: left;\n\n    min-width: 200px;\n\n    margin: 3px 3px 3px 3px;\n\n    background-color: #FFFFFF;\n\n    text-align: left;\n  }\n\n  div.table_of_contents_item {\n    clear: left;\n\n    width: 100%;\n\n    margin: 4px 0px 0px 0px;\n\n    background-color: #FFFFFF;\n\n    color: #000000;\n    text-align: left;\n  }\n\n  div.table_of_contents_item a {\n    margin: 6px 0px 0px 6px;\n  }\n\n  div.content_section {\n    margin: 3px 3px 3px 3px;\n\n    background-color: #FFFFFF;\n\n    text-align: left;\n  }\n\n  div.content_section_text {\n    padding: 4px 8px 4px 8px;\n\n    color: #000000;\n    font-size: 100%;\n  }\n\n  div.content_section_text pre {\n    margin: 8px 0px 8px ",
+      "url": "http://181.41.240.21:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://181.41.240.21:443",
+      "success": false
+    }
+  },
+  "106.8.255.153": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://106.8.255.153:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://106.8.255.153:443",
+      "success": false
+    }
+  },
+  "98.172.28.76": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "3186",
+        "Accept-Ranges": "bytes",
+        "Content-Encoding": "gzip",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 19:07:27 GMT",
+        "Etag": "\"2c39-578ea66097e7e-gzip\"",
+        "Last-Modified": "Tue, 23 Oct 2018 19:30:13 GMT",
+        "Server": "Apache/2.4.18 (Ubuntu)",
+        "Vary": "Accept-Encoding"
+      },
+      "content": "\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\n  <!--\n    Modified from the Debian original for Ubuntu\n    Last updated: 2014-03-19\n    See: https://launchpad.net/bugs/1288690\n  -->\n  <head>\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n    <title>Apache2 Ubuntu Default Page: It works</title>\n    <style type=\"text/css\" media=\"screen\">\n  * {\n    margin: 0px 0px 0px 0px;\n    padding: 0px 0px 0px 0px;\n  }\n\n  body, html {\n    padding: 3px 3px 3px 3px;\n\n    background-color: #D8DBE2;\n\n    font-family: Verdana, sans-serif;\n    font-size: 11pt;\n    text-align: center;\n  }\n\n  div.main_page {\n    position: relative;\n    display: table;\n\n    width: 800px;\n\n    margin-bottom: 3px;\n    margin-left: auto;\n    margin-right: auto;\n    padding: 0px 0px 0px 0px;\n\n    border-width: 2px;\n    border-color: #212738;\n    border-style: solid;\n\n    background-color: #FFFFFF;\n\n    text-align: center;\n  }\n\n  div.page_header {\n    height: 99px;\n    width: 100%;\n\n    background-color: #F5F6F7;\n  }\n\n  div.page_header span {\n    margin: 15px 0px 0px 50px;\n\n    font-size: 180%;\n    font-weight: bold;\n  }\n\n  div.page_header img {\n    margin: 3px 0px 0px 40px;\n\n    border: 0px 0px 0px;\n  }\n\n  div.table_of_contents {\n    clear: left;\n\n    min-width: 200px;\n\n    margin: 3px 3px 3px 3px;\n\n    background-color: #FFFFFF;\n\n    text-align: left;\n  }\n\n  div.table_of_contents_item {\n    clear: left;\n\n    width: 100%;\n\n    margin: 4px 0px 0px 0px;\n\n    background-color: #FFFFFF;\n\n    color: #000000;\n    text-align: left;\n  }\n\n  div.table_of_contents_item a {\n    margin: 6px 0px 0px 6px;\n  }\n\n  div.content_section {\n    margin: 3px 3px 3px 3px;\n\n    background-color: #FFFFFF;\n\n    text-align: left;\n  }\n\n  div.content_section_text {\n    padding: 4px 8px 4px 8px;\n\n    color: #000000;\n    font-size: 100%;\n  }\n\n  div.content_section_text pre {\n    margin: 8px 0px 8px ",
+      "url": "http://98.172.28.76:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://98.172.28.76:443",
+      "success": false
+    }
+  },
+  "142.44.162.252": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Transfer-Encoding": "chunked",
+        "Content-Encoding": "gzip",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 19:07:50 GMT",
+        "Etag": "W/\"6750c5c8-264\"",
+        "Last-Modified": "Wed, 04 Dec 2024 21:12:40 GMT",
+        "Server": "nginx/1.18.0 (Ubuntu)"
+      },
+      "content": "<!DOCTYPE html>\n<html>\n<head>\n<title>Welcome to nginx!</title>\n<style>\n    body {\n        width: 35em;\n        margin: 0 auto;\n        font-family: Tahoma, Verdana, Arial, sans-serif;\n    }\n</style>\n</head>\n<body>\n<h1>Welcome to nginx!</h1>\n<p>If you see this page, the nginx web server is successfully installed and\nworking. Further configuration is required.</p>\n\n<p>For online documentation and support please refer to\n<a href=\"http://nginx.org/\">nginx.org</a>.<br/>\nCommercial support is available at\n<a href=\"http://nginx.com/\">nginx.com</a>.</p>\n\n<p><em>Thank you for using nginx.</em></p>\n</body>\n</html>\n",
+      "url": "http://142.44.162.252:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Server": "nginx/1.18.0 (Ubuntu)",
+        "Date": "Sat, 12 Jul 2025 19:07:52 GMT",
+        "Content-Type": "application/json",
+        "Content-Length": "93",
+        "Connection": "close"
+      },
+      "content": "{\"server\":\"services.getittechnologies.io\",\"checkURL\":\"https://services.getittechnologies.io\"}",
+      "url": "https://142.44.162.252:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "189.135.208.70": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://189.135.208.70:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://189.135.208.70:443",
+      "success": false
+    }
+  },
+  "176.241.37.172": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://176.241.37.172:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://176.241.37.172:443",
+      "success": false
+    }
+  },
+  "36.78.93.68": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://36.78.93.68:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://36.78.93.68:443",
+      "success": false
+    }
+  },
+  "75.172.59.107": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://75.172.59.107:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://75.172.59.107:443",
+      "success": false
+    }
+  },
+  "72.94.61.35": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://72.94.61.35:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://72.94.61.35:443",
+      "success": false
+    }
+  },
+  "172.251.219.255": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://172.251.219.255:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://172.251.219.255:443",
+      "success": false
+    }
+  },
+  "189.130.41.189": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://189.130.41.189:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://189.130.41.189:443",
+      "success": false
+    }
+  },
+  "43.251.84.139": {
+    "port_80": {
+      "status_code": 302,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "160",
+        "Cache-Control": "private",
+        "Content-Type": "text/html; charset=utf-8",
+        "Date": "Sat, 12 Jul 2025 18:59:28 GMT",
+        "Location": "/Account/Login.aspx?ReturnUrl=/default.aspx",
+        "Referrer-Policy": "no-referrer",
+        "Server": "Microsoft-IIS/10.0",
+        "Set-Cookie": "ASP.NET_SessionId=ecm0iezecbsoqadfisimvss2; path=/; HttpOnly",
+        "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "DENY",
+        "X-Xss-Protection": "1; mode=block"
+      },
+      "content": "<html><head><title>Object moved</title></head><body>\r\n<h2>Object moved to <a href=\"/Account/Login.aspx?ReturnUrl=/default.aspx\">here</a>.</h2>\r\n</body></html>\r\n",
+      "url": "http://43.251.84.139:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://43.251.84.139:443",
+      "success": false
+    }
+  },
+  "36.91.125.131": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://36.91.125.131:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 403,
+      "headers": {
+        "Date": "Sat, 12 Jul 2025 19:11:38 GMT",
+        "Server": "Apache/2.4.37 (Win32) OpenSSL/1.1.1a PHP/7.2.14",
+        "Content-Length": "433",
+        "Connection": "close",
+        "Content-Type": "text/html; charset=iso-8859-1"
+      },
+      "content": "<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">\n<html><head>\n<title>403 Forbidden</title>\n</head><body>\n<h1>Forbidden</h1>\n<p>You don't have permission to access /\non this server.<br />\n</p>\n<p>Additionally, a 403 Forbidden\nerror was encountered while trying to use an ErrorDocument to handle the request.</p>\n<hr>\n<address>Apache/2.4.37 (Win32) OpenSSL/1.1.1a PHP/7.2.14 Server at 36.91.125.131 Port 443</address>\n</body></html>\n",
+      "url": "https://36.91.125.131:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "94.255.229.169": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://94.255.229.169:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://94.255.229.169:443",
+      "success": false
+    }
+  },
+  "2.187.249.49": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "517",
+        "Cache-Control": "private",
+        "Content-Type": "text/html; charset=utf-8",
+        "Date": "Sat, 12 Jul 2025 19:12:13 GMT",
+        "Server": "Microsoft-IIS/10.0",
+        "X-Aspnet-Version": "2.0.50727",
+        "X-Powered-By": "ASP.NET"
+      },
+      "content": "\r\n\r\n<!DOCTYPE html>\r\n\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\r\n<head><title>\r\n\r\n</title></head>\r\n<body>\r\n    <form name=\"form1\" method=\"post\" action=\"default.aspx\" id=\"form1\">\r\n<div>\r\n<input type=\"hidden\" name=\"__VIEWSTATE\" id=\"__VIEWSTATE\" value=\"/wEPDwULLTE2MTY2ODcyMjlkZH5pagkaYE5nfAbsUDV/+6qJwqAw\" />\r\n</div>\r\n\r\n<div>\r\n\r\n\t<input type=\"hidden\" name=\"__VIEWSTATEGENERATOR\" id=\"__VIEWSTATEGENERATOR\" value=\"CA0B0334\" />\r\n</div>\r\n        <div>\r\n            Portal\r\n        </div>\r\n    </form>\r\n</body>\r\n</html>\r\n",
+      "url": "http://2.187.249.49:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://2.187.249.49:443",
+      "success": false
+    }
+  },
+  "120.41.98.236": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://120.41.98.236:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://120.41.98.236:443",
+      "success": false
+    }
+  },
+  "189.106.247.65": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://189.106.247.65:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://189.106.247.65:443",
+      "success": false
+    }
+  },
+  "80.14.38.238": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "261",
+        "Accept-Ranges": "bytes",
+        "Content-Encoding": "gzip",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 19:12:47 GMT",
+        "Etag": "\"173-62e575a8aca54-gzip\"",
+        "Last-Modified": "Mon, 17 Feb 2025 14:29:36 GMT",
+        "Server": "UNITECH SERVER",
+        "Vary": "Accept-Encoding"
+      },
+      "content": "<!doctype html>\r\n<html>\r\n<head>\r\n<meta charset=\"utf-8\">\r\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\r\n<meta http-equiv=\"refresh\" content=\"0; URL=https://unitechevents.synology.me/unitech/htdocs/\">\r\n<title>INTRANET UNITECH EVENTS</title>\r\n<link href=\"/css/defaut.css\" rel=\"stylesheet\" type=\"text/css\">\r\n</head>\r\n</head>\r\n<body>\r\n</body>\r\n</html>\r\n",
+      "url": "http://80.14.38.238:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Server": "UNITECH SERVER",
+        "Date": "Sat, 12 Jul 2025 19:12:48 GMT",
+        "Content-Type": "text/html",
+        "Content-Length": "261",
+        "Connection": "close",
+        "Last-Modified": "Mon, 17 Feb 2025 14:29:36 GMT",
+        "ETag": "\"173-62e575a8aca54-gzip\"",
+        "Accept-Ranges": "bytes",
+        "Vary": "Accept-Encoding",
+        "Content-Encoding": "gzip"
+      },
+      "content": "<!doctype html>\r\n<html>\r\n<head>\r\n<meta charset=\"utf-8\">\r\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\r\n<meta http-equiv=\"refresh\" content=\"0; URL=https://unitechevents.synology.me/unitech/htdocs/\">\r\n<title>INTRANET UNITECH EVENTS</title>\r\n<link href=\"/css/defaut.css\" rel=\"stylesheet\" type=\"text/css\">\r\n</head>\r\n</head>\r\n<body>\r\n</body>\r\n</html>\r\n",
+      "url": "https://80.14.38.238:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "103.196.152.208": {
+    "port_80": {
+      "status_code": 404,
+      "headers": {
+        "Connection": "close",
+        "Transfer-Encoding": "chunked",
+        "Content-Encoding": "gzip",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 19:13:45 GMT",
+        "Server": "openresty"
+      },
+      "content": "<html>\r\n<head><title>404 Not Found</title></head>\r\n<body>\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>openresty</center>\r\n</body>\r\n</html>\r\n",
+      "url": "http://103.196.152.208:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "SSL错误: HTTPSConnectionPool(host='103.196.152.208', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:852)'),))",
+      "url": "https://103.196.152.208:443",
+      "success": false
+    }
+  },
+  "177.38.179.154": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "2812",
+        "Content-Encoding": "gzip",
+        "Content-Type": "text/html; charset=UTF-8",
+        "Date": "Sat, 12 Jul 2025 19:14:02 GMT",
+        "Server": "Apache/2.4.41 (Ubuntu)",
+        "Vary": "Accept-Encoding"
+      },
+      "content": "<!DOCTYPE html>\n<html lang=\"pt-BR\">\n\n<head>\n   <meta charset=\"UTF-8\">\n   <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n   <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n   <meta name=\"description\" content=\"Bebidas, Água Mineral e Gás em Guanambi e Região\">\n   \n   <link rel=\"icon\" href=\"favicon2.png\">\n\n   <title>Disk Cerveja Guanambi - Bebidas, Água Mineral e Gás</title>\n\n   <link href=\"https://fonts.googleapis.com/css2?family=Anton&display=swap\" rel=\"stylesheet\">\n   <style>\n      @font-face {\n         font-family: \"Roboto Condensed\";\n         font-style: normal;\n         font-weight: 400;\n         src: local(\"Roboto Condensed\"), local(\"RobotoCondensed-Regular\"), url(\"https://fonts.gstatic.com/s/robotocondensed/v16/ieVl2ZhZI2eCN5jzbjEETS9weq8-19K7DQ.woff2\") format(\"woff2\");\n         unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;\n      }\n\n      body, html {\n         height: 100%;\n         margin: 0;\n         background-color:rgb(255, 255, 255);\n      }\n\n      .background {\n         position: absolute;\n         top: 0;\n         left: 0;\n         right: 0;\n         bottom: 0;\n         /*background-image: url('background.png');*/\n         background-repeat: repeat;\n         background-size: 600px;\n         filter: brightness(1.5);\n         z-index: -1;\n      }\n      \n      .container {\n         display: flex;\n         flex-direction: column;\n         min-height: 100vh;\n      }\n\n      .content {\n         /* Faz o conteúdo expandir para ocupar o espaço disponível */\n         flex: 1;\n         margin: 10px;\n      }\n\n      .footer {\n         background-image: url('background_rodape1.png');\n         background-repeat: repeat;\n         background-size: 1200px;\n         margin-top: 120px;\n      }\n\n      .app_rodape {\n         position: absolute;\n         height: 330px;\n         margin-top: -317px;\n      }\n\n      .table_td1 {\n         ver",
+      "url": "http://177.38.179.154:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Date": "Sat, 12 Jul 2025 19:14:04 GMT",
+        "Server": "Apache/2.4.41 (Ubuntu)",
+        "Last-Modified": "Wed, 23 Mar 2022 19:58:15 GMT",
+        "ETag": "\"8de-5dae826739ffb-gzip\"",
+        "Accept-Ranges": "bytes",
+        "Vary": "Accept-Encoding",
+        "Content-Encoding": "gzip",
+        "Content-Length": "870",
+        "Connection": "close",
+        "Content-Type": "text/html"
+      },
+      "content": "<!DOCTYPE html>\n<html lang=\"pt-BR\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=0.5, maximum-scale=2.0, user-scalable=yes\">\n    <meta name=\"theme-color\" content=\"#089CFE\">\n\n    <meta name=\"description\" content=\"Entrega RÃ¡pida, Ãgua em garrafada, Delivery de Ãgua mineral, Entregas sÃ¡bados domingo e feriado.\">\n    <meta name=\"keywords\" content=\"Entrega RÃ¡pida, Ãgua em garrafada, Delivery de Ãgua mineral, Entregas sÃ¡bados domingo e feriado.\">\n    <meta name=\"author\" content=\"Disk Ãgua Mineral Guanambi\">\n\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"css/layout.css?v=1\" />\n\n    <title>Disk Ãgua Mineral Guanambi</title>\n\n</head>\n<body style=\"background-color: #0B9EFD;\">\n    <table style=\"width: 100%;\">\n        <tr>\n            <td colspan=\"2\">\n                <img src=\"imagens/delivery-agua-mineral.jpg\" title=\"Entrega de Ã¡gua mineral em Guanambi\" style=\"width: 100%;\">\n            </td>\n        </tr>\n        <tr>\n            <td colspan=\"2\" style=\"padding-top: 20px; text-align: center; font-size: 38px; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;\">\n                <b>Ãgua Mineral em Guanambi</b>\n            </td>\n        </tr>\n        <tr>\n            <td style=\"padding-top: 20px; padding-bottom: 10px; padding-left: 20px; width: 80%; font-size: 33px; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;\">\n                <b>Telefone:</b><br>(77) 3452-2042<br>\n                <b>Celular:</b><br>(77) 99948-2042\n            </td>\n            <td style=\"padding-top: 20px; padding-bottom: 10px; padding-right: 20px; text-align: right;\">\n                <a href=\"https://play.google.com/store/apps/details?id=com.diskcervejaguanambi.catalogo.twa\"><img src=\"imagens/icon_playstore.png\" title=\"Google Playstore\"></a>",
+      "url": "https://177.38.179.154:443",
+      "redirect_history": [],
+      "success": true
+    }
+  }
+}

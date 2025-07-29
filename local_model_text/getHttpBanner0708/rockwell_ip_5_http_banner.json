@@ -1,0 +1,786 @@
+{
+  "166.215.205.105": {
+    "port_80": {
+      "status_code": 302,
+      "headers": {
+        "Connection": "close",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html",
+        "Date": "21:14:33, 12 Jul 2025",
+        "Location": "https://166.215.205.105/login.asp",
+        "Pragma": "no-cache",
+        "Server": "GoAhead-Webs",
+        "Set-Cookie": "SID=318f940c018279a71a4836ee521daa25; Version=1",
+        "X-Frame-Options": "SAMEORIGIN"
+      },
+      "content": "<html><head></head><body>\r\n\t\tThis document has moved to a new <a href=\"https://166.215.205.105/login.asp\">location</a>.\r\n\t\tPlease update your documents to reflect the new location.\r\n\t\t</body></html>\r\n\r\n",
+      "url": "http://166.215.205.105:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Server": "GoAhead-Webs",
+        "X-Frame-Options": "SAMEORIGIN",
+        "Set-Cookie": "SID=84ab6d0b1b11d9e92e0d8501e7eec77b; secure; Version=1",
+        "Pragma": "no-cache",
+        "Cache-control": "no-cache",
+        "Content-Type": "text/html"
+      },
+      "content": "<html>\n<head></head><body><script language=javascript>\r\ntop.location.href=\"/login.asp\"\r\n</script></body>\r\n</html>\n",
+      "url": "https://166.215.205.105:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "107.84.231.111": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://107.84.231.111:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Server": "nginx/1.16.1",
+        "Date": "Sun, 13 Jul 2025 03:15:01 GMT",
+        "Content-Type": "text/html; charset=utf-8",
+        "Last-Modified": "Thu, 02 Dec 2021 08:45:57 GMT",
+        "Transfer-Encoding": "chunked",
+        "Connection": "close",
+        "Vary": "Accept-Encoding",
+        "ETag": "W/\"61a887c5-bce\"",
+        "Content-Encoding": "gzip"
+      },
+      "content": "<!DOCTYPE html><html lang=\"en\"><head><link rel=\"stylesheet\" href=\"/umi.9d104fae.css\"><meta charset=\"UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta name=\"description\" content=\"Router Webinterface\"><meta name=\"keywords\" content=\"Router Webinterface\"><script>window.routerBase = \"/\";</script><script>window.umi_plugin_ant_themeVar = [{\"key\":\"standard\",\"fileName\":\"standard.css\",\"modifyVars\":{\"primary-color\":\"#3eb044\",\"card-actions-background\":\"#f5f8fa\",\"font-size-base\":\"14px\",\"table-padding-vertical\":\"11px\",\"table-padding-horizontal\":\"11px\",\"menu-item-height\":\"58px\",\"table-header-bg\":\"#F0F0F0\",\"menu-inline-toplevel-item-height\":\"58px\",\"layout-header-background\":\"#3eb044\",\"menu-dark-color\":\"#ebecf0\",\"menu-dark-submenu-bg\":\"@layout-header-background\",\"menu-dark-item-selected-bg\":\"#007626\",\"menu-dark-item-active-bg\":\"#009530\",\"menu-dark-highlight-color\":\"#007626\",\"menu-dark-selected-item-text-color\":\"#ebecf0\",\"layout-header-height\":\"58px\",\"btn-font-weight\":\"500\",\"btn-primary-bg\":\"#3eb044\",\"btn-default-bg\":\"#ebecf0\",\"btn-default-border\":\"@btn-default-bg\",\"btn-disable-border\":\"hsv(0, 0, 96%)\",\"btn-group-border\":\"#3eb044\",\"btn-padding-base\":\"0 12px\",\"btn-danger-bg\":\"#de350b\",\"btn-danger-border\":\"#de350b\",\"btn-danger-color\":\"#fff\",\"text-color\":\"#333\",\"heading-color\":\"#333\",\"disable-color\":\"#f4f5f7\",\"disable-bg\":\"@disable-color\",\"border-color-base\":\"#dfe1e6\",\"link-color\":\"#3eb044\",\"link-hover-color\":\"#009530\",\"link-active-color\":\"#3eb044\",\"item-hover-bg\":\"#F4F5F7\",\"input-height-base\":\"27px\",\"card-head-height\":\"42px\",\"card-head-padding\":\"10px\",\"card-padding-wider\":\"20px\"}},{\"key\":\"customTk\",\"fileName\":\"customTk.css\",\"modifyVars\":{\"primary-color\":\"#aaaaaa\",\"card-actions-background\":\"#f5f8fa\",\"font-size-base\":\"14px\",\"table-padding-vertical\":\"11px\",\"table-padding-horizontal\":\"11px\",\"menu-item-height\":\"58px\",\"table-header-bg\":\"#F0F0F0\",\"menu-inline-toplevel-item-height\":\"58px\",\"layout-header-backgrou",
+      "url": "https://107.84.231.111:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "78.136.96.207": {
+    "port_80": {
+      "status_code": 302,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "218",
+        "Cache-Control": "no-cache, no-store",
+        "Date": "THU JAN 01 18:37:29 1970",
+        "Expires": "THU JAN 01 18:37:29 1970",
+        "Location": "http://78.136.96.207/index.html",
+        "Pragma": "no-cache",
+        "X-Frame-Options": "SAMEORIGIN"
+      },
+      "content": "<html><head></head><body>\r\n        This document has moved to a new <a href=\"http://78.136.96.207/index.html\">location</a>.\r\n        Please update your documents to reflect the new location.\r\n        </body></html>\r\n\r\n",
+      "url": "http://78.136.96.207:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://78.136.96.207:443",
+      "success": false
+    }
+  },
+  "84.20.185.19": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://84.20.185.19:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://84.20.185.19:443",
+      "success": false
+    }
+  },
+  "72.28.62.109": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://72.28.62.109:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://72.28.62.109:443",
+      "success": false
+    }
+  },
+  "71.176.69.108": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://71.176.69.108:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://71.176.69.108:443",
+      "success": false
+    }
+  },
+  "166.169.154.242": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://166.169.154.242:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://166.169.154.242:443",
+      "success": false
+    }
+  },
+  "23.146.176.133": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://23.146.176.133:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://23.146.176.133:443",
+      "success": false
+    }
+  },
+  "166.193.23.23": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://166.193.23.23:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Server": "nginx",
+        "Date": "Sun, 13 Jul 2025 03:16:48 GMT",
+        "Content-Type": "text/html; charset=utf-8",
+        "Last-Modified": "Mon, 27 Nov 2023 06:55:32 GMT",
+        "Transfer-Encoding": "chunked",
+        "Connection": "close",
+        "Vary": "Accept-Encoding",
+        "ETag": "W/\"65643d64-15b4\"",
+        "X-Frame-Options": "SAMEORIGIN",
+        "X-Content-Type-Options": "nosniff",
+        "X-XSS-Protection": "1; mode=block",
+        "Content-Encoding": "gzip"
+      },
+      "content": "<!DOCTYPE html><html lang=\"en\"><head><link rel=\"stylesheet\" href=\"/umi.b2489ab9.css\"><meta charset=\"UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta name=\"description\" content=\"Router Webinterface\"><meta name=\"keywords\" content=\"Router Webinterface\"><script>window.routerBase = \"/\";</script><script>window.umi_plugin_ant_themeVar = [{\"key\":\"standard\",\"fileName\":\"standard.css\",\"modifyVars\":{\"primary-color\":\"#3eb044\",\"card-actions-background\":\"#f5f8fa\",\"font-size-base\":\"14px\",\"table-padding-vertical\":\"11px\",\"table-padding-horizontal\":\"11px\",\"menu-item-height\":\"58px\",\"table-header-bg\":\"#F0F0F0\",\"menu-inline-toplevel-item-height\":\"58px\",\"layout-header-background\":\"#3eb044\",\"menu-dark-color\":\"#ebecf0\",\"menu-dark-submenu-bg\":\"@layout-header-background\",\"menu-dark-item-selected-bg\":\"#007626\",\"menu-dark-item-active-bg\":\"#009530\",\"menu-dark-highlight-color\":\"#007626\",\"menu-dark-selected-item-text-color\":\"#ebecf0\",\"layout-header-height\":\"58px\",\"btn-font-weight\":\"500\",\"btn-primary-bg\":\"#3eb044\",\"btn-default-bg\":\"#ebecf0\",\"btn-default-border\":\"@btn-default-bg\",\"btn-disable-border\":\"hsv(0, 0, 96%)\",\"btn-group-border\":\"#3eb044\",\"btn-padding-base\":\"0 12px\",\"btn-danger-bg\":\"#de350b\",\"btn-danger-border\":\"#de350b\",\"btn-danger-color\":\"#fff\",\"text-color\":\"#333\",\"heading-color\":\"#333\",\"disable-color\":\"#f4f5f7\",\"disable-bg\":\"@disable-color\",\"border-color-base\":\"#dfe1e6\",\"link-color\":\"#3eb044\",\"link-hover-color\":\"#009530\",\"link-active-color\":\"#3eb044\",\"item-hover-bg\":\"#F4F5F7\",\"input-height-base\":\"27px\",\"card-head-height\":\"42px\",\"card-head-padding\":\"10px\",\"card-padding-wider\":\"20px\"}},{\"key\":\"customTk\",\"fileName\":\"customTk.css\",\"modifyVars\":{\"primary-color\":\"#aaaaaa\",\"card-actions-background\":\"#f5f8fa\",\"font-size-base\":\"14px\",\"table-padding-vertical\":\"11px\",\"table-padding-horizontal\":\"11px\",\"menu-item-height\":\"58px\",\"table-header-bg\":\"#F0F0F0\",\"menu-inline-toplevel-item-height\":\"58px\",\"layout-header-backgrou",
+      "url": "https://166.193.23.23:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "166.154.164.247": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://166.154.164.247:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://166.154.164.247:443",
+      "success": false
+    }
+  },
+  "146.196.67.220": {
+    "port_80": {
+      "status_code": 301,
+      "headers": {
+        "Connection": "close",
+        "Location": "https://146.196.67.220:80/hub/",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://146.196.67.220:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 301,
+      "headers": {
+        "Location": "https://146.196.67.220/hub/",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "https://146.196.67.220:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "70.54.186.134": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "481",
+        "Content-Encoding": "gzip",
+        "Content-Type": "text/html;charset=UTF-8",
+        "Date": "Sun, 13 Jul 2025 03:17:41 GMT",
+        "Server": "Apache/2.4.52 (Ubuntu)",
+        "Vary": "Accept-Encoding"
+      },
+      "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 3.2 Final//EN\">\n<html>\n <head>\n  <title>Index of /</title>\n </head>\n <body>\n<h1>Index of /</h1>\n  <table>\n   <tr><th valign=\"top\"><img src=\"/icons/blank.gif\" alt=\"[ICO]\"></th><th><a href=\"?C=N;O=D\">Name</a></th><th><a href=\"?C=M;O=A\">Last modified</a></th><th><a href=\"?C=S;O=A\">Size</a></th><th><a href=\"?C=D;O=A\">Description</a></th></tr>\n   <tr><th colspan=\"5\"><hr></th></tr>\n<tr><td valign=\"top\"><img src=\"/icons/folder.gif\" alt=\"[DIR]\"></td><td><a href=\"backups/\">backups/</a></td><td align=\"right\">2022-06-14 16:44  </td><td align=\"right\">  - </td><td>&nbsp;</td></tr>\n<tr><td valign=\"top\"><img src=\"/icons/folder.gif\" alt=\"[DIR]\"></td><td><a href=\"files/\">files/</a></td><td align=\"right\">2024-02-13 16:43  </td><td align=\"right\">  - </td><td>&nbsp;</td></tr>\n<tr><td valign=\"top\"><img src=\"/icons/folder.gif\" alt=\"[DIR]\"></td><td><a href=\"logs/\">logs/</a></td><td align=\"right\">2025-07-12 04:36  </td><td align=\"right\">  - </td><td>&nbsp;</td></tr>\n<tr><td valign=\"top\"><img src=\"/icons/folder.gif\" alt=\"[DIR]\"></td><td><a href=\"pal/\">pal/</a></td><td align=\"right\">2024-01-09 14:27  </td><td align=\"right\">  - </td><td>&nbsp;</td></tr>\n   <tr><th colspan=\"5\"><hr></th></tr>\n</table>\n<address>Apache/2.4.52 (Ubuntu) Server at 70.54.186.134 Port 80</address>\n</body></html>\n",
+      "url": "http://70.54.186.134:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://70.54.186.134:443",
+      "success": false
+    }
+  },
+  "2.55.89.76": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://2.55.89.76:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 302,
+      "headers": {
+        "Server": "Goahead/2.5.0 PeerSec-MatrixSSL/3.2.1-OPEN",
+        "Date": "Tue May 24 19:26:32 2016",
+        "Pragma": "no-cache",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html",
+        "Location": "https://2.55.89.76/index.asp"
+      },
+      "content": "<html><head></head><body>\r\n\t\tThis document has moved to a new <a href=\"https://2.55.89.76/index.asp\">location</a>.\r\n\t\tPlease update your documents to reflect the new location.\r\n\t\t</body></html>\r\n\r\n",
+      "url": "https://2.55.89.76:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "63.45.113.140": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://63.45.113.140:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://63.45.113.140:443",
+      "success": false
+    }
+  },
+  "166.215.56.207": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://166.215.56.207:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://166.215.56.207:443",
+      "success": false
+    }
+  },
+  "166.165.107.122": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://166.165.107.122:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://166.165.107.122:443",
+      "success": false
+    }
+  },
+  "142.165.177.228": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://142.165.177.228:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://142.165.177.228:443",
+      "success": false
+    }
+  },
+  "166.142.211.169": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://166.142.211.169:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://166.142.211.169:443",
+      "success": false
+    }
+  },
+  "166.157.134.17": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://166.157.134.17:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://166.157.134.17:443",
+      "success": false
+    }
+  },
+  "166.142.211.209": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://166.142.211.209:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://166.142.211.209:443",
+      "success": false
+    }
+  },
+  "166.154.108.228": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://166.154.108.228:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://166.154.108.228:443",
+      "success": false
+    }
+  },
+  "88.28.204.204": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "531",
+        "Content-Type": "text/html",
+        "Date": "Sun, 13 Jul 2025 03:19:38 GMT",
+        "Etag": "\"1251-213-5f550c1b\"",
+        "Last-Modified": "Sun, 06 Sep 2020 16:19:39 GMT"
+      },
+      "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.1//EN\" \"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\n<head>\n<meta http-equiv=\"Cache-Control\" content=\"no-cache, no-store, must-revalidate\" />\n<meta http-equiv=\"refresh\" content=\"0; URL=cgi-bin/luci/\" />\n</head>\n<body style=\"background-color: white\">\n<!-- <a style=\"color: black; font-family: arial, helvetica, sans-serif;\" href=\"cgi-bin/luci/\">LuCI - Lua Configuration Interface</a> -->\n</body>\n</html>\n",
+      "url": "http://88.28.204.204:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "ETag": "\"1251-213-5f550c1b\"",
+        "Last-Modified": "Sun, 06 Sep 2020 16:19:39 GMT",
+        "Date": "Sun, 13 Jul 2025 03:19:41 GMT",
+        "Content-Type": "text/html",
+        "Content-Length": "531"
+      },
+      "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.1//EN\" \"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\n<head>\n<meta http-equiv=\"Cache-Control\" content=\"no-cache, no-store, must-revalidate\" />\n<meta http-equiv=\"refresh\" content=\"0; URL=cgi-bin/luci/\" />\n</head>\n<body style=\"background-color: white\">\n<!-- <a style=\"color: black; font-family: arial, helvetica, sans-serif;\" href=\"cgi-bin/luci/\">LuCI - Lua Configuration Interface</a> -->\n</body>\n</html>\n",
+      "url": "https://88.28.204.204:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "63.47.8.162": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://63.47.8.162:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://63.47.8.162:443",
+      "success": false
+    }
+  },
+  "166.152.70.215": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://166.152.70.215:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://166.152.70.215:443",
+      "success": false
+    }
+  },
+  "98.188.125.66": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Type": "text/html",
+        "Expires": "Thu, 01 Dec 1994 16:00:00 GMT",
+        "Server": "A-B WWW/0.1"
+      },
+      "content": "<html><head><title>1763-L16AWA B/16.00</title><META HTTP-EQUIV=\"Pragma\" CONTENT=\"no-cache\"><META HTTP-EQUIV=\"Expires\" CONTENT=\"-1\">\r\n<frameset rows=\"0,52,*\" border=0 frameborder=no>\r\n<frame src=\"redirect.htm\" name=redirect id=redirect frameborder=0 scrolling=No noresize marginwidth=0 marginheight=0>\r\n<frame src=\"header.htm\" name=header id=header frameborder=0 scrolling=No noresize marginwidth=0 marginheight=0>\r\n<frameset cols=\"20%,80%\" frameborder=1>\r\n<frame src=\"navtree.htm\" name=navtree id=navtree frameborder=0 nowrap=true scrolling=yes marginwidth=0 marginheight=0>\r\n<frame src=\"home.htm\" name=home id=home frameborder=0 scrolling=auto marginwidth=0 marginheight=0\r\n</frameset></frameset></head>\r\n<noframes><body><br><center><b>Your browser cannot render frames. Please upgrade to a newer version.</b></body></noframes></body></html>",
+      "url": "http://98.188.125.66:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://98.188.125.66:443",
+      "success": false
+    }
+  },
+  "217.74.63.12": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://217.74.63.12:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://217.74.63.12:443",
+      "success": false
+    }
+  },
+  "166.248.155.158": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://166.248.155.158:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://166.248.155.158:443",
+      "success": false
+    }
+  },
+  "165.220.129.173": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "672",
+        "Content-Type": "text/html",
+        "Date": "Sun, 13 Jul 2025 03:20:59 GMT",
+        "Etag": "\"40b-2a0-625abdb6\"",
+        "Last-Modified": "Sat, 16 Apr 2022 12:59:34 GMT"
+      },
+      "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.1//EN\" \"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\n\t<head>\n\t\t<meta http-equiv=\"Cache-Control\" content=\"no-cache, no-store, must-revalidate\" />\n\t\t<meta http-equiv=\"refresh\" content=\"0; URL=cgi-bin/luci/\" />\n\t\t<style type=\"text/css\">\n\t\t\tbody { background: white; font-family: arial, helvetica, sans-serif; }\n\t\t\ta { color: black; }\n\n\t\t\t@media (prefers-color-scheme: dark) {\n\t\t\t\tbody { background: black; }\n\t\t\t\ta { color: white; }\n\t\t\t}\n\t\t</style>\n\t</head>\n\t<body>\n\t\t<a href=\"cgi-bin/luci/\">LuCI - Lua Configuration Interface</a>\n\t</body>\n</html>\n",
+      "url": "http://165.220.129.173:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "ETag": "\"40b-2a0-625abdb6\"",
+        "Last-Modified": "Sat, 16 Apr 2022 12:59:34 GMT",
+        "Date": "Sun, 13 Jul 2025 03:21:03 GMT",
+        "Content-Type": "text/html",
+        "Content-Length": "672"
+      },
+      "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.1//EN\" \"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\n\t<head>\n\t\t<meta http-equiv=\"Cache-Control\" content=\"no-cache, no-store, must-revalidate\" />\n\t\t<meta http-equiv=\"refresh\" content=\"0; URL=cgi-bin/luci/\" />\n\t\t<style type=\"text/css\">\n\t\t\tbody { background: white; font-family: arial, helvetica, sans-serif; }\n\t\t\ta { color: black; }\n\n\t\t\t@media (prefers-color-scheme: dark) {\n\t\t\t\tbody { background: black; }\n\t\t\t\ta { color: white; }\n\t\t\t}\n\t\t</style>\n\t</head>\n\t<body>\n\t\t<a href=\"cgi-bin/luci/\">LuCI - Lua Configuration Interface</a>\n\t</body>\n</html>\n",
+      "url": "https://165.220.129.173:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "166.150.90.125": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://166.150.90.125:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://166.150.90.125:443",
+      "success": false
+    }
+  },
+  "166.239.205.53": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://166.239.205.53:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://166.239.205.53:443",
+      "success": false
+    }
+  },
+  "23.146.176.111": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://23.146.176.111:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://23.146.176.111:443",
+      "success": false
+    }
+  },
+  "174.90.217.211": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://174.90.217.211:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://174.90.217.211:443",
+      "success": false
+    }
+  },
+  "166.139.115.49": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://166.139.115.49:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://166.139.115.49:443",
+      "success": false
+    }
+  },
+  "166.167.68.71": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://166.167.68.71:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://166.167.68.71:443",
+      "success": false
+    }
+  },
+  "107.85.58.204": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Cache-Control": "no-cache",
+        "Content-Type": "text/html",
+        "Pragma": "no-cache",
+        "Server": "GoAhead-Webs",
+        "Set-Cookie": "SID=e5408e887f3c08be24d37437bfb35e9a; Max-Age=1200; Version=1"
+      },
+      "content": "<html>\n<head></head><body><script language=javascript>\r\ntop.location.href=\"/login.asp\"\r\n</script></body>\r\n</html>\n",
+      "url": "http://107.85.58.204:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Server": "GoAhead-Webs",
+        "Set-Cookie": "SID=f7c16c87912d8cac8eeb9f22595d6683; Max-Age=1200; Version=1",
+        "Pragma": "no-cache",
+        "Cache-control": "no-cache",
+        "Content-Type": "text/html"
+      },
+      "content": "<html>\n<head></head><body><script language=javascript>\r\ntop.location.href=\"/login.asp\"\r\n</script></body>\r\n</html>\n",
+      "url": "https://107.85.58.204:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "166.166.85.95": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://166.166.85.95:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://166.166.85.95:443",
+      "success": false
+    }
+  },
+  "184.6.175.136": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Expires": "Thu, 01 Dec 1994 16:00:00 GMT",
+        "Server": "A-B WWW/0.1"
+      },
+      "content": "<html><head><title>1766-L32BXB B/15.00  </title><META HTTP-EQUIV=\"Pragma\" CONTENT=\"no-cache\"><META HTTP-EQUIV=\"Expires\" CONTENT=\"-1\">\r\n<frameset rows=\"0,52,*\" border=0 frameborder=no>\r\n<frame src=\"redirect.htm\" name=redirect id=redirect frameborder=0 scrolling=No noresize marginwidth=0 marginheight=0>\r\n<frame src=\"header.htm\" name=header id=header frameborder=0 scrolling=No noresize marginwidth=0 marginheight=0>\r\n<frameset cols=\"20%,80%\" frameborder=1>\r\n<frame src=\"navtree.htm\" name=navtree id=navtree frameborder=0 nowrap=true scrolling=yes marginwidth=0 marginheight=0>\r\n<frame src=\"home.htm\" name=home id=home frameborder=0 scrolling=auto marginwidth=0 marginheight=0\r\n</frameset></frameset></head>\r\n<noframes><body><br><center><b>Your browser cannot render frames. Please upgrade to a newer version.</b></body></noframes></body></html>",
+      "url": "http://184.6.175.136:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://184.6.175.136:443",
+      "success": false
+    }
+  }
+}

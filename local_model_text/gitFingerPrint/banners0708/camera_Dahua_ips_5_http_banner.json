@@ -1,0 +1,631 @@
+{
+  "171.228.220.82": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://171.228.220.82:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://171.228.220.82:443",
+      "success": false
+    }
+  },
+  "65.101.151.60": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://65.101.151.60:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://65.101.151.60:443",
+      "success": false
+    }
+  },
+  "91.218.210.205": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://91.218.210.205:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://91.218.210.205:443",
+      "success": false
+    }
+  },
+  "112.161.157.116": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "25213",
+        "Cache-Control": "max-age=0",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 23:14:42 GMT",
+        "Etag": "\"1507877796:627d\"",
+        "Last-Modified": "Fri, 13 Oct 2017 06:56:36 GMT"
+      },
+      "content": "<!DOCTYPE html> <html> <head> <title></title> <meta charset=\"UTF-8\"> <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"> <script src=\"jsBase/lib/jquery.js?version=@WebVersion@\"></script> <script src=\"jsBase/widget/js/jquery.ui.core.js?version=@WebVersion@\"></script> <script src=\"jsBase/widget/js/jquery.ui.widget.js?version=@WebVersion@\"></script> <script>jQuery.noConflict();</script> <script src=\"jsBase/lib/jquery.pubsub.js?version=@WebVersion@\"></script> <script src=\"jsBase/lib/m.js?version=@WebVersion@\"></script> <script src=\"jsBase/lib/more.js?version=@WebVersion@\"></script> <script src=\"jsBase/common/extend.js?version=@WebVersion@\"></script> <script type=\"text/javascript\">// forced to add parametersï¼ensure the FF image loading do not fail\r\n    var cssList = ['css/reset.css', 'css/ui.css', 'css/custom.css', 'css/skin.css', 'css/main.css', 'css/alarm.css', 'css/set.css', 'css/resize.css', 'css/playback.css', 'jsBase/widget/css/ui.css', 'jsBase/widget/css/skin.css', 'css/fn.css', 'css/thermal.css'];\r\n\r\n    for (var i = 0; i < cssList.length; i++) {\r\n        var lt = \"?WebVersion=@WebVersion@\"\r\n\r\n        //To solve the problem of css loading in ie7 8\r\n        if (!(jQuery.browser.ie7 || jQuery.browser.ie8)) {\r\n            if (location.href.split('?')[1]) {\r\n                lt += \"&\" + location.href.split('?')[1];\r\n            }\r\n        }\r\n        var cssNode = document.createElement(\"link\");\r\n        cssNode.rel = 'stylesheet';\r\n        cssNode.type = \"text/css\";\r\n        cssNode.media = 'screen';\r\n        cssNode.href = cssList[i] + lt;\r\n\r\n        document.head.appendChild(cssNode);\r\n    }\r\n    cssList = null, lt = null;</script> </head> <body>  <div id=\"login\" class=\"login\"> <div class=\"login-container\"> <div class=\"login-content\"> <div id=\"login_logo\"></div> <div class=\"login-inputbox fn-clear\"> <form autocomplete=\"off\"> <div class=\"login-input-item\"> <label t=\"w_Username+:\" class=\"login-input-title\">  </label> <input type=\"text\" id=\"login_user\" class=\"fn-wi",
+      "url": "http://112.161.157.116:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://112.161.157.116:443",
+      "success": false
+    }
+  },
+  "5.202.168.43": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://5.202.168.43:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://5.202.168.43:443",
+      "success": false
+    }
+  },
+  "175.144.186.161": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://175.144.186.161:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://175.144.186.161:443",
+      "success": false
+    }
+  },
+  "104.243.226.249": {
+    "port_80": {
+      "status_code": 302,
+      "headers": {
+        "Connection": "close",
+        "Date": "Tue, 15 Jan 2019 10:06:45 GMT",
+        "Location": "/cookiechecker?uri=/",
+        "Server": "lighttpd/1.4.39",
+        "Set-Cookie": "AIROS_802AA82A2830=da5aef222665d6f7ac0b8bd9ce9b9dfc; Path=/; Version=1",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://104.243.226.249:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://104.243.226.249:443",
+      "success": false
+    }
+  },
+  "210.142.119.73": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "25213",
+        "Cache-Control": "max-age=0",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 23:14:38 GMT",
+        "Etag": "\"1504063293:627d\"",
+        "Last-Modified": "Wed, 30 Aug 2017 03:21:33 GMT"
+      },
+      "content": "<!DOCTYPE html> <html> <head> <title></title> <meta charset=\"UTF-8\"> <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"> <script src=\"jsBase/lib/jquery.js?version=@WebVersion@\"></script> <script src=\"jsBase/widget/js/jquery.ui.core.js?version=@WebVersion@\"></script> <script src=\"jsBase/widget/js/jquery.ui.widget.js?version=@WebVersion@\"></script> <script>jQuery.noConflict();</script> <script src=\"jsBase/lib/jquery.pubsub.js?version=@WebVersion@\"></script> <script src=\"jsBase/lib/m.js?version=@WebVersion@\"></script> <script src=\"jsBase/lib/more.js?version=@WebVersion@\"></script> <script src=\"jsBase/common/extend.js?version=@WebVersion@\"></script> <script type=\"text/javascript\">// forced to add parametersï¼ensure the FF image loading do not fail\r\n    var cssList = ['css/reset.css', 'css/ui.css', 'css/custom.css', 'css/skin.css', 'css/main.css', 'css/alarm.css', 'css/set.css', 'css/resize.css', 'css/playback.css', 'jsBase/widget/css/ui.css', 'jsBase/widget/css/skin.css', 'css/fn.css', 'css/thermal.css'];\r\n\r\n    for (var i = 0; i < cssList.length; i++) {\r\n        var lt = \"?WebVersion=@WebVersion@\"\r\n\r\n        //To solve the problem of css loading in ie7 8\r\n        if (!(jQuery.browser.ie7 || jQuery.browser.ie8)) {\r\n            if (location.href.split('?')[1]) {\r\n                lt += \"&\" + location.href.split('?')[1];\r\n            }\r\n        }\r\n        var cssNode = document.createElement(\"link\");\r\n        cssNode.rel = 'stylesheet';\r\n        cssNode.type = \"text/css\";\r\n        cssNode.media = 'screen';\r\n        cssNode.href = cssList[i] + lt;\r\n\r\n        document.head.appendChild(cssNode);\r\n    }\r\n    cssList = null, lt = null;</script> </head> <body>  <div id=\"login\" class=\"login\"> <div class=\"login-container\"> <div class=\"login-content\"> <div id=\"login_logo\"></div> <div class=\"login-inputbox fn-clear\"> <form autocomplete=\"off\"> <div class=\"login-input-item\"> <label t=\"w_Username+:\" class=\"login-input-title\">  </label> <input type=\"text\" id=\"login_user\" class=\"fn-wi",
+      "url": "http://210.142.119.73:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://210.142.119.73:443",
+      "success": false
+    }
+  },
+  "78.186.119.79": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "17223",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 17:16:08 GMT",
+        "Etag": "\"0:4347\"",
+        "Last-Modified": "Thu, 01 Jan 1970 00:00:00 GMT",
+        "P3p": "CP=CAO PSA OUR"
+      },
+      "content": "ï»¿<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\r\n<html> \r\n<head>\r\n<title>WEB SERVICE</title>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" >\r\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=6;IE=7; IE=8; IE=EmulateIE7\" />\r\n<script type=\"text/javascript\" src=\"jsBase/lib/jquery.js\"></script>\r\n<script type=\"text/javascript\" src=\"jsBase/widget/js/jquery.ui.core.js\"></script>\r\n<script type=\"text/javascript\" src=\"jsBase/widget/js/jquery.ui.widget.js\"></script>\r\n<script type=\"text/javascript\">jQuery.noConflict();</script>\r\n<script type=\"text/javascript\" src=\"jsBase/lib/base64.js\"></script>\r\n<script type=\"text/javascript\" src=\"jsBase/lib/md5.js\"></script>\r\n<script type=\"text/javascript\" src=\"jsBase/lib/m1.2.js\"></script>\r\n<script type=\"text/javascript\" src=\"jsBase/lib/more.js\"></script>\r\n<script type=\"text/javascript\" src=\"jsBase/common/extend.js\"></script>\r\n<script type=\"text/javascript\" src=\"jsCore/rpcCore.js\"></script>\r\n<script type=\"text/javascript\" src=\"jsBase/lib/sea.js\"></script>\r\n<script type=\"text/javascript\" src=\"jsBase/lib/seajs-text.js\"></script>\r\n<script type=\"text/javascript\" src=\"jsCore/common.js\"></script>\r\n<script type=\"text/javascript\" src=\"js/publicFunc.js\"></script>\r\n<script type=\"text/javascript\" src=\"js/system.js\"></script>\r\n<script type=\"text/javascript\" src=\"js/loginEx.js\"></script>\r\n<script type=\"text/javascript\" src=\"/pluginVersion.js\"></script>\r\n<script type=\"text/javascript\" src=\"/olp.js\"></script>\r\n<script type=\"text/javascript\" src=\"cap.js\"></script>\r\n<!--<script type=\"text/javascript\" src=\"js/previewindex.js\"></script>-->\r\n<script type=\"text/javascript\" src=\"js/appAbility.js\"></script>\r\n\r\n<script type=\"text/javascript\" src=\"js/index.js\"></script>\r\n<script type=\"text/javascript\" src=\"/js/pluginAdaptor.js\"></script>\r\n<script type=\"text/javascript\" src=\"js/eventScript.js\"></script>\r\n<script type=\"text/javascript\">\r\n    //seajséç½®åå¯å¨webAppå¥å£\r\n    sea",
+      "url": "http://78.186.119.79:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Cache-control": "no-cache, no-store, max-age=0",
+        "Content-Type": "text/html; charset=UTF-8",
+        "Pragma": "no-cache",
+        "Transfer-Encoding": "chunked",
+        "X-Frame-Options": "SAMEORIGIN",
+        "Connection": "Keep-Alive",
+        "X-XSS-Protection": "1; mode=block",
+        "Content-Security-Policy": "default-src 'self' 'unsafe-inline' 'unsafe-eval'"
+      },
+      "content": "﻿<html>\r\n\r\n<head>\r\n  <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\r\n  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge;chrome=1\">\r\n  <!-IE7 mode->\r\n    <meta http-equiv=\"Pragma\" content=\"no-cache\" />\r\n    <title></title>\r\n    <link href=\"/Cuscss/login.css?202312230804440159067425\" media=\"all\" rel=\"stylesheet\" />\r\n    <link href=\"/Cuscss/turkish/frame.css?202312230804440159067425\" media=\"all\" rel=\"stylesheet\" />\r\n    <script language=\"JavaScript\" src=\"/resource/common/util.js?202312230804440159067425\"></script>\r\n    <style type=\"text/css\">\r\n      #first {\r\n        background-color: white;\r\n        height: 25px;\r\n        text-align: center;\r\n        color: red;\r\n        position: absolute;\r\n        width: 380px;\r\n        top: 312px;\r\n      }\r\n\r\n\r\n      #pwd_modify {\r\n        border: 1px solid #CCCCCC;\r\n        width: 650px;\r\n        margin-left: 600px;\r\n        margin-top: 140px;\r\n        position: absolute;\r\n        z-index: 10;\r\n        background: #FFFFFF;\r\n        display: none;\r\n      }\r\n\r\n      #base_mask {\r\n        width: 100%;\r\n        height: 100%;\r\n        position: absolute;\r\n        left: 0px;\r\n        right: 0px;\r\n        z-index: 2;\r\n        filter: alpha(opacity=60);\r\n        -moz-opacity: 0.6;\r\n        -khtml-opacity: 0.6;\r\n        opacity: 0.8;\r\n        background-color: #eeeeee;\r\n        display: none;\r\n      }\r\n      .err-center {\r\n        display: flow;\r\n        margin: 0 auto;\r\n        float:none;\r\n      }\r\n    </style>\r\n    <script language=\"JavaScript\" src=\"/resource/common/RndSecurityFormat.js?202312230804440159067425\"></script>\r\n    <script language=\"JavaScript\" src=\"/resource/common/safelogin.js?202312230804440159067425\"></script>\r\n    <script type=\"text/javascript\" src=\"/resource/common/jquery.min.js?202312230804440159067425\"></script>\r\n    <script id=\"langResource\" language=\"JavaScript\" src=\"/frameaspdes/turkish/ssmpdes.js?202312230804440159067425\"></script>\r\n    <script language=\"JavaScript\" type=\"text/javascript\">",
+      "url": "https://78.186.119.79:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "82.76.109.31": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://82.76.109.31:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://82.76.109.31:443",
+      "success": false
+    }
+  },
+  "79.18.143.233": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://79.18.143.233:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://79.18.143.233:443",
+      "success": false
+    }
+  },
+  "84.112.36.128": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://84.112.36.128:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "status_code": 200,
+      "headers": {
+        "Date": "Sat, 12 Jul 2025 14:16:08 GMT",
+        "Server": "http server 1.0",
+        "X-Frame-Options": "SAMEORIGIN",
+        "Content-type": "text/html; charset=UTF-8",
+        "Last-modified": "Tue, 18 Jun 2024 03:51:35 GMT",
+        "Accept-Ranges": "bytes",
+        "Vary": "Accept-Encoding",
+        "Content-Encoding": "gzip",
+        "Content-Length": "360",
+        "Connection": "close"
+      },
+      "content": "<html style=\"background:#007cef\">\n<head>\n<meta http-equiv=\"expires\" content=\"0\">\n<script type='text/javascript'>\npr=(document.location.protocol == 'https:') ? 'https' : 'http';\npt=(location.port == '') ? '' : ':' + location.port;\nredirect_suffix = \"/redirect.html?count=\"+Math.random();\nif(location.hostname.indexOf(':') == -1)\n{\nlocation.href=pr+\"://\"+location.hostname+pt+redirect_suffix;\n}\nelse\t//could be ipv6 addr\n{\nvar url = \"\";\nurl=pr+\"://[\"+ location.hostname.replace(/[\\[\\]]/g, '') +\"]\"+pt+redirect_suffix;\nlocation.href = url;\n}\n</script>\n</head>\n<body>\n</body>\n</html>\n",
+      "url": "https://84.112.36.128:443",
+      "redirect_history": [],
+      "success": true
+    }
+  },
+  "58.186.162.125": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://58.186.162.125:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://58.186.162.125:443",
+      "success": false
+    }
+  },
+  "58.177.209.133": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "17173",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 22:13:36 GMT",
+        "Etag": "\"1458652050:4315\"",
+        "Last-Modified": "Tue, 22 Mar 2016 13:07:30 GMT",
+        "P3p": "CP=CAO PSA OUR"
+      },
+      "content": "ï»¿<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\r\n<html> \r\n<head>\r\n<title>WEB SERVICE</title>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" >\r\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=6;IE=7; IE=8; IE=EmulateIE7\" />\r\n<script type=\"text/javascript\" src=\"jsBase/lib/jquery.js\"></script>\r\n<script type=\"text/javascript\" src=\"jsBase/widget/js/jquery.ui.core.js\"></script>\r\n<script type=\"text/javascript\" src=\"jsBase/widget/js/jquery.ui.widget.js\"></script>\r\n<script type=\"text/javascript\" src=\"jsBase/widget/js/dui.fisheye.js\"></script>\r\n<script type=\"text/javascript\">jQuery.noConflict();</script>\r\n<script type=\"text/javascript\" src=\"jsBase/lib/base64.js\"></script>\r\n<script type=\"text/javascript\" src=\"jsBase/lib/md5.js\"></script>\r\n<script type=\"text/javascript\" src=\"jsBase/lib/m1.2.js\"></script>\r\n<script type=\"text/javascript\" src=\"jsBase/lib/more.js\"></script>\r\n<script type=\"text/javascript\" src=\"jsBase/common/extend.js\"></script>\r\n<script type=\"text/javascript\" src=\"jsCore/rpcCore.js\"></script>\r\n<script type=\"text/javascript\" src=\"jsBase/lib/sea.js\"></script>\r\n<script type=\"text/javascript\" src=\"jsCore/common.js\"></script>\r\n<script type=\"text/javascript\" src=\"js/loginEx.js\"></script>\r\n<script type=\"text/javascript\" src=\"js/publicFunc.js\"></script>\r\n<script type=\"text/javascript\" src=\"js/system.js\"></script>\r\n<script type=\"text/javascript\" src=\"/pluginVersion.js\"></script>\r\n<script type=\"text/javascript\" src=\"/olp.js\"></script>\r\n<script type=\"text/javascript\" src=\"cap.js\"></script>\r\n<script type=\"text/javascript\" src=\"Component/level.js\"></script>\r\n<!--<script type=\"text/javascript\" src=\"js/previewindex.js\"></script>-->\r\n<script type=\"text/javascript\" src=\"js/appAbility.js\"></script>\r\n\r\n<script type=\"text/javascript\" src=\"js/index.js\"></script>\r\n<script type=\"text/javascript\" src=\"/js/pluginAdaptor.js\"></script>\r\n<script type=\"text/javascript\" src=\"js/eventScript.js\"></script>\r\n<scrip",
+      "url": "http://58.177.209.133:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://58.177.209.133:443",
+      "success": false
+    }
+  },
+  "2.139.194.127": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://2.139.194.127:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://2.139.194.127:443",
+      "success": false
+    }
+  },
+  "222.114.12.193": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://222.114.12.193:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://222.114.12.193:443",
+      "success": false
+    }
+  },
+  "171.249.39.16": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://171.249.39.16:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://171.249.39.16:443",
+      "success": false
+    }
+  },
+  "115.72.149.168": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://115.72.149.168:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://115.72.149.168:443",
+      "success": false
+    }
+  },
+  "178.173.145.208": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://178.173.145.208:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://178.173.145.208:443",
+      "success": false
+    }
+  },
+  "203.7.9.75": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://203.7.9.75:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://203.7.9.75:443",
+      "success": false
+    }
+  },
+  "66.208.212.138": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "28967",
+        "Cache-Control": "max-age=0",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 07:16:07 GMT",
+        "Etag": "\"1534160737:7127\"",
+        "Last-Modified": "Mon, 13 Aug 2018 11:45:37 GMT",
+        "X-Frame-Options": "SAMEORIGIN"
+      },
+      "content": "<!DOCTYPE html> <html> <head> <title></title> <meta charset=\"UTF-8\"> <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"> <script src=\"jsBase/lib/jquery.js?version=@WebVersion@\"></script> <script src=\"jsBase/widget/js/jquery.ui.core.js?version=@WebVersion@\"></script> <script src=\"jsBase/widget/js/jquery.ui.widget.js?version=@WebVersion@\"></script> <script>jQuery.noConflict();</script> <script src=\"jsBase/lib/jquery.pubsub.js?version=@WebVersion@\"></script> <script src=\"jsBase/common/extend.js?version=@WebVersion@\"></script> <script type=\"text/javascript\">// forced to add parametersï¼ensure the FF image loading do not fail\r\n    var cssList = ['css/reset.css', 'css/ui.css', 'css/custom.css', 'css/skin.css', 'css/pictures.css','css/main.css', 'css/alarm.css', 'css/set.css', 'css/resize.css', 'css/playback.css', 'jsBase/widget/css/ui.css', 'jsBase/widget/css/skin.css', 'css/fn.css', 'css/thermal.css', 'jsBase/widget/css/colorpicker.css'];\r\n\r\n    for (var i = 0; i < cssList.length; i++) {\r\n        var lt = \"?WebVersion=@WebVersion@\";\r\n\r\n        //To solve the problem of css loading in ie7 8\r\n        if (!(jQuery.browser.ie7 || jQuery.browser.ie8)) {\r\n            if (location.href.split('?')[1]) {\r\n                lt += \"&\" + location.href.split('?')[1];\r\n            }\r\n        }\r\n        var cssNode = document.createElement(\"link\");\r\n        cssNode.rel = 'stylesheet';\r\n        cssNode.type = \"text/css\";\r\n        cssNode.media = 'screen';\r\n        cssNode.href = cssList[i] + lt;\r\n        var head = document.getElementsByTagName(\"head\")[0] || document.documentElement;\r\n        head.appendChild(cssNode);\r\n    }\r\n    cssList = null;\r\n    lt = null;</script> </head> <body>  <div id=\"login\" class=\"login\"> <div class=\"login-container\"> <div class=\"login-content\"> <div id=\"login_logo\"></div> <div class=\"login-inputbox fn-clear\"> <form autocomplete=\"off\"> <div class=\"login-input-item\"> <label t=\"sys.UserName+:\" class=\"login-input-title\">  </label> <input type=\"text\" id=\"login_",
+      "url": "http://66.208.212.138:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://66.208.212.138:443",
+      "success": false
+    }
+  },
+  "47.188.195.55": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://47.188.195.55:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://47.188.195.55:443",
+      "success": false
+    }
+  },
+  "24.26.139.69": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "17862",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 09:18:20 GMT",
+        "Etag": "\"1468376274:45c6\"",
+        "Last-Modified": "Wed, 13 Jul 2016 02:17:54 GMT",
+        "P3p": "CP=CAO PSA OUR"
+      },
+      "content": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\"> <html> <head> <title>WEB SERVICE</title> <meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"> <meta http-equiv=\"X-UA-Compatible\" content=\"IE=6;IE=7; IE=8; IE=EmulateIE7\"> <script type=\"text/javascript\" src=\"jsBase/lib/jquery.js\"></script> <script type=\"text/javascript\" src=\"jsBase/widget/js/jquery.ui.core.js\"></script> <script type=\"text/javascript\" src=\"jsBase/widget/js/jquery.ui.widget.js\"></script> <script type=\"text/javascript\">var $j = jQuery.noConflict();</script> <script type=\"text/javascript\" src=\"jsBase/lib/base64.js\"></script> <script type=\"text/javascript\" src=\"jsBase/lib/md5.js\"></script> <script type=\"text/javascript\" src=\"jsBase/lib/m1.2.js\"></script> <script type=\"text/javascript\" src=\"jsBase/lib/more.js\"></script> <script type=\"text/javascript\" src=\"jsBase/common/extend.js\"></script> <script type=\"text/javascript\" src=\"jsCore/rpcCore.js\"></script> <script type=\"text/javascript\" src=\"jsBase/lib/sea.js\"></script> <script type=\"text/javascript\" src=\"jsBase/lib/seajs-text.js\"></script> <script type=\"text/javascript\" src=\"jsCore/common.js\"></script> <script type=\"text/javascript\" src=\"js/publicFunc.js\"></script> <script type=\"text/javascript\" src=\"js/system.js\"></script> <script type=\"text/javascript\" src=\"js/loginEx.js\"></script> <script type=\"text/javascript\" src=\"/pluginVersion.js\"></script> <script type=\"text/javascript\" src=\"js/eventScript.js\"></script> <script type=\"text/javascript\">var g_NaclWin = null;\r\n    var g_useApp = window.location.href.indexOf('fromWebChromeNACL') > 0;\r\n    try {\r\n        window.addEventListener('message', function (e) {\r\n            console.log('webview: ' + e.data)\r\n            // console.log(e.origin)\r\n            // console.log(e.source)\r\n            if (e.data == 'domready') {\r\n                g_NaclWin = e.source;\r\n                window.alert = webViewAlert;\r\n                var frames = window",
+      "url": "http://24.26.139.69:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://24.26.139.69:443",
+      "success": false
+    }
+  },
+  "111.47.118.10": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://111.47.118.10:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://111.47.118.10:443",
+      "success": false
+    }
+  },
+  "115.74.119.102": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://115.74.119.102:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://115.74.119.102:443",
+      "success": false
+    }
+  },
+  "79.56.99.129": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://79.56.99.129:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://79.56.99.129:443",
+      "success": false
+    }
+  },
+  "70.19.88.29": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://70.19.88.29:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://70.19.88.29:443",
+      "success": false
+    }
+  },
+  "61.219.150.113": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "16684",
+        "Content-Type": "text/html; charset=iso-8859-1",
+        "Date": "Sun, 05 Jun 2016 07:29:20 GMT",
+        "Last-Modified": "Tue, 11 Aug 2015 03:09:08 GMT",
+        "Server": "mini_httpd/1.19 19dec2003"
+      },
+      "content": "ï»¿\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\" >\r\n<head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\r\n<script type=\"text/javascript\"  src=\"common.js\" charset=\"utf-8\"></script>\r\n<script type=\"text/javascript\" src=\"ptzctrl.js\" charset=\"utf-8\"></script>\r\n<script type=\"text/javascript\"  src=\"css/doaction.js\" charset=\"utf-8\"></script>\r\n<script type=\"text/javascript\"  src=\"css/md5.js\" charset=\"utf-8\"></script>\r\n<title>IP Camera</title>\r\n<style type=\"text/css\"> \r\nbody\r\n{\r\n\tbackground-color: #151D27;\r\n\tfont-family: Verdana, Geneva, sans-serif;\r\n\tfont-size: 14px;\r\n\tcolor: #C8C8C8;\r\n\ttext-align: center;\r\n}\r\n.inputext\r\n{\t\r\n    border:1px solid #333333;\r\n    font-size:15px;\r\n    width:150px;\r\n    height:22px;\r\n    color:#000000;\r\n}\r\na\r\n{\r\n\tvertical-align:middle; \r\n}\r\na:visited\r\n{\r\n    margin: 0;\r\n    color: #FFFFFF;\r\n    text-decoration: none;\r\n    word-spacing: 0;\r\n    text-indent: 0; \r\n}\r\na:link\r\n{\r\n    margin: 0px;\r\n    color: #FFFFFF;\r\n    text-decoration: none;\r\n    word-spacing: 0;\r\n    text-indent: 0; \r\n}\r\na:hover\r\n{\r\n\tmargin: 0px;\r\n\tcolor: #FF0000;\r\n\tword-spacing: 0;\r\n\ttext-indent: 0; \r\n}\r\n.showitemfont\r\n{\r\n    font-size:14px;\r\n    color:#FFFFFF;\r\n}\r\n.selectitem\r\n{\r\n    font-size:12px;\r\n    border:1px solid #000000;\r\n}\r\n.divbutton\r\n{\r\n\tmargin:0 auto;\r\n\tvertical-align:middle;\r\n\tfloat:left;\r\n\tbackground-image:url(img2/button_login.png);\r\n   \tbackground-position: 0px 0px;\r\n\theight:29px;\r\n\tline-height:26px;\r\n\tcursor:pointer;\t\r\n\twidth:100px;\r\n\tcolor:#000000;\r\n\tmargin-right:30px;\r\n\ttext-align:center;\t\r\n}\r\n.tiplabelcolor\r\n{\r\n    color:#FFFFFF;\r\n\tfont-size:15px;\r\n    text-align:right; \r\n}\r\nli {\r\n\tposition: relative;\r\n\tdisplay: block;\r\n\tfloat: left;\r\n    width: 19;\r\n}\r\n</style>\r\n</head>\r\n<BODY  topmargin=\"0\" leftmargin=\"0\" rightmargin=\"0\" bottommargin=\"0\" marginwidth=\"0\" marginheight=\"0\"   style=\"text-align:center;margin-top:0px;padding:0px;\" onLoad=\"InitLoginPage();\">\r\n<table  width=\"99.6%\" height=\"99.6%\"   border=\"0\" cellspacing=\"0\" cellpadding=\"0\">",
+      "url": "http://61.219.150.113:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://61.219.150.113:443",
+      "success": false
+    }
+  },
+  "42.114.165.254": {
+    "port_80": {
+      "status_code": 200,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "2877",
+        "Content-Type": "text/html",
+        "Date": "Sat, 12 Jul 2025 21:20:46 GMT",
+        "Etag": "\"1543294803:b3d\"",
+        "Last-Modified": "Tue, 27 Nov 2018 05:00:03 GMT",
+        "P3p": "CP=CAO PSA OUR",
+        "X-Frame-Options": "SAMEORIGIN"
+      },
+      "content": "<!DOCTYPE HTML> <html> <head> <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"> <meta charset=\"UTF-8\"> <title>WEB SERVICE</title> <link href=\"./baseProj/images/favicon.ico\" type=\"image/x-icon\" rel=\"shortcut icon\"> <script src=\"ext/ext-all.js\"></script> <script type=\"text/javascript\" src=\"./projectPath.js\"></script> <script type=\"text/javascript\" src=\"/app/libs/require.js\"></script> <script type=\"text/javascript\" src=\"/app/jsCore/require-config.js\"></script> <script type=\"text/javascript\">Ext.onReady(function () {\n            //å¯ç¨ç¼å­\n            Ext.Loader.setConfig({\n                \"disableCaching\": true,\n                \"paths\":{\n                    \"basePath\": BASEURL, //éç½®åºç¡é¡¹ç®çæä»¶è·¯å¾\n                    \"projectPath\": PROJECT_URL //éç½®å®å¶é¡¹ç®çæä»¶è·¯å¾\n                }\n            });\n\n            //å®ä¹é¡¹ç®çå è½½è·¯å¾\n            var basePath = Ext.Loader.getPath('basePath'),\n                projectPath = Ext.Loader.getPath('projectPath');\n\n            //è®¾ç½®ç±»çå°åè·¯å¾\n            Ext.Loader.setPath({\n                \"jsCore\": \"app/jsCore\",\n                'component': \"baseProj/js/component\",\n                'js': 'baseProj/js',\n                'plugin': 'app/plugin',\n                'widget': 'baseProj/js/widget',\n                'baseCls':'app/baseCls',\n\t\t\t\t'app': 'baseCls', //åä¸ªé¡¹ç®ç»ä¸ä¸ä¸ªapp\n                'customJs': projectPath+'js', // éåºçº¿é¡¹ç®å¼ç¨çjsè·¯å¾\n                'desktop':PROJ_MODULE.indexOf('desktop') != -1? projectPath+'js/desktop':basePath+'/js/desktop', //å è½½æå®é¡¹ç®çDesktop.js\n                'data': PROJ_MODULE.indexOf('data') != -1 ? projectPath + 'data': basePath + '/data'  //å è½½æå®é¡¹ç®çæ°æ®æä»¶\n            });\n            //æ¡é¢åå®¹ä¸å¯éæ©\n            Ext.getBody().unselectable();\n\n            require(['pubsub','core','extend','libs/qrcode','libs/jsonpath','libs/json2',\n                'libs/base64','libs/md5','libs/a",
+      "url": "http://42.114.165.254:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://42.114.165.254:443",
+      "success": false
+    }
+  },
+  "78.21.129.216": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://78.21.129.216:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://78.21.129.216:443",
+      "success": false
+    }
+  },
+  "98.35.205.84": {
+    "port_80": {
+      "status_code": 502,
+      "headers": {
+        "Connection": "close",
+        "Content-Length": "0"
+      },
+      "content": "",
+      "url": "http://98.35.205.84:80",
+      "redirect_history": [],
+      "success": true
+    },
+    "port_443": {
+      "error": "连接失败 (ProxyError)",
+      "url": "https://98.35.205.84:443",
+      "success": false
+    }
+  }
+}
