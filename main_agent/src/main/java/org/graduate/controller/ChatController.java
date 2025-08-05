@@ -16,12 +16,6 @@ public class ChatController {
     @Autowired
     private ChatService chatService;
     
-    @PostConstruct
-    public void init() {
-        // 初始化聊天服务，注册工具
-        chatService.init();
-    }
-    
     @PostMapping
     public ChatResponse chat(@RequestBody ChatRequest request) {
         String response = chatService.processMessage(request.getMessage());

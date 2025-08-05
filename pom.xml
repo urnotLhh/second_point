@@ -14,7 +14,7 @@
         <module>baidu_logo</module>
         <module>baidu_ocr</module>
         <module>baidu_rag</module>
-        <module>baidu_RAG_Agent</module>
+<!--        <module>baidu_rag_agent</module>-->
         <module>local_picture</module>
         <module>local_text</module>
         <module>main_agent</module>
@@ -74,7 +74,7 @@
             <dependency>
                 <groupId>org.springframework.ai</groupId>
                 <artifactId>spring-ai-bom</artifactId>
-                <version>0.8.1</version> <!-- 使用稳定版本 -->
+                <version>1.0.0</version> <!-- 更新到最新稳定版本 -->
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>

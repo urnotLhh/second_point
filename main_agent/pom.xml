@@ -20,13 +20,19 @@
 
         <dependency>
             <groupId>org.graduate</groupId>
-            <artifactId>baidu_RAG_Agent</artifactId>
+            <artifactId>common</artifactId>
             <version>1.0-SNAPSHOT</version>
-            <scope>compile</scope>
-            <optional>false</optional>
-            <!-- 确保包含所有传递依赖 -->
-            <type>jar</type>
         </dependency>
+
+<!--        <dependency>-->
+<!--            <groupId>org.graduate</groupId>-->
+<!--            <artifactId>baidu_rag_agent</artifactId>-->
+<!--            <version>1.0-SNAPSHOT</version>-->
+<!--            <scope>compile</scope>-->
+<!--            <optional>false</optional>-->
+<!--            &lt;!&ndash; 确保包含所有传递依赖 &ndash;&gt;-->
+<!--            <type>jar</type>-->
+<!--        </dependency>-->
     </dependencies>
 
     <properties>

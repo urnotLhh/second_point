@@ -1,12 +1,11 @@
 package org.graduate.server;
 
-import org.springframework.ai.chat.ChatClient;
-import org.springframework.ai.chat.ChatResponse;
+import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.ai.chat.messages.Message;
 import org.springframework.ai.chat.messages.UserMessage;
+import org.springframework.ai.chat.model.ChatModel;
 import org.springframework.ai.chat.prompt.Prompt;
 import org.springframework.ai.chat.prompt.SystemPromptTemplate;
-import org.springframework.ai.tool.ToolService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -15,22 +14,12 @@ import java.util.List;
 @Service
 public class ChatService {
 
-    @Autowired
-    private ChatClient chatClient;
+    ChatModel chatModel;
+
+    private ChatClient chatClient = ChatClient.builder(chatModel).build();
     
     @Autowired
     private AgentManager agentManager;
-    
-    @Autowired
-    private ToolService toolService;
-    
-    /**
-     * 初始化聊天服务，注册工具
-     */
-    public void init() {
-        // 注册AgentManager中的工具方法
-        toolService.registerTool(agentManager);
-    }
     
     /**
      * 处理用户消息，支持工具调用
@@ -60,9 +49,6 @@ public class ChatService {
         Prompt prompt = new Prompt(List.of(systemMessage, userMsg));
         
         // 发送到AI并获取响应
-        ChatResponse response = chatClient.call(prompt);
-        
-        // 返回AI的回复文本
-        return response.getResult().getOutput().getContent();
+        return chatClient.prompt(prompt).tools(agentManager).call().content();
     }
 } 
